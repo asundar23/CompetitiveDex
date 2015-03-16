@@ -1,0 +1,147 @@
+{
+	"name": "Draco Meteor",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "5",
+	"power": "130",
+	"accuracy": "90",
+	"summary": "Deals damage, and drops the user's Special Attack by two stages after the target is hit.",
+	"viability": "Widely considered the best Dragon-type move in the game, Draco Meteor should absolutely be run on Dragon-types with a good Special Attack, like Latios. Though the special Attack is dropped by a lot, it's nothing that a simple switch-out can't fix.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Giratina-Origin"
+		},
+		{
+			"pokemonName": "Arceus-Dragon"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "White Kyurem"
+		},
+		{
+			"pokemonName": "Black Kyurem"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name":"Shadow Tag",
+	"summary": "Prevents all foes from fleeing or switching out as long as the user is in battle. The exceptions to this are Ghost types and Pokémon with Shadow Tag themselves. Baton Pass, U-Turn, Volt Switch, and Parting Shot also allow the Pokémon to switch out.",
+	"viability": "Shadow Tag is one of the more broken abilities. This is because revenge killing is so easy with Mega Gengar and Gothitelle. With the former, especially, they can execute an exclusive strategy called \"Perish Trap,\" which involves Perish Song with Shadow Tag. You're guaranteed to let the other Pokémon faint.
+	
+	Wobbuffet is an entirely different story, as its entire usefulness comes from Shadow Tag. Wobbuffet can Encore an opponent into a move, then switch out accordingly. It can also use moves like Counter and Mirror Coat to knock out the opponent easily, due to them being trapped.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Gengar"
+		},
+		{
+			"pokemonName": "Wobbuffet"
+		},
+		{
+			"pokemonName": "Wynaut"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		}
+	]
+}

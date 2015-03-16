@@ -1,0 +1,582 @@
+{ 
+	 "name": "Mega Manectric",
+	"types": [
+		" Electric "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Electrike" },
+   		{ "pokemonName":"Manectric" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Manectric" },
+   		{ "pokemonName":"Mega Manectric" }
+   	],
+   "evolutionType":[
+   		"Level 26",
+   		"Manectite"
+   ],
+	"stats": [
+		70,
+		75,
+		80,
+		135,
+		80,
+		135
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Electric Terrain",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 9,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 25,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 42,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 54,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 61,
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 66,
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"level": 70,
+			"move": "Electric Terrain",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Simisage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Simipour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokodile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Ghost",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Discharge",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Raichu"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Eerie Impulse",
+			"pokemon": [
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Electro Ball",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Raichu"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Flame Burst",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Ninetales"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Headbutt",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Ice Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Stoutland"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Shock Wave",
+			"pokemon": [
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Swift",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Stoutland"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Uproar",
+			"pokemon": [
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Iron Tail",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Manectite is on Route 16, near Roller Skaters Jet and Ollie. This can be done post game, once the Mega Ring has been upgraded."},
+		{"Location": "Trade"}
+	],
+	"abilities": [
+		"Intimidate"
+	],
+	"sets": [
+	]
+}

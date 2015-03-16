@@ -1,0 +1,46 @@
+{
+	"name": "Flame Burst",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "15",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals Damage. All Pokemon adjacent to the target in Double, Triple, and Horde Battles will lose 1/16 of their maximum HP in typeless damage. This means that Flash Fire, Protect, Wide Guard, Endure, Wonder Guard, Substitute, Destiny Bond, Telepathy, Mold Breaker, accuracy/evasion are all bypassed.",
+	"viability": "It's not really worth the investment. If you want to hit multiple targets, Heat Wave is a much more powerful alternative. If Flame Burst had more power, it would definitely be better.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Charmeleon" },
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Magmar" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Magcargo" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Camerupt" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Pansear" },
+		{ "pokemonName": "Simisear" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Chandelure" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Stunky" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

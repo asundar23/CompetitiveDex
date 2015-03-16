@@ -1,0 +1,51 @@
+{
+	"name": "Wide Guard",
+	"note": "",
+	"type":" Rock ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects all Pokemon on the user's side of the field from damaging moves that target multiple Pokemon during that turn.",
+	"viability": "Wide Guard is extremely useful in Doubles and Triples, where multiple-target moves are the norm. It's a good idea to have at least one Pokemon that can prevent them.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Machamp" },
+		{ "pokemonName": "Kingler" },
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Hitmontop" },
+		{ "pokemonName": "Mantyke" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Regigigas" },
+		{ "pokemonName": "Throh" },
+		{ "pokemonName": "Tirtouga" },
+		{ "pokemonName": "Carracosta" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Mienshao" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Aerodactyl" },
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Wingull" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Mantyke" },
+		{ "pokemonName": "Roggenrola" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Honedge" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

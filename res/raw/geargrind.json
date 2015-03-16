@@ -1,0 +1,24 @@
+{
+	"name": "Gear Grind",
+	"note": "",
+	"type":" Steel ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "50",
+	"accuracy": "85",
+	"summary": "Hits twice. Each strike has an independent critical hit ratio. Bide and Counter only acknowledge the second strike. Weak Armor and Rocky Helmet account for both strikes",
+	"viability": "The Klinklang line has a gem of a signature move. Not only is it powerful, capping off at 100 BP, but it also has the abilitiy to break subs and deal additional damage. The accuracy isn't great, but the power is well worth it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

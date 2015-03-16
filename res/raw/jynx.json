@@ -1,0 +1,517 @@
+{ 
+	 "name": "Jynx",
+	"types": [
+		" Ice ",
+		" Psychic "
+	],
+	"eggGroup": [
+		" Human-Like "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Smoochum" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Jynx" }
+   ],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"stats": [
+		65,
+		50,
+		35,
+		115,
+		95,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Draining Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Perish Song",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Lovely Kiss",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 5,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 8,
+			"move": "Lovely Kiss",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 15,
+			"move": "Double Slap",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Ice Punch",
+			"type": " Ice "
+		},
+		{
+			"level": 21,
+			"move": "Heart Stamp",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Mean Look",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 33,
+			"move": "Wake-Up Slap",
+			"type": " Fighting "
+		},
+		{
+			"level": 39,
+			"move": "Avalanche",
+			"type": " Ice "
+		},
+		{
+			"level": 44,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Perish Song",
+			"type": " Normal "
+		},
+		{
+			"level": 60,
+			"move": "Blizzard",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM79",
+			"move": "Frost Breath",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Abra" },
+{"pokemonName": "Kadabra" },
+{"pokemonName": "Alakazam" },
+{"pokemonName": "Machop" },
+{"pokemonName": "Machoke" },
+{"pokemonName": "Machamp" },
+{"pokemonName": "Drowzee" },
+{"pokemonName": "Hypno" },
+{"pokemonName": "Hitmonlee" },
+{"pokemonName": "Hitmonchan" },
+{"pokemonName": "Mr." },
+{"pokemonName": "Electabuzz" },
+{"pokemonName": "Magmar" },
+{"pokemonName": "Hitmontop" },
+{"pokemonName": "Makuhita" },
+{"pokemonName": "Hariyama" },
+{"pokemonName": "Sableye" },
+{"pokemonName": "Meditite" },
+{"pokemonName": "Medicham" },
+{"pokemonName": "Volbeat" },
+{"pokemonName": "Spinda" },
+{"pokemonName": "Cacnea" },
+{"pokemonName": "Cacturne" },
+{"pokemonName": "Chimchar" },
+{"pokemonName": "Monferno" },
+{"pokemonName": "Infernape" },
+{"pokemonName": "Buneary" },
+{"pokemonName": "Lopunny" },
+{"pokemonName": "Lucario" },
+{"pokemonName": "Croagunk" },
+{"pokemonName": "Toxicroak" },
+{"pokemonName": "Electivire" },
+{"pokemonName": "Magmortar" },
+{"pokemonName": "Gothita" },
+{"pokemonName": "Gothorita" },
+{"pokemonName": "Gothitelle" }
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Out",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Ice Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Meditate",
+			"pokemon": [
+				{"pokemonName": "Drowsee"},
+				{"pokemonName": "Hypno"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Miracle Eye",
+			"pokemon": [
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"},
+				{"pokemonName": "Elgyem"},
+				{"pokemonName": "Beheeyem"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Nasty Plot",
+			"pokemon": [
+				{"pokemonName": "Drowzee"},
+				{"pokemonName": "Hypno"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Wake-Up Slap",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Jynx"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Spinda"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Drain Punch",
+		"Heal Bell",
+		"Helping Hand",
+		"Hyper Voice",
+		"Ice Punch",
+		"Icy Wind",
+		"Magic Coat",
+		"Magic Room",
+		"Recycle",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Trick",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Evovle Smoochum"},
+		{ "Location": "Evovle Smoochum"},
+		{ "Location": "Snowpoint Temple"},
+		{ "Location": "Seafoam Islands and Ice Path"},
+		{ "Location": "Seafoam Islands and Ice Path"},
+		{ "Location": "Field"},
+		{ "Location": "Giant Chasm"},
+		{ "Location": "Giant Chasm"},
+		{ "Location": "Evovle Smoochum"},
+		{ "Location": "Evovle Smoochum"},
+		{ "Location": "Frost Cavern"},
+		{ "Location": "Frost Cavern"}
+
+	],
+	"abilities": [
+		"Oblivious",
+		"Forewarn",
+		"Dry Skin"
+	],
+	"sets": [
+	]
+}

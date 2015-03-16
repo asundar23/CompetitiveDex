@@ -1,0 +1,501 @@
+{ 
+	 "name": "Bisharp",
+	"types": [
+		" Dark ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Human-Like "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Pawniard" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Bisharp" }
+   	],
+   "evolutionType":[
+   		"Level 52"
+   ],
+	"stats": [
+		65,
+		125,
+		100,
+		60,
+		70,
+		70
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Guillotine",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Metal Burst",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"level": 6,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 14,
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"level": 17,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 30,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 38,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 41,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 46,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 49,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 57,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 63,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 71,
+			"move": "Guillotine",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Headbutt",
+			"pokemon": [
+				{"pokemonName": "Drowzee"},
+				{"pokemonName": "Hypno"},
+				{"pokemonName": "Elgyem"},
+				{"pokemonName": "Beheeyem"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mean Look",
+			"pokemon": [
+				{"pokemonName": "Sableye"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Psycho Cut",
+			"pokemon": [
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Mienfoo"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Revenge",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"},
+				{"pokemonName": "Throh"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Pawniard"},
+				{"pokemonName": "Bisharp"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Sucker Punch",
+			"pokemon": [
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"}
+			],
+			"type": " Dark "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Dual Chop",
+		"Foul Play",
+		"Iron Defense",
+		"Iron Head",
+		"Knock Off",
+		"Low Kick",
+		"Magnet Rise",
+		"Role Play",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Spite",
+		"Stealth Rock"
+
+	],
+	"locations": [
+		{ "Location": "Route 11"},
+		{ "Location": "Route 11"},
+		{ "Location": "Evolve Pawniard"},
+		{ "Location": "Evolve Pawniard"},
+		{ "Location": "Evolve Pawniard, Trade Jigglypuff in Snowbelle City"},
+		{ "Location": "Evolve Pawniard, Trade Jigglypuff in Snowbelle City"}
+
+	],
+	"abilities": [
+		"Defiant",
+		"Inner Focus",
+		"Pressure"
+	],
+	"sets": [
+	]
+}

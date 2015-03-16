@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+	<color name="dark_purple">#470047</color>
+    <color name="fairy">#D4AFCA</color>
+    <color name="grass">#5CD65C</color>
+    <color name="bug">#A3D119</color>
+    <color name="dark">#525252</color>
+    <color name="steel">#CCCCCC</color>
+    <color name="rock">#B1974D</color>
+    <color name="ground">#E0C266</color>
+    <color name="fire">#FFAD5C</color>
+    <color name="fighting">#990000</color>
+    <color name="flying">#ADADFF</color>
+    <color name="poison">#9900CC</color>
+    <color name="water">#6699FF</color>
+    <color name="electric">#CFCF00</color>
+    <color name="dragon">#6600FF</color>
+    <color name="ice">#B8E6E6</color>
+    <color name="psychic">#FF3399</color>
+    <color name="ghost">#666699</color>
+    <color name="normal">#CFCFA6</color>
+    
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    
+    <array name = "typeArray">
+        <item>@color/bug</item>
+        <item>@color/dark</item>
+        <item>@color/dragon</item>
+        <item>@color/electric</item>
+        <item>@color/fairy</item>
+        <item>@color/fighting</item>
+        <item>@color/fire</item>
+        <item>@color/flying</item>
+        <item>@color/ghost</item>
+        <item>@color/grass</item>
+        <item>@color/ground</item>
+        <item>@color/ice</item>
+        <item>@color/normal</item>
+        <item>@color/poison</item>
+        <item>@color/psychic</item>
+        <item>@color/rock</item>
+        <item>@color/steel</item>
+        <item>@color/water</item>
+    </array>
+    
+    <color name="alphasapphire_pressed">@android:color/holo_blue_dark</color>
+    <color name="alphasapphire_normal">@android:color/holo_blue_light</color>
+    
+    <!-- A dark Holo shade of blue -->
+	<color name="holo_blue_dark">#000099</color>
+	<!-- A light Holo shade of blue -->
+	<color name="holo_blue_light">#6666C2</color>
+    
+</resources>

@@ -1,0 +1,10 @@
+{
+	"name":"Wonder Guard",
+	"summary": "Makes the user immune to direct damage moves that aren't super effective. Does not work against status ailments.",
+	"viability": "Wonder Guard is what gives Shedinja a little sustainability. The problem that entry hazards are so common, and Wonder Guard doesn't prevent them. The way to utilize Wonder Guard is by equipping Shedinja with Focus Sash, so that it can't faint in one turn (provided entry hazards and statuses aren't there). The best strategy is to Skill Swap it on another Pokémon so that they can proceed to set up.",
+	"pokemon":[
+		{
+			"pokemonName": "Shedinja"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Spore",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Causes the taget to fall asleep.",
+	"viability": "Best sleep-inducing move out there. Easily an option.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Parasect" },
+		{ "pokemonName": "Shroomish" },
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Amoonguss" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

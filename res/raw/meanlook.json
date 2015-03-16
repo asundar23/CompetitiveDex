@@ -1,0 +1,51 @@
+{
+	"name": "Mean Look",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents Pokemon from switching out. The target can switch out with Baton Pass, U-Turn, and Volt Switch. Does not affect Ghost-type Pokemon.",
+	"viability": "There are better trapping moves that do damage, such as Infestation, Fire Spin, or Magma Storm.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Zubat" },
+		{ "pokemonName": "Golbat" },
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Crobat" },
+		{ "pokemonName": "Umbreon" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Duskull" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Patrat" },
+		{ "pokemonName": "Watchog" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Male Meowstic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Sandile" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Pawniard" },
+		{ "pokemonName": "Vullaby" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

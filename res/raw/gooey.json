@@ -1,0 +1,16 @@
+{
+	"name":"Gooey",
+	"summary": "Reduces the Speed of the opponent if they make contact with the user.",
+	"viability": "The Goodra line has all good abilities, with Gooey possibly being the best. Contact moves are usually used against Goodra, since its Special Defense stat is very good and Defense middling. The lowered Speed of the opponent allows for Goodra to be a more effective wallbreaker.",
+	"pokemon":[
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	]
+}

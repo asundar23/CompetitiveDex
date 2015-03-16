@@ -1,0 +1,39 @@
+{
+	"name": "Silver Wind",
+	"note": "",
+	"type":" Bug ",
+	"category": "Special",
+	"pp": "5",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance to raise all stats (except evasion and accuracy) by one stage each.",
+	"viability": "Like Ancient Power, the problem with Silver Wind comes with the low base power. Even with the amazing secondary effect, its chance at 10% is simply too low to make a difference.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Butterfree" },
+		{ "pokemonName": "Venomoth" },
+		{ "pokemonName": "Ledyba" },
+		{ "pokemonName": "Ledian" },
+		{ "pokemonName": "Beautifly" },
+		{ "pokemonName": "Dustox" },
+		{ "pokemonName": "Masquerain" },
+		{ "pokemonName": "Mothim" },
+		{ "pokemonName": "Finneon" },
+		{ "pokemonName": "Lumineon" },
+		{ "pokemonName": "Volcarona" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Ledyba" },
+		{ "pokemonName": "Yanma" },
+		{ "pokemonName": "Nincada" },
+		{ "pokemonName": "Volbeat" },
+		{ "pokemonName": "Illumise" },
+		{ "pokemonName": "Sewaddle" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

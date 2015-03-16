@@ -1,0 +1,22 @@
+{
+	"name": "Heal Order",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Recovers half of the user's maximum HP.",
+	"viability": "Vespiquen can do decently as a Defensive stalwart with this move and Defend Order. While it has an awful defensive typing, it can still be a viable Toxic staller.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Vespiquen" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"name": "Crush Claw",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "75",
+	"accuracy": "95",
+	"summary": "Inflicts damage, and has a 50% chance of lowering the target's Defense stat by one stage.",
+	"viability": "Crush Claw is a very interesting move. On one hand, it's not a very powerful move. On the other, the 50% chance to lower the Defense makes it very useful, especially towards defensive walls that would otherwise wall the user. Braviary can use this move in conjunction with Sheer Force and Life Orb, making Crush Claw a very viable option. At the end of the day, though, Return is a far more power (and consistent) move. Crush Claw may have a good chance to lower the opponent's Defense, but 50% is too big a gamble.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Sandslash"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Sandshrew"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Druddigon"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

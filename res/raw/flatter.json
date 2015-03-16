@@ -1,0 +1,41 @@
+{
+	"name": "Flatter",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Raises the target's Special Attack by one stage and then confuses it. Will raise the Special Attack even with Safeguard intact.",
+	"viability": "Flatter isn't good due to the mechanics of confusion. Confusion rates are based on the target's Attack stat, making Swagger simply the better move. In addition, if the target has good Special Attack and low Attack, you're giving them an unnecessary boost. Stick to Swagger or Confuse Ray.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Nidorino" },
+		{ "pokemonName": "Nidoran♀" },
+		{ "pokemonName": "Nidorina" },
+		{ "pokemonName": "Illmise" },
+		{ "pokemonName": "Croagunk" },
+		{ "pokemonName": "Toxicroak" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Gothorita" },
+		{ "pokemonName": "Gothitelle" },
+		{ "pokemonName": "Vullaby" },
+		{ "pokemonName": "Mandibuzz" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Totodile" },
+		{ "pokemonName": "Mareep" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Inkay" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

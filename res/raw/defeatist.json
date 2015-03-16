@@ -1,0 +1,13 @@
+{
+	"name":"Defeatist",
+	"summary": "Halves the user's Attack and Special Attack when its HP is at or less than half of its maximum HP.",
+	"viability": "This is one of the worst abilties in the game, and is the main reason Archeops is not a complete powerhouse. Archeops is frail as it is, so one neutral move will likely cripple it completely. Unfortunately, its Archeops' and Archen's only ability, so they have no choice but to run it.",
+	"pokemon":[
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		}
+	]
+}

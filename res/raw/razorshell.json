@@ -1,0 +1,29 @@
+{
+	"name": "Razor Shell",
+	"note": "",
+	"type":" Water ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "75",
+	"accuracy": "95",
+	"summary": "Deals damage, and has a 50% chance to decrease the target's Defense stat by one stage.",
+	"viability": "Razor Shell is decent for Pokemon that don't have access to Waterfall, like Samurott and Cloyster. The added chance to decrease Defense is pretty high too, so it's a decent move to run despite the lower base power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Corphish" },
+		{ "pokemonName": "Crawdaunt" },
+		{ "pokemonName": "Oshawott" },
+		{ "pokemonName": "Dewott" },
+		{ "pokemonName": "Samurott" },
+		{ "pokemonName": "Binacle" },
+		{ "pokemonName": "Barbaracle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

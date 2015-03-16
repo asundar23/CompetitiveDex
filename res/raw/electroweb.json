@@ -1,0 +1,144 @@
+{
+	"name": "Electroweb",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "15",
+	"power": "55",
+	"accuracy": "95",
+	"summary": "Inflicts damage and lowers the target's Speed by one stage. Hits all opponents in Double Battle, and all adjacent opponents in Triple Battles.",
+	"viability": "While not particularly good in singles, it is incredible in Doubles and Triples. It allows slower Pokemon to really utilize their power and possibly set up.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Spinarak"
+		}
+	],
+	"pokemonByTM": [
+		{
+			"pokemonName": "Caterpie"
+		},
+		{
+			"pokemonName": "Metapod"
+		},
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Weedle"
+		},
+		{
+			"pokemonName": "Kakuna"
+		},
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Magnemite"
+		},
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Electabuzz"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Wurmple"
+		},
+		{
+			"pokemonName": "Silcoon"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Cascoon"
+		},
+		{
+			"pokemonName": "Dustox"
+		},
+		{
+			"pokemonName": "Burmy-Plant"
+		},
+		{
+			"pokemonName": "Burmy-Sandy"
+		},
+		{
+			"pokemonName": "Burmy-Trash"
+		},
+		{
+			"pokemonName": "Wormadam-Plant"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Electivire"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Swadloon"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Genesect"
+		}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

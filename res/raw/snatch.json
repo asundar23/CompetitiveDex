@@ -1,0 +1,46 @@
+{
+	"name": "Snatch",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The effects of the first status move used by any other Pokemon on the same turn will be applied to the user of Snatch instead of the other Pokemon.",
+	"viability": "Snatch can be extremely clever when you predict an opponent to use a boosting move like Dragon Dance. While it's better to just boost yourself, Snatch can really mess up an opponent's rhythm and momentum.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Banette" },
+		{ "pokemonName": "Deoxys" },
+		{ "pokemonName": "Deoxys-Defense" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Weavile" },
+		{ "pokemonName": "Purrloin" },
+		{ "pokemonName": "Liepard" },
+		{ "pokemonName": "Solosis" },
+		{ "pokemonName": "Duosion" },
+		{ "pokemonName": "Reuniclus" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Meowth" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Kecleon" },
+		{ "pokemonName": "Glameow" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Darumaka" },
+		{ "pokemonName": "Zorua" },
+		{ "pokemonName": "Druddigon" },
+		{ "pokemonName": "Fletchling" },
+		{ "pokemonName": "Litleo" },
+		{ "pokemonName": "Noibat" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

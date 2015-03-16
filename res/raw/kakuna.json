@@ -1,0 +1,173 @@
+{ 
+	 "name": "Kakuna",
+	"types": [
+		" Bug ",
+		" Poison "
+	],
+	"hatchTime": "2805 - 3059 steps",
+	"height": "2'00\" (0.6 m)",
+	"weight": "22.0 lbs (10.0 kg)",
+	"evYield": [
+		"2 Defense"
+	],
+	"levelingRate": "Medium Fast",
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Weedle" },
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" },
+   		{ "pokemonName":"Mega Beedrill" }
+   ],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 10",
+   		"Beedrillite"
+   ],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		45,
+		25,
+		50,
+		25,
+		25,
+		35
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Harden",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+	],
+	"hmMoveList": [
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Harden",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+	],
+	"ORASHMMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Iron Defense"
+
+	],
+	"pokedexNumber": "14",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Poison)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Weedle",
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Poison)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Weedle",
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Safari Zone (DexNav Exclusive)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Weedle",
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Safari Zone (DexNav Exclusive)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Evolve Weedle",
+				"Trade"
+			]
+		}
+	],
+	"abilities": [
+		"Shed Skin"
+	],
+	"sets": [
+	]
+}

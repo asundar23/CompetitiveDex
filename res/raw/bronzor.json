@@ -1,0 +1,340 @@
+{ 
+	 "name": "Bronzor",
+	"types": [
+		" Steel ",
+		" Psychic "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Bronzor" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Bronzong" }
+   	],
+   "evolutionType":[
+   		"Level 33"
+   ],
+	"stats": [
+		57,
+		24,
+		86,
+		24,
+		86,
+		23
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 5,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 9,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 11,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 15,
+			"move": "Psywave",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 21,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 31,
+			"move": "metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 35,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 39,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 45,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Heavy Slam",
+			"type": " Steel "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Gravity",
+		"Iron Defense",
+		"Recycle",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Trick",
+		"Wonder Room"
+
+	],
+	"locations": [
+		{"Location": "Route 206, Wayward Cave, Turnback Cave, Mt. Coronet"},
+		{"Location": "Route 206, Wayward Cave, Turnback Cave, Mt. Coronet"},
+		{"Location": "Route 206, Wayward Cave, Turnback Cave, Mt. Coronet"},
+		{"Location": " Safari Zone, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls (Sinnoh Sound)"},
+		{"Location": " Safari Zone, Slowpoke Well, Union Cave, Mt. Mortar, Dark Cave, Whirl Islands, Mt. Silver, Ice Path, Cliff Cave, Diglett's Cave, Mt. Moon, Cerulean Cave, Rock Tunnel, Seafoam Islands, Victory Road, Tohjo Falls (Sinnoh Sound)"},
+		{"Location": "Breed Bronzong"},
+		{"Location": "Breed Bronzong"},
+		{"Location": " Abundant Shrine, Abundant Shrine (Hidden Grotto)"},
+		{"Location": " Abundant Shrine, Abundant Shrine (Hidden Grotto)"},
+		{"Location": "Breed Bronzong"},
+		{"Location": "Breed Bronzong"}
+	],
+	"abilities": [
+		"Levitate",
+		"Heatproof",
+		"Heavy Metal"
+	],
+	"sets": [
+	]
+}

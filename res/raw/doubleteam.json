@@ -1,0 +1,123 @@
+{
+	"name": "Double Team",
+	"note": "All Pokémon that can learn TMs can learn Double Team except Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises evasion by one stage.",
+	"viability": "If you're playing by Smogon rules, this move is banned. If not, then if your opponent is fine with it, feel free to use Double Team. Just know that there are moves that have unlimited accuracy, so its not impossible to get around.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Glalie"
+		},
+		{
+			"pokemonName": "Deoxys-Speed"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Cresselia"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Arhceops"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Accelgor"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Frogadier"
+		},
+		{
+			"pokemonName": "Greninja"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

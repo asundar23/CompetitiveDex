@@ -1,0 +1,42 @@
+{
+	"name": "Electric Terrain",
+	"note": "",
+	"type":" Electric ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents any Pokemon on the ground from falling asleep, and increases Electric-type moves for them by 50%. Goes away after 5 turns.",
+	"viability": "This isn't a move that is good in singles, but does see use in Doubles and Triples. Especially for Electric Pokemon that can use Discharge, it is really beneficia. It also prevents sleep, which is very useful for Doubles and Triples.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Luxray"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Electivire"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Helioptile"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,522 @@
+{ 
+	 "name": "Arcanine",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Growlithe" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Arcanine" }
+   ],
+   "evolutionType":[
+   		"Fire Stone"
+   ],
+	"stats": [
+		90,
+		110,
+		80,
+		100,
+		80,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 34,
+			"move": "Extreme Speed",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Close BCmbat",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Covet",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Simisage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Simipour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Fire Spin",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Heatmor"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Flare Blitz",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Torkoal"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Howl",
+			"pokemon": [
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Morning Sun",
+			"pokemon": [
+				{"pokemonName": "Espeon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Dragon Pulse",
+		"Heat Wave",
+		"Helping Hand",
+		"Iron Head",
+		"Iron Tail",
+		"Outrage",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Evolve Growlithe"},
+		{"Location": "Evolve Growlithe"},
+		{"Location": "Evolve Growlithe"},
+		{"Location": "Evolve Growlithe"},
+		{"Location": "Trade"},
+		{"Location": "Field"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Growlithe"},
+		"WHite 2: Evolve Growlithe",
+		{"Location": "Evolve Growlithe"},
+		{"Location": "Evolve Growlithe"}
+	],
+	"abilities": [
+		"Intimidate",
+		"Flash Fire",
+		"Justified"
+	],
+	"sets": [
+	]
+}

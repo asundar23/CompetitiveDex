@@ -1,0 +1,51 @@
+{
+	"name": "Wish",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The first turn, nothing happens. On the second turn, whatever Pokemon is in the same spot as the user will receive half the user's maximum HP.",
+	"viability": "Wish-passing, or Clerics, are very valuable in the competitive scene. You can easily switch out or use it as a recovery move on the original user. The possibilities with Wish make it a lot easier to switch in and out.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Togetic" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Illumise" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Jirachi" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" },
+		{ "pokemonName": "Swirlix" },
+		{ "pokemonName": "Slurpuff" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Eevee" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Chingling" },
+		{ "pokemonName": "Pidove" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Fennekin" },
+		{ "pokemonName": "Spritzee" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

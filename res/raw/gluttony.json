@@ -1,0 +1,64 @@
+{
+	"name":"Gluttony",
+	"summary": "Causes Pokémon to eat Berries that are normally eaten at 25% to be eaten at 50%. Has no effect on Berries that aren't triggered by the HP, such as Leppa or Lum Berry.",
+	"viability": "Gluttony is great for Pokémon that rely heavily on Berries. Especially with something like Salac Berry, this widens the window of consumption by a lot. This means that instead of having to hope that the user lives with less than 25% HP left, they can have it activated at 50%.",
+	"pokemon":[
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Weepinbell"
+		},
+		{
+			"pokemonName": "Victreebel"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Simisage"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Simisear"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Simipour"
+		},
+		{
+			"pokemonName": "Heatmor"
+		}
+	]
+}

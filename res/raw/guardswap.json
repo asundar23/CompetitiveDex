@@ -1,0 +1,38 @@
+{
+	"name": "Guard Swap",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Switches any changes to user's Defense stat and Special Defense stat with any changes to the target's Defense or Special Defense stat. Stat stage changes provided can be Baton Passed.",
+	"viability": "Guard Swap isn't very good, mostly because it just takes so long to set up. Defensive stat changes aren't as common as offensive, so even if you wanted to the opportunities are few and far between.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Mewtwo" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Umbreon" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Shelmet" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Skarmory" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Tirtouga" },
+		{ "pokemonName": "Elgyem" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

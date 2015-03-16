@@ -1,0 +1,46 @@
+{
+	"name":"Clear Body",
+	"summary": "Prevents stat reduction caused by another Pokémon's move or ability. This doesn't prevent stat increasing moves such as Swagger, nor does it prevent self-inflicted drops from moves such as Superpower. Clear Body also does not prevent stat loss from a status, such as the Attack drop when burned.",
+	"viability": "Since the ability Intimidate is so common, having a Pokémon with Clear Body that's a physical threat is great. Metagross and Klinklang, especially, are really good for this reason. Moves like Memento or Baby-Doll eyes, which are designed to cut down attacking prowess, will be useless.",
+	"pokemon":[
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Beldum"
+		},
+		{
+			"pokemonName": "Metang"
+		},
+		{
+			"pokemonName": "Metagross"
+		},
+		{
+			"pokemonName": "Regirock"
+		},
+		{
+			"pokemonName": "Regice"
+		},
+		{
+			"pokemonName": "Registeel"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		},
+		{
+			"pokemonName": "Carbink"
+		},
+		{
+			"pokemonName": "Diancie"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"name":"Moxie",
+	"summary": "When the user uses an attacking move that causes the opponent to faint, their Attack stat will raise by one stage. This will not activate if the opponent faints due to passive damage, like burn or poison.",
+	"viability": "Moxie is an incredibly dangerous ability. It turns a sweeper into an unstoppable attacking machine. All Pokémon with Moxie, outside of Pyroar and Litleo, benefit from Moxie, due to all of their high Attack stats. Without a doubt, this is the ability to run.",
+	"pokemon":[
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Mightyena"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Honchkrow"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+	]
+}

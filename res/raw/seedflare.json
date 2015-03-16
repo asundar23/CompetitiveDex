@@ -1,0 +1,23 @@
+{
+	"name": "Seed Flare",
+	"note": "",
+	"type":" Grass ",
+	"category": "Special",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 40% chance to lower the target's Special Defense by two stages.",
+	"viability": "Seed Flare is a must run for Shaymin, especially the Sky Forme. With ability Serene Grace, Shaymin-Sky has an 80% chance to lower the target's Special Defense by two stages!",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shaymin" },
+		{ "pokemonName": "Shaymin-Sky" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

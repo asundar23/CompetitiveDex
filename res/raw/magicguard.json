@@ -1,0 +1,39 @@
+{
+	"name":"Magic Guard",
+	"summary": "Prevents all form of indirect damage, such as Spikes, Stealth Rock, status conditions, Curse, Leech Seed, and Weather.",
+	"viability": "Magic Guard is one of the best abilities out there, primarily due to the fact that residual damage is an effective way of dealing damage. In fact, the combination of Magic Guard and Life Orb is highly recommended due to the fact that you won't lose any HP. Alakazam is the most famous user of Magic Guard, and for good reason. Its Special Attack is quite high, and with Life Orb can deal much more damage without having to worry about the effects.
+	
+	Another popular strategy is equipping Focus Sash, as entry hazard and weather damage are nullified. You are almost always guaranteed to keep your sash.",
+	"pokemon":[
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Duosion"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		}
+	]
+}

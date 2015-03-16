@@ -1,0 +1,39 @@
+{
+	"name": "Blast Burn",
+	"note": "",
+	"type": " Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "150",
+	"accuracy": "90",
+	"summary": "Deals damage, which forces the user to recharge the next turn. This means the user can't do anything, not even switch out, unless this attack misses.",
+	"viability": "It doesn't matter how powerful Blast Burn is. There is no justification to having to rest that second turn, because in effect you'll be averaging a poor 75 power over the two turns. In effect, you can use Overheat, which drops your Special Attack by two stages and is 10 base power less, but will at least let you switch out. Fire Blast is 120 base power and only 85% accurate, but you can keep hitting the move. Long story short, don't even run Blast Burn.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Delphox"
+		}
+	]
+}

@@ -1,0 +1,234 @@
+{
+	"name": "Amnesia",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Special Defense by two stages.",
+	"viability": "Similar to Iron Defense and Acid Armor, but with Special Defense, Amnesia has a special niche to it. This can be used on a physically defensive wall to make them more mixed, although it's a little risky. The best strategy would be to implement this in a Baton Pass chain, as having a defense boost could prove to be the thing that helps your members' longevity.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Poliwhirl"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Quagsire"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Slaking"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Regice"
+		},
+		{
+			"pokemonName": "Registeel"
+		},
+		{
+			"pokemonName": "Deoxys-Defense"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Bibarel"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Uxie"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		},
+		{
+			"pokemonName": "Heatmor"
+		},
+		{
+			"pokemonName": "Larvesta"
+		}
+	],
+	"note":"",
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

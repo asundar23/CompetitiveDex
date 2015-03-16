@@ -1,0 +1,46 @@
+{
+	"name": "Thunder Shock",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of paralyzing the target.",
+	"viability": "Don't bother, Thunderbolt is the same move but over twice as powerful.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pikachu" },
+		{ "pokemonName": "Raichu" },
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Electabuzz" },
+		{ "pokemonName": "Jolteon" },
+		{ "pokemonName": "Zapdos" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Mareep" },
+		{ "pokemonName": "Flaaffy" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Raikou" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Electivire" },
+		{ "pokemonName": "Rotom" },
+		{ "pokemonName": "Emolga" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Stunfisk" },
+		{ "pokemonName": "Thundurus-Incarnate" },
+		{ "pokemonName": "Thundurus-Therian" },
+		{ "pokemonName": "Helioptile" },
+		{ "pokemonName": "Dedenne" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

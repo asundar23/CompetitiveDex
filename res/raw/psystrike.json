@@ -1,0 +1,22 @@
+{
+	"name": "Psystrike",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "100",
+	"summary": "Deals damage. Though it is classified as a Special move, it targets the opponent's Defense.",
+	"viability": "As a more powerful Psystrike, this is a no brainer to run on Mewtwo. It's more powerful than Psyshock and Psychic, and deals physical damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mewtwo" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

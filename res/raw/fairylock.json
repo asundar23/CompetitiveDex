@@ -1,0 +1,24 @@
+{
+	"name": "Faiy Lock",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents all Pokemon from switching out or fleeing. It lasts only if that Pokemon remains in battle.",
+	"viability": "This could be fairly useful when trying to Toxic stall a wall, such as Cresselia. The problem is that Klefki has no reliable recovery, and it can't make an opponent stay in if it switches out.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Klefki"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"name":"Huge Power",
+	"summary": "Doubles the user's Attack stat.",
+	"viability": "This ability is the sole reason that Azumarill, Mega Mawile, and Diggersby are such threats. Azumarill and Diggersby, after Huge Power, have an Attack stat topping off at well over 430 (at level 100), while Mega Mawile has the highest Attack stat in the game at 678. That alone makes this ability one of the best in the entire game.",
+	"pokemon":[
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Mega Mawile"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		}
+	]
+}

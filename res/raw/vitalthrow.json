@@ -1,0 +1,31 @@
+{
+	"name": "Vital Throw",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "70",
+	"accuracy": "--",
+	"summary": "Deals damage, and is unaffected by accuracy and evasion modifications. Has a priority of -1.",
+	"viability": "Not a very good move. With decreased priority, its only niche is never missing, but there are better 100% accuracy moves.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Machoke" },
+		{ "pokemonName": "Machamp" },
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" },
+		{ "pokemonName": "Throh" },
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Pangoro" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Mienfoo" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

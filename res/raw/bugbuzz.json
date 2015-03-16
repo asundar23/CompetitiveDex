@@ -1,0 +1,108 @@
+{
+	"name": "Bug Buzz",
+	"note": "",
+	"type": " Bug ",
+	"category": "Special",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of lowering the target's Special Defense.",
+	"viability": "Bug Buzz was already a very good move, but now it can hit through Substitutes due to its nature as a sound-based move. This makes it even better than it was before, mostly because this prevents opposing Pokémon from setting up inside a Substitute. Volcarona and Genesect are probably the two best Pokémon that run this move, the former with Quiver Dance and the latter with the Download ability. In lower tiers, Vivillon is a very good user of this move with Quiver Dance and Hurricane for extra coverage. Bottom line: this is the best specially-based Bug-type move, and it is worth using.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Dustox"
+		},
+		{
+			"pokemonName": "Masquerain"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Kricketune"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Combee"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Accelgor"
+		},
+		{
+			"pokemonName": "Volcarona"
+		},
+		{
+			"pokemonName": "Genesect"
+		},
+		{
+			"pokemonName": "Vivillon"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Illumise"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Lunar Dance",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Causes the user to faint. The next Pokemon to come in will have their HP and PP resorted, as well as all status conditions removed.",
+	"viability": "Cresselia's support movepool is unbelievable, and this move is certain proof of that. It can save a teammate from the brink of fainting, having a status, anything really. It can set up late game sweepers very nicely.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cresselia" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name":"Static",
+	"summary": "If the opponent hita the user with a contact move, there is a 30% chance the opponent will be paralyzed.
+	
+	Outside battle, if the user is in the front of the party, the chances of finding an Electric-type Pokémon in the area increases by 50%.",
+	"viability": "This works the same as Flame Body, but with paralysis instead of burning. The result is the same; Static is a very good ability, especially for slower Pokémon like Ampharos.",
+	"pokemon":[
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Raichu"
+		},
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Electabuzz"
+		},
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		}
+	]
+}

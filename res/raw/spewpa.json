@@ -1,0 +1,144 @@
+{
+   "name":"Spewpa",
+   "types":[
+      " Bug "
+   ],
+   "eggGroup":[
+      " Bug "
+   ],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Scatterbug" },
+   		{ "pokemonName":"Spewpa" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Spewpa" },
+   		{ "pokemonName":"Vivillon" }
+   	],
+   "evolutionType":[
+   		"Level 9",
+   		"Level 12"
+   ],
+   "stats":[
+      45,
+      22,
+      60,
+      27,
+      30,
+      29
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Harden",
+         "type":" Normal "
+      },
+      {
+         "level":9,
+         "move":"Protect",
+         "type":" Normal "
+      }
+   ],
+   "tmMoveList":[
+      
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+
+   ],
+   "breedMoveList":[
+      {
+         "move":"Poison Powder",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Mothim"
+            },
+            {
+               "pokemonName":"Vivillon"
+            }
+         ],
+         "type":" Poison "
+      },
+      {
+         "move":"Rage Powder",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Volcarona"
+            }
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Stun Spore",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Mothim"
+            },
+            {
+               "pokemonName":"Masquerain"
+            },
+            {
+               "pokemonName":"Vivillon"
+            }
+         ],
+         "type":" Grass "
+      }
+   ],
+   "tutorMoveList":[
+
+   ],
+   "locations":[
+      {"Location": "Berry trees in the Berry fields on Route 7"},
+      {"Location": "Berry trees in the Berry fields on Route 7"}
+   ],
+   "abilities":[
+      "Shed Skin",
+      "Friend Guard"
+   ],
+   "sets":[
+
+   ]
+}

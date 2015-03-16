@@ -1,0 +1,52 @@
+{
+	"name":"Natural Cure",
+	"summary": "If the user is under a status condition, upon switching out they will be cured of that status.",
+	"viability": "Natural Cure is great for more defensive Pokémon, like Blissey or Roselia. It also can be useful for Pokémon that have good offense, such as Trevenant or Altaria. Preventing a poison on the former and burn on the latter can not only increase longevity, but also increase their usefulness in battle.",
+	"pokemon":[
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Starmie"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Celebi"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Budew"
+		},
+		{
+			"pokemonName": "Roserade"
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Shaymin"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		}
+	]
+}

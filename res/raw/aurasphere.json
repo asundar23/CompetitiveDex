@@ -1,0 +1,54 @@
+{
+   "name":"Aura Sphere",
+   "type":" Fighting ",
+   "category":"Special",
+   "pp":"20",
+   "power":"80",
+   "accuracy":"--",
+   "summary":"This move deals damage, and is not affected by accuracy or evasion modifiers. Users with the ability Mega Launcher give this move an increased 50%. Pokémon with Bulletproof are immune to this move.",
+   "viability":"This is one of the most powerful special Fighting moves. The only more powerful move of this category is Focus Blast, which has unreliable accuracy. For Psychic types such as Mew and Mega Mewtwo Y, Aura Sphere provides great coverage against Dark and Steel types. Special variant Lucario (as well as Mega Lucario) see great use in this move, compounded with Nasty Plot. Mega Blastoise and Clawitzer bring the power of this move to 120 due to their Mega Launcher ability.",
+   "pokemonByLevel":[
+      {
+         "pokemonName":"Mewtwo"
+      },
+      {
+         "pokemonName":"Mew"
+      },
+      {
+         "pokemonName":"Lucario"
+      },
+      {
+         "pokemonName":"Togekiss"
+      },
+      {
+         "pokemonName":"Dialga"
+      },
+      {
+         "pokemonName":"Palkia"
+      },
+      {
+         "pokemonName":"Giratina"
+      },
+      {
+         "pokemonName":"Mienfoo"
+      },
+      {
+         "pokemonName":"Mienshao"
+      },
+      {
+         "pokemonName":"Clawitzer"
+      }
+   ],
+   "pokemonByBreeding":[
+      {
+         "pokemonName":"Squirtle"
+      }
+   ],
+   "pokemonByTM":[
+	],
+	"note":"",
+	"pokemonByHM":[
+	],
+   "pokemonByTutor":[
+   ]
+}

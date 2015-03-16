@@ -1,0 +1,154 @@
+{
+	"name": "False Swipe",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "40",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage. Will never knock out an opponent by leaving it with 1 HP left.",
+	"viability": "While not good competitively, using this move to capture shinies or legendaries is incredibly valuable.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Mawile"
+		}
+	],
+	"pokemonByTM": [
+	{"pokemonName": "Beedrill"},
+{"pokemonName": "Spearow"},
+{"pokemonName": "Fearow"},
+{"pokemonName": "Paras"},
+{"pokemonName": "Parasect"},
+{"pokemonName": "Farfetch'd"},
+{"pokemonName": "Krabby"},
+{"pokemonName": "Kingler"},
+{"pokemonName": "Cubone"},
+{"pokemonName": "Marowak"},
+{"pokemonName": "Scyther"},
+{"pokemonName": "Pinsir"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Gligar"},
+{"pokemonName": "Scizor"},
+{"pokemonName": "Heracross"},
+{"pokemonName": "Sneasel"},
+{"pokemonName": "Grovyle"},
+{"pokemonName": "Sceptile"},
+{"pokemonName": "Seedot"},
+{"pokemonName": "Nuzleaf"},
+{"pokemonName": "Shiftry"},
+{"pokemonName": "Shroomish"},
+{"pokemonName": "Breloom"},
+{"pokemonName": "Nincada"},
+{"pokemonName": "Ninjask"},
+{"pokemonName": "Shedinja"},
+{"pokemonName": "Mawile"},
+{"pokemonName": "Zangoose"},
+{"pokemonName": "Corphish"},
+{"pokemonName": "Crawdaunt"},
+{"pokemonName": "Anorith"},
+{"pokemonName": "Armaldo"},
+{"pokemonName": "Absol"},
+{"pokemonName": "Kricketune"},
+{"pokemonName": "Garchomp"},
+{"pokemonName": "Skorupi"},
+{"pokemonName": "Drapion"},
+{"pokemonName": "Weavile"},
+{"pokemonName": "Gliscor"},
+{"pokemonName": "Gallade"},
+{"pokemonName": "Oshawott"},
+{"pokemonName": "Dewott"},
+{"pokemonName": "Samurott"},
+{"pokemonName": "Leavanny"},
+{"pokemonName": "Karrablast"},
+{"pokemonName": "Escavalier"},
+{"pokemonName": "Axew"},
+{"pokemonName": "Fraxure"},
+{"pokemonName": "Haxorus"},
+{"pokemonName": "Pawniard"},
+{"pokemonName": "Bisharp"},
+{"pokemonName": "Cobalion"},
+{"pokemonName": "Terrakion"},
+{"pokemonName": "Virizion"},
+{"pokemonName": "Keldeo"},
+{"pokemonName": "Pancham"},
+{"pokemonName": "Pangoro"},
+{"pokemonName": "Honedge"},
+{"pokemonName": "Doublade"},
+{"pokemonName": "Aegislash"},
+{"pokemonName": "Binacle"},
+{"pokemonName": "Barbaracle"},
+{"pokemonName": "Hawlucha"}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

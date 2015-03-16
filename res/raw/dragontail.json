@@ -1,0 +1,222 @@
+{
+	"name": "Dragon Tail",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "90",
+	"summary": "Deals damage, and forces an opponent switch to a random Pokemon. Fails if the opponent has the ability Suction Cups, is under Ingrain, or is in a Substitute. If the user dies from using Dragon Tail (such as if the opponent has Rocky Helmet or by Life Orb damage), the opponent does not switch out.",
+	"viability": "This is a really good phasing move, as it cannot be under the effects of Taunt. The only thing to watch out for is the presence of Fairy-types, as they are immune to all Dragon-type attacks.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Meganium"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Aurorus"
+		},
+		{
+			"pokemonName": "Goodra"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

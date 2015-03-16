@@ -1,0 +1,34 @@
+{
+	"name":"Hyper Cutter",
+	"summary": "Prevents the Attack stat from being reduced, except for self-inflicted reductions and burn status.",
+	"viability": "This is mostly used to prevent Pokémon with Intimidate from dropping their Attack among entry. It's not a bad ability, but pretty situational. In addition, most Pokémon with Hyper Cutter have a better ability to use.",
+	"pokemon":[
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Kingler"
+		},
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Crawdaunt"
+		},
+		{
+			"pokemonName": "Gliscor"
+		}
+	]
+}

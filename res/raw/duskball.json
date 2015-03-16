@@ -1,0 +1,17 @@
+{
+	"itemName": "Dusk Ball",
+	"summary":"In caves or at night, the capture rate is 3.5x. Otherwise, it is 1x.",
+	"buy": "1000",
+	"sell": "500",
+	"viability":"Dusk Ball is amazing for catching legendaries that are in caves. It has a high and consistent catch rate, and can be used in any number of situations.",
+	"wildlocation":[
+		{"Location": "Frost Cavern - Dowsing Machine (Left of Ace Trainer)"},
+		{"Location": "Terminus Cave - Dowsing Machine (Next to ramp to bridge)"},
+		{"Location": "Victory Road - Next to Battle Girl"},
+	],
+	"shopLocation":[
+		{"Location": "Lumiose City - Poke Ball Botique"},
+		{"Location": "Cyllage City - Pokemon Center"},
+		{"Location": "Snowbelle City - Pokemon Center"}
+	]
+}

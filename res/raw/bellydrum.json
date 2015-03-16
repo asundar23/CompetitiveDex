@@ -1,0 +1,87 @@
+{
+	"name": "Belly Drum",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user loses half their HP, but their Attack stat is maximized (raised by six stages) as a result.",
+	"viability": "Belly Drum is the definition of high risk/high reward. You set it up, you potentially have a game-changing sweeper on your hands. You fail to predict or use it carelessly, and you're in a lot of trouble. The best way to fully utilize Belly Drum is with Sitrus Berry, which restores 1/4 of HP after getting down to below 1/2 the original HP. Either having good speed or a priority move is the way to go here; Salac Berry on Substitute/Belly Drum Darmanitan is a very good way to get this activated. The two most famous users, however, are Azumarill and Linoone. Azumarill has Huge Power, which puts its total Attack at over 1200, while Linoone is a bit over 900. The key is, Azumarill has Aqua Jet and Play Rough, which can hit very hard. Linoone has Extremespeed, which makes it a force to be reckoned with. There's a lot of problems with Belly Drum, but the payoff is usually worth it. One important note, though, is if you are running Sitrus Berry, make sure your Pokémon's HP stat is an even number, so that when you use the move the berry activates immediately.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Poliwhirl"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Darumaka"
+		},
+		{
+			"pokemonName": "Darmanitan"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Swirlix"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

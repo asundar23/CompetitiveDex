@@ -1,0 +1,31 @@
+{
+	"name": "Sky Uppercut",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "85",
+	"accuracy": "90",
+	"summary": "Deals damage and can hit Pokemon during semi-invulnerable turns of Fly, Bounce, and Sky Drop.",
+	"viability": "Sky Uppercut isn't very much used, outside of Combusken. Sky Uppercut is its only STAB move, so it is what should be run.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Combusken" },
+		{ "pokemonName": "Blaziken" },
+		{ "pokemonName": "Breloom" },
+		{ "pokemonName": "Gliscor" },
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Pangoro" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Riolu" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

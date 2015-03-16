@@ -1,0 +1,168 @@
+{
+	"name": "Ember",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "25",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 10% chance to burn the target.",
+	"viability": "This is made for early in-game usage, not competitive battling.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Charmeleon"
+		},
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Ninetales"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Flareon"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Tepid"
+		},
+		{
+			"pokemonName": "Pignite"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Larvesta"
+		},
+		{
+			"pokemonName": "Volcarona"
+		},
+		{
+			"pokemonName": "Fennekin"
+		},
+		{
+			"pokemonName": "Braixen"
+		},
+		{
+			"pokemonName": "Delphox"
+		},
+		{
+			"pokemonName": "Fletchinder"
+		},
+		{
+			"pokemonName": "Talonflame"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{
+			"pokemonName": "Pyroar"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

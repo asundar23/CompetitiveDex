@@ -1,0 +1,444 @@
+{
+   "name":"Chikorita",
+   "types":[
+      " Grass "
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Chikorita" },
+   		{ "pokemonName":"Bayleef" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Bayleef" },
+   		{ "pokemonName":"Meganium" }
+   ],
+   "evolutionType":[
+   		"Level 16",
+   		"Level 32"
+   ],
+   "stats":[
+      45,
+      49,
+      65,
+      49,
+      65,
+      45
+   ],
+   "moveList":[
+      {
+         "level": 1,
+         "move": "Tackle",
+         "type": " Normal "
+      },
+      {
+         "level": 3,
+         "move": "Growl",
+         "type": " Normal "
+      },
+      {
+         "level": 6,
+         "move": "Razor Leaf",
+         "type": " Grass "
+      },
+      {
+         "level": 9,
+         "move": "Poison Powder",
+         "type": " Poison "
+      },
+      {
+         "level": 12,
+         "move": "Synthesis",
+         "type": " Grass "
+      },
+      {
+         "level": 17,
+         "move": "Reflect",
+         "type": " Psychic "
+      },
+      {
+         "level": 20,
+         "move": "Magical Leaf",
+         "type": " Grass "
+      },
+      {
+         "level": 23,
+         "move": "Natural Gift",
+         "type": " Normal "
+      },
+      {
+         "level": 28,
+         "move": "Sweet Scent",
+         "type": " Normal "
+      },
+      {
+         "level": 31,
+         "move": "Light Screen",
+         "type": " Psychic "
+      },
+      {
+         "level": 34,
+         "move": "Body Slam",
+         "type": " Normal "
+      },
+      {
+         "level": 39,
+         "move": "Safeguard",
+         "type": " Normal "
+      },
+      {
+         "level": 42,
+         "move": "Aromatherapy",
+         "type": " Grass "
+      },
+      {
+         "level": 45,
+         "move": "Solar Beam",
+         "type": " Grass "
+      }
+      ],
+    "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move": "Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move": "Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move": "Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM16",
+         "move": "Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move": "Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM20",
+         "move": "Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move": "Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move": "Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM27",
+         "move": "Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM32",
+         "move": "Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move": "Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM42",
+         "move": "Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move": "Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move": "Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move": "Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM49",
+         "move": "Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM53",
+         "move": "Energy Ball",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM70",
+         "move": "Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM75",
+         "move": "Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM86",
+         "move": "Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move": "Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move": "Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move": "Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM96",
+         "move": "Nature Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM100",
+         "move": "Confide",
+         "type":" Normal "
+      },
+      {
+         "tm":"HM01",
+         "move": "Cut",
+         "type":" Normal "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move": "Ancient Power",
+         "pokemon":[
+            "Tangela",
+            "Tangrowth",
+            "Cranidos",
+            "Rampardos",
+            "Shieldon",
+            "Bastiodon",
+            "Tyrunt",
+            "Tyrantrum",
+            "Amaura",
+            "Aurorus"
+         ]
+      },
+      {
+         "move": "Aromatherapy",
+         "pokemon":[
+            "Vileplume",
+            "Paras",
+            "Parasect",
+            "Chikorita",
+            "Bayleef",
+            "Meganium",
+            "Roselia"
+         ]
+      },
+      {
+         "move": "Body Slam",
+         "pokemon":[
+            "Lapras",
+            "Snorlax",
+            "Chikorita",
+            "Bayleef",
+            "Meganium",
+            "Tropius"
+         ]
+      },
+      {
+         "move": "Counter",
+         "pokemon":[
+            "Breloom"
+         ]
+      },
+      {
+         "move": "Flail",
+         "pokemon":[
+            "Totodile",
+            "Croconaw",
+            "Feraligatr"
+         ]
+      },
+      {
+         "move": "Grass Whistle",
+         "pokemon":[
+            "Sunkern",
+            "Sunflora",
+            "Roselia",
+            "Snover",
+            "Abomasnow"
+         ]
+      },
+      {
+         "move": "Grassy Terrain",
+         "pokemon":[
+            "Oddish",
+            "Gloom",
+            "Tangela",
+            "Roserade",
+            "Tangrowth"
+         ]
+      },
+      {
+         "move": "Heal Pulse",
+         "pokemon":[
+            "Slowbro",
+            "Slowpoke",
+            "Slowking"
+         ]
+      },
+      {
+         "move": "Ingrain",
+         "pokemon":[
+            "Tangela",
+            "Tangrowth",
+            "Sunkern",
+            "Sunflora",
+            "Roserade",
+            "Cacnea",
+            "Cacturne",
+            "Carnivine",
+            "Snover",
+            "Abomasnow",
+            "Maractus",
+            "Foongus",
+            "Amoonguss",
+            "Ferroseed",
+            "Ferrothorn",
+            "Phantump",
+            "Trevenant"
+         ]
+      },
+      {
+         "move": "Leaf Storm",
+         "pokemon":[
+            "Victreebel",
+            "Exeggutor",
+            "Bellossom",
+            "Sunflora",
+            "Grovyle",
+            "Sceptile",
+            "Shiftry",
+            "Tropius",
+            "Turtwig",
+            "Grotle",
+            "Torterra",
+            "Snivy",
+            "Servine",
+            "Serperior"
+         ]
+      },
+      {
+         "move": "Leech Seed",
+         "pokemon":[
+            "Bulbasaur",
+            "Ivysaur",
+            "Venasaur",
+            "Exeggcute",
+            "Hoppip",
+            "Skiploom",
+            "Jumpluff",
+            "Sunkern",
+            "Sunflora",
+            "Shroomish",
+            "Breloom",
+            "Roselia",
+            "Cacnea",
+            "Cacturne",
+            "Turtwig",
+            "Grotle",
+            "Torterra",
+            "Cherubi",
+            "Cherrim",
+            "Snivy",
+            "Servine",
+            "Serperior",
+            "Cottonee",
+            "Whimsicott",
+            "Phantump",
+            "Trevenant"
+         ]
+      },
+      {
+         "move": "Refresh",
+         "pokemon":[
+            "Lickitung",
+            "Lickilicky"
+         ]
+      },
+      {
+         "move": "Vine Whip",
+         "pokemon":[
+            "Bulbasaur",
+            "Ivysaur",
+            "Venasaur",
+            "Bellsprout",
+            "Weepinbell",
+            "Victreebel",
+            "Tangela",
+            "Tangrowth",
+            "Carnivine",
+            "Snivy",
+            "Servine",
+            "Serperior"
+         ]
+      },
+      {
+         "move": "Wring Out",
+         "pokemon":[
+            "Bellsprout",
+            "Weepinbell",
+            "Lickitung",
+            "Lickilicky",
+            "Tangela",
+            "Tangrowth",
+            "Carnivine",
+            "Snivy",
+            "Servine",
+            "Serperior"
+         ]
+      }
+   ],
+   "tutorMoveList":[
+      "Giga Drain",
+      "Grass Pledge",
+      "Iron Tail",
+      "Magic Coat",
+      "Seed Bomb",
+      "Sleep Talk",
+      "Snore",
+      "Synthesis",
+      "Worry Seed",
+      "Grass Pledge"
+   ],
+   "Locations":"Pokébank Transfer",
+   "abilities":[
+      "Overgrow",
+      "Leaf Guard (Unreleased)"
+   ],
+   "sets":[
+
+   ]
+}

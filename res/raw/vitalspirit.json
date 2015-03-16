@@ -1,0 +1,43 @@
+{
+	"name":"Vital Spirit",
+	"summary": "Prevents the user from falling asleep.",
+	"viability": "Sleep statuses can be irritating, especially when you're in the process of a sweep or wallbreaking. The only problem is that the Pokémon with Vital Spirit usually have a move better suited to their needs, outside of possibly Magmortar.",
+	"pokemon":[
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Electabuzz"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Vigoroth"
+		},
+		{
+			"pokemonName": "Electivire"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Lillipup"
+		}
+	]
+}

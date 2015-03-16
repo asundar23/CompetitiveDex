@@ -1,0 +1,10 @@
+{
+	"name":"Multitype",
+	"summary": "Changes the user's type depending on the plate attached. Knock Off, Thief, Covet, Trick, and Switcheroo will not work on a Pokémon with this ability. In addition, Multitype cannot be Skill Swapped or copied with Trace or Role Play. This additionally cannot be suppressed by Gastro Acid, Entrainment, Simple Beam, or Worry Seed, and the user cannot have its ability changed to Mummy.",
+	"viability": "This allows Arceus to become any type, and with Multitype being its only ability, you have no choice but to run it. That, however, is a blessing due to the fact that Arceus becomes one of the most unpredictable Pokémon out there, due to its typing being unknown until battle.",
+	"pokemon":[
+		{
+			"pokemonName": "Arceus"
+		}
+	]
+}

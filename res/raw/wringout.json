@@ -1,0 +1,50 @@
+{
+	"name": "Wring Out",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "5",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage. The formula for damage is 1 + 120 * (Opponent's current HP/opponent's maximum HP). The more HP the target has, the more damage it does.",
+	"viability": "This works the opposite way as Eruption. The problem is that while you'll do a lot of damage initially, it can't be used the lower the HP of the target is. Not to mention that the Pokemon that learn it have better moves to be utilizing.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Weepinbell" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Tentacruel" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Kabuto" },
+		{ "pokemonName": "Kabutops" },
+		{ "pokemonName": "Octillery" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Cradile" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" },
+		{"pokemonName": "Female Frillish" },
+{"pokemonName": "Male Frillish" },
+{"pokemonName": "Female Jellicent" },
+{"pokemonName": "Male Jellicent" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Lileep" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

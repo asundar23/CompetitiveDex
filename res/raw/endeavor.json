@@ -1,0 +1,279 @@
+{
+	"name": "Endeavor",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "If the user has lower HP than the target, the target's HP will equal that of the user's.",
+	"viability": "Endeavor is good if the user is holding a Focus Sash or has Sturdy. One strategy that isn't used anymore is FEAR, which revolved around Endeavor and Focus Sash. It works well against walls in order to decrease their HP when attacking moves won't do the trick.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Marshtomp"
+		},
+		{
+			"pokemonName": "Swampert"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Arhceops"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Duosion"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{
+			"pokemonName": "Pyroar"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Axew"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{"pokemonName": "Beedrill"},
+{"pokemonName": "Rattata"},
+{"pokemonName": "Raticate"},
+{"pokemonName": "Clefairy"},
+{"pokemonName": "Clefable"},
+{"pokemonName": "Jigglypuff"},
+{"pokemonName": "Wigglytuff"},
+{"pokemonName": "Mankey"},
+{"pokemonName": "Primeape"},
+{"pokemonName": "Poliwag"},
+{"pokemonName": "Poliwhirl"},
+{"pokemonName": "Poliwrath"},
+{"pokemonName": "Doduo"},
+{"pokemonName": "Dodrio"},
+{"pokemonName": "Cubone"},
+{"pokemonName": "Marowak"},
+{"pokemonName": "Rhyhorn"},
+{"pokemonName": "Rhydon"},
+{"pokemonName": "Chansey"},
+{"pokemonName": "Tangela"},
+{"pokemonName": "Kangaskhan"},
+{"pokemonName": "Tauros"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Cleffa"},
+{"pokemonName": "Igglybuff"},
+{"pokemonName": "Togepi"},
+{"pokemonName": "Togetic"},
+{"pokemonName": "Politoed"},
+{"pokemonName": "Sunkern"},
+{"pokemonName": "Sunflora"},
+{"pokemonName": "Dunsparce"},
+{"pokemonName": "Swinub"},
+{"pokemonName": "Piloswine"},
+{"pokemonName": "Corsola"},
+{"pokemonName": "Phanpy"},
+{"pokemonName": "Donphan"},
+{"pokemonName": "Hitmontop"},
+{"pokemonName": "Blissey"},
+{"pokemonName": "Treecko"},
+{"pokemonName": "Grovyle"},
+{"pokemonName": "Sceptile"},
+{"pokemonName": "Mudkip"},
+{"pokemonName": "Marshtomp"},
+{"pokemonName": "Swampert"},
+{"pokemonName": "Taillow"},
+{"pokemonName": "Swellow"},
+{"pokemonName": "Whismur"},
+{"pokemonName": "Loudred"},
+{"pokemonName": "Exploud"},
+{"pokemonName": "Aron"},
+{"pokemonName": "Lairon"},
+{"pokemonName": "Aggron"},
+{"pokemonName": "Zangoose"},
+{"pokemonName": "Corphish"},
+{"pokemonName": "Crawdaunt"},
+{"pokemonName": "Chimchar"},
+{"pokemonName": "Monferno"},
+{"pokemonName": "Infernape"},
+{"pokemonName": "Starly"},
+{"pokemonName": "Staravia"},
+{"pokemonName": "Staraptor"},
+{"pokemonName": "Kricketot"},
+{"pokemonName": "Kricketune"},
+{"pokemonName": "Cranidos"},
+{"pokemonName": "Rampardos"},
+{"pokemonName": "WormadamPlant Cloak"},
+{"pokemonName": "WormadamSandy Cloak"},
+{"pokemonName": "WormadamTrash Cloak"},
+{"pokemonName": "Combee"},
+{"pokemonName": "Vespiquen"},
+{"pokemonName": "Buneary"},
+{"pokemonName": "Lopunny"},
+{"pokemonName": "Happiny"},
+{"pokemonName": "Rhyperior"},
+{"pokemonName": "Tangrowth"},
+{"pokemonName": "Togekiss"},
+{"pokemonName": "Mamoswine"},
+{"pokemonName": "Shaymin"},
+{"pokemonName": "Tepig"},
+{"pokemonName": "Pignite"},
+{"pokemonName": "Emboar"},
+{"pokemonName": "Patrat"},
+{"pokemonName": "Watchog"},
+{"pokemonName": "Pansage"},
+{"pokemonName": "Simisage"},
+{"pokemonName": "Pansear"},
+{"pokemonName": "Simisear"},
+{"pokemonName": "Panpour"},
+{"pokemonName": "Simipour"},
+{"pokemonName": "Woobat"},
+{"pokemonName": "Swoobat"},
+{"pokemonName": "Tympole"},
+{"pokemonName": "Palpitoad"},
+{"pokemonName": "Seismitoad"},
+{"pokemonName": "Venipede"},
+{"pokemonName": "Whirlipede"},
+{"pokemonName": "Scolipede"},
+{"pokemonName": "Cottonee"},
+{"pokemonName": "Whimsicott"},
+{"pokemonName": "Basculin"},
+{"pokemonName": "Darumaka"},
+{"pokemonName": "Darmanitan"},
+{"pokemonName": "Maractus"},
+{"pokemonName": "Archen"},
+{"pokemonName": "Archeops"},
+{"pokemonName": "Solosis"},
+{"pokemonName": "Duosion"},
+{"pokemonName": "Reuniclus"},
+{"pokemonName": "Ducklett"},
+{"pokemonName": "Swanna"},
+{"pokemonName": "Ferroseed"},
+{"pokemonName": "Ferrothorn"},
+{"pokemonName": "Axew"},
+{"pokemonName": "Fraxure"},
+{"pokemonName": "Haxorus"},
+{"pokemonName": "Stunfisk"},
+{"pokemonName": "Bouffalant"},
+{"pokemonName": "Durant"},
+{"pokemonName": "Kyurem"},
+{"pokemonName": "Keldeo"}
+	]
+}

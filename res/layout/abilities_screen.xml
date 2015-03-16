@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/black" >
+  
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	     >
+	
+	    <TextView
+	        android:id="@+id/ability_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:textStyle="bold"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="15dp"
+	        android:text="Placeholder"
+	        android:textColor="@color/white"
+	        android:textSize="25sp" />
+	
+	    <TextView
+	        android:id="@+id/ability_summary"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/ability_name"
+	        android:gravity="center_horizontal"
+	        android:layout_marginTop="50dp"
+	        android:text="Summary"
+	        android:textColor="#CC0000"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/ability_summary_name"
+	        android:layout_width="fill_parent"
+	        android:gravity="center_horizontal"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/ability_summary"
+	        android:layout_marginTop="5dp"
+	        android:text="Summary"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	    
+	    <TextView
+	        android:id="@+id/viability"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/ability_summary_name"
+	        android:layout_marginTop="50dp"
+	        android:layout_centerHorizontal="true"
+	        android:text="Viability"
+	        android:textColor="#CC0000"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/viability_summary"
+	        android:layout_width="fill_parent"
+	        android:gravity="center_horizontal"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/viability"
+			android:layout_centerHorizontal="true"
+	        android:layout_marginTop="5dp"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	
+	</RelativeLayout>
+
+</ScrollView>

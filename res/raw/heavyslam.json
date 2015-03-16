@@ -1,0 +1,41 @@
+{
+	"name": "Heavy Slam",
+	"note": "",
+	"type":" Steel ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage. Power is dependent on how much heavier the user is than the target. It can be 40 base power (target's weight is greater than 1/2 of the user's weight), 60 (1/3 < target's weight <= 1/2), 80 (1/4 < target's weight <= 1/3), 100 (1/5 < target's weight <= 1/4), or 120 (target's weight <= 1/5).",
+	"viability": "Heavy Slam is great on Pokemon like Aggron and Mega Aggron due to their bulk. It's a toss up between that and Iron Head (more consistency) but either are fine choices.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Snorlax" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Lairon" },
+		{ "pokemonName": "Aggron" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Wailord" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Bastiodon" },
+		{ "pokemonName": "Bronzong" },
+		{ "pokemonName": "Regigigas" },
+		{ "pokemonName": "Golurk" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Roggenrola" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

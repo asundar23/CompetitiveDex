@@ -1,0 +1,30 @@
+{
+	"name": "Power Whip",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "85",
+	"summary": "Deals damage.",
+	"viability": "Power Whip is an excellent physical STAB move for Grass-types. It's powerful, and even with shaky accuracy is worth using.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Goodra" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Bellsprout" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

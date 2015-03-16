@@ -1,0 +1,28 @@
+{
+	"name": "Shadow Punch",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "--",
+	"summary": "Deals damage, and is unaffected by moficiations to accuracy and evasion stats.",
+	"viability": "Shadow Punch is only really usable on Iron Fist Golurk if used in an environment where evasion is banned. If not, it can be a decent move, like Magical Leaf.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Golett" },
+		{ "pokemonName": "Golurk" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Grimer" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

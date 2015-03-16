@@ -1,0 +1,51 @@
+{
+	"name": "Refresh",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Cures the user of burns, poison, or paralysis. Cannot cure Freeze and sleep.",
+	"viability": "While Refresh is a decent idea, Heal Bell and Aromatherapy simply outclass it by a mile. Not only do they cure status ailments for the user, but they also do it for the whole team.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Eevee" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Blissey" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Milotic" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Jirachi" },
+		{ "pokemonName": "Happiny" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Arceus" },
+		{ "pokemonName": "Audino" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Marill" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Taillow" },
+		{ "pokemonName": "Azurill" },
+		{ "pokemonName": "Clamperl" },
+		{ "pokemonName": "Tympole" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Furfrou" },
+		{ "pokemonName": "Spritzee" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

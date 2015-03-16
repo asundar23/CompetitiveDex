@@ -1,0 +1,10 @@
+{
+	"name":"Victory Star",
+	"summary": "Increases accuracy of moves used by the user and their allies by 10%.",
+	"viability": "Victory Star suits Victini well because of the fact that most of the usable moves it gets aren't 100% accurate. Bolt Strike and V-Create, especially, aren't normally accurate, but with Victory Star, you will usually not miss.",
+	"pokemon":[
+		{
+			"pokemonName": "Victini"
+		}
+	]
+}

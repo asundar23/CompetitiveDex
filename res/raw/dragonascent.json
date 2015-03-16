@@ -1,0 +1,24 @@
+{
+	"name": "Dragon Ascent",
+	"note": "",
+	"type":" Flying ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user's Defense and Special Defense decrease by a stage.",
+	"viability": "This move is essentially the Flying-type Close Combat, making it the most powerful physical Flying type move out there.Rayquaza has been given a gift, because this move is not only powerful, but also allows Rayquaza to Mega Evolve.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Rayquaza"
+		}
+	]
+}

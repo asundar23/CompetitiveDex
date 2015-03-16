@@ -1,0 +1,70 @@
+{
+	"name":"Overcoat",
+	"summary": "Prevents weather damage, powder, and spore moves on the user.",
+	"viability": "The new mechanic of being immune to powder and spore moves is why Overcoat is such a useful ability. Escavalier, especially, can freely switch in to Spore and then start attacking. Not having to take damage from weather such as Sandstorm or Hail, as well, is important too, as your HP will slowly deteriorate.",
+	"pokemon":[
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Cloyster"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Burmy-Plant"
+		},
+		{
+			"pokemonName": "Burmy-Sandy"
+		},
+		{
+			"pokemonName": "Burmy-Trash"
+		},
+		{
+			"pokemonName": "Wormadam-Plant"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Swadloon"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Duosion"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		}
+	]
+}

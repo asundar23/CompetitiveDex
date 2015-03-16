@@ -1,0 +1,89 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" >
+
+	<RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:paddingBottom="@dimen/activity_vertical_margin"
+	    android:paddingLeft="@dimen/activity_horizontal_margin"
+	    android:paddingRight="@dimen/activity_horizontal_margin"
+	    android:paddingTop="@dimen/activity_vertical_margin" >
+	
+	    <TextView
+	        android:id="@+id/ability1"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="30dp"
+	        android:textStyle="bold"
+	        android:textSize="22sp"
+	        android:layout_centerHorizontal="true"
+	        android:text="Ability1" />
+	    
+	    <TextView
+	        android:id="@+id/summary1"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:gravity="center_horizontal"
+	        android:layout_height="wrap_content"
+	        android:textStyle="italic"
+	        android:textSize="19sp"
+	        android:layout_below="@+id/ability1"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop = "20dp"
+	        android:text="Summary1" />
+	
+	    <TextView
+	        android:id="@+id/ability2"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:textStyle="bold"
+	        android:textSize="22sp"
+	        android:layout_below="@+id/summary1"
+	        android:layout_marginTop="50dp"
+	        android:layout_alignLeft="@+id/ability3"
+	        android:text="Ability2" />
+	    
+	     <TextView
+	        android:id="@+id/summary2"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:textStyle="italic"
+	        android:gravity="center_horizontal"
+	        android:layout_height="wrap_content"
+	        android:textSize="19sp"
+	        android:layout_below="@+id/ability2"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop = "20dp"
+	        android:text="Summary2" />
+	
+	    <TextView
+	        android:id="@+id/ability3"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:textStyle="bold"
+	        android:textSize="22sp"
+	        android:layout_below="@+id/summary2"
+	        android:layout_marginTop="50dp"
+	        android:layout_alignLeft="@+id/ability1"
+	        android:text="Ability3" />
+	    
+	    <TextView
+	        android:id="@+id/summary3"
+	        android:textColor="@color/white"
+	        android:layout_width="fill_parent"
+	        android:textStyle="italic"
+	        android:gravity="center_horizontal"
+	        android:layout_height="wrap_content"
+	        android:textSize="19sp"
+	        android:layout_below="@+id/ability3"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop = "20dp"
+	        android:text="Summary3" />
+	
+	</RelativeLayout>
+</ScrollView>

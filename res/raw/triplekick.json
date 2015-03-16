@@ -1,0 +1,22 @@
+{
+	"name": "Triple Kick",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "10",
+	"accuracy": "90",
+	"summary": "Deals damage, and hits up to three times. Its base power will increase by 10 with each consecutive hit. It has a 72.9% of hitting 3 times, 8.1% twice, and 9% chance once.",
+	"viability": "With Hitmontop's Technician, this has a base power of 90, which still isn't that good compared to Close Combat. In fact, there is only a 72.9% chance of getting that base power 90 move. It's strongly not recommended.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmontop" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

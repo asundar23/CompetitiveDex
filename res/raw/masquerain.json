@@ -1,0 +1,640 @@
+{ 
+	 "name": "Masquerain",
+	"types": [
+		" Bug ",
+		" Flying "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Quiver Dance",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 6,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 14,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 17,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 22,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Air Cutter",
+			"type": " Flying "
+		},
+		{
+			"level": 26,
+			"move": "Stun Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 32,
+			"move": "Silver Wind",
+			"type": " Bug "
+		},
+		{
+			"level": 38,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 42,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 48,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 52,
+			"move": "Quiver Dance",
+			"type": " Bug "
+		}
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Bug "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Surskit" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Masquerain" }
+   	],
+   "evolutionType":[
+   		"Level 22"
+   ],
+	"stats": [
+		70,
+		60,
+		62,
+		80,
+		82,
+		60
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Quiver Dance",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 7,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 22,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 26,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Stun Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 40,
+			"move": "Silver Wind",
+			"type": " Bug "
+		},
+		{
+			"level": 47,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 54,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 68,
+			"move": "Quiver Dance",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Aqua Jet",
+			"pokemon": [
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Buh Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy-Plant"},
+				{"pokemonName": "Burmy-Sandy"},
+				{"pokemonName": "Burmy-Trash"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloom"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fell Stinger",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Escavalier"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Venonat"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hydro Pump",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Froakie"},
+				{"pokemonName": "Frogadier"},
+				{"pokemonName": "Greninja"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Mind Rider",
+			"pokemon": [
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Poliwrath"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwrath"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palipitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Power Split",
+			"pokemon": [
+				{"pokemonName": "Shuckle"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Psybeam",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venonat"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Vivillon"},
+				{"pokemonName": "Inkay"},
+				{"pokemonName": "Malamar"},
+				{"pokemonName": "Venonat"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octilery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Giga Drain",
+		"Icy Wind",
+		"Roost",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "Evolve Surskit"},
+		{"Location": "Evolve Surskit"},
+		{"Location": "Route 229"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Pond"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Surskit"},
+		{"Location": "Route 11 (Swarm)"},
+		{"Location": "Route 11 (Swarm)"},
+		{"Location": "Route 3 (Surfing), Friend Safari (Bug)"},
+		{"Location": "Route 3 (Surfing), Friend Safari (Bug)"}
+	],
+	"abilities": [
+		"Intimidate",
+		"Unnerve"
+	],
+	"sets": [
+	]
+}

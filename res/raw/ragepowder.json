@@ -1,0 +1,35 @@
+{
+	"name": "Rage Powder",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Makes the user the center of attention, forcing the opposing Pokemon to use their moves on the user. Has a priority of +2.",
+	"viability": "Rage Powder is a little bit like Follow Me. In Doubles and Triples, it can be extremely useful in allowing one of your partners to either attack or set up.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Butterfree" },
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Parasect" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Skiploom" },
+		{ "pokemonName": "Jumpluff" },
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Amoonguss" },
+		{ "pokemonName": "Volcarona" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Scatterbug" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

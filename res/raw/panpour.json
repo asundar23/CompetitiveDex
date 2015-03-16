@@ -1,0 +1,485 @@
+{
+	"name":"Panpour",
+	"types": [
+		"Water"
+	],
+	"eggGroup": [
+		"Field"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Panpour" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Simipour" }
+   	],
+   "evolutionType":[
+   		"Water Stone"
+   ],
+	"abilities": [
+		"Gluttony",
+		"Torrent"
+	],
+	"locations": [
+		{"Location": "Pinwheel Forest (inner) and Lostlorn Forest (rustling grass), Gift in the Dreamyard (if starter Pokémon was Snivy)"},
+		{"Location": "Pinwheel Forest (inner) and Lostlorn Forest (rustling grass), Gift in the Dreamyard (if starter Pokémon was Snivy)"},
+		{"Location": "Pinwheel Forest (inner) and Lostlorn Forest (rustling grass)"},
+		{"Location": "Pinwheel Forest (inner) and Lostlorn Forest (rustling grass)"},
+		{"Location": "Santalune Forest, Friend Safari (Water)"},
+		{"Location": "Santalune Forest, Friend Safari (Water)"}
+	],
+	"stats": [
+		50,
+		53,
+		48,
+		53,
+		48,
+		64
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Play Nice",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 13,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 19,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"level": 25,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 28,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 34,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 37,
+			"move": "Recycle",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Crunch",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Aqua Ring",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Vaporeon"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Aqua Tail",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Kecleon"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Covet",
+			"pokemon": [
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Male Meowstic"},
+				{"pokemonName": "Female Meowstic"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Disarming Voice",
+			"pokemon": [
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Sylveon"}
+			],
+			"type": " Fairy "
+		},
+		{
+			"move": "Hydro Pump",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Vaporeon"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Low Kick",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Nasty Plot",
+			"pokemon": [
+				{"pokemonName": "Ninetales"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Shiftry"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Role Play",
+			"pokemon": [
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Delphox"},
+				{"pokemonName": "Female Meowstic"},
+				{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Covet",
+		"Endeavor",
+		"Gunk Shot",
+		"Helping Hand",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Tail",
+		"Knock Off",
+		"Low Kick",
+		"Recycle",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

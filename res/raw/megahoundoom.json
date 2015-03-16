@@ -1,0 +1,592 @@
+{ 
+	 "name": "Mega Houndoom",
+	"types": [
+		" Dark ",
+		" Fire "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Houndour" },
+   		{ "pokemonName":"Houndoom" },
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Houndoom" },
+   		{ "pokemonName":"Mega Houndoom" }
+   ],
+   "evolutionType":[
+   		"Level 24",
+   		"Houndoomite"
+   ],
+	"eggGroup": [
+		" Field "
+	],
+	"stats": [
+		75,
+		90,
+		90,
+		140,
+		90,
+		115
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Inferno",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 4,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 13,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Beat Up",
+			"type": " Dark "
+		},
+		{
+			"level": 30,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 35,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 41,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 45,
+			"move": "Foul Play",
+			"type": " Dark "
+		},
+		{
+			"level": 50,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 56,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 60,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 65,
+			"move": "Inferno",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Beat Up",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Delibird"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Feint",
+			"pokemon": [
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Fire Spin",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Ninetales"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Heatmor"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Nasty Plot",
+			"pokemon": [
+				{"pokemonName": "Ninetales"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Shiftry"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Punishment",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rage",
+			"pokemon": [
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Reversal",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Spite",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Sucker Punch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Stoutland"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Foul Play",
+		"Heat Wave",
+		"Hyper Voice",
+		"Iron Tail",
+		"Role Play",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Super Fang",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Trade"},
+		{ "Location": "Houndoomite can be found in Route 16, where the two skaters are skating, between 8-9 PM, after you have upgraded the Mega Ring."}
+
+	],
+	"abilities": [
+		"Solar Power"
+	],
+	"sets": [
+	]
+}

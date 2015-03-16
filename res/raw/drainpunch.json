@@ -1,0 +1,276 @@
+{
+	"name": "Drain Punch",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Special",
+	"pp": "10",
+	"power": "75",
+	"accuracy": "100",
+	"summary": "Deals damage, and recovers up to 50% of the damage inflicted for the user.",
+	"viability": "Drain Punch is a really good alternative to moves such as High Jump Kick or Close Combat. Not only does it have no side effects, it also recovers HP. While the power isn't great, it's good enough to support a bulky Pokemon like Conkeldur, ensuring longevity.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Scraggy"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Gloom"
+		},
+		{
+			"pokemonName": "Vileplume"
+		},
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Hypno"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Bellossom"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Ludicolo"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Regirock"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Deoxys"
+		},
+		{
+			"pokemonName": "Deoxys-Attack"
+		},
+		{
+			"pokemonName": "Deoxys-Defense"
+		},
+		{
+			"pokemonName": "Deoxys-Speed"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Toxicroak"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Regigigas"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Golett"
+		},
+		{
+			"pokemonName": "Golurk"
+		},
+		{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		}
+	]
+}

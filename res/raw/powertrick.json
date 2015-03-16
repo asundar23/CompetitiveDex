@@ -1,0 +1,29 @@
+{
+	"name": "Power Trick",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Switches the user's Attack stat with its Defense stat. Boosts are not switched.",
+	"viability": "Unless you want to make Shuckle a terrifying attacker, I wouldn't recommend this.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Honedge" },
+		{ "pokemonName": "Doublade" },
+		{ "pokemonName": "Aegislash" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

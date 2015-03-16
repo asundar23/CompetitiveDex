@@ -1,0 +1,31 @@
+{
+	"name": "Present",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "Varies",
+	"accuracy": "90",
+	"summary": "Can either deal damage or heal the opponent. 40% of the time it deals 40 base power, 30% is 80, and 10% it's 120. 20% of the time it heals the target.",
+	"viability": "Never use Present, ever.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Delibird" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Marill" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Happiny" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

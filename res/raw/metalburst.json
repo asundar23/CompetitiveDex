@@ -1,0 +1,32 @@
+{
+	"name": "Metal burst",
+	"note": "",
+	"type":" Steel ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Returns 1.5 times the damage dealt by the target's last attack. Does not take into account whether attack was Physical or Special. Will fail if the user moves first. Can hit non-adjacent opponents in Triple Battles.",
+	"viability": "Metal Burst is a really good move for bulky Steel types like Mega Aggron and Bastiodon. For the latter, their sturdy ability can take an Earthquake or Close Combat, then immediately KO the foe with a Metal Burst. It's definitely worth investing in.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Lairon" },
+		{ "pokemonName": "Aggron" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Bastiodon" },
+		{ "pokemonName": "Dialga" },
+		{ "pokemonName": "Bisharp" },
+		{ "pokemonName": "Cobalion" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Mawile" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

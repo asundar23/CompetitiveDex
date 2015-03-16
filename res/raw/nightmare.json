@@ -1,0 +1,29 @@
+{
+	"name": "Nightmare",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Only works if the target is asleep. Reduces the target's health by 1/4 of their maximum HP at the end of each turn.",
+	"viability": "Nightmare isn't really viable, due to the fact that sleep only works for 1-3 turns. The possiblity of waking up so soon makes this move not usable. Plus, they can switch out so easily.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Hypno" },
+		{ "pokemonName": "Darkrai" },
+		{ "pokemonName": "Munna" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Spiritomb" },
+		{ "pokemonName": "Yamask" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

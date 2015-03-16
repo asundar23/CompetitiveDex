@@ -1,0 +1,41 @@
+{
+	"name": "Ominous Wind",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Special",
+	"pp": "5",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 10% chance to raise all stats except for accuracy and evasion.",
+	"viability": "Shadow Ball has more power, and the chance for the stats to raise is too low.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Masquerain" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Spiritomb" },
+		{ "pokemonName": "Froslass" },
+		{ "pokemonName": "Rotom" },
+		{ "pokemonName": "Giratina" },
+		{ "pokemonName": "Darkrai" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Female Frillish" },
+		{ "pokemonName": "Male Frillish" },
+		{ "pokemonName": "Female Jellicent" },
+		{ "pokemonName": "Male Jellicent" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Duskull" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

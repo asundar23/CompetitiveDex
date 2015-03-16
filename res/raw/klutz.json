@@ -1,0 +1,28 @@
+{
+	"name":"Klutz",
+	"summary": "If the opponent also has Klutz, the use of held items is prevented.",
+	"viability": "The only way this ability works is with Entrainment on either Audino or Lopunny. Held items can be really advantageous, so eliminating that is nice. The only question becomes whether or not you want to spend a moveslot on Entrainment.",
+	"pokemon":[
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Golett"
+		},
+		{
+			"pokemonName": "Golurk"
+		}
+	]
+}

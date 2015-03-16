@@ -1,0 +1,260 @@
+{ 
+	 "name": "Magikarp",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 2 ",
+		" Dragon "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Magikarp" },
+   		{ "pokemonName":"Gyarados" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Gyarados" },
+   		{ "pokemonName":"Mega Gyarados" }
+   ],
+   "evolutionType":[
+   		"Level 20",
+   		"Gyaradosite"
+   ],
+	"stats": [
+		20,
+		10,
+		55,
+		15,
+		20,
+		80
+	],
+	"moveList": [
+		{
+		    "level": 1,
+		    "move": "Splash",
+         	"type":" Normal "
+		},
+		{
+		    "level": 15,
+		    "move": "Tackle",
+         	"type":" Normal "
+		},
+		{
+		    "level": 30,
+		    "move": "Flail",
+         	"type":" Normal "
+		}
+
+	],
+	"ORASMoveList": [
+		{
+		    "level": 1,
+		    "move": "Splash",
+         	"type":" Normal "
+		},
+		{
+		    "level": 15,
+		    "move": "Tackle",
+         	"type":" Normal "
+		},
+		{
+		    "level": 30,
+		    "move": "Flail",
+         	"type":" Normal "
+		}
+
+	],
+	"tmMoveList": [
+
+	],
+	"ORASTMMoveList": [
+
+	],
+	"hmMoveList": [
+
+	],
+	"ORASHMMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bounce"
+	],
+	"XLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"• Route 3 (Fishing)",
+				"• Route 22 (Fishing)"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"• Parfum Palace (Fishing)"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"• Trade Gyarados with Hiker in a hotel"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"• Route 3 (Fishing)",
+				"• Route 22 (Fishing)"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"• Parfum Palace (Fishing)"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"• Trade Gyarados with Hiker in a hotel"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"• Route 102 (Old/Good Rod)",
+				"• Route 103 (Old/Good Rod)",
+				"• Route 104 (Fishing)",
+				"• Route 105 (Old/Good Rod)",
+				"• Route 106 (Old/Good Rod)",
+				"• Route 107 (Old/Good Rod)",
+				"• Route 108 (Old/Good Rod)",
+				"• Route 109 (Old/Good Rod)",
+				"• Route 110 (Old/Good Rod)",
+				"• Route 111 (Old/Good Rod)",
+				"• Route 114 (Old/Good Rod)",
+				"• Route 115 (Old/Good Rod)",
+				"• Route 117 (Old/Good Rod)",
+				"• Route 118 (Old/Good Rod)",
+				"• Route 119 (Old/Good Rod)",
+				"• Route 120 (Old/Good Rod)",
+				"• Route 122 (Old/Good Rod)",
+				"• Route 123 (Old/Good Rod)",
+				"• Route 124 (Old/Good Rod)",
+				"• Route 125 (Old/Good Rod)",
+				"• Route 126 (Old/Good Rod)",
+				"• Route 127 (Old/Good Rod)",
+				"• Route 128 (Old/Good Rod)",
+				"• Route 129 (Old/Good Rod)",
+				"• Route 130 (Old/Good Rod)",
+				"• Route 131 (Old/Good Rod)",
+				"• Route 132 (Old/Good Rod)",
+				"• Route 133 (Old/Good Rod)",
+				"• Route 134 (Old/Good Rod)"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"• Sea Mauville (Old/Good Rod)",
+				"• Petal (Old/Good Rod)",
+				"• Meteor Falls (Old/Good Rod)",
+				"• Dewford Town (Old/Good Rod)",
+				"• Mossdeep City (Old/Good Rod)",
+				"• Lilycove City (Old/Good Rod)",
+				"• Slateport City (Old/Good Rod)",
+				"• Team Magma Hideout (Old/Good Rod)",
+				"• Sealed Chamber (Old/Good Rod)",
+				"• Victory Road (Old/Good Rod)",
+				"• Ever Grande City (Old/Good Rod)",
+				"• Pacifidlog Town (Old/Good Rod)",
+				"• Scorched Slab (Old/Good Rod)",
+				"• Shoal Cave Zone (Old/Good Rod)",
+				"• Seafloor Cavern (Old/Good Rod)",
+				"• Battle Resort (Old/Good Rod)",
+				"• Sootopolis City (Surfing and Fishing)"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"None"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"• Route 102 (Old/Good Rod)",
+				"• Route 103 (Old/Good Rod)",
+				"• Route 104 (Fishing)",
+				"• Route 105 (Old/Good Rod)",
+				"• Route 106 (Old/Good Rod)",
+				"• Route 107 (Old/Good Rod)",
+				"• Route 108 (Old/Good Rod)",
+				"• Route 109 (Old/Good Rod)",
+				"• Route 110 (Old/Good Rod)",
+				"• Route 111 (Old/Good Rod)",
+				"• Route 114 (Old/Good Rod)",
+				"• Route 115 (Old/Good Rod)",
+				"• Route 117 (Old/Good Rod)",
+				"• Route 118 (Old/Good Rod)",
+				"• Route 119 (Old/Good Rod)",
+				"• Route 120 (Old/Good Rod)",
+				"• Route 122 (Old/Good Rod)",
+				"• Route 123 (Old/Good Rod)",
+				"• Route 124 (Old/Good Rod)",
+				"• Route 125 (Old/Good Rod)",
+				"• Route 126 (Old/Good Rod)",
+				"• Route 127 (Old/Good Rod)",
+				"• Route 128 (Old/Good Rod)",
+				"• Route 129 (Old/Good Rod)",
+				"• Route 130 (Old/Good Rod)",
+				"• Route 131 (Old/Good Rod)",
+				"• Route 132 (Old/Good Rod)",
+				"• Route 133 (Old/Good Rod)",
+				"• Route 134 (Old/Good Rod)"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"• Sea Mauville (Old/Good Rod)",
+				"• Petal (Old/Good Rod)",
+				"• Meteor Falls (Old/Good Rod)",
+				"• Dewford Town (Old/Good Rod)",
+				"• Mossdeep City (Old/Good Rod)",
+				"• Lilycove City (Old/Good Rod)",
+				"• Slateport City (Old/Good Rod)",
+				"• Team Aqua Hideout (Old/Good Rod)",
+				"• Sealed Chamber (Old/Good Rod)",
+				"• Victory Road (Old/Good Rod)",
+				"• Ever Grande City (Old/Good Rod)",
+				"• Pacifidlog Town (Old/Good Rod)",
+				"• Scorched Slab (Old/Good Rod)",
+				"• Shoal Cave Zone (Old/Good Rod)",
+				"• Seafloor Cavern (Old/Good Rod)",
+				"• Battle Resort (Old/Good Rod)",
+				"• Sootopolis City (Surfing and Fishing)"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"None"
+			]
+		}
+	],
+	"abilities": [
+		"Swift Swim",
+		"Rattled"
+	],
+	"sets": [
+	]
+}

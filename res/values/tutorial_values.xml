@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="tutorials_array" > 
+        <item>Stat Training</item>
+        <item>Type Chart</item>
+        <item>Team Building</item>
+    </string-array>
+    
+    <string-array name="stat_training">
+        <item>EV Training</item>
+        <item>IV Training</item>
+        <item>Natures</item>
+    </string-array>
+    
+    <string-array name="teambuilding">
+        <item>Types of Teams</item>
+        <item>Strategies</item>
+    </string-array>
+    
+    <string-array name="type_of_teams">
+        <item>Hyper-Offensive</item>
+        <item>Stall</item>
+        <item>Mixed Offensive/Defensive</item>
+    </string-array>
+    
+    <string-array name="strategies">
+        <item>Volt-Turn</item>
+        <item>Entry Hazards</item>
+        <item>Baton Pass</item>
+        <item>Trick Room</item>
+        <item>Fodders</item>
+    </string-array>
+    
+</resources>

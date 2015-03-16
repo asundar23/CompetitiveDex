@@ -1,0 +1,35 @@
+{
+	"name": "Teleport",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Is used to flee wild Pokemon battles. Always fails in trainer battles.",
+	"viability": "No competitive use.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Kadabra" },
+		{ "pokemonName": "Alakazam" },
+		{ "pokemonName": "natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Kirlia" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Deoxys" },
+		{ "pokemonName": "Deoxys-Attack" },
+		{ "pokemonName": "Deoxys-Defense" },
+		{ "pokemonName": "Gallade" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Elgyem" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name":"Cheek Pouch",
+	"summary": "Restores 1/3 of the user's HP, after the Berry has been consumed. Cheek Pouch activates even if the user steals the Pokémon's Berry through Bug Bite, Pluck, or Fling, given that the Berry is actually consumed. Fling and Natural Gift do not trigger Cheek Pouch.",
+	"viability": "At best, this is a very gimmicky ability. Dedenne could possibly see some use with it, but even so would be very situational. Bunnelby and Diggersby have a far better ability with Huge Power, so Cheek Pouch should not be run on them.",
+	"pokemon":[
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	]
+}

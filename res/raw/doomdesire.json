@@ -1,0 +1,24 @@
+Pokemon by TM: Pokemon by HM: Pokemon by Tutor: {
+	"name": "Doom Desire",
+	"note": "",
+	"type":" Steel ",
+	"category": "Special",
+	"pp": "5",
+	"power": "140",
+	"accuracy": "100",
+	"summary": "Two turns after the user uses this move, the target will be hit.",
+	"viability": "The problem with Doom Desire is that you're wasting a turn for attacking later. It's a similar issue with Future Sight. The bright side, however, is that the power of Doom Desire is very good, as well as its accuracy. While not recommended, it isn't a bad thing to run it.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Jirachi"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

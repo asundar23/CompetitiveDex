@@ -1,0 +1,37 @@
+{
+	"name": "Leaf Blade",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Dead damage, and has an increased critical hit ratio.",
+	"viability": "Leaf Blade is an extremely good move for physical Grass types like Victreebel and SD Sceptile. It also works as a good coverage move for Gallade. For Farfetch'd, it's excellent because of the increased critical hit ratio. In conjunction with its Stick item, the chances of a crit are near perfect.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Bellossom" },
+		{ "pokemonName": "Grovyle" },
+		{ "pokemonName": "Sceptile" },
+		{ "pokemonName": "Nuzleaf" },
+		{ "pokemonName": "Leafeon" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" },
+		{ "pokemonName": "Leavanny" },
+		{ "pokemonName": "Virizion" },
+		{ "pokemonName": "Skiddo" },
+		{ "pokemonName": "Gogoat" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Tropius" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

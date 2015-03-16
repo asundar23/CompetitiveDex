@@ -1,0 +1,123 @@
+{
+	"name":"Swift Swim",
+	"summary": "The user's Speed doubles in rain.",
+	"viability": "Swift Swim turns Pokémon like Kingdra and Ludicolo, who have middling Speed, into very quick threats. This should be executed on rain-based teams, just so that there are multiple opportunities to set up.
+	
+	Not only does the Speed of these Pokémon increase, Water moves are also more powerful in rain. That makes this ability work on two different levels; getting the user more SPeed as well as more powerful moves.",
+	"pokemon":[
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Poliwhirl"
+		},
+		{
+			"pokemonName": "Poliwrath"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Magikarp"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Lotad"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Ludicolo"
+		},
+		{
+			"pokemonName": "Surskit"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Palpitoad"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Beartic"
+		}
+	]
+}

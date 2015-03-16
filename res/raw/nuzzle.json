@@ -1,0 +1,27 @@
+{
+	"name": "Nuzzle",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "Causes damage to the opposing pokemon and has a 100% chance to paralyze the target.",
+	"viability": "This move is excluseive to the mouse pokemon such as Pikachu and Dedenne, it is a good option to replace Thunder wWve in most sets because it gives a bonus 20 damage. ",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pikachu" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Emolga" },
+		{ "pokemonName": "Dedenne" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

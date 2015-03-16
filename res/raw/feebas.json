@@ -1,0 +1,377 @@
+{
+	"name":"Feebas",
+	"types": [
+		"Water"
+	],
+	"eggGroup": [
+		"Water 1",
+		"Dragon"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Feebas" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Milotic" }
+   	],
+   "evolutionType":[
+   		"
+   		Before Gen V: Level up with Beauty condition high
+   		
+   		Gen V onward: Trade holding Prism Scale"
+   ],
+	"abilities": [
+		"Swift Swim",
+		"Oblivious",
+		"Adaptability"
+	],
+	"locations": [
+		{"Location": "Mt. Coronet (four fishing spots)"},
+		{"Location": "Mt. Coronet (four fishing spots)"},
+		{"Location": "Mt. Coronet (four fishing spots)"},
+		{"Location": "Pokéwalker"},
+		{"Location": "Pokéwalker"},
+		{"Location": "Sea"},
+		{"Location": "Route 1 (Fishing or Fishing in rippling water)"},
+		{"Location": "Route 1 (Fishing or Fishing in rippling water)"},
+		{"Location": "Route 1 (Fishing or Fishing in rippling water)"},
+		{"Location": "Route 1 (Fishing or Fishing in rippling water)"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"stats": [
+		20,
+		15,
+		20,
+		10,
+		55,
+		80
+	],
+	"ORASmoveList": [
+		{
+			"level": 1,
+			"move": "Splash",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Flail",
+			"type": " Normal "
+		}
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Splash",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Flail",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Gorebyss"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Mantine"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Dragon Pulse",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Clawitzer"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Breath",
+			"pokemon": [
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Poliwrath"},
+				{"pokemonName": "Politoed"},
+				{"pokemonName": "Inkay"},
+				{"pokemonName": "Malamar"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Mirror Coat",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Mist",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Dragon Pulse",
+		"Icy Wind",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore"
+	],
+	"sets": [
+	]
+}

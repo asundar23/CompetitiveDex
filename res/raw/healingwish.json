@@ -1,0 +1,39 @@
+{
+	"name": "Healing Wish",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Causes the user to faint. The next Pokemon to switch in on the user's side will have all their HP restored and status ailments cured.",
+	"viability": "Healing Wish can be really useful to give way to a late game sweeper. If a Pokemon like Latias is on its final breath, use Healing Wish to have it leave the battle, then restore the HP and statuses of a crippled sweeper. It can turn the entire tide of a match so quickly.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Chansry" },
+		{ "pokemonName": "Blissey" },
+		{ "pokemonName": "Celebi" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Jirachi" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Mesprit" },
+		{ "pokemonName": "Shaymin" },
+		{ "pokemonName": "Alomomola" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Petilil" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

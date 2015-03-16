@@ -1,0 +1,57 @@
+{
+	"name": "Thunder Fang",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "65",
+	"accuracy": "95",
+	"summary": "Deals damage, has a 10% chance of paralyzing, and a 10% chance to flinch.",
+	"viability": "Thunder Fang is not very good, unless the user has the Strong Jaw ability. That makes its power a little less than 100.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Arcanine" },
+		{ "pokemonName": "Jolteon" },
+		{ "pokemonName": "Aerodactyl" },
+		{ "pokemonName": "Steelix" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Granbull" },
+		{ "pokemonName": "Houndoom" },
+		{ "pokemonName": "Donphan" },
+		{ "pokemonName": "Raikou" },
+		{ "pokemonName": "Tyranitar" },
+		{ "pokemonName": "Exploud" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Manectric" },
+		{ "pokemonName": "Salamence" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Luxio" },
+		{ "pokemonName": "Luxray" },
+		{ "pokemonName": "Hippowdon" },
+		{ "pokemonName": "Drapion" },
+		{ "pokemonName": "Gliscor" },
+		{ "pokemonName": "Stoutland" },
+		{ "pokemonName": "Zekrom" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Sandile" },
+		{ "pokemonName": "Druddigon" },
+		{ "pokemonName": "Durant" },
+		{ "pokemonName": "Deino" },
+		{ "pokemonName": "Tyrunt" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

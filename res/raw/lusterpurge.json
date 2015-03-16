@@ -1,0 +1,22 @@
+{
+	"name": "Luster Purge",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "5",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 50% chance of lowering the target's Special Defense.",
+	"viability": "Latios's signature move simply isn't that good. It's better off running Psyshock due to the added power. The 50% chance at a Special Defense drop is nice, but banking your luck on that is not a good idea.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Latios" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

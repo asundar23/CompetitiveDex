@@ -1,0 +1,23 @@
+{
+	"name": "Parting Shot",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Attack and Special Attack by one stage each, and the user switches out.",
+	"viability": "Parting Shot is a non damaging form of U-Turn. It can not only keep momentum on your side, but also render the opponent useless to attack.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Pangoro" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

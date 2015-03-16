@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/fighting_type.xml" />
+        <ignore path="res/layout/water_type.xml" />
+    </issue>
+</lint>

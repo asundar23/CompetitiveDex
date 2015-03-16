@@ -1,0 +1,43 @@
+{
+	"name":"Iron Fist",
+	"summary": "Increases the base power of punching moves by 20%. The moves that get boosts are Bullet Punch, Comet Punch, Dizzy Punch, Drain Punch, Dynamic Punch, Fire Punch, Focus Punch, Hammer Arm, Ice Punch, Mach Punch, Mega Punch, Meteor Mash, Power-Up Punch, Shadow Punch, Sky Uppercut, and Thunder Punch.",
+	"viability": "Iron Fist is good because of the fact that the Pokémon that get it run mostly punching moves, especially Hitmonchan and Infernape. Mach Punch goes from 40 base power to a better 48. Drain Punch turns into a 90 base power move, as the elemental punches (Fire, Ice, and Thunder Punch). Coverage moves at base power 90 is extremely helpful, given that Fighting is weak to Flying. Iron Fist should be used whenever possible.",
+	"pokemon":[
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Golett"
+		},
+		{
+			"pokemonName": "Golurk"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		}
+	]
+}

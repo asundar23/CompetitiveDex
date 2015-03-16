@@ -1,0 +1,37 @@
+{
+	"name":"Sticky Hold",
+	"summary": "Prevents the item from being removed through Covet, Thief, Trick, Switcheroo, Bug Bite, Pluck, or Knock Off.",
+	"viability": "With how common Knock Off and Trick are, it's probably a good idea to keep your item whenever possible. The only problem is that all the Pokémon with Sticky Hold have an ability that better suits their need. Sticky Hold is good, but not good enough.",
+	"pokemon":[
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Accelgor"
+		}
+	]
+}

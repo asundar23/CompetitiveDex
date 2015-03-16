@@ -1,0 +1,370 @@
+{ 
+	 "name": "Giratina-Origin",
+	"types": [
+		" Ghost ",
+		" Dragon "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		150,
+		120,
+		100,
+		120,
+		100,
+		90
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 15,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Shadow Sneak",
+			"type": " Ghost "
+		},
+		{
+			"level": 24,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		},
+		{
+			"level": 28,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 33,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 37,
+			"move": "Aura Sphere",
+			"type": " Fighting "
+		},
+		{
+			"level": 42,
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"level": 46,
+			"move": "Shadow Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 50,
+			"move": "Hex",
+			"type": " Ghost "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Dark Pulse",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Gravity",
+		"Hyper Voice",
+		"Icy Wind",
+		"Iron Head",
+		"Iron Tail",
+		"Magic Coat",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "N/A"},
+		{"Location": "N/A"},
+		{"Location": "Diatortion World"},
+		{"Location": "Sinjoh Ruins (requires event Arceus)"},
+		{"Location": "Sinjoh Ruins (requires event Arceus)"},
+		"",
+		{"Location": "Poké Transfer, Griseous Orb held by Shadow Triad on Marvelous Bridge"},
+		{"Location": "Poké Transfer, Griseous Orb held by Shadow Triad on Marvelous Bridge"},
+		{"Location": "Pokémon Dream Radar, Griseous Orb at Dragonspiral Tower"},
+		{"Location": "Pokémon Dream Radar, Griseous Orb at Dragonspiral Tower"},
+		{"Location": "Poké Transporter, Griseous Orb at Terminus Cave"},
+		{"Location": "Poké Transporter, Griseous Orb at Terminus Cave"}
+	],
+	"abilities": [
+		"Levitate",
+		"Telepathy"
+	],
+	"sets": [
+	]
+}

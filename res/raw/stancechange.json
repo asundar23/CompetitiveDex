@@ -1,0 +1,13 @@
+{
+	"name":"Stance Change",
+	"summary": "If the user is Aegislash, when using an attacking move it transitions from Shield to Blade forme. If it uses King's Shield, Stance Change reverts it back to Shiled Forme.",
+	"viability": "Stance Change is what makes Aegislash so good. It can turn from a defensive wall into an offensive threat. Because of Stance Change, Aegislash essentially has a Base Stat Total of 720 instead of 520.",
+	"pokemon":[
+		{
+			"pokemonName": "Aegislash-Shield"
+		},
+		{
+			"pokemonName": "Aegislash-Blade"
+		}
+	]
+}

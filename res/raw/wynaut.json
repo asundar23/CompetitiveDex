@@ -1,0 +1,100 @@
+{ 
+	 "name": "Wynaut",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Wynaut" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Wobbuffet" }
+   ],
+   "evolutionType":[
+   		"Level 15"
+   ],
+	"stats": [
+		95,
+		23,
+		48,
+		23,
+		48,
+		23
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Splash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 15,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 15,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Field"},
+		{"Location": "Route 2 (Swarm)"},
+		{"Location": "Route 2 (Swarm)"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"},
+		{"Location": "Breed Wobbuffet holding a Lax Incense"}
+	],
+	"abilities": [
+		"Shadow Tag",
+		"Telepathy"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@color/black" >
+	    
+	    <TextView
+	        android:id="@+id/ivcalculator"
+	        android:text="IV Calculator"
+	        android:textStyle="bold"
+	        android:textSize="30sp"
+	        android:layout_centerHorizontal="true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:layout_marginTop="20dp" />
+	
+	    <Spinner
+	        android:id="@+id/pokemonEdit"
+	        android:layout_width="300dp"
+	        android:layout_height="50dp"
+	        android:gravity="center_horizontal|center_vertical"
+	        android:layout_below="@+id/ivcalculator"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="38dp"
+			android:spinnerMode="dialog" >
+
+	    </Spinner>
+	    
+	    <TextView
+	        android:id="@+id/levelEditTitle"
+	        android:text="Level"
+	        android:layout_centerHorizontal="true"
+	        android:layout_below="@+id/pokemonEdit"
+	        android:layout_marginTop="20dp"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+	        android:textColor="@color/white"
+	        android:textStyle="bold" />
+	    
+	    <EditText
+	        android:id="@+id/levelEdit"
+	        android:inputType="number"
+	        android:layout_width="100dp"
+	        android:imeOptions="actionDone"
+	        android:gravity="center_horizontal"
+	        android:textColor="@color/black"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/levelEditTitle"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="20dp"
+	        android:background="#CCCCCC"
+	        android:ems="10"
+	        android:hint=" "
+	        android:textColorHint="@color/black" >
+	
+	        <requestFocus android:layout_width="wrap_content" />
+
+	    </EditText>
+	    
+	    <LinearLayout
+	        android:id="@+id/blah"
+	        android:layout_below="@+id/levelEdit"
+	        android:layout_marginTop="20dp"
+	        
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="    "
+	            android:id="@+id/blank2"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="HP"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="Att."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="Def."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="SpA"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="SpD"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="Spe"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	        
+	    <LinearLayout
+	        android:id="@+id/blah2"
+	        android:layout_below="@+id/blah"
+	        android:layout_marginTop="20dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="    "
+	            android:id="@+id/blank"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_HP"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_attack"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_defense"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_spa"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_spd"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text=" "
+	            android:id="@+id/change_spe"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:id="@+id/blah3"
+	        android:layout_below="@+id/blah2"
+	        android:layout_marginTop="20dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="Stat"
+	            android:id="@+id/statText"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/HP_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/att_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/def_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/spa_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/spd_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/spe_edit"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:id="@+id/blah4"
+	        android:layout_below="@+id/blah3"
+	        android:layout_marginTop="20dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="EVs "
+	            android:id="@+id/evTextView"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:imeOptions="actionDone"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/hpev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/attev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/defev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/spaev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:selectAllOnFocus="true"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/spdev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/speev"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:layout_below="@+id/blah4"
+	        android:layout_centerHorizontal="true"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="35dp"
+	        android:id="@+id/blah9" >
+	    
+		    <TextView
+		        android:id="@+id/natureTV"
+		        android:layout_width="0dp"
+		        android:layout_weight="1"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:ellipsize="none"
+		        android:scrollHorizontally="false"
+		        android:layout_height="wrap_content"
+		        android:gravity="center"
+		        android:text="Nature" />
+		    
+		    <Spinner
+		        android:id="@+id/natureSpinner"
+		        android:layout_width="0dp"
+		        android:layout_weight="1.5"
+		        android:ellipsize="none"
+		        android:scrollHorizontally="false"
+		        android:layout_height="50dp"
+		        android:gravity="center_horizontal"
+				android:spinnerMode="dialog" />
+	    
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:layout_below="@+id/blah9"
+	        android:layout_centerHorizontal="true"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="35dp"
+	        android:id="@+id/blah5" >
+	    
+		    <Spinner
+		        android:id="@+id/characteristic"
+		        android:layout_width="0dp"
+		        android:layout_weight="1.5"
+		        android:ellipsize="none"
+		        android:scrollHorizontally="false"
+		        android:layout_height="50dp"
+		        android:gravity="center_horizontal"
+				android:spinnerMode="dialog" />
+		    
+		    <Button
+		        android:id="@+id/characteristic_explanation"
+		        android:layout_width="0dp"
+		        android:layout_weight="1"
+		        android:layout_height="wrap_content"
+		        android:text="Explanation"
+		        android:textSize="17sp" />
+	    
+	    </LinearLayout>
+	    
+	    <Button
+	        android:id="@+id/calculate"
+	        android:layout_below="@+id/blah5"
+	        android:layout_marginTop="30dp"
+	        android:text="Calculate IV's"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+	        android:layout_centerHorizontal="true"
+	        android:textColor="@color/white" />
+	    
+	    <LinearLayout
+	        android:id="@+id/blah6"
+	        android:layout_below="@+id/calculate"
+	        android:layout_marginTop="20dp"
+	        
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+		    
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="    "
+	            android:layout_gravity="center_horizontal"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="HP"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="Att."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text="Def."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="SpA"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:gravity="center"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="SpD"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:gravity="center"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="Spe"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	        
+	    <LinearLayout
+	        android:id="@+id/blah7"
+	        android:layout_below="@+id/blah6"
+	        android:layout_marginTop="10dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="Low"
+	            android:id="@+id/iv_title"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/hp_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/att_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/def_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spa_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spd_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spe_iv"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:id="@+id/blah8"
+	        android:layout_below="@+id/blah7"
+	        android:layout_marginTop="10dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="High"
+	            android:id="@+id/iv_title2"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/hp_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/att_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/def_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spa_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spd_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text=" "
+	            android:id="@+id/spe_iv2"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+	    
+	    <TextView
+	        android:id="@+id/error"
+	        android:text="Invalid input. Enter values again."
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_horizontal"
+	        android:textSize="22sp"
+	        android:layout_below="@+id/blah8"
+	        android:layout_marginTop="20dp" />
+	    
+
+	</RelativeLayout>
+</ScrollView>

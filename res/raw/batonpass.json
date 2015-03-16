@@ -1,0 +1,165 @@
+{
+	"name": "Baton Pass",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Swithces out the user, passing all stat changes along with it. In addition, confusion, seeding, curse, and moves like Substitute, Lock-On, Ingrain, and Aqua Ring can be passed.",
+	"viability": "This is one of the most popular moves in the competitive scene, mostly because of its risk/reward nature. Being able to pass any positive stat or substitute is amazing for your team. One of the best strategies is Smash Passing, which is using Shell Smash and then Baton Passing out to your main sweeper. Another great way to utilize Baton Pass is passing Defense and Special Defense boosts along with something like Aqua Ring. It's important to note that if playing Smogon rules, your team can have no more than three Baton Pass users, but in any other setting there is no limit.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Celebi"
+		},
+		{
+			"pokemonName": "Surskit"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Scolipede"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

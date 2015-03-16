@@ -1,0 +1,32 @@
+{
+	"name":"Anger Point",
+	"summary": "Maximizes the user's Attack stat if hit with a critical hit.",
+	"viability": "There is absolutely no reason to run this move in singles. All the Pokémon who get Anger Point aren't especially bulky, and will probably be knocked out before getting a chance to utilize the max-ed out Attack.
+	
+	In Doubles and Triples, this could change. You could run a situation where you use a move such as Frost Breath or Storm Throw, moves that always hit. Minimize the respective categories (Special and Physical Attack), then hit your teammate with it. This works well with Krookodile, who can strap a ChoIce Scarf and start using Earthquake on everyone.
+	
+	Even if you wanted to run the above strategy, it's way too gimmicky and situational. It takes perfect precision and strategy; all the Pokémon who have this ability have better ones anyway. Krookodile has Moxie/Intimidate, Tauros has Sheer Force, Primeape has Defiant, and Camerupt has Solid Rock.",
+	"pokemon":[
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Tauros"
+		},
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		}
+	]
+}

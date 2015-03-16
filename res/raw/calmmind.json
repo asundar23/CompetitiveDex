@@ -1,0 +1,545 @@
+{
+	"name": "Calm Mind",
+	"note": "",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Special Attack and Special Defense",
+	"viability": "This is the special version of Bulk Up. It works in a similar way, in terms of viability. 
+	It's a great boosting move, especially for Pokémon like Trick Room Reuniclus or Life Orb Latios. If the Pokémon already has great speed, then setting up Calm Mind should be no problem ilke with Keldeo. In addition, one of the most famous strategies is Sub-CM, which is using a Substitute to set up Calm Minds, and then proceeding to sweep.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Raikou"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Suicune"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Beheeyem"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+		{
+	"pokemonName":"Clefairy"
+},
+{
+	"pokemonName":"Clefable"
+},
+{
+	"pokemonName":"Ninetales"
+},
+{
+	"pokemonName":"Psyduck"
+},
+{
+	"pokemonName":"Golduck"
+},
+{
+	"pokemonName":"Abra"
+},
+{
+	"pokemonName":"Kadabra"
+},
+{
+	"pokemonName":"Alakazam"
+},
+{
+	"pokemonName":"Slowpoke"
+},
+{
+	"pokemonName":"Slowbro"
+},
+{
+	"pokemonName":"Drowzee"
+},
+{
+	"pokemonName":"Hypno"
+},
+{
+	"pokemonName":"Chansey"
+},
+{
+	"pokemonName":"Mr. Mime"
+},
+{
+	"pokemonName":"Jynx"
+},
+{
+	"pokemonName":"Mewtwo"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Natu"
+},
+{
+	"pokemonName":"Xatu"
+},
+{
+	"pokemonName":"Sudowoodo"
+},
+{
+	"pokemonName":"Espeon"
+},
+{
+	"pokemonName":"Murkrow"
+},
+{
+	"pokemonName":"Slowking"
+},
+{
+	"pokemonName":"Misdreavus"
+},
+{
+	"pokemonName":"Girafarig"
+},
+{
+	"pokemonName":"Dunsparce"
+},
+{
+	"pokemonName":"Sneasel"
+},
+{
+	"pokemonName":"Corsola"
+},
+{
+	"pokemonName": "Stantler"
+},
+{
+	"pokemonName":"Smoochum"
+},
+{
+	"pokemonName":"Blissey"
+},
+{
+	"pokemonName":"Raikou"
+},
+{
+	"pokemonName":"Entei"
+},
+{
+	"pokemonName":"Suicune"
+},
+{
+	"pokemonName":"Lugia"
+},
+{
+	"pokemonName":"Ho-Oh"
+},
+{
+	"pokemonName":"Celebi"
+},
+{
+	"pokemonName":"Ralts"
+},
+{
+	"pokemonName":"Kirlia"
+},
+{
+	"pokemonName":"Gardevoir"
+},
+{
+	"pokemonName":"Skitty"
+},
+{
+	"pokemonName":"Delcatty"
+},
+{
+	"pokemonName":"Sableye"
+},
+{
+	"pokemonName":"Meditite"
+},
+{
+	"pokemonName":"Medicham"
+},
+{
+	"pokemonName":"Spoink"
+},
+{
+	"pokemonName":"Grumpig"
+},
+{
+	"pokemonName":"Spinda"
+},
+{
+	"pokemonName":"Lunatone"
+},
+{
+	"pokemonName":"Solrock"
+},
+{
+	"pokemonName":"Baltoy"
+},
+{
+	"pokemonName":"Claydol"
+},
+{
+	"pokemonName":"Shuppet"
+},
+{
+	"pokemonName":"Banette"
+},
+{
+	"pokemonName":"Duskull"
+},
+{
+	"pokemonName":"Dusclops"
+},
+{
+	"pokemonName":"Chimecho"
+},
+{
+	"pokemonName":"Absol"
+},
+{
+	"pokemonName":"Relicanth"
+},
+{
+	"pokemonName":"Latias"
+},
+{
+	"pokemonName":"Latios"
+},
+{
+	"pokemonName":"Kyogre"
+},
+{
+	"pokemonName":"Jirachi"
+},
+{
+	"pokemonName":"Deoxys"
+},
+{
+	"pokemonName":"Infernape"
+},
+{
+	"pokemonName":"Drifloon"
+},
+{
+	"pokemonName":"Drifblim"
+},
+{
+	"pokemonName":"Mismagius"
+},
+{
+	"pokemonName":"Honchkrow"
+},
+{
+	"pokemonName":"Chingling"
+},
+{
+	"pokemonName":"Bronzor"
+},
+{
+	"pokemonName":"Bronzong"
+},
+{
+	"pokemonName":"Bonsly"
+},
+{
+	"pokemonName":"Mime Jr."
+},
+{
+	"pokemonName":"Spiritomb"
+},
+{
+	"pokemonName":"Lucario"
+},
+{
+	"pokemonName":"Weavile"
+},
+{
+	"pokemonName":"Gallade"
+},
+{
+	"pokemonName":"Dusknoir"
+},
+{
+	"pokemonName":"Uxie"
+},
+{
+	"pokemonName":"Mesprit"
+},
+{
+	"pokemonName":"Azelf"
+},
+{
+	"pokemonName":"Giratina"
+},
+{
+	"pokemonName":"Cresselia"
+},
+{
+	"pokemonName":"Manaphy"
+},
+{
+	"pokemonName":"Darkrai"
+},
+{
+	"pokemonName":"Arceus"
+},
+{
+	"pokemonName":"Snivy"
+},
+{
+	"pokemonName":"Servine"
+},
+{
+	"pokemonName":"Serperior"
+},
+{
+	"pokemonName":"Munna"
+},
+{
+	"pokemonName":"Musharna"
+},
+{
+	"pokemonName":"Woobat"
+},
+{
+	"pokemonName":"Swoobat"
+},
+{
+	"pokemonName":"Audino"
+},
+{
+	"pokemonName":"Sewaddle"
+},
+{
+	"pokemonName":"Swadloon"
+},
+{
+	"pokemonName":"Leavanny"
+},
+{
+	"pokemonName":"Sigilyph"
+},
+{
+	"pokemonName":"Yamask"
+},
+{
+	"pokemonName":"Cofagrigus"
+},
+{
+	"pokemonName":"Zorua"
+},
+{
+	"pokemonName":"Zoroark"
+},
+{
+	"pokemonName":"Minccino"
+},
+{
+	"pokemonName":"Cinccino"
+},
+{
+	"pokemonName":"Gothita"
+},
+{
+	"pokemonName":"Gothorita"
+},
+{
+	"pokemonName":"Gothitelle"
+},
+{
+	"pokemonName":"Solosis"
+},
+{
+	"pokemonName":"Duosion"
+},
+{
+	"pokemonName":"Reuniclus"
+},
+{
+	"pokemonName":"Alomomola"
+},
+{
+	"pokemonName":"Elgyem"
+},
+{
+	"pokemonName":"Beheeyem"
+},
+{
+	"pokemonName":"Litwick"
+},
+{
+	"pokemonName":"Lampent"
+},
+{
+	"pokemonName":"Chandelure"
+},
+{
+	"pokemonName":"Mienfoo"
+},
+{
+	"pokemonName":"Mienshao"
+},
+{
+	"pokemonName":"Larvesta"
+},
+{
+	"pokemonName":"Volcarona"
+},
+{
+	"pokemonName":"Cobalion"
+},
+{
+	"pokemonName":"Terrakion"
+},
+{
+	"pokemonName":"Virizion"
+},
+{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		},
+		
+{
+	"pokemonName":"Keldeo"
+},
+		{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		},
+{
+	"pokemonName":"Delphox"
+},
+{
+	"pokemonName":"Vivillon"
+},
+{
+	"pokemonName":"Flabébé"
+},
+{
+	"pokemonName":"Floette"
+},
+{
+	"pokemonName":"Florges"
+},
+{
+	"pokemonName":"Espurr"
+},
+{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+{
+	"pokemonName":"Spritzee"
+},
+{
+	"pokemonName":"Aromatisse"
+},
+{
+	"pokemonName":"Swirlix"
+},
+{
+	"pokemonName":"Slurpuff"
+},
+{
+	"pokemonName":"Inkay"
+},
+{
+	"pokemonName":"Malamar"
+},
+{
+	"pokemonName":"Amaura"
+},
+{
+	"pokemonName":"Aurorus"
+},
+{
+	"pokemonName":"Sylveon"
+},
+{
+	"pokemonName":"Carbink"
+},
+{
+	"pokemonName":"Klefki"
+},
+{
+	"pokemonName":"Trevenant"
+},
+{
+	"pokemonName":"Xerneas"
+}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"name": "Shell Smash",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Decreases the user's Defense and Special defense by one stage each, while increasing their Attack, Special Attack, and Speed by two stages each.",
+	"viability": "Largely considered to be the best boosting move in the game, Shell Smash can be used on any Pokemon that gets it. The best users are possibly Cloyster, Omastar, Barbaracle, and Gorebyss. This move is best used while holding White Herb, as it will reset the dropped Defense and Special Defense.N",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Omastar" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Magcargo" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Clamperl" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Crustle" },
+		{ "pokemonName": "Tirtouga" },
+		{ "pokemonName": "Carracosta" },
+		{ "pokemonName": "Binacle" },
+		{ "pokemonName": "Barbaracle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

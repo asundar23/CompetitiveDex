@@ -1,0 +1,255 @@
+{
+	"name": "Ancient Power",
+	"type": " Rock ",
+	"category": "Special",
+	"pp": "5",
+	"power": "60",
+	"note":"",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of raising Attack, Defense, Special Attack, Special Defense, and Speed all at once.",
+	"viability": "This is one of two viable specially offensive rock moves, the other being Power Gem. Power Gem is more powerful, so that's probably the better option. While the stat raises seem enticing, it's important to note that 10% is a very miniscule number. This does provide good coverage for Pokémon like Yanmega, though, who need it against Fire types. Otherwise, this move shouldn't really be used in favor of a different coverage move.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Articuno"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Celebi"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Regirock"
+		},
+		{
+			"pokemonName": "Regice"
+		},
+		{
+			"pokemonName": "Registeel"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "Bastiodon"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Heatran"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Aurorus"
+		},
+		{
+			"pokemonName": "Carbink"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Chikorita"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Substitute",
+	"note": "All Pokémon who can learn TMs can learn Substitute except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Using 25% of its maximum HP, the user creates a substitute with 1 more HP than the amount of HP lost by the user. The Substitute takes damage and status moves, which doesn't affect the user. Sound-based moves and Pokemon with Infiltrator can hit through Substitute.",
+	"viability": "Substitute is so common in any environment. it can absorb damage and allow for a Pokemon to set up entry hazard, Toxic-stall, set up boosting moves, anything. The most common ways to deal with Substitutes are to just break it, Hyper Voice, Bug Buzz, and Boomburst. It is absolutely worth running.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Kecleon" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Rotom" },
+		{ "pokemonName": "Froakie" },
+		{ "pokemonName": "Frogadier" },
+		{ "pokemonName": "Greninja" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

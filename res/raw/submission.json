@@ -1,0 +1,28 @@
+{
+	"name": "Submission",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "80",
+	"accuracy": "80",
+	"summary": "Deals damage, and the user receives recoil damage equal to 1/4 of the damage done to the target.",
+	"viability": "Submission isn't as good as Drain Punch, Close Combat, High Jump Kick, or even Hammer Arm. Don't bother with Submission.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Poliwrath" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Machoke" },
+		{ "pokemonName": "Machamp" },
+		{ "pokemonName": "Pinsir" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Drilbur" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

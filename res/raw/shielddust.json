@@ -1,0 +1,28 @@
+{
+	"name":"Shield Dust",
+	"summary": "When the Pokémon is hit by an attack, all additional effects are negated.",
+	"viability": "While this is a good ability, there are two problems. First, the Pokémon that get Shield Dust are generally terrible and you would be wise to never use them in battle. Second, the two Pokémon that are actually useful, Venomoth and Vivillon, have way better abilities (Tinted Lens and Wonder Skin for the former, and Compound Eyes for the latter).",
+	"pokemon":[
+		{
+			"pokemonName": "Caterpie"
+		},
+		{
+			"pokemonName": "Weedle"
+		},
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Wurmple"
+		},
+		{
+			"pokemonName": "Dustox"
+		},
+		{
+			"pokemonName": "Scatterbug"
+		},
+		{
+			"pokemonName": "Vivillon"
+		}
+	]
+}

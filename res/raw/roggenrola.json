@@ -1,0 +1,341 @@
+{ 
+	 "name": "Roggenrola",
+	"types": [
+		" Rock "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Roggenrola" },
+   		{ "pokemonName":"Boldore" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Boldore" },
+   		{ "pokemonName":"Gigalith" }
+   ],
+   "evolutionType":[
+   		"Level 25",
+   		"Trade"
+   ],
+	"stats": [
+		55,
+		75,
+		85,
+		25,
+		25,
+		15
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 10,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 14,
+			"move": "Rock Blast",
+			"type": " Rock "
+		},
+		{
+			"level": 17,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 23,
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"level": 27,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 30,
+			"move": "Stealth Rock",
+			"type": " Rock "
+		},
+		{
+			"level": 33,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 36,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 40,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Autotomize",
+			"pokemon": [
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Aegislash"}
+			],
+			"type": " Steel "
+	},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Ghost "
+	},
+		{
+			"move": "Gravity",
+			"pokemon": [
+				{"pokemonName": "Probopass"}
+			],
+			"type": " Psychic "
+	},
+		{
+			"move": "Heavy Slam",
+			"pokemon": [
+				{"pokemonName": "Golem"}
+			],
+			"type": " Steel "
+	},
+		{
+			"move": "Lock-On",
+			"pokemon": [
+				{"pokemonName": "Nosepass"},
+				{"pokemonName": "Probopass"}
+			],
+			"type": " Normal "
+	},
+		{
+			"move": "Magnitude",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"}
+			],
+			"type": " Ground "
+	},
+		{
+			"move": "Rock Tomb",
+			"pokemon": [
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Sudowoodo"},
+				{"pokemonName": "Steelix"}
+			],
+			"type": " Rock "
+	},
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Trubbish"}
+			],
+			"type": " Normal "
+	},
+		{
+			"move": "Wide Guard",
+			"pokemon": [
+				{"pokemonName": "Dwebble"}
+			],
+			"type": " Rock "
+		}
+	],
+	"tutorMoveList": [
+		"Block",
+		"Earth Power",
+		"Gravity",
+		"Iron Defense",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+
+	],
+	"locations": [
+		{"Location": "Wellspring Cave"},
+		{"Location": "Wellspring Cave"},
+		{"Location": "Relic Passage"},
+		{"Location": "Relic Passage"},
+		{"Location": "Reflection Cave"},
+		{"Location": "Reflection Cave"}
+	],
+	"abilities": [
+		"Sturdy",
+		"Sand Force"
+	],
+	"sets": [
+	]
+}

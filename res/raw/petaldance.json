@@ -1,0 +1,36 @@
+{
+	"name": "Petal Dance",
+	"note": "",
+	"type":" Grass ",
+	"category": "Special",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage for 2-3 turns. At the end the user gets confused.",
+	"viability": "The only real use of this move is through Lilligant, who doesn't get confused through Own Tempo. Otherwise, being locked into a Grass-type move is to your detriment.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Venusaur" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Vileplume" },
+		{ "pokemonName": "Meganium" },
+		{ "pokemonName": "Bellossom" },
+		{ "pokemonName": "Sunflora" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Cherrim" },
+		{ "pokemonName": "Lilligant" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

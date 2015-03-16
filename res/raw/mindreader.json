@@ -1,0 +1,39 @@
+{
+	"name": "Mind Reader",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The next move made by the user of this move will not miss, even in a semi-invulnerable turn.",
+	"viability": "There could be some benefits, like Lock-On, but it would have to be a really specific case. You're better off using this moveslot on another move and risking the accuracy",
+	"pokemonByLevel": [
+		{ "pokemonName": "Poliwrath" },
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Breloom" },
+		{ "pokemonName": "Nincada" },
+		{ "pokemonName": "Ninjask" },
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Surskit" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Sewaddle" },
+		{ "pokemonName": "Shelmet" },
+		{ "pokemonName": "Froakie" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

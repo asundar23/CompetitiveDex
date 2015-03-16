@@ -1,0 +1,33 @@
+{
+	"name": "Bone RUsh",
+	"note": "",
+	"type": " Ground ",
+	"category": "Physica",
+	"pp": "10",
+	"power": "25",
+	"accuracy": "90",
+	"summary": "Hits 2-5 times in a turn. There is a 1/3 chance it will hit 2 or 3 times, and 1/6 4 or 5 times.",
+	"viability": "On average, you'll hit this around 3-4 times, giving it an average of about 80 base power. It isn't a very good move, as a result. Not when Earthquake or Bonemerang exist.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

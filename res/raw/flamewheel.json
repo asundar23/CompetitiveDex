@@ -1,0 +1,37 @@
+{
+	"name": "Flame Wheel",
+	"note": "",
+	"type":" Fire ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage. Thaws out the user if frozen, and has a 10% chance of burning the target.",
+	"viability": "Even with thawing out, this move is pretty poor. Freeze is such a lot chance that you don't really need to run a move to deal with it. Even so, Heal Bell and Aromatherapy are just better.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Arcanina" },
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Quilava" },
+		{ "pokemonName": "Typhlosion" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Monferno" },
+		{ "pokemonName": "Infernape" },
+		{ "pokemonName": "Larvesta" },
+		{ "pokemonName": "Volcarona" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rattata" },
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Darumaka" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

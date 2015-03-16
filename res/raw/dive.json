@@ -1,0 +1,167 @@
+{
+	"name": "Dive",
+	"note": "",
+	"type":" Water ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Two turn attack; on the first turn the user dives underneath. On the next turn, it will attack. Although it can avoid most attacks in the semi-invulnerable state, Surf and Whirlpool do double damage. The user can be hit if the target has used Lock-On or Mind Reader or has No Guard as its ability. Last, if the user is holding a Power Herb the entire move will execute in one turn.",
+	"viability": "Two-turn moves are usually awful because of the ability to easily switch into a Pokémon that resists or is immune to the attack. In addition, Surf is one of the most widely distributed and powerful moves in the entire game, and taking double damage will definitely disaster.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Phione"
+		},
+		{
+			"pokemonName": "Manaphy"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+		{"pokemonName": "Squirtle"},
+{"pokemonName": "Wartortle"},
+{"pokemonName": "Blastoise"},
+{"pokemonName": "Psyduck"},
+{"pokemonName": "Golduck"},
+{"pokemonName": "Poliwag"},
+{"pokemonName": "Poliwhirl"},
+{"pokemonName": "Poliwrath"},
+{"pokemonName": "Tentacool"},
+{"pokemonName": "Tentacruel"},
+{"pokemonName": "Slowpoke"},
+{"pokemonName": "Slowbro"},
+{"pokemonName": "Seel"},
+{"pokemonName": "Dewgong"},
+{"pokemonName": "Shellder"},
+{"pokemonName": "Cloyster"},
+{"pokemonName": "Krabby"},
+{"pokemonName": "Kingler"},
+{"pokemonName": "Horsea"},
+{"pokemonName": "Seadra"},
+{"pokemonName": "Goldeen"},
+{"pokemonName": "Seaking"},
+{"pokemonName": "Staryu"},
+{"pokemonName": "Starmie"},
+{"pokemonName": "Gyarados"},
+{"pokemonName": "Lapras"},
+{"pokemonName": "Vaporeon"},
+{"pokemonName": "Omanyte"},
+{"pokemonName": "Omastar"},
+{"pokemonName": "Kabutops"},
+{"pokemonName": "Dragonite"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Totodile"},
+{"pokemonName": "Croconaw"},
+{"pokemonName": "Feraligatr"},
+{"pokemonName": "Chinchou"},
+{"pokemonName": "Lanturn"},
+{"pokemonName": "Marill"},
+{"pokemonName": "Azumarill"},
+{"pokemonName": "Politoed"},
+{"pokemonName": "Wooper"},
+{"pokemonName": "Quagsire"},
+{"pokemonName": "Slowking"},
+{"pokemonName": "Qwilfish"},
+{"pokemonName": "Remoraid"},
+{"pokemonName": "Octillery"},
+{"pokemonName": "Mantine"},
+{"pokemonName": "Kingdra"},
+{"pokemonName": "Suicune"},
+{"pokemonName": "Lugia"},
+{"pokemonName": "Mudkip"},
+{"pokemonName": "Marshtomp"},
+{"pokemonName": "Swampert"},
+{"pokemonName": "Lombre"},
+{"pokemonName": "Ludicolo"},
+{"pokemonName": "Carvanha"},
+{"pokemonName": "Sharpedo"},
+{"pokemonName": "Wailmer"},
+{"pokemonName": "Wailord"},
+{"pokemonName": "Barboach"},
+{"pokemonName": "Whiscash"},
+{"pokemonName": "Crawdaunt"},
+{"pokemonName": "Feebas"},
+{"pokemonName": "Milotic"},
+{"pokemonName": "Spheal"},
+{"pokemonName": "Sealeo"},
+{"pokemonName": "Walrein"},
+{"pokemonName": "Clamperl"},
+{"pokemonName": "Huntail"},
+{"pokemonName": "Gorebyss"},
+{"pokemonName": "Relicanth"},
+{"pokemonName": "Luvdisc"},
+{"pokemonName": "Latias"},
+{"pokemonName": "Latios"},
+{"pokemonName": "Kyogre"},
+{"pokemonName": "Rayquaza"},
+{"pokemonName": "Piplup"},
+{"pokemonName": "Prinplup"},
+{"pokemonName": "Empoleon"},
+{"pokemonName": "Bibarel"},
+{"pokemonName": "Buizel"},
+{"pokemonName": "Floatzel"},
+{"pokemonName": "Shellos"},
+{"pokemonName": "Gastrodon"},
+{"pokemonName": "Finneon"},
+{"pokemonName": "Lumineon"},
+{"pokemonName": "Mantyke"},
+{"pokemonName": "Palkia"},
+{"pokemonName": "Phione"},
+{"pokemonName": "Manaphy"},
+{"pokemonName": "Oshawott"},
+{"pokemonName": "Dewott"},
+{"pokemonName": "Samurott"},
+{"pokemonName": "Panpour"},
+{"pokemonName": "Simipour"},
+{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+{"pokemonName": "Tirtouga"},
+{"pokemonName": "Carracosta"},
+{"pokemonName": "Ducklett"},
+{"pokemonName": "Swanna"},
+{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+{"pokemonName": "Alomomola"},
+{"pokemonName": "Beartic"}
+	],
+	"pokemonByTutor": [
+	]
+}

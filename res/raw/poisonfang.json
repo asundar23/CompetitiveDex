@@ -1,0 +1,37 @@
+{
+	"name": "Poison Fang",
+	"note": "",
+	"type":" Poison ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 50% chance to badly poison the Pokemon.",
+	"viability": "The only Pokemon that can make a slight use of it is Mega Sharpedo, who gets Strong Jaw, powering up Poison Fang. While the added effect is nice, it's just not powerful enough. Use Poison Jab instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "idoran-F" },
+		{ "pokemonName": "Nidorina" },
+		{ "pokemonName": "Zubat" },
+		{ "pokemonName": "Golbat" },
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Venomoth" },
+		{ "pokemonName": "Crobat" },
+		{ "pokemonName": "Carvanha" },
+		{ "pokemonName": "Sharpedo" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Skorupi" },
+		{ "pokemonName": "Drapion" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Tyrunt" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

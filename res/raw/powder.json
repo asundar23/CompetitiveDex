@@ -1,0 +1,22 @@
+{
+	"name": "Powder",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "If a Pokemon affected by Powder attempts to use a Fire-type Move during that turn, they take damage equal to 25% of their max HP and can't use the move.",
+	"viability": "Vivillon has enough problems than being hit by a Fire-type move, though it can be used against moves like Heat Wave. You can protect your partner, but generally Vivillon should focus on attacking.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Vivillon" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,653 @@
+{ 
+	 "name": "Dragonite",
+	"types": [
+		" Dragon ",
+		" Flying "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Dratini" },
+   		{ "pokemonName":"Dragonair" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Dragonair" },
+   		{ "pokemonName":"Dragonite" }
+   ],
+   "evolutionType":[
+   		"Level 30",
+   		"Level 55"
+   ],
+	"eggGroup": [
+		" Water 1 ",
+		" Dragon "
+	],
+	"stats": [
+		91,
+		134,
+		95,
+		100,
+		100,
+		80
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hurricane",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Fire Punch",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Punch",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 5,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 11,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 15,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 21,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 33,
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"level": 39,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 47,
+			"move": "Dragon Rush",
+			"type": " Dragon "
+		},
+		{
+			"level": 53,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 61,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 67,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 75,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 81,
+			"move": "Hurricane",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Aqua Jet",
+			"pokemon": [
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Dragon Breath",
+			"pokemon": [
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Dance",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Pulse",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Rush",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zewilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Extreme Speed",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonite"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Greninja"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Mist",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Supersonic",
+			"pokemon": [
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Psydduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Shellos"},
+				{"pokemonName": "Gastrodon"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Froakie"},
+				{"pokemonName": "Frogadier"},
+				{"pokemonName": "Greninja"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bind",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Fire Punch",
+		"Heat Wave",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Head",
+		"Iron Tail",
+		"Outrage",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Tailwind",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Mountain"},
+		{ "Location": "Dragonspiral Tower (Fishing in rippling water)"},
+		{ "Location": "Dragonspiral Tower (Fishing in rippling water)"},
+		{ "Location": "Dragonspiral Tower (Fishing in rippling water), Route 18 (Hidden Grotto)"},
+		{ "Location": "Dragonspiral Tower (Fishing in rippling water), Route 18 (Hidden Grotto)"},
+		{ "Location": "Evolve Dragonair"},
+		{ "Location": "Evolve Dragonair"}
+
+	],
+	"abilities": [
+		"Inner Focus",
+		"Multiscale"
+	],
+	"sets": [
+	]
+}

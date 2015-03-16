@@ -1,0 +1,24 @@
+{
+	"name": "Attack Order",
+	"type": " Bug ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a higher critical hit ratio.",
+	"viability": "Being Vespiqueen's signature move, this is an absolute must on her. The only more powerful Bug-type physical move is Megahorn, which she does not get. Vespiqueen isn't a great Pokémon, but if you choose to run her, Attack Order deserves a slot.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vespiquen"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

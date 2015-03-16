@@ -1,0 +1,531 @@
+{
+	"name":"Mega Banette",
+	"types": [
+		"Ghost"
+	],
+	"eggGroup": [
+		"Amorphous"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Shuppet" },
+   		{ "pokemonName":"Banette" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Banette" },
+   		{ "pokemonName":"Mega Banette" }
+   	],
+   "evolutionType":[
+   		"Level 37",
+   		"Banettite"
+   ],
+	"abilities": [
+		"Prankster"
+	],
+	"locations": [
+		{"Location": "Banettite can be found in the Chamber of Emptiness."},
+		{"Location": "Banettite can be found in the Chamber of Emptiness."},
+	],
+	"stats": [
+		64,
+		165,
+		75,
+		93,
+		83,
+		75
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Knock Off",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 4,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Spite",
+			"type": " Ghost "
+		},
+		{
+			"level": 13,
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"level": 16,
+			"move": "Shadow Sneak",
+			"type": " Ghost "
+		},
+		{
+			"level": 19,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 22,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Hex",
+			"type": " Ghost "
+		},
+		{
+			"level": 30,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 34,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 40,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 46,
+			"move": "Snatch",
+			"type": " Dark "
+		},
+		{
+			"level": 52,
+			"move": "Grudge",
+			"type": " Ghost "
+		},
+		{
+			"level": 58,
+			"move": "Trick",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Chimecho"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Gunk Shot",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "Imprison",
+			"pokemon": [
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Ominous Wind",
+			"pokemon": [
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Frillish"},
+				{"pokemonName": "Jellicent"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Phantom Force",
+			"pokemon": [
+				{"pokemonName": "Drifblim"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Drifblim"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Shadow Sneak",
+			"pokemon": [
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Foul Play",
+		"Icy Wind",
+		"Knock Off",
+		"Magic Coat",
+		"Pain Split",
+		"Role Play",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Spite",
+		"Trick"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"name": "Round",
+	"note": "All Pokémon who can learn TMs can learn Round except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "16",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, which doubles to 120 if used consecutively by an ally. If used by an ally, it will be directly after the first user, regardless of Speed.",
+	"viability": "Round can yield some interesting results. The only problem is that the first hit will be kind of weak, but that second will deal a lot damage. It's not a bad move in Doubles/Triples, but isn't recommended over soemthing like Hyper Voice.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jigglypuff" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Tympole" },
+		{ "pokemonName": "Palpitoad" },
+		{ "pokemonName": "Seismitoad" },
+		{ "pokemonName": "Meloetta-Aria" },
+		{ "pokemonName": "Froakie" },
+		{ "pokemonName": "Frogadier" },
+		{ "pokemonName": "Swirlix" },
+		{ "pokemonName": "Slurpuff" },
+		{ "pokemonName": "Amaura" },
+		{ "pokemonName": "Aurorus" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Barrage",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "15",
+	"accuracy": "85",
+	"summary": "Deals damage, and can hit 2-5 times in a turn. There is a 1/3 chance it will hit 2 or 3 times, and 1/6 4 or 5 times.",
+	"viability": "First of all, Exeggcute and Exeggutor aren't known for their Attack stat, so that makes this move automatically useless. Second, even if they were, they don't have Skill Link, or any other way to make this move more powerful. Third, if you were to somehow hit this move all 5 times, it would only accumulate 75 total base power. The bad accuracy doesn't really help it either.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Exeggutor"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

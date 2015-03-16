@@ -1,0 +1,33 @@
+{
+	"name": "Blaze Kick",
+	"note": "",
+	"type": " Fire ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "85",
+	"accuracy": "90",
+	"summary": "Deals damage, and has an increased critical hit ratio. In addition, Blaze Kick also has a 10% chance to burn the opponent.",
+	"viability": "Blaze Kick doesn't seem too good on paper, but it can be a very good coverage move on certain Pokémon. Hitmonlee and Genesect immediately come to mind. Especially with the latter, the ability to hit Steel types from a Physical side is very useful; it's only 90 base power away from Flamethrower as well, making it a toss-up between the two moves for Genesect. As for Hitmonlee, while these are better options due to Fire and Fighting sharing two strengths (Ice and Steel), Fire is only resisted by Rock (which Fighting is strong against), Dragon (which Fighting is neutral against), and Fire (which can be compensated by running Stone Edge or Earthquake).",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Blaziken"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Riolu"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

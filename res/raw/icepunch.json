@@ -1,0 +1,41 @@
+{
+	"name": "Ice Punch",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "75",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of freezing the opponent.",
+	"viability": "There aren't many physical Ice type moves out there, so this will have to do for many Pokemon. Feraligatr gets a noticeable boost with Sheer Force, making it a great coverage move for Grass types. The same can be said for Pokemon like Conkeldurr and Lopunny, who need a good coverage move. It's not a bad move at all, but lacks a bit of power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Regigigas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Totodile" },
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Scraggy" },
+		{ "pokemonName": "Cubchoo" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

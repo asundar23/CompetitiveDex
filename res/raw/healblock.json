@@ -1,0 +1,44 @@
+{
+	"name": "Heal Block",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.",
+	"viability": "Heal Block is decent in preventing Wish passing or Leftovers recovery, but doesn't see much use. It's a lot more productive to focus on healing your own Pokemon rather than preventing your opponent from doing so.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Celebi" },
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Lunatone" },
+		{ "pokemonName": "Solrock" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Bronzor" },
+		{ "pokemonName": "Bronzong" },
+		{ "pokemonName": "Dialga" },
+		{ "pokemonName": "Palkia" },
+		{ "pokemonName": "Giratina" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Gothorita" },
+		{ "pokemonName": "Gothitelle" },
+		{ "pokemonName": "Solosis" },
+		{ "pokemonName": "Duosion" },
+		{ "pokemonName": "Reuniclus" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" },
+		{ "pokemonName": "Thundurus" },
+		{ "pokemonName": "Klefki" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Yamask" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

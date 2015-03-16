@@ -1,0 +1,710 @@
+{ 
+	 "name": "Ursaring",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck":1,
+   "preEvolution":[
+   		{ "pokemonName":"Teddiursa" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Ursaring" }
+   ],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"stats": [
+		90,
+		130,
+		75,
+		75,
+		75,
+		55
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Covet",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 8,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Snore",
+			"type": " Normal "
+		},
+		{
+			"level": 58,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 67,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Belly Drum",
+			"pokemon": [
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Chesnaught"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Chip Away",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Close Combat",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Cross Chop",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutlant"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Simisage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Simipour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Play Rough",
+			"pokemon": [
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Seismic Toss",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Poochena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList":[
+		"Covet",
+		"Fire Punch",
+		"Gunk Shot",
+		"Hyper Voice",
+		"Ice Punch",
+		"Last Resort",
+		"Low Kick",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Thunder Punch",
+		"Uproar"
+	],
+	"locations": [
+		{ "Location": "Routes 216 and 217, Lake Acuity (Emerald)"},
+		{ "Location": "Routes 216 and 217, Lake Acuity (Emerald)"},
+		{ "Location": "Routes 216 and 217 (Emerald)"},
+		{ "Location": "Trade"},
+		{ "Location": "Route 28, Victory Road, Mt. Silver"},
+		{ "Location": "Forest"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Teddiursa"},
+		{ "Location": "Evolve Teddiursa"},
+		{ "Location": "Route 21"},
+		{ "Location": "Route 21"}
+
+	],
+	"abilities": [
+		"Guts",
+		"Quick Feet",
+		"Unnerve"
+	],
+	"sets": [
+	
+			{
+		"name": "Guts",
+		"item": [
+			"Flame Orb",
+			"Toxic Orb"
+		],
+		"ability": "Guts",
+		"nature": [
+			"Adamant"
+		],
+		"moves":[
+				"Facade",
+				"Protect",
+				"Earthquake",
+				"Play Rough"
+			],
+		"alternativemoves":[
+				"Close Combat",
+				"Stone Edge",
+				"Crunch"
+			],
+		"evs": [
+			"252 HP",
+			"252 Attack",
+			"4 Special Defense"
+		],
+		"setexplanation": "Ursaring already hits ridiculously hard. Guts just adds onto that. When inflicted with a status move, Guts activates, and increases the user's Attack by 50%. It also will ignore any burn.br /><br /> With Ursaring, deciding between a Toxic or Flame Orb is up to preference. Toxic Orb is good for hit-and-run Pokémon; stay in one turn, two turns tops. Flame Orb is better is the Pokémon will have to be in there for a longer time. It's important to note that Toxic and Flame Orb will have the same residual output after three turns.<br /><br /> <font color='#FFB2B2'><strong>Protect</strong></font> is there to make sure that the desired status from the orb is inflicted upon Ursaring. You don't want to get paralyzed or put to sleep before your Orb activates. <font color='#FFB2B2'><strong>Facade</strong></font> is your main STAB move; <font color='#FFB2B2'><strong>Facade</strong></font> doubles in power, from 70 to 140, when Ursaring is inflicted. Add to that the 1.5x boost from Guts, combined with Ursaring's sky-high Attack, and you have one hard hitter on your team.<br /><br /> The rest of the moves take advantage of Ursaring's great movepool. <font color='#FFB2B2'><strong>Crunch</strong></font> is necessary for Ghost-types, and <font color='#FFB2B2'><strong>Play-Rough</strong></font> can take out Fighting types easily. <font color='#FFB2B2'><strong>Earthquake</strong></font> deals with Steel-types, and <font color='#FFB2B2'><strong>Stone-Edge</strong></font> talkes care of Flying, Bug, Fire, and Ice types. <font color='#FFB2B2'><strong>Close-Combat</strong></font> is also a viable option, but might not be wise for this set since Ursaring is too slow and taking damage with dropped defenses could spell trouble.<br /><br /> It's recommended to go with <font color='#FFB2B2'><strong>Crunch</strong></font> and <font color='#FFB2B2'><strong>Earthquake</strong></font>, but <font color='#FFB2B2'><strong>Play-Rough</strong></font> and <font color='#FFB2B2'><strong>Stone-Edge</strong></font> are fine choIces. If you have necessary support to take out Ghost-types, <font color='#FFB2B2'><strong>Play-Rough</strong></font> is probably the best option, since Fairy-type moves can deal a wide range of damage. Maximize HP in order to get the full bulk out of Ursaring; maxing out the Attack stat and giving it Adamant nature, combined with Guts, gives it a total Attack stat (at level 100) of 591. This is hard enough to break almost any Physical wall.",
+		"checksandcounters": "Ursaring is way down there in terms of Speed. This means that Pokémon with at least 56 base Speed will be able to knock out Ursaring in one shot. In addition, your Pokémon can even set up font color='#FFB2B2'><strong>Substitute</strong></font> as Ursaring's residual damage take a toll. It's a hard hitting set, but dealing with it isn't too hard because of its horrendous Speed.<br /><br /> <font color='#9999E6'><strong>Gurdurr</strong></font> is bulky enough, and with Eviolite, can sponge even a <font color='#FFB2B2'><strong>Facade</strong></font> and knock it out with Drain Punch, restoring any HP lost. <font color='#9999E6'><strong>Doublade</strong></font>, also with Eviolite, is another good counter. Even a Guts-boosted <font color='#FFB2B2'><strong>Crunch</strong></font> won't be enough to knock it out due to its very high Physical defense.",
+		"damagecalc": "<strong> 252 HP, 0 Defense  <font color='#9999E6'>JellIcent</strong></font> <br /><br /> <font color='#FFB2B2'><strong>Crunch</strong></font> does 95 - 112.3%, which is a 75% to OHKO; this is guaranteed after <font color='#FFB2B2'><strong>Stealth-Rock</strong></font>. <br /><br /><strong> 252 HP, 252 Defense, Bold  <font color='#9999E6'>Porygon2</strong></font> <br /><br /> * <font color='#FFB2B2'><strong>Close Combat</strong></font>, Guts-boosted, does 59.3 - 70%, which is a guaranteed 2HKO. <br /><br />* <font color='#FFB2B2'><strong>Facade</strong></font>, Guts-boosted, does 56.9 - 67.3%, which is also a guaranteed 2HKO. <br /><br /><strong> 252 HP, 252 Defense, Impish <font color='#9999E6'>Steelix</strong></font> <br /><br /> Close Combat does 52.5 - 62.1%, which is a 98.8% to 2HKO; this is guaranteed after <font color='#FFB2B2'><strong>Stealth-Rock</strong></font>. "
+	},
+	
+	{
+		"name": "Quick Bear",
+		"item": [
+			"Toxic Orb"
+		],
+		"ability": "Quick Feet",
+		"nature": [
+			"Jolly"
+		],
+		"moves":[
+				"Facade",
+				"Close Combat",
+				"Crunch",
+				"Swords Dance"
+			],
+		"alternativemoves":[
+				"Stone Edge",
+				"Protect",
+				"Earthquake",
+				"Play Rough"
+			],
+		"evs": [
+			"252 Attack",
+			"252 Speed",
+			"4 HP"
+		],
+		"setexplanation": "Due to Ursaring's terrible Speed, Quick Feet is a risky but well worth option. In order for this set to fully work, though, Jolly nature is a must. Setting up with font color='#FFB2B2'><strong>Swords Dance</font> is the key to this set, though, as once you have the appropriate Speed (should reach 343 at level 100) and have a +2 Attack, you are nearly unstoppable.<br /><br /> <font color='#FFB2B2'><strong>Facade</font>, once again, is the move of choIce. It hits at a base power 140 when Ursaring is status'ed, and <font color='#FFB2B2'><strong>Toxic</font> Orb will be doing the job. Toxic Orb over Flame Orb is better because of the fact that a Flame Orb will actually cut your Attack in Half, unlike with the Guts set.<br /><br /> <font color='#FFB2B2'><strong>Close Combat</font> and <font color='#FFB2B2'><strong>Crunch</font> are the two remaining moves here. <font color='#FFB2B2'><strong>Close Combat</font> hits Steel types like <font color='#9999E6'><strong>Steelix</font> hard, while <font color='#FFB2B2'><strong>Crunch</font> will take care of Ghosts, who will otherwise be immune to Ursaring.<br /><br /> Something to watch out for is Ursaring's longevity; it's best to switch in on a Pokémon that can't touch you, usually a defensive Pokémon. Wish passing will work the best on a set like this, especially with <font color='#9999E6'><strong>Alomomola</font>.",
+		"checksandcounters": "Scarfed font color='#9999E6'><strong><font color='#9999E6'><strong>Sawk</font> is pretty much the best check. Since Sawk in all respects is faster, one Close Combat will easily knock out Ursaring.<br /><br /> <font color='#9999E6'><strong>Steelix</strong></font> can phase out Ursaring using <font color='#FFB2B2'><strong>Roar</strong></font> or <font color='#FFB2B2'><strong>Dragon Tail</font>, in addition to taking one <font color='#FFB2B2'><strong>Close Combat</font>. A bulky physically defensive Pokémon like <font color='#9999E6'><strong>Qwilfish</font> or <font color='#9999E6'><strong>Alomomola</font> are also great switches.",
+		"damagecalc": "strong> 252 HP, 252 Defense, Impish <font color='#9999E6'>Steelix</font> <br /><br /> +2 <font color='#FFB2B2'><strong>Close Combat</font> does 63.8 - 75.7%, which is a guaranteed 2HKO. <br /><br /><strong> 252 HP, 252 Defense, Bold/Impish <font color='#9999E6'>Alomomola</font> <br /><br /> * +2 <font color='#FFB2B2'><strong>Facade</font> does 71.3 - 83.8%, which is a guaranteed 2HKO * Unboosted <font color='#FFB2B2'><strong>Facade</font> does only 35.5 - 42.1%. This only has an 89.1% chance of 3HKO'ing the Pokémon, making that <font color='#FFB2B2'><strong>Swords Dance</font> boost even more needed, "
+		}
+	]
+}

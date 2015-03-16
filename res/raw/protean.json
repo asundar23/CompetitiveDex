@@ -1,0 +1,19 @@
+{
+	"name":"Protean",
+	"summary": "Before using any move, the user will change its type to the type of the most about to be used. In the case of Hidden Power, the user will change its type to the type of the Hidden Power.",
+	"viability": "STAB on everything? The ability to change types and fool your opponent? Protean is amazing, and the reason that Kecleon is now relevant and Greninja is so good with Life Orb. It helps that both have very diverse movepools to help validate Protean.",
+	"pokemon":[
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Frogadier"
+		},
+		{
+			"pokemonName": "Greninja"
+		}
+	]
+}

@@ -1,0 +1,407 @@
+{
+   "name":"Spinarak",
+   "types":[
+      " Bug ",
+      " Poison "
+   ],
+   "eggGroup":[
+      " Bug "
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Spinarak" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Aridos" }
+   ],
+   "evolutionType":[
+   		"Level 22"
+   ],
+   "stats":[
+      40,
+      60,
+      40,
+      40,
+      40,
+      30
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Poison Sting",
+         "type":" Poison "
+      },
+      {
+         "level":1,
+         "move":"String Shot",
+         "type":" Bug "
+      },
+      {
+         "level":5,
+         "move":"Scary Face",
+         "type":" Normal "
+      },
+      {
+         "level":8,
+         "move":"Constrict",
+         "type":" Normal "
+      },
+      {
+         "level":12,
+         "move":"Leech Life",
+         "type":" Bug "
+      },
+      {
+         "level":15,
+         "move":"Night Shade",
+         "type":" Ghost "
+      },
+      {
+         "level":19,
+         "move":"Shadow Sneak",
+         "type":" Ghost "
+      },
+      {
+         "level":22,
+         "move":"Fury Swipes",
+         "type":" Normal "
+      },
+      {
+         "level":26,
+         "move":"Sucker Punch",
+         "type":" Dark "
+      },
+      {
+         "level":29,
+         "move":"Spider Web",
+         "type":" Bug "
+      },
+      {
+         "level":33,
+         "move":"Agility",
+         "type":" Psychic "
+      },
+      {
+         "level":36,
+         "move":"Pin Missile",
+         "type":" Bug "
+      },
+      {
+         "level":40,
+         "move":"Psychic",
+         "type":" Psychic "
+      },
+      {
+         "level":43,
+         "move":"Poison Jab",
+         "type":" Poison "
+      },
+      {
+         "level":47,
+         "move":"Cross Poison",
+         "type":" Poison "
+      },
+      {
+         "level":50,
+         "move":"Sticky Web",
+         "type":" Bug "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM01",
+         "move":"Hone Claws",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM09",
+         "move":"Venoshock",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM29",
+         "move":"Psychic",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM36",
+         "move":"Sludge Bomb",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM46",
+         "move":"Thief",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM76",
+         "move":"Struggle Bug",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM81",
+         "move":"X-Scissor",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM83",
+         "move":"Infestation",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM84",
+         "move":"Poison Jab",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+
+   ],
+"breedMoveList":[
+      {
+         "move":"Baton Pass",
+         "pokemon":[
+            {"pokemonName":"Ledyba"},
+            {"pokemonName":"Ledian"},
+            {"pokemonName":"Surskit"},
+            {"pokemonName":"Masquerain"},
+            {"pokemonName":"Ninjask"},
+            {"pokemonName":"Scolipede"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Disable",
+         "pokemon":[
+            {"pokemonName":"Venonat"},
+            {"pokemonName":"Venomoth"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Electroweb",
+         "pokemon":[
+            {"pokemonName":"Joltik"},
+            {"pokemonName":"Galvantula"}
+         ],
+         "type":" Electric "
+      },
+      {
+         "move":"Megahorn",
+         "pokemon":[
+            {"pokemonName":"Heracross"},
+            {"pokemonName":"Scolipede"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Night Slash",
+         "pokemon":[
+            {"pokemonName":"Scyther"},
+            {"pokemonName":"Scizor"},
+            {"pokemonName":"Heracross"},
+            {"pokemonName":"Krickitune"},
+            {"pokemonName":"Skorupi"},
+            {"pokemonName":"Drapion"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Gliscor"}
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Psybeam",
+         "pokemon":[
+            {"pokemonName":"Butterfree"},
+            {"pokemonName":"Venonat"},
+            {"pokemonName":"Venomoth"},
+            {"pokemonName":"Dustok"},
+            {"pokemonName":"Mothim"},
+            {"pokemonName":"Vivillon"}
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Pursuit",
+         "pokemon":[
+            {"pokemonName":"Beedrill"},
+            {"pokemonName":"Scyther"},
+            {"pokemonName":"Scizor"},
+            {"pokemonName":"Yanma"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Skorupi"},
+            {"pokemonName":"Drapion"},
+            {"pokemonName":"Venipede"},
+            {"pokemonName":"Whirlipede"},
+            {"pokemonName":"Scolipede"}
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Rage Powder",
+         "pokemon":[
+            {"pokemonName":"Butterfree"},
+            {"pokemonName":"Paras"},
+            {"pokemonName":"Parasect"},
+            {"pokemonName":"Volcarona"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Signal Beam",
+         "pokemon":[
+            {"pokemonName":"Venonat"},
+            {"pokemonName":"Venomoth"},
+            {"pokemonName":"Volbeat"},
+            {"pokemonName":"Joltik"},
+            {"pokemonName":"Galvantula"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"SonicBoom",
+         "pokemon":[
+            {"pokemonName":"Yanma"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Vibrava"},
+            {"pokemonName":"Flygon"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Toxic Spikes",
+         "pokemon":[
+            {"pokemonName":"Beedrill"},
+            {"pokemonName":"Foretress"},
+            {"pokemonName":"Skorupi"},
+            {"pokemonName":"Drapion"}
+         ],
+         "type":" Poison "
+      },
+      {
+         "move":"Twineedle",
+         "pokemon":[
+            {"pokemonName":"Beedrill"},
+           {"pokemonName": "Escavalier"}
+         ],
+         "type":" Bug "
+      }
+   ],
+   "tutorMoveList": [
+		"Bounce",
+		"Bug Bite",
+		"Electroweb",
+		"Foul Play",
+		"Giga Drain",
+		"Signal Beam",
+		"Sleep Talk"
+	],
+   "locations":[
+      {"Location": "Breed Ariados"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Routes (30,31,37 at Night), Route 2 (Morning/Night), Headbutt Trees"},
+      {"Location": "Trade"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Trade"},
+      {"Location": "Breed Ariados"},
+      {"Location": "Breed Ariados"}
+   ],
+   "abilities":[
+      "Swarm",
+      "Insomnia",
+      "Sniper"
+   ],
+   "sets":[
+
+   ]
+}

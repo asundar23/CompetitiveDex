@@ -1,0 +1,404 @@
+{ 
+	 "name": "Gourgeist-Small",
+	"types": [
+		" Ghost ",
+		" Grass "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Pumpkaboo-Small" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Gourgeist-Small" }
+   	],
+   "evolutionType":[
+   		"Trade"
+   ],
+	"stats": [
+		55,
+		85,
+		122,
+		58,
+		75,
+		99
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Phantom Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 4,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Trick-or-Treat",
+			"type": " Ghost "
+		},
+		{
+			"level": 11,
+			"move": "Worry Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 16,
+			"move": "Razor Leaf",
+			"type": " Grass "
+		},
+		{
+			"level": 20,
+			"move": "Leech Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 23,
+			"move": "Trick-or-Treat",
+			"type": " Ghost "
+		},
+		{
+			"level": 26,
+			"move": "Bullet Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 30,
+			"move": "Shadow Sneak",
+			"type": " Ghost "
+		},
+		{
+			"level": 36,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 40,
+			"move": "Trick-or-Treat",
+			"type": " Ghost "
+		},
+		{
+			"level": 42,
+			"move": "Pain Split",
+			"type": " Normal "
+		},
+		{
+			"level": 48,
+			"move": "Seed Bomb",
+			"type": " Grass "
+		},
+		{
+			"level": 57,
+			"move": "Phantom Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 63,
+			"move": "Trick-or-Treat",
+			"type": " Ghost "
+		},
+		{
+			"level": 70,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 75,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Bestow",
+			"pokemon": [
+				{"pokemonName": "Phantump"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Evolve Pumpkaboo"},
+		{"Location": "Evolve Pumpkaboo"}
+	],
+	"abilities": [
+		"Pickup",
+		"Frisk",
+		"Insomnia"
+	],
+	"sets": [
+	]
+}

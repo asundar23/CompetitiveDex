@@ -1,0 +1,62 @@
+{ 
+	 "name": "Unown",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		48,
+		72,
+		48,
+		72,
+		48,
+		48
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hidden Power",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Solaceon Ruins (different forms appear in different rooms)"},
+		{"Location": "Solaceon Ruins (different forms appear in different rooms)"},
+		{"Location": "Solaceon Ruins (different forms appear in different rooms)"},
+		{"Location": "Ruins of Alph B1F (different letters appear when puzzles are solved), Ruins of Alph 1F (! and ? forms only; appears after finding all Unown letters)"},
+		{"Location": "Ruins of Alph B1F (different letters appear when puzzles are solved), Ruins of Alph 1F (! and ? forms only; appears after finding all Unown letters)"},
+		{"Location": "Forest"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

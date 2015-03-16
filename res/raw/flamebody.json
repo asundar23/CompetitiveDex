@@ -1,0 +1,55 @@
+{
+	"name":"Flame Body",
+	"summary": "If the opponent makes contact, there is a 30% chance they get burned.",
+	"viability": "Flame Body is good, depending on the capabilities and bulk of the Pokémon. Rapidash, for example, can't really take a hit so Flash Fire is recommended. Volcarona, on the other hand, is much bulkier, and given its poor Defense will really benefit from Flame Body. Most Pokémon outside Volcarona have better abilities to use, but that doesn't mean stay away from it.",
+	"pokemon":[
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Heatran"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Chandelure"
+		},
+		{
+			"pokemonName": "Larvesta"
+		},
+		{
+			"pokemonName": "Volcarona"
+		},
+		{
+			"pokemonName": "Fletchinder"
+		},
+		{
+			"pokemonName": "Talonflame"
+		}
+	]
+}

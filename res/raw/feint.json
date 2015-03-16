@@ -1,0 +1,147 @@
+{
+	"name": "Feint",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "30",
+	"accuracy": "100",
+	"summary": "Deals damage. Hits through Protect, Detect, Spiky Shield, King's Shield, lifts the effects of Wide Guard and Quick Guard, and removes Crafty Shield from the target's team.",
+	"viability": "While useless in Singles, in Doubles and Triples it can be a very good support move. It blocks and removes so many popular support moves for the opponent's allies, so in that regards can serve your teamvery well.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Elekis"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

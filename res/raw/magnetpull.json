@@ -1,0 +1,22 @@
+{
+	"name":"Magnet Pull",
+	"summary": "Prevents Steel-type Pokémon from switching out as long as the user is in battle. Baton Pass, U-Turn, Volt Switch, or Parting Shot will not prevent the opponent from switching. In Doubles and Triples, Arena Trap doesn't affect Allies, and Ghost Pokémon are immune.",
+	"viability": "With Skarmory and Ferrothorn being such common leads, Magnet Pull makes Magnezone the perfect anti-lead. For Skarmory, Magnezone can fire Thunderbolt, and for Ferrothorn it can use Hidden Power Fire. Either way, these are both usually OHKO's, and will prevent them from setting up entry hazards.",
+	"pokemon":[
+		{
+			"pokemonName": "Magnemite"
+		},
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Probopass"
+		}
+	]
+}

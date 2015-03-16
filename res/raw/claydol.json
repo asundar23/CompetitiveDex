@@ -1,0 +1,512 @@
+{ 
+	 "name": "Claydol",
+	"types": [
+		" Ground ",
+		" Psychic "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 10,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 13,
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"level": 16,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 22,
+			"move": "Cosmic Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Power Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 28,
+			"move": "Self-Destruct",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 46,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 52,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 58,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Baltoy" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Claydol" }
+   	],
+   "evolutionType":[
+   		"Level 36"
+   ],
+	"stats": [
+		80,
+		70,
+		105,
+		70,
+		120,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 10,
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"level": 13,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 17,
+			"move": "Power Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 21,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 25,
+			"move": "Selfdestruct",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 31,
+			"move": "Cosmic Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 47,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 54,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 61,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Drill Run",
+		"Earth Power",
+		"Gravity",
+		"Magic Coat",
+		"Recycle",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Trick",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Trade"},
+		{ "Location": "Mountain"},
+		{ "Location": "Relic Castle (Volcarona's room)"},
+		{ "Location": "Relic Castle (Volcarona's room)"},
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Evolve Baltoy"},
+		{ "Location": "Poké Transporter"},
+		{ "Location": "Poké Transporter"}
+
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

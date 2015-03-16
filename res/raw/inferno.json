@@ -1,0 +1,37 @@
+{
+	"name": "Inferno",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "50",
+	"summary": "Deals damage and will always burn the target if it hits.",
+	"viability": "Unlike cousin Dynamic Punch, there is no No Guard user capable of utilizing this move. Don't use it; there are far better options out there.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Charmeleon" },
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Quilava" },
+		{ "pokemonName": "Typhlosion" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Houndoom" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Slugma" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

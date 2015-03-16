@@ -1,0 +1,477 @@
+{ 
+	 "name": "Barbaracle",
+	"types": [
+		" Rock ",
+		" Water "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Binacle" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Barbaracle" }
+   	],
+   "evolutionType":[
+   		"Level 39"
+   ],
+	"eggGroup": [
+		" Water 3 "
+	],
+	"stats": [
+		72,
+		105,
+		115,
+		54,
+		86,
+		68
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Skull Bash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 4,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 7,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 10,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Clamp",
+			"type": " Water "
+		},
+		{
+			"level": 24,
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"level": 28,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 32,
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 44,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 48,
+			"move": "Razor Shell",
+			"type": " Water "
+		},
+		{
+			"level": 55,
+			"move": "Cross Chop",
+			"type": " Fighting "
+		},
+		{
+			"level": 60,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 65,
+			"move": "Skull Bash",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Clauncher"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Corphish"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Water Sport",
+			"pokemon": [
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Friend Safari (Rock)"},
+		{ "Location": "Friend Safari (Rock)"}
+
+	],
+	"abilities": [
+		"Sniper",
+		"Tough Claws",
+		"Pickpocket"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,511 @@
+{ 
+	 "name": "Shuckle",
+	"types": [
+		" Bug ",
+		" Rock "
+	],
+	"setCheck": "1",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		20,
+		10,
+		230,
+		10,
+		230,
+		5
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sticky Web",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 5,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"level": 16,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 23,
+			"move": "Rock Throw",
+			"type": " Rock "
+		},
+		{
+			"level": 27,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 31,
+			"move": "Power Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 42,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 45,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 53,
+			"move": "Sticky Web",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid",
+			"pokemon": [
+				{"pokemonName": "Shelmet"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Acupressure",
+			"pokemon": [
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Final Gambit",
+			"pokemon": [
+				{"pokemonName": "Shelmet"},
+				{"pokemonName": "Accelgor"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Leavanny"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Rock Blast",
+			"pokemon": [
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Sand Tomb",
+			"pokemon": [
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Sweet Scent",
+			"pokemon": [
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Combee"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Bind",
+		"Bug Bite",
+		"Earth Power",
+		"Gastro Acid",
+		"Helping Hand",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+
+	],
+	"locations": [
+		{ "Location": "Route 224 (Emerald)"},
+		{ "Location": "Route 224 (Emerald)"},
+		{ "Location": "Route 224 (Emerald)"},
+		{ "Location": "Received from a PokéManiac in Cianwood City"},
+		{ "Location": "Cianwood City and Vermilion City (Rock Smash)Received from a PokéManiac in Cianwood City"},
+		{ "Location": "Cianwood City and Vermilion City (Rock Smash)Sea"},
+		{ "Location": "Route 14"},
+		{ "Location": "Route 14"},
+		{ "Location": "Seaside Cave"},
+		{ "Location": "Seaside Cave"},
+		{ "Location": "Friend Safari (Rock), Route 18, Terminus Cave, Victory Road (Rock Smash)"},
+		{ "Location": "Friend Safari (Rock), Route 18, Terminus Cave, Victory Road (Rock Smash)"}
+
+	],
+	"abilities": [
+		"Sturdy",
+		"Gluttony",
+		"Contrary"
+	],
+	"sets": [
+	
+		{
+			"name": "Shell Smash Wall",
+			"item":[
+				 "Leftovers",
+				 "Chesto Berry"
+			],
+			"ability": "Contrary",
+			"nature":[
+				 "Calm",
+				 "Bold"
+			],
+			"evs":[
+				"252 HP",
+				"252 (or 128) Defense/Special Defense",
+				"4 (or 128) Special Defense/Defense"
+			],
+			"moves":[
+				"Shell Smash",
+				"Rest",
+				"Infestation",
+				"Toxic"
+			],
+			"alternativemoves":[
+				"Sticky Web",
+				"Stealth Rock"
+			],
+			"setexplanation": "Though this is an odd set, it does a great job of utilizing Shuckle's amazing Defense stats. Maximizing HP is a must due to its low HP stat, and you can either maximize one of the Defenses or split the EV's. The nature is completely your choIce, as any nature will work well.
+
+Shell Smash works different with Contrary. Instead of boosting Attack, Special Attack, and Speed by two stages while dropping Defense and Special Defense by one each, Contrary will do the opposite. This means with one boost, Defense and Special Defense will each be around 800-900 at level 100. This means that even super-effective moves will be walled by Shuckle.
+
+Infestation is good to trap the opponent, and Toxic is needed in case they have a form of recovery like Moonlight or Recover. Rest keeps all the defensive boosts, while restoring all of Shuckle's HP. Chesto Berry is recommended if Rest is used, and Leftover is recommended if you use Stealth Rock or Spikes instead.
+
+It's best done when switching in on a Pokémon that can't deal super-effective damage. Shuckle has 3 weaknesses: Rock, Water, and Steel. It's a good idea to get to at least two boosts before playing the stall game, because at that point the opponent will be hoping for a critical hit. Even then, Shuckle's walling capabilities are so good that it won't usually be an 2HKO, let alone OHKO.",
+			"checksandcounters": "Because Shuckle doesn't attack, checks and counters aren't really an issue here, since every Pokémon can counter Shuckle. This section will be more on how to deal with this particular set without being walled and losing.
+
+The only issue with this set is that a Pokémon can set up alongside Shuckle. Escavalier or Azumarill can easily set up and then knock out Shuckle, even with a few Shell Smash boosts. Volt Switch and U-Turners are the best Pokémon to deal with Infestation, since they'll no longer be trapped. 
+
+Phasers are also a great way to deal with Shuckle. Circle Throw, Roar, Whirlwind, and Dragon Tail are all good ways to reset those Defenses, and you can try to knock it out at a later time in the battle.",
+			"stats":[
+				{
+					"pokemon": "252 Attack, ChoIce Band, Adamant Escavalier",
+					"explanation": "Iron Head does 44.2 - 52.4% on a +2 Defense Shuckle, neutral nature. This gives only a 16.8% chance to 2HKO. With Leftovers, this becomes a guaranteed 3HKO.",
+				},
+				{
+					"pokemon": "252 Attack, ChoIce Band, Adamant Azumarill",
+					"explanation": "Waterfall does 41.8 - 50%, which is a guaranteed 3HKO after Leftovers recovery against a +2, 252 Defense, Bold-natured Shuckle.",
+				},
+				{
+					"pokemon": "+2, 252 Special Attack, Timid Mega Lucario",
+					"explanation": "Flash Cannon does 47.5 - 57.3%, or a 37.5% chance to 2HKO after Leftovers recovery against a +3, 252 Special Defense, Calm-natured Shuckle",
+				}
+			]
+		},
+		
+		{
+			"name": "Sticky Shuckle",
+			"item": "Leftovers",
+			"ability": "Sturdy",
+			"nature": "Careful",
+			"evs":[
+				"252 HP",
+				"252 Special Defense",
+				"4 Defense"
+			],
+			"moves":[
+				"Sticky Web",
+				"Encore",
+				"Toxic",
+				"Rock Tomb"
+			],
+			"alternativemoves":[
+				"Stealth Rock"
+			],
+			"setexplanation": "Support is the name of the game. This set isn't designed to really wall anybody, but instead takes advantage of Shuckle's bulk to provide good support.
+
+Sticky Web is the main move here, as it can significantly help hard hitters with middling Speed, like Nidoking or Azumarill. Encore will prevent Pokémon from setting up on your face, while allowing a proper switch-in. Rock Tomb will further decrease the opponent's speed, and Toxic is good for inflicting a status against a sweeper, putting them on a timer.",
+			"checksandcounters": "Any Pokémon with Magic Bounce, like Mega Absol or Espeon, can prevent Shuckle from using Toxic or Sticky Web. Since almost every Pokémon is faster than Shuckle, if they can set up a Substitute and not get Encore'd, they then can proceed to attack without much worry, putting the Shuckle-user in a precarious position.",
+			"stats":[
+				{
+					"pokemon": "(vs) 4 HP, 0 Def Talonflame",
+					"explanation": "Rock Tomb does 28.1 - 33.5%, which isn't much, but will lower Talonflame's speed, which is its best stat.",
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name":"Imposter",
+	"summary": "When the user enters battle, it transform into its opponent. It copies the target's appearance, cry, moves (which have 5 PP each), ability, stats (except HP), stat changes, weight, and Mega Evolution. It doesn't copy IV's, so the Hidden Power could be different. Does not activate if the opponent is transformed, disguised, or behind a substitute.",
+	"viability": "Imposter is the reason Ditto is so feared in singles. You absolutely cannot set up, because a Ditto with Imposter holding a choice scarf usually spells the end of the battle. It also saves a turn off of Transform, which lets it have more of an impact.",
+	"pokemon":[
+		{
+			"pokemonName": "Ditto"
+		}
+	]
+}

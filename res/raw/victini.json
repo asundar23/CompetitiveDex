@@ -1,0 +1,387 @@
+{ 
+	 "name": "Victini",
+	"types": [
+		" Psychic ",
+		" Fire "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		100,
+		100,
+		100,
+		100,
+		100,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Searing Shot",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"level": 33,
+			"move": "Reversal",
+			"type": " Fighting "
+		},
+		{
+			"level": 41,
+			"move": "Flame Burst",
+			"type": " Fire "
+		},
+		{
+			"level": 49,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 57,
+			"move": "Inferno",
+			"type": " Fire "
+		},
+		{
+			"level": 65,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 73,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		},
+		{
+			"level": 81,
+			"move": "Final Gambit",
+			"type": " Fighting "
+		},
+		{
+			"level": 89,
+			"move": "Stored Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 97,
+			"move": "Overheat",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Fire Punch",
+		"Heat Wave",
+		"Helping Hand",
+		"Last Resort",
+		"Magic Coat",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch",
+		"Trick",
+		"Uproar",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "N/A"},
+		{"Location": "N/A"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Victory Star"
+	],
+	"sets": [
+	]
+}

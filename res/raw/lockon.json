@@ -1,0 +1,39 @@
+{
+	"name": "Lock-On",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "On the first turn, the user locks onto their target. The next turn's move will never miss.",
+	"viability": "This can yield some interesting results, like hitting moves such as Zap Cannon with Porygon2. Zap Cannon normally has a terrible accuracy, but with Lock-On makes it never miss. It's rather gimmicky and low reward-high risk, but it's not a bad strategy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Porygon" },
+		{ "pokemonName": "Remoraid" },
+		{ "pokemonName": "Porygon2" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Regirock" },
+		{ "pokemonName": "Regice" },
+		{ "pokemonName": "Registeel" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Porygon-Z" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Roggenrola" },
+		{ "pokemonName": "Klefki" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

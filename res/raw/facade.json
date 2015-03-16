@@ -1,0 +1,54 @@
+{
+	"name": "Facade",
+	"note": "All Pokemon that can learn TM's learn Facade except Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage; power is doubled if the user is poisoned, paralyzed, or burned. Burned status's Attack drop does not apply to Facade.",
+	"viability": "Facade is an incredible move, especially with use of Toxic or Flame Orb, It works best on Pokemon with Guts, like Flareon, Heracross, or Ursaring. It gets a power of 140, PLUS the Attack raise with Guts.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Darumaka"
+		},
+		{
+			"pokemonName": "Darmanitan"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

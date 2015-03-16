@@ -1,0 +1,22 @@
+{
+	"name": "Land's Wrath",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Inflicts damage on all adjacent opponents in Doubles and Triple Battles.",
+	"viability": "In regular Singles, just use Earthquake. In Doubles and Triples, Land's Wrath is better because of the fact that Earthquake can hit your teammate.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Zygarde" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Shift Gear",
+	"note": "",
+	"type":" Steel ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Attack by one stage and Speed by two stages.",
+	"viability": "Shift Gear is a fantastic boosting move for the Klink family. It makes it extremely fast, and also boosts the Attack, making it a viable sweeper.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

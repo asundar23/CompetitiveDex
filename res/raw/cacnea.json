@@ -1,0 +1,705 @@
+{
+   "name":"Cacnea",
+   "types":[
+      " Grass "
+   ],
+   "eggGroup":[
+      " Grass ",
+      " Human-Like "
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Absorb",
+			"type": " Grass "
+		},
+		{
+			"level": 7,
+			"move": "Growth",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Leech Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 13,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 16,
+			"move": "Needle Arm",
+			"type": " Grass "
+		},
+		{
+			"level": 19,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 26,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 30,
+			"move": "Spikes",
+			"type": " Ground "
+		},
+		{
+			"level": 34,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 38,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 42,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 46,
+			"move": "Cotton Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 50,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 54,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		}
+	],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Cacnea" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Cacturne" }
+   	],
+   "evolutionType":[
+   		"Level 32"
+   ],
+   "stats":[
+      70,
+      85,
+      40,
+      85,
+      40,
+      35
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Poison Sting",
+         "type":" Poison "
+      },
+      {
+         "level":1,
+         "move":"Leer",
+         "type":" Normal "
+      },
+      {
+         "level":5,
+         "move":"Absorb",
+         "type":" Grass "
+      },
+      {
+         "level":9,
+         "move":"Growth",
+         "type":" Normal "
+      },
+      {
+         "level":13,
+         "move":"Leech Seed",
+         "type":" Grass "
+      },
+      {
+         "level":17,
+         "move":"Sand-Attack",
+         "type":" Ground "
+      },
+      {
+         "level":21,
+         "move":"Pin Missile",
+         "type":" Bug "
+      },
+      {
+         "level":25,
+         "move":"Ingrain",
+         "type":" Grass "
+      },
+      {
+         "level":29,
+         "move":"Feint Attack",
+         "type":" Dark "
+      },
+      {
+         "level":33,
+         "move":"Spikes",
+         "type":" Ground "
+      },
+      {
+         "level":37,
+         "move":"Sucker Punch",
+         "type":" Dark "
+      },
+      {
+         "level":41,
+         "move":"Payback",
+         "type":" Dark "
+      },
+      {
+         "level":45,
+         "move":"Needle Arm",
+         "type":" Grass "
+      },
+      {
+         "level":49,
+         "move":"Cotton Spore",
+         "type":" Grass "
+      },
+      {
+         "level":53,
+         "move":"Sandstorm",
+         "type":" Rock "
+      },
+      {
+         "level":57,
+         "move":"Destiny Bond",
+         "type":" Ghost "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM09",
+         "move":"Venoshock",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM37",
+         "move":"Sandstorm",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM53",
+         "move":"Energy Ball",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM66",
+         "move":"Payback",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM75",
+         "move":"Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM84",
+         "move":"Poison Jab",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM96",
+         "move":"Nature Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM97",
+         "move":"Dark Pulse",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Acid",
+         "pokemon":[
+            {
+               "pokemonName":"Oddish"
+            },
+            {
+               "pokemonName":"Gloom"
+            },
+            {
+               "pokemonName":"Vileplume"
+            },
+            {
+               "pokemonName":"Bellossom"
+            },
+            {
+               "pokemonName":"Bellsprout"
+            },
+            {
+               "pokemonName":"Weepinbell"
+            },
+            {
+               "pokemonName":"Victreebel"
+            }
+         ],
+         "type":" Poison "
+      },
+      {
+         "move":"Belch",
+         "pokemon":[
+            {
+               "pokemonName":"Croagunk"
+            },
+            {
+               "pokemonName":"Toxicroak"
+            }
+         ],
+         "type":" Poison "
+      },
+      {
+         "move":"Block",
+         "pokemon":[
+            {
+               "pokemonName":"Tangrowth"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Counter",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Hitmontop"
+            },
+            {
+               "pokemonName":"Breloom"
+            },
+            {
+               "pokemonName":"Lucario"
+            },
+            {
+               "pokemonName":"Sawk"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Disable",
+         "pokemon":[
+            {
+               "pokemonName":"Kadabra"
+            },
+            {
+               "pokemonName":"Alakazam"
+            },
+            {
+               "pokemonName":"Drowzee"
+            },
+            {
+               "pokemonName":"Hypno"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Dynamic Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Machop"
+            },
+            {
+               "pokemonName":"Machoke"
+            },
+            {
+               "pokemonName":"Machamp"
+            },
+            {
+               "pokemonName":"Breloom"
+            },
+            {
+               "pokemonName":"Timburr"
+            },
+            {
+               "pokemonName":"Gurdurr"
+            },
+            {
+               "pokemonName":"Conkeldurr"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Fell Stinger",
+         "pokemon":[
+            {
+               "pokemonName":"Paras"
+            }
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Low Kick",
+         "pokemon":[
+            {
+               "pokemonName":"Machop"
+            },
+            {
+               "pokemonName":"Machoke"
+            },
+            {
+               "pokemonName":"Machamp"
+            },
+            {
+               "pokemonName":"Electabuzz"
+            },
+            {
+               "pokemonName":"Electivire"
+            },
+            {
+               "pokemonName":"Timburr"
+            },
+            {
+               "pokemonName":"Gurdurr"
+            },
+            {
+               "pokemonName":"Conkeldurr"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Magical Leaf",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Chikorita"
+            },
+            {
+               "pokemonName":"Bayleef"
+            },
+            {
+               "pokemonName":"Meganium"
+            },
+            {
+               "pokemonName":"Bellossom"
+            },
+            {
+               "pokemonName":"Roselia"
+            },
+            {
+               "pokemonName":"Roserade"
+            },
+            {
+               "pokemonName":"Tropius"
+            },
+            {
+               "pokemonName":"Cherubi"
+            },
+            {
+               "pokemonName":"Cherrim"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Nasty Plot",
+         "pokemon":[
+            {
+               "pokemonName":"Drowzee"
+            },
+            {
+               "pokemonName":"Hypno"
+            },
+            {
+               "pokemonName":"Shiftry"
+            },
+            {
+               "pokemonName":"Chimchar"
+            },
+            {
+               "pokemonName":"Croagunk"
+            },
+            {
+               "pokemonName":"Toxicroak"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Rototiller",
+         "pokemon":[
+            {
+               "pokemonName":"Lopunny"
+            }
+         ],
+         "type":" Ground "
+      },
+      {
+         "move":"Seed Bomb",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Exeggcutor"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Shroomish"
+            },
+            {
+               "pokemonName":"Breloom"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Smelling Salts",
+         "pokemon":[
+            {
+               "pokemonName":"Makuhita"
+            },
+            {
+               "pokemonName":"Hariyama"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Switcheroo",
+         "pokemon":[
+            {
+               "pokemonName":"Hypno"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Teeter Dance",
+         "pokemon":[
+            {
+               "pokemonName":"Spinda"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Worry Seed",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Ivysaur"
+            },
+            {
+               "pokemonName":"Venusaur"
+            },
+            {
+               "pokemonName":"Exeggcute"
+            },
+            {
+               "pokemonName":"Hoppip"
+            },
+            {
+               "pokemonName":"Skiploom"
+            },
+            {
+               "pokemonName":"Jumpluff"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Sunflora"
+            },
+            {
+               "pokemonName":"Shroomish"
+            },
+            {
+               "pokemonName":"Cherubi"
+            },
+            {
+               "pokemonName":"Cherrim"
+            }
+         ],
+         "type":" Grass "
+      }
+   ],
+   "tutorMoveList":[
+      "Block",
+      "Dark Pulse",
+      "Drain Punch",
+      "Foul Play",
+      "Giga Drain",
+      "Low Kick",
+      "Role Play",
+      "Seed Bomb",
+      "Sleep Talk",
+      "Snore",
+      "Spite",
+      "Superpower",
+      "Synthesis",
+      "Thunder Punch",
+      "Worry Seed"
+   ],
+   "locations":[
+      {"Location": " Route 228"},
+      {"Location": " Route 228"},
+      {"Location": " Route 228"},
+      {"Location": " Safari Zone"},
+      {"Location": " Safari Zone"},
+      {"Location": " Trade"},
+      {"Location": " Trade"},
+      {"Location": "Breed Cacturne"},
+      {"Location": "Breed Cacturne"},
+      {"Location": "Breed Cacturne"},
+      {"Location": "Breed Cacturne"}
+   ],
+   "abilities":[
+      "Sand Veil",
+      "Water Absorb"
+   ],
+   "sets":[
+
+   ]
+}

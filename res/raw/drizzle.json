@@ -1,0 +1,13 @@
+{
+	"name":"Drizzle",
+	"summary": "Summons rain for 5 turns (8 if the user is holding a Damp Rock). If a Pokémon with Drizzle is sent out at the same time as a Pokémon with a different weather-summoning ability (Drought, Sand Stream, or Snow Warning), the Pokémon with the slower Speed will have its weather activated.",
+	"viability": "Drizzle is not as good as it was before, but it's still quite good. Drizzle is the main component behind rain-based teams, and not having to waste a moveslot on Rain Dance is incredibly useful. Kyogre also has access to Thunder, which is 100% in the rain, making Kyogre one of the best Pokémon in the entire game.",
+	"pokemon":[
+		{
+			"pokemonName": "Politoed"
+		},
+		{
+			"pokemonName": "Kyogre"
+		}
+	]
+}

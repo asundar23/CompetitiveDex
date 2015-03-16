@@ -1,0 +1,33 @@
+{
+	"name": "Horn Attack",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage",
+	"viability": "Not a good move competitively. Return is far better.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Nidorino" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Seaking" },
+		{ "pokemonName": "Tauros" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Donphan" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Bouffalant" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Karrablast" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

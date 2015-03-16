@@ -1,0 +1,16 @@
+{
+	"name":"Snow Warning",
+	"summary": "Summons Hail for 5 turns (8 if the user is holding a Smooth Rock). If a Pokémon with Snow Warning is sent out at the same time as a Pokémon with a different weather-summoning ability (Drizzle, Drought, or Sand Stream), the Pokémon with the slower Speed will have its weather activated.",
+	"viability": "Snow Warning works very similar to Drizzle, and is thus quite as good. Abomasnow and Snover can instantly have a 100% accurate Blizzard instead of having to set up Hail manually.",
+	"pokemon":[
+		{
+			"pokemonName": "Snover"
+		},
+		{
+			"pokemonName": "Abomasnow"
+		},
+		{
+			"pokemonName": "Mega Abomasnow"
+		}
+	]
+}

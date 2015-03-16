@@ -1,0 +1,38 @@
+{
+	"name": "Moonblast",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Special",
+	"pp": "15",
+	"power": "95",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 30% chance of owering the target's Special Attack by one stage.",
+	"viability": "Moonblast is the best Fairy-type move. For those that don't have access to Pixilate, Moonblast is the best alternative.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Lunatone" },
+		{ "pokemonName": "Cresselia" },
+		{ "pokemonName": "Whimsicott" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" },
+		{ "pokemonName": "Spritzee" },
+		{ "pokemonName": "Aromatisse" },
+		{ "pokemonName": "Sylveon" },
+		{ "pokemonName": "Carbink" },
+		{ "pokemonName": "Xerneas" },
+		{ "pokemonName": "Diancie" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

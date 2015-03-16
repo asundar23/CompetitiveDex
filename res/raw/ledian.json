@@ -1,0 +1,489 @@
+{
+   "name":"Ledian",
+   "types":[
+      " Bug ",
+      " Flying "
+   ],
+   "eggGroup":[
+   		"Bug"
+   ],
+    "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Ledyba" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Ledian" }
+   ],
+   "evolutionType":[
+   		"Level 18"
+   ],
+   "stats":[
+      55,
+      35,
+      50,
+      55,
+      110,
+      85
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Tackle",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Supersonic",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Comet Punch",
+         "type":" Normal "
+      },
+      {
+         "level":6,
+         "move":"Supersonic",
+         "type":" Normal "
+      },
+      {
+         "level":9,
+         "move":"Comet Punch",
+         "type":" Normal "
+      },
+      {
+         "level":14,
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "level":14,
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "level":14,
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Mach Punch",
+         "type":" Fighting "
+      },
+      {
+         "level":24,
+         "move":"Baton Pass",
+         "type":" Normal "
+      },
+      {
+         "level":29,
+         "move":"Silver Wind",
+         "type":" Bug "
+      },
+      {
+         "level":36,
+         "move":"Agility",
+         "type":" Psychic "
+      },
+      {
+         "level":41,
+         "move":"Swift",
+         "type":" Normal "
+      },
+      {
+         "level":48,
+         "move":"Double-Edge",
+         "type":" Normal "
+      },
+      {
+         "level":53,
+         "move":"Bug Buzz",
+         "type":" Bug "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM19",
+         "move":"Roost",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM20",
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM40",
+         "move":"Aerial Ace",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM46",
+         "move":"Thief",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM62",
+         "move":"Acrobatics",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM75",
+         "move":"Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM76",
+         "move":"Struggle Bug",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM83",
+         "move":"Infestation",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM89",
+         "move":"U-turn",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM94",
+         "move":"Rock Smash",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+      ],
+    "hmMoveList":[
+      {
+         "hm":"HM04",
+         "move":"Strength",
+         "type":" Normal "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Bide",
+         "pokemon":[
+            {"pokemonName":"Pineco"},
+            {"pokemonName":"Foretress"},
+            {"pokemonName":"Shuckle"},
+            {"pokemonName":"Trapinch"},
+            {"pokemonName":"Vibrava"},
+            {"pokemonName":"Flygon"},
+            {"pokemonName":"Kricketot"},
+            {"pokemonName":"Kricketune"},
+            {"pokemonName":"Shelmet"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Bug Bite",
+         "pokemon":[
+            {"pokemonName":"Wurmple"},
+            {"pokemonName":"Ninjask"},
+            {"pokemonName":"Kricketot"},
+            {"pokemonName":"Burmy-Plant"},
+            {"pokemonName":"Burmy-Sandy"},
+            {"pokemonName":"Burmy-Trash"},
+            {"pokemonName":"Mothim"},
+            {"pokemonName":"Combee"},
+            {"pokemonName":"Skorupi"},
+            {"pokemonName":"Drapion"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Sewaddle"},
+            {"pokemonName":"Swadloon"},
+            {"pokemonName":"Leavanny"},
+            {"pokemonName":"Venipede"},
+            {"pokemonName":"Whirlipede"},
+            {"pokemonName":"Scolipede"},
+            {"pokemonName":"Dwebble"},
+            {"pokemonName":"Crustle"},
+            {"pokemonName":"Joltik"},
+            {"pokemonName":"Galvantula"},
+            {"pokemonName":"Durant"},
+            {"pokemonName":"Larvesta"},
+            {"pokemonName":"Scatterbug"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Bug Buzz",
+         "pokemon":[
+            {"pokemonName":"Butterfree"},
+            {"pokemonName":"Venomoth"},
+            {"pokemonName":"Ledyba"},
+            {"pokemonName":"Ledian"},
+            {"pokemonName":"Yanma"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Beautifly"},
+            {"pokemonName":"Dustox"},
+            {"pokemonName":"Masquerain"},
+            {"pokemonName":"Volbeat"},
+            {"pokemonName":"Kricketune"},
+            {"pokemonName":"Mothim"},
+            {"pokemonName":"Combee"},
+            {"pokemonName":"Sewaddle"},
+            {"pokemonName":"Karrablast"},
+            {"pokemonName":"Escavalier"},
+            {"pokemonName":"Joltik"},
+            {"pokemonName":"Galvantula"},
+            {"pokemonName":"Shelmet"},
+            {"pokemonName":"Accelgor"},
+            {"pokemonName":"Larvesta"},
+            {"pokemonName":"Volcarona"},
+            {"pokemonName":"Vivillon"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Dizzy Punch",
+         "pokemon":[
+            {"pokemonName":"Volbeat"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Drain Punch",
+         "pokemon":[
+            {"pokemonName":"Ledyba"},
+            {"pokemonName":"Ledian"}
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Encore",
+         "pokemon":[
+            {"pokemonName":"Shuckle"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Knock Off",
+         "pokemon":[
+            {"pokemonName":"Gligar"},
+            {"pokemonName":"Gliscor"},
+            {"pokemonName":"Skorupi"},
+            {"pokemonName":"Drapion"}
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Psybeam",
+         "pokemon":[
+            {"pokemonName":"Butterfree"},
+            {"pokemonName":"Venonat"},
+            {"pokemonName":"Venomoth"},
+            {"pokemonName":"Dustox"},
+            {"pokemonName":"Mothim"},
+            {"pokemonName":"Vivillon"}
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Screech",
+         "pokemon":[
+            {"pokemonName":"Yanma"},
+            {"pokemonName":"Yanmega"},
+            {"pokemonName":"Gligar"},
+            {"pokemonName":"Gliscor"},
+            {"pokemonName":"Ninjask"},
+            {"pokemonName":"Vibrava"},
+            {"pokemonName":"Flygon"},
+            {"pokemonName":"Kricketune"},
+            {"pokemonName":"Venipede"},
+            {"pokemonName":"Whirlipede"},
+            {"pokemonName":"Scolipede"},
+            {"pokemonName":"Joltik"},
+            {"pokemonName":"Galvantula"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Silver Wind",
+         "pokemon":[
+            {"pokemonName":"Butterfree"},
+            {"pokemonName":"Venomoth"},
+            {"pokemonName":"Ledyba"},
+            {"pokemonName":"Ledian"},
+            {"pokemonName":"Beautifly"},
+            {"pokemonName":"Dustox"},
+            {"pokemonName":"Masquerain"},
+            {"pokemonName":"Mothim"},
+            {"pokemonName":"Volcarona"}
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Tailwind",
+         "pokemon":[
+            {"pokemonName":"Butterfree"}
+         ],
+         "type":" Flying "
+      }
+   ],
+   "tutorMoveList":[
+      "Bug Bite",
+      "Drain Punch",
+      "Giga Drain",
+      "Ice Punch",
+      "Knock Off",
+      "Roost",
+      "Sleep Talk",
+      "Snore",
+      "Tailwind",
+      "Thunder Punch",
+      "Uproar"
+   ],
+   "locations":[
+      {"Location": "Route 229 (Morning)"},
+      {"Location": "Route 229 (Morning)"},
+      {"Location": "Route 229 (Morning)"},
+      {"Location": "Trade"},
+      {"Location": "Route 2 (Morning)"},
+      {"Location": "Dreamyard"},
+      {"Location": "Dreamyard"},
+      {"Location": "Trade"},
+      {"Location": "Route 22 (Swarm)"},
+      {"Location": "Evolve Ledyba"},
+      {"Location": "Evolve Ledyba"}
+   ],
+   "abilities":[
+      "Swarm",
+      "Early Bird",
+      "Iron Fist"
+   ],
+   "sets":[
+
+   ]
+}

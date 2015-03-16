@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/black" >
+    
+    <TextView
+        android:id="@+id/the_TMmove"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:textSize="22sp"
+        android:layout_width = "190dp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/the_TMtype"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_width = "75dp"
+        android:gravity="center"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5" 
+        android:textColor="@color/white" />
+    
+    <TextView
+        android:id="@+id/the_TM"
+        android:layout_height="wrap_content"
+        android:textSize = "17sp"
+        android:layout_width = "60dp"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:textColor="@color/white" />
+    
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+{
+	"name":"Flower Veil",
+	"summary": "Prevents non-volatile (which means burn, poison, sleep, paralysis, and frozen) statuses from lowering the stats of all Grass-type Pokémon on the user's side.",
+	"viability": "In Double and Triples, this prevents Grass-type physical attackers from having their Attack dropped due to burn and Speed lowered due to paralysis. In singles, this is rather useless, but in Doubles/Triples Flower Gift is highly recommended.",
+	"pokemon":[
+		{
+			"pokemonName": "Flabébé"
+		},
+		{
+			"pokemonName": "Floette"
+		},
+		{
+			"pokemonName": "Florges"
+		}
+	]
+}

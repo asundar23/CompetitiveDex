@@ -1,0 +1,446 @@
+{ 
+	 "name": "Groudon",
+	"types": [
+		" Ground "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 5,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 30,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 45,
+			"move": "Precipice Blades",
+			"type": " Ground "
+		},
+		{
+			"level": 50,
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"level": 60,
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"level": 65,
+			"move": "Fissure",
+			"type": " Ground "
+		},
+		{
+			"level": 75,
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"level": 80,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 90,
+			"move": "Eruption",
+			"type": " Fire "
+		}
+	],
+	"stats": [
+		100,
+		150,
+		140,
+		100,
+		90,
+		90
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 5,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 20,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 30,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 45,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Eruption",
+			"type": " Fire "
+		},
+		{
+			"level": 60,
+			"move": "Bulk up",
+			"type": " Fighting "
+		},
+		{
+			"level": 65,
+			"move": "EEarth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 75,
+			"move": "Fissure",
+			"type": " Ground "
+		},
+		{
+			"level": 80,
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"level": 90,
+			"move": "Fire Blast",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Block",
+		"Dragon Pulse",
+		"Earth Power",
+		"Fire Punch",
+		"Iron Head",
+		"Iron Tail",
+		"Shock Wave",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch",
+		"Uproar"
+	],
+	"locations": [
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Drought"
+	],
+	"sets": [
+	]
+}

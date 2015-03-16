@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+
+    <TextView
+        android:id="@+id/stat_name"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_weight=".30"
+        android:layout_width = "0dp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/stat_number"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_width = "0dp"
+        android:layout_weight = ".20"
+        android:gravity="center"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5" 
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:id="@+id/stat_bar"
+        android:layout_height="wrap_content"
+        android:textSize = "14sp"
+        android:layout_width = "0dp"
+        android:layout_weight = ".50"
+        android:gravity="center"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"/>
+
+</LinearLayout>

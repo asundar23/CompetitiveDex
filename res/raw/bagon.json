@@ -1,0 +1,499 @@
+{ 
+	 "name": "Shelgon",
+	"types": [
+		" Dragon "
+	],
+	"eggGroup": [
+		" Dragon "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 7,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 17,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 29,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 34,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 39,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 49,
+			"move": "Double-Edge",
+			"type": " Normal "
+		}
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Bagon" },
+   		{ "pokemonName":"Shelgon" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Shelgon" },
+   		{ "pokemonName":"Salamence" }
+   	],
+   "evolutionType":[
+   		"Level 30",
+   		"Level 50"
+   ],
+	"stats": [
+		45,
+		75,
+		60,
+		40,
+		30,
+		50
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Rage",
+			"type": " Normal "
+		},
+			"level": 5,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 10,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 31,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 35,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 50,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 55,
+			"move": "Double-Edge",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Defense Curl",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Dragon Dance",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Pulse",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Rage",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Rush",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Axew"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Hydro Pump",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Twister",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Dragon "
+		}
+	],
+	"tutorMoveList": [
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Hyper Voice",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Trade"},
+		{ "Location": "Route 210 (Poké Radar)"},
+		{ "Location": "Route 210 (Poké Radar)"},
+		{ "Location": "Safari Zone"},
+		{ "Location": "Safari Zone"},
+		{ "Location": "Mountain"},
+		{ "Location": "Trade"},
+		{ "Location": "White Forest"},
+		{ "Location": "Pinwheel Forest (Hidden Grotto)"},
+		{ "Location": "Pinwheel Forest (Hidden Grotto)"},
+		{ "Location": "Route 8"},
+		{ "Location": "Route 8"}
+
+	],
+	"abilities": [
+		"Rock Head",
+		"Sheer Force"
+	],
+	"sets": [
+	]
+}

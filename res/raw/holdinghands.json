@@ -1,0 +1,21 @@
+{
+	"name": "Hold Hands",
+	"note": "The only Pokémon that gets this move is the GTS Event Vivillon.",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "No effect happens. There is an animation that happens between the Pokémon and its ally.",
+	"viability": "No competitive use, but is a fun idea to do in a throwaway battle.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

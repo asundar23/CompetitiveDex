@@ -1,0 +1,72 @@
+{
+	"name": "Dragon Rush",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "75",
+	"summary": "Deals damage, has a 20% of causing the opponent to flinch. If the opponent has used Minimized, its power is doubled and will never miss.",
+	"viability": "Depending on whether or not evasion is banned, Dragon Rush could actually be very useful. That said, it's more powerful than Dragon Claw and doesn't lock into itself like Outrage, but it has a poor accuracy. Use at your own discretion.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Bagon"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

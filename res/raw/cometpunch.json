@@ -1,0 +1,42 @@
+{
+	"name": "Comet Punch",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "18",
+	"accuracy": "85",
+	"summary": "Hits 2-5 times per turn. There is a 3/8 chance it hits 2 or 3 times, and 1/8 4 or 5 times.",
+	"viability": "This is a poor choIce of move. Return does 102 damage with max happiness (which your Pokémon should be if battling competitively), which is more than Comet Punch hitting all five times.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Timburr"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

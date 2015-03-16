@@ -1,0 +1,45 @@
+{
+	"name": "Circle Throw",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "90",
+	"summary": "Deals damage, and will switch out the target if there is at least one other usable Pokémon in the opponent's party. Does not switch out the Pokémon if they have ability Suction Cups, are in a Substitute, or are under the move Ingrain.",
+	"viability": "Phasing moves are always good, but all have their risks. Whirlwind and Roar can be Taunted, and Dragon Tail does nothing to Fairies. Circle Throw has issues with Ghost-types, but at the end of the day is probably the best one of these moves. Fighting is super effective against five types (Dark, Ice, Normal, Rock, and Steel), so that already makes Circle Throw strong. In addition, if you have entry hazards like Stealth Rock set up, you get free residual damage on the opponent. Last, phasing moves like Circle Throw can prevent a sweeper from either continuing to sweep or setting up.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Poliwrath"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Riolu"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

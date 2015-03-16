@@ -1,0 +1,33 @@
+{
+	"name": "Psycho Cut",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage and has an increased critical hit ratio.",
+	"viability": "While not as powerful as Zen Headbutt, it is still a usable move for Gallade and Medicham. It has good power, and can hit critical hits more frequently.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Kadabra" },
+		{ "pokemonName": "Alakazam" },
+		{ "pokemonName": "Mewtwo" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Cresselia" },
+		{ "pokemonName": "Inkay" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Pawniard" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Lava Plume",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "15",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and all adjacent Pokemon in Double/Triple Battles. It has a 30% chance of burning each target.",
+	"viability": "Lava Plume is a fantastic move for bulkier Fire types. Not only is it a powerful STAB move, it has great accuracy and a good secondary effect. In Doubles and Triples this is one of the most used moves because it can hit each target.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magmar" },
+		{ "pokemonName": "Flareon" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Quilava" },
+		{ "pokemonName": "Typhlosion" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Magcargo" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Entei" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Camerupt" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Groudon" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Heatran" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

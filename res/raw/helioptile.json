@@ -1,0 +1,364 @@
+{
+   "name":"Helioptile",
+   "types":[
+      " Electric ",
+      " Normal "
+   ],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Helioptile" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Heliolisk" }
+   	],
+   "evolutionType":[
+   		"Sun Stone"
+   ],
+   "eggGroup":[
+      " Monster ",
+      " Dragon "
+   ],
+   "stats":[
+      44,
+      38,
+      33,
+      61,
+      43,
+      70
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Pound",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Tail Whip",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Thunder Shock",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":" Charge ",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Mud Slap",
+         "type":" Ground "
+      },
+      {
+         "level":1,
+         "move":"Quick Attack",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Parabolic Charge",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":" Thunder Wave ",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":" Bulldoze ",
+         "type":" Ground "
+      },
+      {
+         "level":1,
+         "move":" Volt Switch ",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":" Electrify ",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":" Thunderbolt ",
+         "type":" Electric "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM24",
+         "move":"Thunderbolt",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM25",
+         "move":"Thunder",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM37",
+         "move":"Sandstorm",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM47",
+         "move":"Low Sweep",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM57",
+         "move":"Charge Beam",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM72",
+         "move":"Volt Switch",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM73",
+         "move":"Thunder Wave",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM78",
+         "move":"Bulldoze",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM82",
+         "move":"Dragon Tail",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM89",
+         "move":"U-turn",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM93",
+         "move":"Wild Charge",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM97",
+         "move":"Dark Pulse",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM03",
+         "move":"Surf",
+         "type":" Water "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Agility",
+         "pokemon":[
+            {
+               "pokemonName":"Horsea"
+            },
+            {
+               "pokemonName":"Seadra"
+            },
+            {
+               "pokemonName":"Kingdra"
+            },
+            {
+               "pokemonName":"Dratini"
+            },
+            {
+               "pokemonName":"Dragonair"
+            },
+            {
+               "pokemonName":"Dragonite"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Treecko"
+            },
+            {
+               "pokemonName":"Grovyle"
+            },
+            {
+               "pokemonName":"Sceptile"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Camouflage",
+         "pokemon":[
+            {
+               "pokemonName":"Skrelp"
+            },
+            {
+               "pokemonName":"Dragalge"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Electric Terrain",
+         "pokemon":[
+            {
+               "pokemonName":"Mareep"
+            }
+         ],
+         "type":" Electric "
+      },
+      {
+         "move":"Glare",
+         "pokemon":[
+            {
+               "pokemonName":"Ekans"
+            },
+            {
+               "pokemonName":"Arbok"
+            },
+            {
+               "pokemonName":"Seviper"
+            }
+         ],
+         "type":" Normal "
+      }
+   ],
+   "tutorMoveList":[
+
+   ],
+   "locations":[
+      {"Location": "Route 9, Friend Safari (Electric)"},
+      {"Location": "Route 9, Friend Safari (Electric)"}
+   ],
+   "abilities":[
+      "Dry Skin",
+      "Sand Veil",
+      "Solar Power (Hidden)"
+   ],
+   "sets":[
+
+   ]
+}

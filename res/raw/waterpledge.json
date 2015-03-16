@@ -1,0 +1,39 @@
+{
+	"name": "Water Pledge",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Inflicts damage, with double damage when used with Fire and Water Pledge in Doubles and Triples If it and Grass Pledge are used in the same turn, a swamp appears on the other side that halves their Speed. If it is with Fire Pledge, a rainbow will appear on the user's side of the field for four turns. It doubles the probablity of secondary effects. Doesn't stack with Serene Grace.",
+	"viability": "The pledge moves in general produce some very interesting results. The only problem is that they are exclusive to the starter Pokemon, which limits the creativity. Still, though, it's worth trying out in Doubles and Triples.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Wartortle" },
+		{ "pokemonName": "Blastoise" },
+		{ "pokemonName": "Totodile" },
+		{ "pokemonName": "Croconaw" },
+		{ "pokemonName": "Feraligatr" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Marshtomp" },
+		{ "pokemonName": "Swampert" },
+		{ "pokemonName": "Piplup" },
+		{ "pokemonName": "Prinplup" },
+		{ "pokemonName": "Empoleon" },
+		{ "pokemonName": "Oshawott" },
+		{ "pokemonName": "Dewott" },
+		{ "pokemonName": "Samurott" },
+		{ "pokemonName": "Froakie" },
+		{ "pokemonName": "Frogadier" },
+		{ "pokemonName": "Greninja" }
+	]
+}

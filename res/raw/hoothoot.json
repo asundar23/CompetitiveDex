@@ -1,0 +1,406 @@
+{
+   "name":"Hoothoot",
+   "types":[
+      " Normal ",
+      " Flying "
+   ],
+   "eggGroup":[
+   		"Flying"
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Hoothoot" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Noctowl" }
+   ],
+   "evolutionType":[
+   		"Level 20"
+   ],
+   "stats":[
+      60,
+      30,
+      30,
+      36,
+      56,
+      50
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Tackle",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Growl",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Foresight",
+         "type":" Normal "
+      },
+      {
+         "level":5,
+         "move":"Hypnosis",
+         "type":" Psychic "
+      },
+      {
+         "level":9,
+         "move":"Peck",
+         "type":" Flying "
+      },
+      {
+         "level":13,
+         "move":"Uproar",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "level":21,
+         "move":"Confusion",
+         "type":" Psychic "
+      },
+      {
+         "level":25,
+         "move":"Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "level":29,
+         "move":"Take Down",
+         "type":" Normal "
+      },
+      {
+         "level":33,
+         "move":"Air Slash",
+         "type":" Flying "
+      },
+      {
+         "level":37,
+         "move":"Zen Headcutt",
+         "type":" Psychic "
+      },
+      {
+         "level":41,
+         "move":"Synchronoise",
+         "type":" Psychic "
+      },
+      {
+         "level":45,
+         "move":"Extrasensory",
+         "type":" Psychic "
+      },
+      {
+         "level":49,
+         "move":"Psycho Shift",
+         "type":" Psychic "
+      },
+      {
+         "level":53,
+         "move":"Roost",
+         "type":" Flying "
+      },
+      {
+         "level":57,
+         "move":"Dream Eater",
+         "type":" Flying "
+      }
+  ],
+  "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic"
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power"
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day"
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect"
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance"
+      },
+      {
+         "tm":"TM19",
+         "move":"Roost"
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration"
+      },
+      {
+         "tm":"TM27",
+         "move":"Return"
+      },
+      {
+         "tm":"TM29",
+         "move":"Psychic"
+      },
+      {
+         "tm":"TM30",
+         "move":"Shadow Ball"
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team"
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect"
+      },
+      {
+         "tm":"TM40",
+         "move":"Aerial Ace"
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade"
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest"
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract"
+      },
+      {
+         "tm":"TM46",
+         "move":"Thief"
+      },
+      {
+         "tm":"TM48",
+         "move":"Round"
+      },
+      {
+         "tm":"TM49",
+         "move":"Echoed VoIce"
+      },
+      {
+         "tm":"TM51",
+         "move":"Steel Wing"
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up"
+      },
+      {
+         "tm":"TM85",
+         "move":"Dream Eater"
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger"
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk"
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute"
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide"
+      },
+      {
+         "tm":"HM02",
+         "move":"Fly"
+      }
+   ],
+      "breedMoveList":[
+      {
+         "move":"Agility",
+         "pokemon":[
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot",
+            "Spearow",
+            "Fearow",
+            "Farfetch'd",
+            "Doduo",
+            "Dodrio",
+            "Aerodactyl",
+            "Skarmory",
+            "Taillow",
+            "Swellow",
+            "Wingull",
+            "Pelipper",
+            "Starly",
+            "Staravia",
+            "Staraptor",
+            "Archen",
+            "Archeops",
+            "Noibat",
+            "Noivern",
+            "Fletchling",
+            "Fletchinder",
+            "Talonflame"
+         ]
+      },
+      {
+         "move":"Defog",
+         "pokemon":[
+            "Ducklett",
+            "Swanna",
+            "Rufflet",
+            "Braviary"
+         ]
+      },
+      {
+         "move":"Feint Attack",
+         "pokemon":[
+            "Morkrow"
+         ]
+      },
+      {
+         "move":"Feather Dance",
+         "pokemon":[
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot",
+            "Chator",
+            "Pidove",
+            "Tranquill",
+            "Unfexant",
+            "Ducklett",
+            "Swanna"
+         ]
+      },
+      {
+         "move":"Mirror Move",
+         "pokemon":[
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot",
+            "Spearow",
+            "Fearow",
+            "Swablu",
+            "Altaria",
+            "Chatot",
+            "Sigilyph"
+         ]
+      },
+      {
+         "move":"Night Shade",
+         "pokemon":[
+            "Natu",
+            "Xatu",
+            "Murkrow"
+         ]
+      },
+      {
+         "move":"Sky Attack",
+         "pokemon":[
+            "Noctowl",
+            "Altaria",
+            "Togekiss",
+            "Pidove",
+            "Tranquill",
+            "Unfezant",
+            "Sigilyph"
+         ]
+      },
+      {
+         "move":"Supersonic",
+         "pokemon":[
+            "Zubat",
+            "Golbat",
+            "Crobat",
+            "Aerodactyl",
+            "Wingull",
+            "Pelipper",
+            "Noibat",
+            "Noivern"
+         ]
+      },
+      {
+         "move":"Whirlwind",
+         "pokemon":[
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot",
+            "Starly",
+            "Staravia",
+            "Staraptor",
+            "Sigilyph",
+            "Rufflet",
+            "Braviary",
+            "Noibat",
+            "Noivern"
+         ]
+      },
+      {
+         "move":"Wing Attack",
+         "pokemon":[
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot",
+            "Zubat",
+            "Golbat",
+            "Crobat",
+            "Aerodactyl",
+            "Morkrow",
+            "Honchkrow",
+            "Taillow",
+            "Swellow",
+            "Wingull",
+            "Pelipper",
+            "Starly",
+            "Staravia",
+            "Staraptor",
+            "Archen",
+            "Archeops",
+            "Ducklett",
+            "Swanna",
+            "Rufflet",
+            "Braviary",
+            "Noibat",
+            "Noivern"
+         ]
+      }
+   ],
+   "tutorMoveList":[
+      "Heat Wave",
+      "Hyper Voice",
+      "Magic Coat",
+      "Recycle",
+      "Roost",
+      "Sky Attack",
+      "Sleep Talk",
+      "Tailwind",
+      "Ruproar",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      "Location/{Location: Routes (210,211),Great Marsh (Night)",
+      {"Location": "Routes (210,211), Great Marsh, Eterna Forest (Night)"},
+      "Location/{Location: Routes (29, 30, 31, 35, 36, 37), National ParkNight, Routes (1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 18, 21, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43), Ilex Forest, National Park, Lake of Rage, New Bark Town, Cherrygrove City, Violet City, Ecruteak City, Pallet Town, Viridian City, Pewter City, Cerulean City, Fuchsia City, Safari Zone Gate (Headbutt trees)",
+      "Location/{Location: Breeding Noctowl",
+      "Location/{Location: Breeding Noctowl, Dream Radar",
+      "Dream World: Windswept Sky",
+      "X/{Location: Friend Safari (Flying)"
+   ],
+   "abilities":[
+      "Insomnia",
+      "Keen Eye",
+      "Tinted Lens (Hidden)"
+   ],
+   "sets":[
+
+   ]
+}

@@ -1,0 +1,149 @@
+{
+   "name":"Scatterbug",
+   "types":[
+      " Bug "
+   ],
+   "eggGroup":[
+      " Bug "
+   ],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Scatterbug" },
+   		{ "pokemonName":"Spewpa" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Spewpa" },
+   		{ "pokemonName":"Vivillon" }
+   	],
+   "evolutionType":[
+   		"Level 9",
+   		"Level 12"
+   ],
+   "stats":[
+      38,
+      35,
+      40,
+      27,
+      25,
+      35
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Tackle",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"String Shot",
+         "type":" Bug "
+      },
+      {
+         "level":6,
+         "move":"Stun Spore",
+         "type":" Grass "
+      },
+      {
+         "level":15,
+         "move":"Bug Bite",
+         "type":" Bug "
+      }
+   ],
+   "tmMoveList":[
+   ],
+   "hmMoveList":[
+
+   ],
+   "breedMoveList":[
+      {
+         "move":"Poison Powder",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Mothim"
+            },
+            {
+               "pokemonName":"Vivillon"
+            }
+         ],
+         "type":" Poison "
+      },
+      {
+         "move":"Rage Powder",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Volcarona"
+            }
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Stun Spore",
+         "pokemon":[
+            {
+               "pokemonName":"Butterfree"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Mothim"
+            },
+            {
+               "pokemonName":"Masquerain"
+            },
+            {
+               "pokemonName":"Vivillon"
+            }
+         ],
+         "type":" Grass "
+      }
+   ],
+   "tutorMoveList":[
+
+   ],
+   "locations":[
+      {"Location": "Route 2, Santalune Forest"},
+      {"Location": "Route 2, Santalune Forest"}
+   ],
+   "abilities":[
+      "Shield Dust",
+      "Compound Eyes",
+      "Friend Guard"
+   ],
+   "sets":[
+
+   ]
+}

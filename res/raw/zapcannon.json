@@ -1,0 +1,42 @@
+{
+	"name": "Zap Cannon",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "50",
+	"summary": "Deals damage, and paralyzes the target.",
+	"viability": "Zap Cannon is not a good move to use, unless you use a move like Lock-On beforehand. Since no Pokemon with No Guard have access to Zap Cannon, it isn't really worth running.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Porygon" },
+		{ "pokemonName": "Zapdos" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Porygon2" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Regirock" },
+		{ "pokemonName": "Regice" },
+		{ "pokemonName": "Registeel" },
+		{ "pokemonName": "Deoxys" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Porygon-Z" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Eelektrik" },
+		{ "pokemonName": "Eelektross" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

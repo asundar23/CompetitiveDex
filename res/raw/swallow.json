@@ -1,0 +1,50 @@
+{
+	"name": "Swallow",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Recovers the user's HP if they have used Stockpile. If they have used one Stockpile, they recover 1/4 of their HP. Two Stockpiles recover 1/2, and Three do 100% of the user's HP. Drops the added defenses from Stockpile.",
+	"viability": "Swallow is not recommended. Just have an actual recovery move like Rest, Recover, or even Pain Split and keep the defense boosts.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Lanturn" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Cradily" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Hippopotas" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

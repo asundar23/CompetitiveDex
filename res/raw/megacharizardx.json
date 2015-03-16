@@ -1,0 +1,1411 @@
+{
+   "name":"Mega Charizard X",
+   "types":[
+      " Fire ",
+      " Dragon "
+   ],
+   "eggGroup":[
+      " Monster ",
+      " Dragon "
+   ],
+   "hatchTime": "5355 - 5609 steps",
+	"height": "5'07\" (1.7 m)",
+	"weight": "243.6 lbs (110.5 kg)",
+	"evYield": [
+		"3 Special Attack"
+	],
+	"levelingRate": "Medium Slow",
+   "setCheck":"1",
+   "preEvolution":[
+   		{ "pokemonName":"Charmander" },
+   		{ "pokemonName":"Charmeleon" },
+   		{ "pokemonName":"Charizard" },
+   		{ "pokemonName":"Charizard" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Charmeleon" },
+   		{ "pokemonName":"Charizard" },
+   		{ "pokemonName":"Mega Charizard X" },
+   		{ "pokemonName":"Mega Charizard Y" }
+   ],
+   "evolutionType":[
+   		"Level 16",
+   		"Level 36",
+   		"Charizardite X",
+   		"Charizardite Y"
+   ],
+   "stats":[
+      78,
+      130,
+      111,
+      130,
+      85,
+      100
+   ],
+   "ORASMoveList":[
+      {
+         "level":1,
+         "move":"Flare Blitz",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Heat Wave",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Dragon Claw",
+         "type":" Dragon "
+      },
+      {
+         "level":1,
+         "move":"Shadow Claw",
+         "type":" Ghost "
+      },
+      {
+         "level":1,
+         "move":"Air Slash",
+         "type":" Flying "
+      },
+      {
+         "level":1,
+         "move":"Scratch",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Growl",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Ember",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Smokescreen",
+         "type":" Normal "
+      },
+      {
+         "level":7,
+         "move":"Ember",
+         "type":" Fire "
+      },
+      {
+         "level":10,
+         "move":"Smokescreen",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Dragon Rage",
+         "type":" Dragon "
+      },
+      {
+         "level":21,
+         "move":"Scary Face",
+         "type":" Normal "
+      },
+      {
+         "level":28,
+         "move":"Fire Fang",
+         "type":" Fire "
+      },
+      {
+         "level":32,
+         "move":"Flame Burst",
+         "type":" Fire "
+      },
+      {
+         "level":36,
+         "move":"Wing Attack",
+         "type":" Flying "
+      },
+      {
+         "level":41,
+         "move":"Slash",
+         "type":" Normal "
+      },
+      {
+         "level":47,
+         "move":"Flamethrower",
+         "type":" Fire "
+      },
+      {
+         "level":56,
+         "move":"Fire Spin",
+         "type":" Fire "
+      },
+      {
+         "level":62,
+         "move":"Inferno",
+         "type":" Fire "
+      },
+      {
+         "level":71,
+         "move":"Heat Wave",
+         "type":" Fire "
+      },
+      {
+         "level":77,
+         "move":"Flare Blitz",
+         "type":" Fire "
+      }
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Flare Blitz",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Heat Wave",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Dragon Claw",
+         "type":" Dragon "
+      },
+      {
+         "level":1,
+         "move":"Shadow Claw",
+         "type":" Ghost "
+      },
+      {
+         "level":1,
+         "move":"Air Slash",
+         "type":" Flying "
+      },
+      {
+         "level":1,
+         "move":"Scratch",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Growl",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Ember",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Smokescreen",
+         "type":" Normal "
+      },
+      {
+         "level":7,
+         "move":"Ember",
+         "type":" Fire "
+      },
+      {
+         "level":10,
+         "move":"Smokescreen",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Dragon Rage",
+         "type":" Dragon "
+      },
+      {
+         "level":21,
+         "move":"Scary Face",
+         "type":" Normal "
+      },
+      {
+         "level":28,
+         "move":"Fire Fang",
+         "type":" Fire "
+      },
+      {
+         "level":32,
+         "move":"Flame Burst",
+         "type":" Fire "
+      },
+      {
+         "level":36,
+         "move":"Wing Attack",
+         "type":" Flying "
+      },
+      {
+         "level":41,
+         "move":"Slash",
+         "type":" Normal "
+      },
+      {
+         "level":47,
+         "move":"Flamethrower",
+         "type":" Fire "
+      },
+      {
+         "level":56,
+         "move":"Fire Spin",
+         "type":" Fire "
+      },
+      {
+         "level":62,
+         "move":"Inferno",
+         "type":" Fire "
+      },
+      {
+         "level":71,
+         "move":"Heat Wave",
+         "type":" Fire "
+      },
+      {
+         "level":77,
+         "move":"Flare Blitz",
+         "type":" Fire "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM01",
+         "move":"Hone Claws",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM02",
+         "move":"Dragon Claw",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM05",
+         "move":"Roar",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM19",
+         "move":"Roost",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM26",
+         "move":"Earthquake",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM35",
+         "move":"Flamethrower",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM38",
+         "move":"Fire Blast",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM40",
+         "move":"Aerial Ace",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM43",
+         "move":"Flame Charge",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM49",
+         "move":"Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM50",
+         "move":"Overheat",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM51",
+         "move":"Steel Wing",
+         "type":" Steel "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM58",
+         "move":"Sky Drop",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM59",
+         "move":"Incinerate",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM61",
+         "move":"Will-O-Wisp",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM65",
+         "move":"Shadow Claw",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM75",
+         "move":"Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM78",
+         "move":"Bulldoze",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM82",
+         "move":"Dragon Tail",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM94",
+         "move":"Rock Smash",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "ORASTMMoveList":[
+      {
+         "tm":"TM01",
+         "move":"Hone Claws",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM02",
+         "move":"Dragon Claw",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM05",
+         "move":"Roar",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM19",
+         "move":"Roost",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM26",
+         "move":"Earthquake",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM35",
+         "move":"Flamethrower",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM38",
+         "move":"Fire Blast",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM40",
+         "move":"Aerial Ace",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM43",
+         "move":"Flame Charge",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM49",
+         "move":"Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM50",
+         "move":"Overheat",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM51",
+         "move":"Steel Wing",
+         "type":" Steel "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM58",
+         "move":"Sky Drop",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM59",
+         "move":"Incinerate",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM61",
+         "move":"Will-O-Wisp",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM65",
+         "move":"Shadow Claw",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM75",
+         "move":"Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM78",
+         "move":"Bulldoze",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM82",
+         "move":"Dragon Tail",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM94",
+         "move":"Secret Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM02",
+         "move":"Fly",
+         "type":" Flying "
+      },
+      {
+         "hm":"HM04",
+         "move":"Strength",
+         "type":" Normal "
+      }
+   ],
+   "ORASHMMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM02",
+         "move":"Fly",
+         "type":" Flying "
+      },
+      {
+         "hm":"HM04",
+         "move":"Strength",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM06",
+         "move":"Rock Smash",
+         "type":" Fighting "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Air Cutter",
+         "pokemon":[
+            {
+               "pokemonName":"Charizard"
+            },
+            {
+               "pokemonName":"Dragonite"
+            },
+            {
+               "pokemonName":"Swablu"
+            },
+            {
+               "pokemonName":"Altaria"
+            },
+            {
+               "pokemonName":"Tropius"
+            },
+            {
+               "pokemonName":"Salamence"
+            }
+         ],
+         "type":" Flying "
+      },
+      {
+         "move":"Ancient Power",
+         "pokemon":[
+            {
+               "pokemonName":"Cranidos"
+            },
+            {
+               "pokemonName":"Rampardos"
+            },
+            {
+               "pokemonName":"Shieldon"
+            },
+            {
+               "pokemonName":"Bastiodon"
+            },
+            {
+               "pokemonName":"Tyrunt"
+            },
+            {
+               "pokemonName":"Tyrantrum"
+            },
+            {
+               "pokemonName":"Amaura"
+            },
+            {
+               "pokemonName":"Aurorus"
+            }
+         ],
+         "type":" Rock "
+      },
+      {
+         "move":"Beat Up",
+         "pokemon":[
+            {
+               "pokemonName":"Arbok"
+            },
+            {
+               "pokemonName":"Nidoran♂"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Belly Drum",
+         "pokemon":[
+            {
+               "pokemonName":"Snorlax"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Bite",
+         "pokemon":[
+            {
+               "pokemonName":"Squirtle"
+            },
+            {
+               "pokemonName":"Wartortle"
+            },
+            {
+               "pokemonName":"Blastoise"
+            },
+            {
+               "pokemonName":"Ekans"
+            },
+            {
+               "pokemonName":"Arbok"
+            },
+            {
+               "pokemonName":"Gyarados"
+            },
+            {
+               "pokemonName":"Totodile"
+            },
+            {
+               "pokemonName":"Croconaw"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Larvitar"
+            },
+            {
+               "pokemonName":"Pupitar"
+            },
+            {
+               "pokemonName":"Tyranitar"
+            },
+            {
+               "pokemonName":"Loudred"
+            },
+            {
+               "pokemonName":"Exploud"
+            },
+            {
+               "pokemonName":"Seviper"
+            },
+            {
+               "pokemonName":"Bagon"
+            },
+            {
+               "pokemonName":"Shielgon"
+            },
+            {
+               "pokemonName":"Salamence"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Druddigon"
+            },
+            {
+               "pokemonName":"Deino"
+            },
+            {
+               "pokemonName":"Zweilous"
+            },
+            {
+               "pokemonName":"Hydreigon"
+            },
+            {
+               "pokemonName":"Tyrunt"
+            },
+            {
+               "pokemonName":"Tyrantrum"
+            },
+            {
+               "pokemonName":"Bergmite"
+            },
+            {
+               "pokemonName":"Avalugg"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Counter",
+         "pokemon":[
+            {
+               "pokemonName":"Nidoran♂"
+            },
+            {
+               "pokemonName":"Ryhorn"
+            },
+            {
+               "pokemonName":"Chikorita"
+            },
+            {
+               "pokemonName":"Scraggy"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Crunch",
+         "pokemon":[
+            {
+               "pokemonName":"Arbok"
+            },
+            {
+               "pokemonName":"Snorlax"
+            },
+            {
+               "pokemonName":"Totodile"
+            },
+            {
+               "pokemonName":"Croconar"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Larvitar"
+            },
+            {
+               "pokemonName":"Pupitar"
+            },
+            {
+               "pokemonName":"Tyranitar"
+            },
+            {
+               "pokemonName":"Exploud"
+            },
+            {
+               "pokemonName":"Seviper"
+            },
+            {
+               "pokemonName":"Bagon"
+            },
+            {
+               "pokemonName":"Shielgon"
+            },
+            {
+               "pokemonName":"Salamence"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Garchomp"
+            },
+            {
+               "pokemonName":"Scraggy"
+            },
+            {
+               "pokemonName":"Scrafty"
+            },
+            {
+               "pokemonName":"Druddigon"
+            },
+            {
+               "pokemonName":"Deino"
+            },
+            {
+               "pokemonName":"Zweilous"
+            },
+            {
+               "pokemonName":"Hydreigon"
+            },
+            {
+               "pokemonName":"Tyrunt"
+            },
+            {
+               "pokemonName":"Tyrantrum"
+            },
+            {
+               "pokemonName":"Avalugg"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Dragon Dance",
+         "pokemon":[
+            {
+               "pokemonName":"Horsea"
+            },
+            {
+               "pokemonName":"Seadra"
+            },
+            {
+               "pokemonName":"Kingdra"
+            },
+            {
+               "pokemonName":"Gyarados"
+            },
+            {
+               "pokemonName":"Dratini"
+            },
+            {
+               "pokemonName":"Dragonair"
+            },
+            {
+               "pokemonName":"Dragonite"
+            },
+            {
+               "pokemonName":"Altaria"
+            },
+            {
+               "pokemonName":"Axew"
+            },
+            {
+               "pokemonName":"Fraxure"
+            },
+            {
+               "pokemonName":"Haxorus"
+            }
+         ],
+         "type":" Dragon "
+      },
+      {
+         "move":"Dragon Pulse",
+         "pokemon":[
+            {
+               "pokemonName":"Horsea"
+            },
+            {
+               "pokemonName":"Seadra"
+            },
+            {
+               "pokemonName":"Kingdra"
+            },
+            {
+               "pokemonName":"Ampharos"
+            },
+            {
+               "pokemonName":"Swablu"
+            },
+            {
+               "pokemonName":"Altaria"
+            },
+            {
+               "pokemonName":"Axew"
+            },
+            {
+               "pokemonName":"Fraxure"
+            },
+            {
+               "pokemonName":"Haxorus"
+            },
+            {
+               "pokemonName":"Deino"
+            },
+            {
+               "pokemonName":"Zweilous"
+            },
+            {
+               "pokemonName":"Hydreigon"
+            },
+            {
+               "pokemonName":"Skrelp"
+            },
+            {
+               "pokemonName":"Dragalge"
+            },
+            {
+               "pokemonName":"Goomy"
+            },
+            {
+               "pokemonName":"Sliggoo"
+            },
+            {
+               "pokemonName":"Goodra"
+            }
+         ],
+         "type":" Dragon "
+      },
+      {
+         "move":"Dragon Rush",
+         "pokemon":[
+            {
+               "pokemonName":"Gible"
+            },
+            {
+               "pokemonName":"Gabite"
+            },
+            {
+               "pokemonName":"Garchomp"
+            },
+            {
+               "pokemonName":"Deino"
+            },
+            {
+               "pokemonName":"Zweilous"
+            },
+            {
+               "pokemonName":"Hydreigon"
+            }
+         ],
+         "type":" Dragon "
+      },
+      {
+         "move":"Flare Blitz",
+         "pokemon":[
+            {
+               "pokemonName":"Charizard"
+            }
+         ],
+         "type":" Fire "
+      },
+      {
+         "move":"Focus Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Scraggy"
+            },
+            {
+               "pokemonName":"Scrafty"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Metal Claw",
+         "pokemon":[
+            {
+               "pokemonName":"Aron"
+            },
+            {
+               "pokemonName":"Lairon"
+            },
+            {
+               "pokemonName":"Aggron"
+            }
+         ],
+         "type":" Steel "
+      },
+      {
+         "move":"Outrage",
+         "pokemon":[
+            {
+               "pokemonName":"Dratini"
+            },
+            {
+               "pokemonName":"Dragonair"
+            },
+            {
+               "pokemonName":"Dragonite"
+            },
+            {
+               "pokemonName":"Axew"
+            },
+            {
+               "pokemonName":"Fraxure"
+            },
+            {
+               "pokemonName":"Haxorus"
+            },
+            {
+               "pokemonName":"Druddigon"
+            },
+            {
+               "pokemonName":"Deino"
+            },
+            {
+               "pokemonName":"Zweilous"
+            },
+            {
+               "pokemonName":"Hydreigon"
+            },
+            {
+               "pokemonName":"Goodra"
+            }
+         ],
+         "type":" Dragon "
+      }
+   ],
+   "tutorMoveList":[
+      "Blast Burn",
+      "Dragon Pulse",
+      "Fire Pledge",
+      "Fire Punch",
+      "Heat Wave",
+      "Iron Tail",
+      "Outrage",
+      "Roost",
+      "Sleep Talk",
+      "Snore",
+      "Tailwind",
+      "Thunder Punch"
+   ],
+   "pokedexNumber": "6",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Charizardite X -> Lumiose City (if Bulbasaur is chosen from Professor Sycamore)",
+				"Charizardite X -> (Post-Game) Lumiose City - Stone Emporium"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Charizardite X -> Fiery Path (after defeating/capturing Groudon)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Charizardite X -> Fiery Path (after defeating/capturing Kyogre)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+   "abilities":[
+      "Tough Claws"
+   ],
+   "sets":[
+   		{
+			"name": "Bulky DD (Smogon)",
+			"items": [
+				"Charizardite X"
+			],
+			"ability": "Tough Claws",
+			"evs": [
+				"144 HP",
+				"252 Attack",
+				"112 Speed"
+			],
+			"moves": [
+				"Dragon Dance",
+				"Dragon Claw",
+				"Earthquake",
+				"Roost"
+			],
+			"nature": [
+				"Adamant"
+			],
+		"alternativemoves": [
+				"Fire Punch"
+			],
+			"setexplanation": "Mega Charizard X has a reasonable amount of bulk, so setting up Dragon Dance should help it become a good sweeper while maintaining HP. This allows it to survive Hydro Pump from Rotom-Wash with ease. Dragon Claw takes advantage of the Tough Claws ability, going from a 120 power move (80 plus STAB) to 160. This can take care of Pokemon like Reshiram and Salamence after one set up. Earthquake easily will knock out Heatran, which is important because it otherwise will wall it. Fire Punch is a good last slot if Heatran can be dealt with by teammates.",
+			"checksandcounters": "Terrakion is a good check, especially Scarf. It can live an unboosted Dragon Claw or Earthquake, then fire back with Stone Edge for the KO. Mega Latios and Mega Ampharos aren't good counters, but excellent checks. The former can outspeed, while the latter has the bulk to withstand a Dragon Claw or Earthquake.<br /><br />Your two main walls are Skarmory, Quagsire, Clefable, and Physically Defensive Gastrodon. The former is a great counter is Fire Punch isn't being run, Quagsire and Clefable have Unaware, and Gastrodon has very good bulk HP-wise. They can all either phase Mega Charizard X out or can knock it out with Earthquake/Earth Power. Mega Aggron is also an excellent counter, as it can tank Earthquake and Fire Punch with its Filter ability.",
+			"damagecalc": "<b><i>(vs.) 252 HP, 252 Defense Bold Gastrodon</b></i><br /><br />• Dragon Claw does 40.8 - 48.1%, which is a guaranteed 3HKO.<br /><br />• Dragon Claw at +1 does 61.2 - 72%, a guaranteed 2HKO.<br /><br /><b><i>(vs.) 64 HP Mega Altaria</b></i><br /><br />• Earthquake at +1 Attack does 53.7 - 63.5%, a guaranteed 2HKO."
+		},
+		{
+			"name": "All-Out DD Sweeper",
+			"items": [
+				"Charizardite X"
+			],
+			"ability": "Tough Claws",
+			"evs": [
+				"252 Attack",
+				"252 Speed",
+				"4 Defense"
+			],
+			"moves": [
+				"Dragon Dance",
+				"Flare Blitz",
+				"Dragon Claw",
+				"Earthquake"
+			],
+			"nature": [
+				"Adamant"
+			],
+		"alternativemoves": [
+			],
+			"setexplanation": "With a powerful 130 base Attack, Mega Charizard X is nothing to scoff at. In fact, it's downright scary once it sets up. With one DD set up, it will have an Attack a little less than 600 (at level 100) and a Speed at almost 450! Not to mention that while the moves aren't incredibly diverse, they do the job excellently.<br /><br />Dragon Claw was <i>made</i> for Tough Claws, as it has a total power of 160 after ability and STAB. Flare Blitz is the next option, as that is Mega Charizard X's most powerful move. Earthquake is used for Rock-types such as Aggron that can easily tank a Flare Blitz or Dragon Claw. While Fire Punch can be used, it's not recommended due to its poor power.",
+			"checksandcounters": "Unaware Quagsire is your best bet, here. It can easily tank any of Mega Charizard X's attacks without so much as flinching. Mega Blastoise is also a good option, but should be used as a check rather than a counter. Multiscale Dragonite, provided rocks aren't in play, can safely switch in and take a Dragon Claw (unboosted), firing back with Outrage or Dragon Claw of its own. Last, scarfers such as Terrakion can come in and revenge kill with Stone Edge.",
+			"damagecalc": "<b><i>(vs.) 252 HP, 252 Defense Bold Skarmory</b></i><br /><br />• Flare Blitz, unboosted, does 97.6 - 115.5%, which has an 87.5% chance to OHKO. If Stealth Rocks are up, it is 100% chance.<br /><br /><b><i>236 HP Mega Blastoise</b></i><br /><br />• Dragon Claw, at +1 Attack, does 68.1 - 80.4%, a guaranteed 2HKO."
+		},
+		{
+			"name": "Mixed Wallbreaker",
+			"items": [
+				"Charizardite X"
+			],
+			"ability": "Tough Claws",
+			"evs": [
+				"200 Attack",
+				"56 Special Attack",
+				"252 Speed"
+			],
+			"moves": [
+				"Fire Blast",
+				"Dragon Claw",
+				"Earthquake",
+				"Hidden Power Grass"
+			],
+			"nature": [
+				"Naive"
+			],
+		"alternativemoves": [
+				"Roost"
+			],
+			"setexplanation": "This set keeps in mind how much of a wall Quagsire can be. By running a mixed set, you can retain the power of Mega Charizard X, but throw your opponent off balance. Predictions are everything with this set, with its 130 Attack and Special Attack. Gastrodon, another good check, is also kept in line here.",
+			"checksandcounters": "Terrakion, as usual, can come in and revenge kill it. Specially Defensive Rotom-Wash can also provide a solid check.",
+			"damagecalc": "<b><i>252 HP, 252 Defense Impish Quagsire</b></i>• Hidden Power Grass does 81.2 - 96.4%, a guaranteed 2HKO. This is guaranteed with a critical hit."
+		}
+
+   ]
+}

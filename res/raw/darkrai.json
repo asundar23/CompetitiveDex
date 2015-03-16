@@ -1,0 +1,398 @@
+{ 
+	 "name": "Darkrai",
+	"types": [
+		" Dark "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		70,
+		90,
+		90,
+		135,
+		90,
+		125
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Disable",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 38,
+			"move": "Nightmare",
+			"type": " Ghost "
+		},
+		{
+			"level": 47,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 57,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 66,
+			"move": "Dark Void",
+			"type": " Dark "
+		},
+		{
+			"level": 75,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 84,
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"level": 93,
+			"move": "Dark Pulse",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Drain Punch",
+		"Foul Play",
+		"Icy Wind",
+		"Knock Off",
+		"Last Resort",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Spite",
+		"Trick",
+		"Wonder Room"
+
+	],
+	"locations": [
+		{"Location": "N/A"},
+		{"Location": "N/A"},
+		{"Location": "N/A"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Bad Dreams"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"name":"Own Tempo",
+	"summary": "Prevents confusion, even if its self inflicted.",
+	"viability": "Own Tempo is great because of the fact that Lilligant can freely run Petal Dance without having to worry about confusion afterwards. That alone makes it a better version of Outrage. In addition, you're preventing opponents from using moves like Confuse Ray and Swagger, which are very common.",
+	"pokemon":[
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Smeargle"
+		},
+		{
+			"pokemonName": "Lotad"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Ludicolo"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Lilligant"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Avalugg"
+		}
+	]
+}

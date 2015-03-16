@@ -1,0 +1,75 @@
+{
+	"name": "Camouflage",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Changes the type of the user according to the battlefield. In Sand, it is Ground, in Cave and rock it is Rock, in water it is Water, in tall grass it's Grass, and everywhere else it is Normal. In Link Battles (WiFi) it is Normal.",
+	"viability": "This is essentially a useless move in WiFi competition. You will always be a normal-type, which isn't a very good type in the first place.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Flabébé"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Helioptile"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

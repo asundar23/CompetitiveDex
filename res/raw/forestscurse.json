@@ -1,0 +1,23 @@
+{
+	"name": "Forest's Curse",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Adds Grass type to the target, in addition to the Pokemon's original type. This means that a Pokemon can have potentially three types.",
+	"viability": "This move has potential uses to it, but careful planning in Doubles and Triples will have to be done. It's not too easy to pull off efficiently, but Forest's Curse is certainly an interesting idea.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Phantump" },
+		{ "pokemonName": "Trevenant" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

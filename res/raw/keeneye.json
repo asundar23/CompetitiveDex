@@ -1,0 +1,103 @@
+{
+	"name":"Keen Eye",
+	"summary": "Prevents loss of accuracy.",
+	"viability": "Outside of the Watchog line, there are better abilities to run. Keen Eye is not recommended",
+	"pokemon":[
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "WIngull"
+		},
+		{
+			"pokemonName": "Pelipper"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "STunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		}
+	]
+}

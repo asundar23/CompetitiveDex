@@ -1,0 +1,39 @@
+{
+	"name": "Grass Pledge",
+	"note": "",
+	"type":" Grass ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Inflicts damage, with double damage when used with Fire and Water Pledge in Doubles and Triples If it and Water Pledge are used in the same turn, a swamp appears on the other side that halves their Speed. If it is with Fire Pledge, a sea of fire will appear on the targets' side and will take 1/8 of their maximum HP each turn",
+	"viability": "The pledge moves in general produce some very interesting results. The only problem is that they are exclusive to the starter Pokemon, which limits the creativity. Still, though, it's worth trying out in Doubles and Triples.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Ivysaur" },
+		{ "pokemonName": "Venusaur" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Bayleef" },
+		{ "pokemonName": "Meganium" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Grovyle" },
+		{ "pokemonName": "Sceptile" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Grotle" },
+		{ "pokemonName": "Torterra" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" },
+		{ "pokemonName": "Chespin" },
+		{ "pokemonName": "Quilladin" },
+		{ "pokemonName": "Chesnaught" }
+	]
+}

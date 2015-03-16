@@ -1,0 +1,36 @@
+{
+	"name": "Phantom Force",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Causes the user to vanish on the first turn. On the second turn it will hit, even through Protect, Detect, Spiky Shield, King's Shield, or Mat Block. Removes the effects of Quick Guard, Wide Guard, and Crafty Shield.",
+	"viability": "Phantom Force is a fantastic move because of the fact that it can hit through Protect and King's Shield. Aegislash will never know what hit it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Banette" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Mismagius" },
+		{ "pokemonName": "Golurk" },
+		{ "pokemonName": "Phantump" },
+		{ "pokemonName": "Trevenant" },
+{"pokemonName": "Gourgeist-Small" },
+{"pokemonName": "Gourgeist-Average" },
+{"pokemonName": "Gourgeist-Large" },
+{"pokemonName": "Gourgeist-Super" },
+		{ "pokemonName": "Yveltal" },
+		{ "pokemonName": "Hoopa" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Shuppet" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

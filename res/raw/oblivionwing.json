@@ -1,0 +1,22 @@
+{
+	"name": "Oblivion Wing",
+	"note": "",
+	"type":" Flying ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Does damage to the opposing pokemon and restores the users HP by 75% of damage dealt. If the attacking pokemon is holding Big Root, HP is incresed by an additional 30% but does not increase damage dealt.      ",
+	"viability": "This is Yveltal's signature move, and a good one at that. With 80 power and 75% HP recovery, this move is an obvious choice for any Yveltal set. ",
+	"pokemonByLevel": [
+		{ "pokemonName": "Yveltal" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

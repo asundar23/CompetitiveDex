@@ -1,0 +1,399 @@
+{ 
+	 "name": "Ferrothorn",
+	"types": [
+		" Grass ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Grass ",
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Joltik" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Galvantula" }
+   	],
+   "evolutionType":[
+   		"Level 36"
+   ],
+	"stats": [
+		44,
+		50,
+		91,
+		24,
+		86,
+		10
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 9,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 14,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 18,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 21,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 26,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 30,
+			"move": "Mirror Shot",
+			"type": " Steel "
+		},
+		{
+			"level": 35,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 38,
+			"move": "Selfdestruct",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Iron Head",
+			"type": " Dark "
+		},
+		{
+			"level": 47,
+			"move": "Payback",
+			"type": " Steel "
+		},
+		{
+			"level": 52,
+			"move": "Flash Cannon",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+		],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Spray",
+			"pokemon": [
+				{"pokemonName": "Trubbish"},
+				{"pokemonName": "Garbodor"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "Bullet Seed",
+			"pokemon": [
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Sunflora"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Gravity",
+			"pokemon": [
+				{"pokemonName": "Nosepass"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Leech Seed",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Sunflora"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Breloom"},
+				{"pokemonName": "Roselia"},
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"},
+				{"pokemonName": "Snivy"},
+				{"pokemonName": "Servine"},
+				{"pokemonName": "Serperior"},
+				{"pokemonName": "Cottonee"},
+				{"pokemonName": "Whimsicott"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Rock Climb",
+			"pokemon": [
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Seed Bomb",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Exeggutor"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Breloom"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Spikes",
+			"pokemon": [
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Boldore"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Worry Seed",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Sunflora"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"}
+			],
+			"type": " Grass "
+		}
+	],
+	"tutorMoveList": [
+		"Endeavor",
+		"Giga Drain",
+		"Gravity",
+		"Iron Defense",
+		"Iron Head",
+		"Magnet Rise",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Worry Seed"
+
+	],
+	"locations": [
+		{"Location": "Chargestone Cave"},
+		{"Location": "Chargestone Cave"},
+		{"Location": "Chargestone Cave, Chargestone Cave (N's Pokémon)"},
+		{"Location": "Chargestone Cave, Chargestone Cave (N's Pokémon)"},
+		{"Location": "Reflection Cave, Glittering Cave, Friend Safari (Steel)"},
+		{"Location": "Reflection Cave, Glittering Cave, Friend Safari (Steel)"}
+	],
+	"abilities": [
+		"Iron Barbs"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,420 @@
+{ 
+	 "name": "Cinccino",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Minccino" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Cinccino" }
+   	],
+   "evolutionType":[
+   		"Shiny Stone"
+   ],
+	"stats": [
+		75,
+		95,
+		60,
+		65,
+		60,
+		115
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Bullet Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Rock Blast",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tickle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sing",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tail Slap",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Aqua Tail",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Zorua"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Dunphan"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Tail Whip",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vapreon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoon"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Furfrou"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Aqua Tail",
+		"Covet",
+		"Gunk Shot",
+		"Helping Hand",
+		"Hyper Voice",
+		"Iron Tail",
+		"Knock Off",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Routes 5, 9, 16, Cold Storage"},
+		{"Location": "Routes 5, 9, 16, Cold Storage"},
+		{"Location": "Routes 5, 9, 16"},
+		{"Location": "Routes 5, 9, 16"},
+		{"Location": "Evolve Minccino"},
+		{"Location": "Evolve Minccino"}
+	],
+	"abilities": [
+		"Cute Charm",
+		"Technician",
+		"Skill Link"
+	],
+	"sets": [
+	]
+}

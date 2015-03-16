@@ -1,0 +1,52 @@
+{
+	"name":"Early Bird",
+	"summary": "Halves the amount of turns the Pokémon sleeps. If the Pokémon is due to sleep for 3 turns, that becomes 1. If that number is 1 turn before, it becomes 0.",
+	"viability": "Early Bird is not a bad ability. Sleep count is highly problematic sometimes, especially when it becomes three turns. Being asleep for one turn maximum is always nice. Unfortunately, most Pokémon that have Early Bird also have a much better ability. Kangaskhan has scrappy, Xatu has Magic Bounce, Houndoom has Flash Fire, and Shiftry has Chlorophyll.",
+	"pokemon":[
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Nuzleaf"
+		},
+		{
+			"pokemonName": "Shiftry"
+		}
+	]
+}

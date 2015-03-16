@@ -1,0 +1,168 @@
+{
+	"name": "Assurance",
+	"type": " Dark ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, and will double in power if the target has acquired damage the same turn.",
+	"viability": "This is an interesting alternative to Payback. The difference is, Payback is done if the target moves after. You have to have received any sort of damage with Assurance. It's interesting, and can be used on much slower Pokémon. While this won't make many standard teams, it's definitely worth a shot. 120 Base Power with no side effects is no joke.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Umbreon"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Donphan"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Mightyena"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Pignite"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Deino"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

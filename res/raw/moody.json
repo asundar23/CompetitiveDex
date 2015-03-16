@@ -1,0 +1,28 @@
+{
+	"name":"Moody",
+	"summary": "At the end of each turn, a random stat (Attack, Defense, Special Attack, Special Defense, Speed, Evasion, and Accuracy) will be raised by two stages, while a different random stat will be lowered by one stage.",
+	"viability": "Moody is banned in some tournaments due to the potential broken-ness. This is due to the fact that evasion can be increased by two stages, which becomes highly unbeatable at that point. If it's not banned, there is no reason you shouldn't use it. The chances of the stat you need being lowered is very low, while the payoff of having a +2 in something is well worth it.",
+	"pokemon":[
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Octillery"
+		},
+		{
+			"pokemonName": "Smeargle"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Glalie"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Bibarel"
+		}
+	]
+}

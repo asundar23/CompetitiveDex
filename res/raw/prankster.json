@@ -1,0 +1,53 @@
+{
+	"name":"Prankster",
+	"summary": "All non-attacking moves have a priority of +1.",
+	"viability": "Prankster is such a versatile ability. Every Pokémon with Prankster can utilize it differently; Murkrow can set up Tailwind, Sableye can use Trick and Will-O-Wisp, Volbeat can run Tail Glow and Baton Pass, Illumise can set up weather, Whimsicott can so Leech Seed + Encore, Liepard can use Thunder Wave and Swagger, Mega-Banette can use Destiny Bond, Riolu can use Copycat, Tornadus and Thundurus can set up Nasty Plot, Meowstic can set up screens, and Klefki can set up Spikes.
+	
+	Every Pokémon with Prankster is incredibly unique, and have a variety of options. One of the most popular and effective uses of Prankster is Will-O-Wisp because of the fact that you can be very slow, but be able to cripple a potential physical threat. Mega Banette and Sableye in particular are quite good at this. Other status moves like Torment, Taunt, Swagger, Thunder Wave, and Toxic will also be usually going first.
+	
+	The fact that each Pokémon gets a different moveset means that Prankster will work in a different way for each one. Try each one out and see what works best for you.",
+	"pokemon":[
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Mega Banette"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Whimsicott"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Klefki"
+		}
+	]
+}

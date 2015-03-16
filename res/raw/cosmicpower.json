@@ -1,0 +1,72 @@
+{
+	"name": "Cosmic Power",
+	"note": "",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Boosts the user's Defense and Special Defense by one stage each.",
+	"viability": "Especially with Magic Guard users like Sigilyph and Clefable, Cosmic Power can turn the entire tide of a match. After a few boosts, bulky Pokémon will be virtually impossible to take down unless they set up alongside, phase them out, Taunt them, or get a lucky critical hit. Sigilyph is the most famous user of this move, mostly due to its Speed. It's well worth running Cosmic Power.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Lunatone"
+		},
+		{
+			"pokemonName": "Solrock"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Deoxys"
+		},
+		{
+			"pokemonName": "Deoxys-Attack"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Elgyem"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

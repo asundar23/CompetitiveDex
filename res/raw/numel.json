@@ -1,0 +1,643 @@
+{ 
+	 "name": "Numel",
+	"types": [
+		" Fire ",
+		" Ground "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 8,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 15,
+			"move": "Flame Burst",
+			"type": " Fire "
+		},
+		{
+			"level": 19,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 22,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 26,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 29,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 31,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 43,
+			"move": "Eruption",
+			"type": " Fire "
+		},
+		{
+			"level": 47,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Numel" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Camerupt" }
+   	],
+   "evolutionType":[
+   		"Level 33"
+   ],
+	"stats": [
+		60,
+		60,
+		40,
+		65,
+		45,
+		35
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 8,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 12,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Flame Burst",
+			"type": " Fire "
+		},
+		{
+			"level": 19,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 22,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 26,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 29,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 31,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 43,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 47,
+			"move": "Double-Edge",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ancient Power",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Kecleon"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Defense Curl",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Growth",
+			"pokemon": [
+				{"pokemonName": "Seedot"},
+				{"pokemonName": "Nuzleaf"},
+				{"pokemonName": "Snivy"},
+				{"pokemonName": "Servine"},
+				{"pokemonName": "Serperior"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Skiddo"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Torkoal"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Howl",
+			"pokemon": [
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Head",
+			"pokemon": [
+				{"pokemonName": "Mawile"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Mud Bomb",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Rollout",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Chesnaught"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Spit-Up",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stomp",
+			"pokemon": [
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Earth Power",
+		"Heat Wave",
+		"Iron Head",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+
+	],
+	"locations": [
+		{ "Location": "Route 227, Stark Mountain"},
+		{ "Location": "Route 227, Stark Mountain"},
+		{ "Location": "Route 227, Stark Mountain"},
+		{ "Location": "Ilex Forest, Viridian Forest (Hoenn Sound)"},
+		{ "Location": "Ilex Forest, Viridian Forest (Hoenn Sound)"},
+		{ "Location": "Mountain"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Reversal Mountain"},
+		{ "Location": "Breed Camerupt"},
+		{ "Location": "Breed Camerupt"}
+
+	],
+	"abilities": [
+		"Oblivious",
+		"Simple",
+		"Own Tempo"
+	],
+	"sets": [
+	]
+}

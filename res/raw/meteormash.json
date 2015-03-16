@@ -1,0 +1,24 @@
+{
+	"name": "Meteor Mash",
+	"note": "",
+	"type":" Steel ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 20% chance of raiding the user's Attack by one stage.",
+	"viability": "Being Metagross's one usable Steel-type STAB move, Meteor Mash is well worth the investment. Power is great, accuracy is good, and the secondary effect is nice.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Metang" },
+		{ "pokemonName": "Metagross" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,550 @@
+{ 
+	 "name": "Espeon",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "1",
+   "preEvolution":[
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vaporeon" },
+   		{ "pokemonName":"Jolteon" },
+   		{ "pokemonName":"Flareon" },
+   		{ "pokemonName":"Espeon" },
+   		{ "pokemonName":"Umbreon" },
+   		{ "pokemonName":"Leafeon" },
+   		{ "pokemonName":"Glaceon" },
+   		{ "pokemonName":"Sylveon" }
+   ],
+   "evolutionType":[
+   		"Water Stone",
+   		"Thunder Stone",
+   		"Fire Sotne",
+   		"Friendship (Day)",
+   		"Friendship (Night)",
+   		"Level up near Moss Rock",
+   		"Level up near Ice Rock",
+   		"Level up after having two Affection Hearts in Pokémon Amie, while knowing a Fairy-type move"
+   ],
+	"stats": [
+		65,
+		65,
+		60,
+		130,
+		95,
+		110
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 13,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Morning Sun",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Power Swap",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+
+		
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM98",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Minccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Charm",
+			"pokemon": [
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Cubchoo"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Covet",
+			"pokemon": [
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Detect",
+			"pokemon": [
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Zorua"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stored Power",
+			"pokemon": [
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Synchronoise",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Heal Bell",
+		"Helping Hand",
+		"Hyper Voice",
+		"Iron Tail",
+		"Last Resort",
+		"Magic Coat",
+		"Magic Room",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Trick",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Field"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"}
+	],
+	"abilities": [
+		"Synchronize",
+		"Magic Bounce"
+	],
+	"sets": [
+	
+	{
+		"name": "Dual Screener",
+		"item": [
+			"Light Clay"
+		],
+		"ability": "Magic Bounce",
+		"nature": [
+			"Timid"
+		],
+		"moves":[
+				"Light Screen",
+				"Reflect",
+				"Baton Pass",
+				"Psychic"
+			],
+		"alternativemoves":[
+				"Dazzling Gleam",
+				"Calm Mind",
+				"Yawn"
+			],
+		"evs": [
+			"252 HP",
+			"252 Speed",
+			"4 SpD"
+		],
+		"setexplanation": "Espeon's quickness allows it to be one of the best support Pokémon out there. Setting up screens, in addition to font color='#FFB2B2'><strong>Baton Pass</font> really makes for a great lead=in to a sweeper. In addition, all status and entry hazard moves will be bounced back due to Magic <font color='#FFB2B2'><strong>Bounce</font>.<br /><br /> Setting up which screen depends on what Pokémon your opponent has in. If they have in a <font color='#9999E6'><strong>Mega-Gyarados</font>, it's in your best interest to set up <font color='#FFB2B2'><strong>Reflect</font> first; if they have in <font color='#9999E6'><strong>Meloetta-Aria</font>, on the other hang, <font color='#FFB2B2'><strong>Light Screen</font> is your best bet. <font color='#FFB2B2'><strong>Baton Pass</font> is used not necessarily to pass stat changes, though it could work on an Espeon in a <font color='#FFB2B2'><strong>Baton Pass</font> chain. This is used more to predict a switch from an opponent; the game mechanics work in such a way that the opponent switching out with first switch Pokémon, and then Espeon uses <font color='#FFB2B2'><strong>Baton Pass</font>. This is perfect in the sense that you can choose the appropriate Pokémon and start to set up.<br /><br /> The last moveslot can either be <font color='#FFB2B2'><strong>Dazzling-Gleam</font></font>, <font color='#FFB2B2'><strong>Psychic</font></font>, <font color='#FFB2B2'><strong>Calm-Mind</font></font>, or <font color='#FFB2B2'><strong>Yawn</font></font>. All are fine choIces; <font color='#FFB2B2'><strong>Dazzling-Gleam</font> gives coverage against Dark, Dragon, and Fighting, <font color='#FFB2B2'><strong>Calm-Mind</font> allows Espeon to pass boosts, <font color='#FFB2B2'><strong>Psychic</font> is a strong STAB move, and <font color='#FFB2B2'><strong>Yawn</font> will prevent the opponent from setting up.<br /><br /> Light Clay is the most important of this set, though, because it will extend the screens for 8 turns instead of the usual 5.",
+		"checksandcounters": "This set isn't designed to defeat anyone, but there are a few Pokémon that can prevent Espeon from supporting. These are mostly in the form of either fast font color='#FFB2B2'><strong>Taunt</font></font> and <font color='#FFB2B2'><strong>Encore</font></font> users or Prankster Taunt and Encore users. These include <font color='#9999E6'><strong>Crobat</font>, <font color='#9999E6'><strong>Mega-Banette</font>, <font color='#9999E6'><strong>Whimsicott</font>, and <font color='#9999E6'><strong>Sableye</font>",
+		"damagecalc": "strong> 252 Attack, Adamant <font color='#9999E6'>Mega-Scizor</font> <br /><br /> <font color='#FFB2B2'><strong>Knock-Off</font> does 71.6 - 84.5% on Espeon when <font color='#FFB2B2'><strong>Reflect</font> is up, which is a guaranteed 2HKO. "
+	}
+
+	]
+}

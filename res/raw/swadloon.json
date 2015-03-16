@@ -1,0 +1,340 @@
+{
+	"name":"Swadloon",
+	"types": [
+		"Bug",
+		"Grass"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Sewaddle" },
+   		{ "pokemonName":"Swadloom" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Swadloon" },
+   		{ "pokemonName":"Leavanny" }
+   ],
+   "evolutionType":[
+   		"Level 20",
+   		"Friendship"
+   ],
+	"abilities": [
+		"Leaf Guard",
+		"Chlorophyll",
+		"Overcoat"
+	],
+	"locations": [
+		{"Location": "Pinwheel Forest, Lostlorn Forest, Route 6"},
+		{"Location": "Pinwheel Forest, Lostlorn Forest, Route 6"},
+		{"Location": "Pinwheel Forest, Lostlorn Forest, Route 6"},
+		{"Location": "Pinwheel Forest, Lostlorn Forest, Route 6"},
+		{"Location": "Friend Safari (Grass)"},
+		{"Location": "Friend Safari (Grass)"}
+	],
+	"stats": [
+		55,
+		63,
+		90,
+		50,
+		80,
+		42
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Grass Whistle",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "String Shot",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Razor Leaf",
+			"type": " Grass "
+		},
+		{
+			"level": 20,
+			"move": "Protect",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		},
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Spinarak"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Accelgor"},
+				{"pokemonName": "Durant"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Air Slash",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Camouflage",
+			"pokemon": [
+				{"pokemonName": "Mothim"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Me First",
+			"pokemon": [
+				{"pokemonName": "Accelgor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Mind Reader",
+			"pokemon": [
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Ninjask"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Razor Wind",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Silver Wind",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Volcarona"}
+			],
+			"type": " Bug "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Giga Drain",
+		"Iron Defense",
+		"Magic Coat",
+		"Seed Bomb",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Synthesis",
+		"Worry Seed"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,285 @@
+{
+	"name":"Klinklang",
+	"types": [
+		"Steel"
+	],
+	"eggGroup": [
+		"Mineral"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Klink" },
+   		{ "pokemonName":"Klang" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Klang" },
+   		{ "pokemonName":"Klinklang" }
+   ],
+   "evolutionType":[
+   		"Level 38",
+   		"Level 49"
+   ],
+	"abilities": [
+		"Plus",
+		"Minus",
+		"Clear Body"
+	],
+	"locations": [
+		{"Location": "Evolve Klang"},
+		{"Location": "Evolve Klang"},
+		{"Location": "P2 Laboratory"},
+		{"Location": "P2 Laboratory"},
+		{"Location": "Evolve Klang"},
+		{"Location": "Evolve Klang"}
+	],
+	"stats": [
+		60,
+		100,
+		115,
+		70,
+		85,
+		90
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Magnetic Flux",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Vice Grip",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 11,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 16,
+			"move": "Gear Grind",
+			"type": " Steel "
+		},
+		{
+			"level": 21,
+			"move": "Bind",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"level": 31,
+			"move": "Autotomize",
+			"type": " Steel "
+		},
+		{
+			"level": 36,
+			"move": "Mirror Shot",
+			"type": " Steel "
+		},
+		{
+			"level": 40,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 48,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 54,
+			"move": "Shift Gear",
+			"type": " Steel "
+		},
+		{
+			"level": 60,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 72,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 76,
+			"move": "Magnetic Flux",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Gravity",
+		"Iron Defense",
+		"Magic Coat",
+		"Magnet Rise",
+		"Recycle",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

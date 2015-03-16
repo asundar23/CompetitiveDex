@@ -1,0 +1,575 @@
+{ 
+	 "name": "Darmanitan",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Darumaka" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Darmanitan" }
+   	],
+   "evolutionType":[
+   		"Level 31"
+   ],
+	"stats": [
+		105,
+		140,
+		55,
+		30,
+		55,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 6,
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"level": 9,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 14,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Fire Punch",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Work Up",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Belly Drum",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		},
+		{
+			"level": 35,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 39,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 47,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 54,
+			"move": "Overheat",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Flame Wheel",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Hammer Arm",
+			"pokemon": [
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Darmanitan"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Snatch",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Endeavor",
+		"Fire Punch",
+		"Heat Wave",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Uproar",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Desert Resort (Five, always have Zen Mode)"},
+		{"Location": "Desert Resort (Five, always have Zen Mode)"},
+		{"Location": "Desert Resort (N's Pokémon)"},
+		{"Location": "Desert Resort (N's Pokémon)"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Sheer Force",
+		"Zen Mode"
+	],
+	"sets": [
+	]
+}

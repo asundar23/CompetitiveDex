@@ -1,0 +1,442 @@
+{ 
+	 "name": "Drifloon",
+	"types": [
+		" Ghost ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Drifloon" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Drifblim" }
+   	],
+   "evolutionType":[
+   		"Level 28"
+   ],
+	"stats": [
+		90,
+		50,
+		34,
+		60,
+		44,
+		70
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Minimize",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 8,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 25,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Hex",
+			"type": " Ghost "
+		},
+		{
+			"level": 32,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 40,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 44,
+			"move": "Baton pass",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Clear Smog",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Memento",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Tailwind",
+			"pokemon": [
+				{"pokemonName": "Castform"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Weather Ball",
+			"pokemon": [
+				{"pokemonName": "Castform"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Icy Wind",
+		"Knock Off",
+		"Magic Coat",
+		"Pain Split",
+		"Recycle",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Tailwind",
+		"Trick"
+
+	],
+	"locations": [
+		{"Location": "Valley Windworks (Friday)"},
+		{"Location": "Valley Windworks (Friday)"},
+		{"Location": "Valley Windworks (Friday)"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Breed Drifblim"},
+		{"Location": "Breed Drifblim"},
+		{"Location": "Route 13 (Hidden Grotto)"},
+		{"Location": "Route 13 (Hidden Grotto)"},
+		{"Location": "Route 8"},
+		{"Location": "Route 8"}
+	],
+	"abilities": [
+		"Aftermath",
+		"Unburden",
+		"Flare Boost"
+	],
+	"sets": [
+	]
+}

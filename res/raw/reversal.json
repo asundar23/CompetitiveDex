@@ -1,0 +1,57 @@
+{
+	"name": "Reversal",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage depending on the user's HP. The lower the HP, the lower the power: 71% - 100% is at 20 power, 36% - 70% is at 40, 21% - 35% is at 80, 11% - 20% is at 100, 5% - 10% is at 150, and 0% - 4% is at 200.",
+	"viability": "Revenge works amazingly well with fast Focus Sash users like Dugtrio. When it's hanging on with the sash, Reversal's power is a whopping 200, which can get an OHKO on many opponents.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Kagaskhan" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Vigoroth" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" },
+		{ "pokemonName": "Reditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Herdier" },
+		{ "pokemonName": "Stoutland" },
+		{ "pokemonName": "Throh" },
+		{ "pokemonName": "Sawk" },
+		{ "pokemonName": "Escavalier" },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Mienshao" },
+		{ "pokemonName": "Bouffalant" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rattata" },
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Sentret" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Yanma" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Axew" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

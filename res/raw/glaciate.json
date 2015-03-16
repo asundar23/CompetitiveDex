@@ -1,0 +1,22 @@
+{
+	"name": "Glaciate",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "96",
+	"summary": "Inflicts damage and lowers all targets' Speed by one stage. Hits all adjacent opponents in Double and Triple Battles.",
+	"viability": "Glaciate is a good version of Electroweb and Icy Wind in Doubles and Triples. It shouldn't only be used in those formats, though.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Kyurem" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

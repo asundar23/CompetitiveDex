@@ -1,0 +1,25 @@
+{
+	"name":"Cloud Nine",
+	"summary": "All effects of weather are eliminated.",
+	"viability": "This is a fantastic ability, especially when you consider that weather is such a huge part of battle. For example, if you bring out a Golduck when the weather is Sunny, Solar Beam is guaranteed to take two turns instead of one. That is huge, considering Golduck is weak to Solar Beam. This also will prevent moves like Thunder or Blizzard from ever reaching 100% accuracy, which is a good thing with a Pokémon like Altaria (weak to Ice, neutral to Electric).",
+	"pokemon":[
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		}
+	]
+}

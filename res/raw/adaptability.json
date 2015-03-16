@@ -1,0 +1,48 @@
+{
+	"name":"Adaptability",
+	"summary": "Increases the STAB (Same Type Ability Bonus) from 1.5x damage to 2x.",
+	"viability": "This is an incredible ability, no matter who the Pokémon is. Mega Lucario was banned to Ubers, in part because of this ability. 
+	
+	Just for a Frame of reference:
+	
+	- Close Combat is 120 Base Power. With normal STAB it's 180, and with Adaptability, that number rises to 240 damage!
+	
+	- Specially Variant Mega Lucario (252 SpA) vs. Specially Defensive Sylveon (252 HP/SpA): Flash Cannon is a definite 2HKO after Leftovers recovery.
+			
+	The other great user is Crawdaunt. With Aqua Jet and Knock Off, Crawdaunt becomes a scary holder of Adaptability. Other great holders are ChoIce Scarf Porygon-Z, ChoIce Banded/Life Orb Basculin, and ChoIce Specs Dragalge.
+	
+	Any Pokémon with this ability instantly becomes a threat due to almost every Pokémon having a STAB move. This usually will be the ability of choIce when having to decide on a set.",
+	
+	"pokemon":[
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Crawdaunt"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Mega Lucario"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		}
+	]
+}

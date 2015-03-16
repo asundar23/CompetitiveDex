@@ -1,0 +1,13 @@
+{
+	"itemName": "Luxury Ball",
+	"summary":"1x capture rate; doubles the rate of friendship.",
+	"buy": "1000",
+	"sell": "500",
+	"viability":"This ball is very good for quickly raising happiness. This will shorten the time needed to either evolve a Pokemon or increase the power of Return",
+	"wildlocation":[
+		{"Location": "Lumoise City"}
+	],
+	"shopLocation":[
+		{"Location": "Lumoise City"}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"name":"Tangled Feet",
+	"summary": "Evasion increases by 20% when the user is confused.",
+	"viability": "This can work on a number of levels, primarily that it's very possible that if the user hits itself in confusion, it might not get hit. The other thing is that when the user is no longer confused, it still has a 20% increase in evasion, which can be very useful.",
+	"pokemon":[
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Chatot"
+		}
+	]
+}

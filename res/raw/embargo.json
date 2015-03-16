@@ -1,0 +1,182 @@
+{
+	"name": "Embargo",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "The target will be unable to use their item for 5 turns. The effect wears offif the target switches out.",
+	"viability": "Embargo is decent because almost all Pokemon have a held item. Of course, you'd be spending a moveslot on this when you can have a better status move like Taunt, or even set up.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Mightyena"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Lunatone"
+		},
+		{
+			"pokemonName": "Solrock"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Banette"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Zoroark"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	{"pokemonName": "Persian"},
+{"pokemonName": "Abra"},
+{"pokemonName": "Kadabra"},
+{"pokemonName": "Alakazam"},
+{"pokemonName": "Gastly"},
+{"pokemonName": "Haunter"},
+{"pokemonName": "Gengar"},
+{"pokemonName": "Mewtwo"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Murkrow"},
+{"pokemonName": "Misdreavus"},
+{"pokemonName": "Sneasel"},
+{"pokemonName": "Houndour"},
+{"pokemonName": "Houndoom"},
+{"pokemonName": "Poochyena"},
+{"pokemonName": "Mightyena"},
+{"pokemonName": "Nuzleaf"},
+{"pokemonName": "Shiftry"},
+{"pokemonName": "Sableye"},
+{"pokemonName": "Mawile"},
+{"pokemonName": "Cacturne"},
+{"pokemonName": "Zangoose"},
+{"pokemonName": "Lunatone"},
+{"pokemonName": "Solrock"},
+{"pokemonName": "Shuppet"},
+{"pokemonName": "Banette"},
+{"pokemonName": "Duskull"},
+{"pokemonName": "Dusclops"},
+{"pokemonName": "Drifloon"},
+{"pokemonName": "Drifblim"},
+{"pokemonName": "Mismagius"},
+{"pokemonName": "Honchkrow"},
+{"pokemonName": "Spiritomb"},
+{"pokemonName": "Croagunk"},
+{"pokemonName": "Toxicroak"},
+{"pokemonName": "Weavile"},
+{"pokemonName": "Porygon-Z"},
+{"pokemonName": "Dusknoir"},
+{"pokemonName": "Froslass"},
+{"pokemonName": "Darkrai"},
+{"pokemonName": "Victini"},
+{"pokemonName": "Purrloin"},
+{"pokemonName": "Liepard"},
+{"pokemonName": "Woobat"},
+{"pokemonName": "Swoobat"},
+{"pokemonName": "Sandile"},
+{"pokemonName": "Krokorok"},
+{"pokemonName": "Krookodile"},
+{"pokemonName": "Yamask"},
+{"pokemonName": "Cofagrigus"},
+{"pokemonName": "Zorua"},
+{"pokemonName": "Zoroark"},
+{"pokemonName": "Gothita"},
+{"pokemonName": "Gothorita"},
+{"pokemonName": "Gothitelle"},
+{"pokemonName": "Solosis"},
+{"pokemonName": "Duosion"},
+{"pokemonName": "Reuniclus"},
+{"pokemonName": "Elgyem"},
+{"pokemonName": "Beheeyem"},
+{"pokemonName": "Litwick"},
+{"pokemonName": "Lampent"},
+{"pokemonName": "Chandelure"},
+{"pokemonName": "Pawniard"},
+{"pokemonName": "Bisharp"},
+{"pokemonName": "Vullaby"},
+{"pokemonName": "Mandibuzz"},
+{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+{"pokemonName": "Meloetta"},
+{"pokemonName": "Fennekin"},
+{"pokemonName": "Braixen"},
+{"pokemonName": "Delphox"},
+{"pokemonName": "Pangoro"},
+{"pokemonName": "Inkay"},
+{"pokemonName": "Malamar"},
+{"pokemonName": "Binacle"},
+{"pokemonName": "Barbaracle"},
+{"pokemonName": "Yveltal"}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

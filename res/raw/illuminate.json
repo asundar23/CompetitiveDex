@@ -1,0 +1,25 @@
+{
+	"name":"Illuminate",
+	"summary": "If a Pokémon with Illuminate is leading the party, the wild Pokémon encounter rate is increased to 200%.",
+	"viability": "There is no in battle use for Illuminate.",
+	"pokemon":[
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Starmie"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Watchog"
+		}
+	]
+}

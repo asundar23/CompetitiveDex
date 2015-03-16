@@ -1,0 +1,304 @@
+{ 
+	 "name": "Electrode",
+	"types": [
+		" Electric "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Voltorb" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Electrode" }
+   ],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"eggGroup": [
+		" Mineral "
+	],
+	"stats": [
+		60,
+		50,
+		70,
+		80,
+		80,
+		140
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Magnetic Flux",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sonic Boom",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 5,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Eerie Impulse",
+			"type": " Electric "
+		},
+		{
+			"level": 12,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 15,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 19,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"level": 26,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 35,
+			"move": "Self-Destruct",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 51,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 57,
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"level": 62,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Foul Play",
+		"Magic Coat",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Voltorb"},
+		{ "Location": "Evolve Voltorb"},
+		{ "Location": "Evolve Voltorb"},
+		{ "Location": "Team Rocket HQ (Three Only), Cerulean Cave"},
+		{ "Location": "Team Rocket HQ (Three Only), Cerulean Cave"},
+		{ "Location": "Field"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Lost Hotel, Friend Safari (Electric)"},
+		{ "Location": "Lost Hotel, Friend Safari (Electric)"}
+
+	],
+	"abilities": [
+		"Soundproof",
+		"Static",
+		"Aftermath"
+	],
+	"sets": [
+	]
+}

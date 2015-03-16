@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black" >
+    
+    <TextView
+        android:id="@+id/hiddenPowerTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hidden Power (Without IV's)"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp" />
+    
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Do you have a Kecleon with ability Color Change to use Hidden Power on?"
+        android:layout_above="@+id/question2"
+        android:layout_marginBottom="16dp" />
+    
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"/>
+    
+    <LinearLayout
+        android:id="@+id/spinnerLL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:spinnerMode="dialog"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal" >
+    
+	    <Spinner
+	        android:id="@+id/spinnerTypes"
+	        android:layout_width="0dp"
+	        android:gravity="center_horizontal"
+	        android:layout_weight="1.5"
+	        android:layout_height="wrap_content"
+	        android:spinnerMode="dropdown" />
+	    
+	    <Button
+	        android:id="@+id/go"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+	        android:textColor="@color/white"
+	        android:layout_weight="1"
+	        android:text="Go" />
+    
+    </LinearLayout>
+    
+    <RadioGroup 
+        android:layout_below="@+id/spinnerLL"
+        android:id="@+id/group"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical">
+	    
+	    <RadioButton android:id="@+id/yes"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:textSize="25sp"
+	        android:text="Yes"
+	        android:onClick="onRadioButtonClicked"/>
+	    
+	    <RadioButton android:id="@+id/no"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:textSize="25sp"
+	        android:text="No"
+	        android:onClick="onRadioButtonClicked"/>
+	    
+	    <RadioButton android:id="@+id/maybe"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:textSize="25sp"
+	        android:text="Maybe"
+	        android:onClick="onRadioButtonClicked"/>
+	    
+	    <RadioButton android:id="@+id/option4"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:textSize="25sp"
+	        android:text="Maybe"
+	        android:onClick="onRadioButtonClicked"/>
+	</RadioGroup>
+    
+
+</RelativeLayout>

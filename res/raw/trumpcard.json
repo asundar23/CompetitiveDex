@@ -1,0 +1,31 @@
+{
+	"name": "Trump Card",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "5",
+	"power": "Varies",
+	"accuracy": "--",
+	"summary": "Deals damage based on how much PP it has. 4+ is a base power of 40, 3 is 50, 2 is 60, 1 is 80, and 0 is 200.",
+	"viability": "You're essentially only going to get two good hits off. Good luck trying to stay in for over 4 turns trying to achieve that, though.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Eevee" },
+		{ "pokemonName": "Slowking" },
+		{ "pokemonName": "Minun" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Kangaskhan" },
+		{ "pokemonName": "Dunsparce" },
+		{ "pokemonName": "Corphish" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Oshawott" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

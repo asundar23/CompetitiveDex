@@ -1,0 +1,54 @@
+{
+	"name": "Fury Attack",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "15",
+	"accuracy": "85",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Horrible move. Maximum power of 75, with an accuracy of 85? One of the worst moves in the game.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Beedrill" },
+		{ "pokemonName": "Spearow" },
+		{ "pokemonName": "Fearow" },
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Nidorino" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Doduo" },
+		{ "pokemonName": "Dodrio" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Seaking" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Piloswine" },
+		{ "pokemonName": "Skarmory" },
+		{ "pokemonName": "Donphan" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Piplup" },
+		{ "pokemonName": "Prinplup" },
+		{ "pokemonName": "Empoleon" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Karrablast" },
+		{ "pokemonName": "Escavalier" },
+		{ "pokemonName": "Bouffalant" },
+		{ "pokemonName": "Rufflet" },
+		{ "pokemonName": "Braviary" },
+		{ "pokemonName": "Vullaby" },
+		{ "pokemonName": "Mandibuzz" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Starly" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

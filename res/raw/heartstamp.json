@@ -1,0 +1,26 @@
+{
+	"name": "Heart Stamp",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Inflicts damage and has a 30% chance of causing the target to flinch.",
+	"viability": "Swoobat and Jynx are more special attackers, and this is a physical move. Not worth the investment. Even if it was special, the power is just too low.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Swoobat" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Miltank" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"itemName": "",
+	"summary":"",
+	"buy": "",
+	"sell": "",
+	"viability":"",
+	"wildlocation":[
+		{"Location": ""},
+		{"Location": ""}
+	],
+	"shopLocation":[
+		{"Location": ""},
+		{"Location": ""}
+	]
+}

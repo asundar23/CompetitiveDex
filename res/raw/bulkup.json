@@ -1,0 +1,285 @@
+{
+	"name": "Bulk Up",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Attack and Defense stat by one stage each.",
+	"viability": "Bulk Up is a very good boosting move, most due to the fact that you can turn your Pokémon into a Physically-Defensive wall while increasing your Attack stat. A very good strategy concerning this move is to maximize your Special Defense, and then use Bulk Up to make yourself into a mixed wall with great Attack. This is best used on Pokémon like Scrafty or Throh, who have good Special Defense, and can increase their physical Defense easily.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Quilladin"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		},
+		{
+			"pokemonName": "Skiddo"
+		},
+		{
+			"pokemonName": "Gogoat"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	{
+	"pokemonName":"Mankey"
+},
+{
+	"pokemonName":"Primeape"
+},
+{
+	"pokemonName":"Poliwrath"
+},
+{
+	"pokemonName":"Machop"
+},
+{
+	"pokemonName":"Machoke"
+},
+{
+	"pokemonName":"Machamp"
+},
+{
+	"pokemonName":"Hitmonlee"
+},
+{
+	"pokemonName":"Hitmonchan"
+},
+{
+	"pokemonName":"Pinsir"
+},
+{
+	"pokemonName":"Mewtwo"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Snubbull"
+},
+{
+	"pokemonName":"Granbull"
+},
+{
+	"pokemonName":"Heracross"
+},
+{
+	"pokemonName":"Teddiursa"
+},
+{
+	"pokemonName":"Ursaring"
+},
+{
+	"pokemonName":"Tyrogue"
+},
+{
+	"pokemonName":"Hitmontop"
+},
+{
+	"pokemonName":"Combusken"
+},
+{
+	"pokemonName":"Blaziken"
+},
+{
+	"pokemonName":"Breloom"
+},
+{
+	"pokemonName":"Slakoth"
+},
+{
+	"pokemonName":"Vigoroth"
+},
+{
+	"pokemonName":"Slaking"
+},
+{
+	"pokemonName":"Makuhita"
+},
+{
+	"pokemonName":"Hariyama"
+},
+{
+	"pokemonName":"Meditite"
+},
+{
+	"pokemonName":"Medicham"
+},
+{
+	"pokemonName":"Groudon"
+},
+{
+	"pokemonName":"Rayquaza"
+},
+{
+	"pokemonName":"Chimchar"
+},
+{
+	"pokemonName":"Monferno"
+},
+{
+	"pokemonName":"Infernape"
+},
+{
+	"pokemonName":"Buizel"
+},
+{
+	"pokemonName":"Floatzel"
+},
+{
+	"pokemonName":"Riolu"
+},
+{
+	"pokemonName":"Lucario"
+},
+{
+	"pokemonName":"Croagunk"
+},
+{
+	"pokemonName":"Toxicroak"
+},
+{
+	"pokemonName":"Gallade"
+},
+{
+	"pokemonName":"Dialga"
+},
+{
+	"pokemonName":"Palkia"
+},
+{
+	"pokemonName":"Emboar"
+},
+{
+	"pokemonName":"Timburr"
+},
+{
+	"pokemonName":"Gurdurr"
+},
+{
+	"pokemonName":"Conkeldurr"
+},
+{
+	"pokemonName":"Throh"
+},
+{
+	"pokemonName":"Sawk"
+},
+{
+	"pokemonName":"Krookodile"
+},
+{
+	"pokemonName":"Darmanitan"
+},
+{
+	"pokemonName":"Scraggy"
+},
+{
+	"pokemonName":"Scrafty"
+},
+{
+	"pokemonName":"Beartic"
+},
+{
+	"pokemonName":"Mienfoo"
+},
+{
+	"pokemonName":"Mienshao"
+},
+{
+	"pokemonName":"Rufflet"
+},
+{
+	"pokemonName":"Braviary"
+},
+{
+	"pokemonName":"Tornadus-Incarnate"
+},
+{
+	"pokemonName":"Tornadus-Therian"
+},
+{
+	"pokemonName":"Thundurus-Incarnate"
+},
+{
+	"pokemonName":"Thundurus-Therian"
+},
+{
+	"pokemonName":"Landorus-Incarnate"
+},
+{
+	"pokemonName":"Landorus-Therian"
+},
+{
+	"pokemonName":"Chespin"
+},
+{
+	"pokemonName":"Quilladin"
+},
+{
+	"pokemonName":"Chesnaught"
+},
+{
+	"pokemonName":"Bunnelby"
+},
+{
+	"pokemonName":"Diggersby"
+},
+{
+	"pokemonName":"Talonflame"
+},
+{
+	"pokemonName":"Skiddo"
+},
+{
+	"pokemonName":"Gogoat"
+},
+{
+	"pokemonName":"Pancham"
+},
+{
+	"pokemonName":"Pangoro"
+},
+{
+	"pokemonName":"Barbaracle"
+},
+{
+	"pokemonName":"Hawlucha"
+}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

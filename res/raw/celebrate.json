@@ -1,0 +1,21 @@
+{
+	"name": "Celebrate",
+	"note": "Any Pokémon that gets this move is an event Pokémon from 2013: Pikachu, Eevee, and all the eeveelutions.",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "When the user uses this move, it disappears and a present will show the Pokémon that used this move inside. It then reads, "Congratulations, player>"",
+	"viability": "While there is obviously no use, it's still fun to celebrate! Do it all you want.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

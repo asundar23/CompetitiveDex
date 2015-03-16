@@ -1,0 +1,24 @@
+{
+	"name": "Blue Flare",
+	"note": "",
+	"type": " Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "130",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 20% chance of burning the target.",
+	"viability": "This is as good as it gets for Reshiram. Incredible Special Attack, combined with an incredibly powerful move. The accuracy is the same as Fire Blast, only the burn chance and the power are both better. Victini also got this move through an event that has already passed; the STAB that Blue Flare gives, combined with the increased accuracy via Victini's ability Victory Star make this an easy choIce for a moveslot.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Reshiram"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

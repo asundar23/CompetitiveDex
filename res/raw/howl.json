@@ -1,0 +1,39 @@
+{
+	"name": "Howl",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Attack by one stage.",
+	"viability": "Howl is basically an inferior Swords Dance. Pokemon who don't have Swords Dance will have access to a better boosting move like Dragon Dance or Hone Claws. Howl just doesn't do the job.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Houndoom" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Mightyena" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Loudred" },
+		{ "pokemonName": "Exploud" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Manectric" },
+		{ "pokemonName": "Fennekin" },
+		{ "pokemonName": "Braixen" },
+		{ "pokemonName": "Delphox" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Lillipup" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

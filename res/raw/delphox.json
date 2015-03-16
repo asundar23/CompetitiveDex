@@ -1,0 +1,413 @@
+{ 
+	 "name": "Delphox",
+	"types": [
+		" Fire ",
+		" Psychic "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Fennekin" },
+   		{ "pokemonName":"Braixen" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Braixen" },
+   		{ "pokemonName":"Delphox" }
+   	],
+   "evolutionType":[
+   		"Level 16",
+   		"Level 36"
+   ],
+	"stats": [
+		75,
+		69,
+		72,
+		114,
+		100,
+		104
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Role Play",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Switcheroo",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 11,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 14,
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"level": 18,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 22,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 27,
+			"move": "Lucky Chant",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Mystical Fire",
+			"type": " Fire "
+		},
+		{
+			"level": 42,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 47,
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"level": 51,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"level": 58,
+			"move": "Magic Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 61,
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"level": 69,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 75,
+			"move": "Mystical Fire",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Torkoal"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Magic Coat",
+			"pokemon": [
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Blast Burn",
+		"Fire Pledge"
+
+	],
+	"locations": [
+		{"Location": "Evolve Braixen"},
+		{"Location": "Evolve Braixen"}
+	],
+	"abilities": [
+		"Blaze",
+		"Magician"
+	],
+	"sets": [
+	]
+}

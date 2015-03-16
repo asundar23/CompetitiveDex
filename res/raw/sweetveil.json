@@ -1,0 +1,13 @@
+{
+	"name":"Sweet Veil",
+	"summary": "Prevents the user and its allies from falling asleep. Rest and Yawn will fail.",
+	"viability": "Although this ability works better in doubles, not having the be susceptible to sleeping makes Slurpuff a pretty good support Pokémon in singles. In Doubles and Triples, however, this is better because the teammates will never have to worry about falling asleep, and can possibly set up as a result.",
+	"pokemon":[
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		}
+	]
+}

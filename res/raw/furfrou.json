@@ -1,0 +1,323 @@
+{ 
+	 "name": "Furfrou",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"stats": [
+		75,
+		80,
+		60,
+		65,
+		90,
+		102
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Baby-Doll Eyes",
+			"type": " Fairy "
+		},
+		{
+			"level": 12,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 42,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 48,
+			"move": "Cotton Guard",
+			"type": " Grass "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Minccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mimic",
+			"pokemon": [
+				{"pokemonName": "Snubbull"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Refresh",
+			"pokemon": [
+				{"pokemonName": "Eevee"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Role Play",
+			"pokemon": [
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Delphox"},
+				{"pokemonName": "Meowstic"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Work Up",
+			"pokemon": [
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Route 5"},
+		{ "Location": "Route 5"}
+
+	],
+	"abilities": [
+		"Fur Coat"
+	],
+	"sets": [
+	]
+}

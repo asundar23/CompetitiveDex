@@ -1,0 +1,171 @@
+{ 
+	 "name": "Metapod",
+	"types": [
+		" Bug "
+	],
+	"hatchTime": "2805 - 3059 steps",
+	"height": "2'04\" (0.7 m)",
+	"weight": "21.8 lbs (9.9 kg)",
+	"evYield": [
+		"2 Defense"
+	],
+	"levelingRate": "Medium Fast",
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Caterpie" },
+   		{ "pokemonName":"Metapod" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Metapod" },
+   		{ "pokemonName":"Butterfree" }
+   ],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 10"
+   ],
+	"stats": [
+		50,
+		20,
+		55,
+		25,
+		25,
+		30
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+	],
+	"hmMoveList": [
+
+	],
+	"ORASTMMoveList": [
+	],
+	"ORASHMMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Iron Defense"
+
+	],
+	"pokedexNumber": "11",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Caterpie",
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Caterpie",
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Caterpie",
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Evolve Caterpie",
+				"Trade"
+			]
+		}
+	],
+	"abilities": [
+		"Shed Skin"
+	],
+	"sets": [
+	]
+}

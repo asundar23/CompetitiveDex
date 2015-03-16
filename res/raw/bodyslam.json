@@ -1,0 +1,226 @@
+{
+	"name": "Body Slam",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "85",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 30% chance of paralyzing the target. The target has used Minimize, the power doubles and Body Slam never misses.",
+	"viability": "If you know your opponent will use Minimize, bring this move. 170 power at infinite accuracy is as good as you'll ever get any move. In Smogon rules, Minimize is banned, but Body Slam is still a great choIce for a moveslot. Support Pokémon like Miltank and Jirachi use this as a good way to cause the paralysis, similar to Scald-burning. Jirachi, in particular, is the best user of Body Slam due to its Serene Grace ability, bringing the paralyzation chance from 30% to 60%. 85 base power is pretty good as well, and can be a viable option over Return.",
+	"pokemonByLevel": [
+	{
+	"pokemonName":"Nidoqueen"
+},
+{
+	"pokemonName":"Clefairy"
+},
+{
+	"pokemonName":"Jigglypuff"
+},
+{
+	"pokemonName":"Poliwag"
+},
+{
+	"pokemonName":"Poliwhirl"
+},
+{
+	"pokemonName":"Poliwrath"
+},
+{
+	"pokemonName":"Jynx"
+},
+{
+	"pokemonName":"Lapras"
+},
+{
+	"pokemonName":"Snorlax"
+},
+{
+	"pokemonName":"Chikorita"
+},
+{
+	"pokemonName":"Bayleef"
+},
+{
+	"pokemonName":"Meganium"
+},
+{
+	"pokemonName":"Slugma"
+},
+{
+	"pokemonName":"Magcargo"
+},
+{
+	"pokemonName":"Miltank"
+},
+{
+	"pokemonName":"Swalot"
+},
+{
+	"pokemonName":"Torkoal"
+},
+{
+	"pokemonName":"Tropius"
+},
+{
+	"pokemonName":"Spheal"
+},
+{
+	"pokemonName":"Sealeo"
+},
+{
+	"pokemonName":"Walrein"
+},
+{
+	"pokemonName":"Kyogre"
+},
+{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+{
+	"pokemonName":"Purugly"
+},
+{
+	"pokemonName":"Munchlax"
+},
+{
+	"pokemonName":"Throh"
+},
+{
+	"pokemonName":"Garbodor"
+},
+{
+	"pokemonName":"Shelmet"
+},
+{
+	"pokemonName":"Deino"
+},
+{
+	"pokemonName":"Zweilous"
+},
+{
+	"pokemonName":"Hydreigon"
+},
+{
+	"pokemonName":"Chespin"
+},
+{
+	"pokemonName":"Quilladin"
+},
+{
+	"pokemonName":"Chesnaught"
+},
+{
+	"pokemonName":"Pancham"
+},
+{
+	"pokemonName":"Pangoro"
+},
+{
+	"pokemonName":"Goomy"
+},
+{
+	"pokemonName":"Sliggoo"
+},
+{
+	"pokemonName":"Goodra"
+},
+	],
+	"pokemonByBreeding": [
+	
+	{
+	"pokemonName":"Growlithe"
+},
+{
+	"pokemonName":"Lickitung"
+},
+{
+	"pokemonName":"Chikorita"
+},
+{
+	"pokemonName":"Goldeen"
+},
+{
+	"pokemonName":"Mareep"
+},
+{
+	"pokemonName":"Marill"
+},
+{
+	"pokemonName":"Wooper"
+},
+{
+	"pokemonName":"Swinub"
+},
+{
+	"pokemonName":"Phanpy"
+},
+{
+	"pokemonName":"Slakoth"
+},
+{
+	"pokemonName":"Azurill"
+},
+{
+	"pokemonName":"Aron"
+},
+{
+	"pokemonName":"Wailmer"
+},
+{
+	"pokemonName":"Numel"
+},
+{
+	"pokemonName":"Seviper"
+},
+{
+	"pokemonName":"Corphish"
+},
+{
+	"pokemonName":"Clamperl"
+},
+{
+	"pokemonName":"Turtwig"
+},
+{
+	"pokemonName":"Shieldon"
+},
+{
+	"pokemonName":"Drifloon"
+},
+{
+	"pokemonName":"Gible"
+},
+{
+	"pokemonName":"Hippopotas"
+},
+{
+	"pokemonName":"Tepig"
+},
+{
+	"pokemonName":"Tirtouga"
+},
+{
+	"pokemonName":"Foongus"
+},
+{
+	"pokemonName":"Heatmor"
+},
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

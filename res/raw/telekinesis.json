@@ -1,0 +1,28 @@
+{
+	"name": "Telekinesis",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises a for into the air and makes them immune to Ground-type moves, Spikes, Toxic Spikes, and Arena Trap for three turns. All other moves except OHKO moves hit the target regardless of accuracy and evasion.",
+	"viability": "Telekinesis can be pretty useful in Doubles and Triples. Earthquake is everywhere, so having that immunity can serve really well. It also has the nice ability of making your target vulnerable to be hit by everything without missing.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Kadabra" },
+		{ "pokemonName": "Alakazam" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Gothorita" },
+		{ "pokemonName": "Gothitelle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "Wake-Up Slap",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage and will have double the power when the target is sleeping. It will wake them up.",
+	"viability": "Wake-Up Slap's only use is as a coverage move for Cinccino. Otherwise, it's not a good idea to use it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Jigglypuff" },
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Poliwhirl" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Machoke" },
+		{ "pokemonName": "Machamp" },
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Froslass" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Gurdurr" },
+		{ "pokemonName": "Conkeldurr" },
+		{ "pokemonName": "Minccino" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Meloetta-Aria" },
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Shroomish" },
+		{ "pokemonName": "Glameow" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Croagunk" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

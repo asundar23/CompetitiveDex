@@ -1,0 +1,321 @@
+{
+	"name": "Double-Edge",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and recoils the user's HP by 25% of the damage afflicted.",
+	"viability": "Double-Edge is great because of the sheer damage it provides. Combine this move with an ability like Reckless or Rock Head and youu have a dangerous attack on your hands",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Ivysaur"
+		},
+		{
+			"pokemonName": "Venusaur"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Graveler"
+		},
+		{
+			"pokemonName": "Golem"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Cimecho"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Hippopotas"
+		},
+		{
+			"pokemonName": "Hippowdon"
+		},
+		{
+			"pokemonName": "Victini"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Venipede"
+		},
+		{
+			"pokemonName": "Whirlipede"
+		},
+		{
+			"pokemonName": "Scolipede"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Larvesta"
+		},
+		{
+			"pokemonName": "Skiddo"
+		},
+		{
+			"pokemonName": "Gogoat"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Avalugg"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Snover"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Shelmet"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

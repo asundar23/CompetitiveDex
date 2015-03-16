@@ -1,0 +1,24 @@
+{
+	"name": "Crush Grip",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "Dependent",
+	"accuracy": "100",
+	"summary": "The more HP the opponent has, the more damage this move does. It's calculated by 1 + 120 ? (Opponent's Current HP / Opponent's Maximum HP).",
+	"viability": "This is not a very good choIce in a move. First off, getting that max 121 base power means the opponent will have to have full health. Considering that entry hazards are so ubiquitous, the power of Crush Grip will like not be very high. Second, Return, which is learned by almost every Pokémon in the entire game, has a max base power of 102, which can be achieved simply by raising the Pokémon's happiness.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Regigigas"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

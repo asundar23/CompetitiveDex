@@ -1,0 +1,174 @@
+{
+	"name": "Disable",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "The user disables the last move used by the target, preventing the target from using that move for 4 turns. Fails if the user has the ability Aroma Veil or has not moved since switching in. Can be reflected by Magic Coat or Magic Bounce.",
+	"viability": "For fast Pokémon or those with Prankster, Disable is a fantastic move. In fact, Sub-Disable Gengar is one of the most popular strategies, due to Gengar's great speed. This can prevent Pokémon from setting up, sweeping, or even Pursuit-trapping. Though the opponent can predict around it, preventing the opponent from using a certain move can allow an easy revenge kill.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Hypno"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Dusclops"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Dusknoir"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Cofagrigus"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Pumpkaboo"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Outrage",
+	"note": "",
+	"type": " Dragon ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage for 2-3 turns. At the end the user gets confused.",
+	"viability": "Outrage isn't used much anymore because of the addition of Fairy-types. You don't want to be locked into a move that will do absolutely nothing. If there are no Fairy-types around, go ahead and be wild with it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Kangaskhan" },
+		{ "pokemonName": "Dratini" },
+		{ "pokemonName": "Dragonair" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Granbull" },
+		{ "pokemonName": "Rayquaza" },
+		{ "pokemonName": "Krookodile" },
+		{ "pokemonName": "Axew" },
+		{ "pokemonName": "Fraxure" },
+		{ "pokemonName": "Haxorus" },
+		{ "pokemonName": "Druddigon" },
+		{ "pokemonName": "Deino" },
+		{ "pokemonName": "Zweilous" },
+		{ "pokemonName": "Hydreigon" },
+		{ "pokemonName": "Reshiram" },
+		{ "pokemonName": "Zekrom" },
+		{ "pokemonName": "Landorus-Incarnate" },
+		{ "pokemonName": "Landorus-Therian" },
+		{ "pokemonName": "Kyurem" },
+		{ "pokemonName": "Goodra" },
+		{ "pokemonName": "Xerneas" },
+		{ "pokemonName": "Zygarde" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Larvitar" },
+		{ "pokemonName": "Gible" },
+		{ "pokemonName": "Noibat" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Bolt Strike",
+	"note": "",
+	"type": " Electric ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "130",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 20% chance of paralyzing the target.",
+	"viability": "Similar to Blue Flare and Reshiram, Bolt Strike is an amazing signature Move for Zekrom. 20% to paralyze isn't much, but it isn't insignificant. Also, Zekrom has access to Hone Claws, which increases the Attack and Accuracy stats, making Bolt Strike deadly. As for Victini, who gets this through an event that has already been passed, Bolt Strike provides perfect coverage against Water-types. Victini's ability Victory Star also make Bolt Strike an almost perfectly accurate move.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Zekrom"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

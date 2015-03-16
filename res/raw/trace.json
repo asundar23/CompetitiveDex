@@ -1,0 +1,27 @@
+{
+	"name":"Trace",
+	"summary": "Copies the opponent's ability, except for Trace, Multitype, Illusion, Flower Gift, Imposter, or Stance Chance. It can, however copy Wonder Guard.
+	
+	In Doubles and Triples, Trace will copy a random opponent's ability.",
+	"viability": "Given some prediction, copying the right ability can spell defeat for the opponent. Copying an ability like Levitate or Mold Breaker can make the opponent have to reconsider their strategy. The only problem with Trace is that getting the right ability is left to chance, and most of time you won't be getting the right one.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Alakazam"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		}
+	]
+}

@@ -1,0 +1,216 @@
+{
+	"name": "Charm",
+	"note": "",
+	"type": " Fairy ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Attack by two stages.",
+	"viability": "While stat lowering moves aren't too good because Pokémon can just switch out, Charm lowers their attack by TWO stages! That's half their attack, or the equivalent to a burn. While burning the opponent is better, Charm can actually be used on a Fire-type or on a Pokémon that can use a berry to get rid of its burn. It's not the best move around, but Charm has its own charm.",
+	"pokemonByLevel": [
+	{
+	"pokemonName":"Eevee"
+},
+{
+	"pokemonName":"Pichu"
+},
+{
+	"pokemonName":"Cleffa"
+},
+{
+	"pokemonName":"Igglybuff"
+},
+{
+	"pokemonName":"Togepi"
+},
+{
+	"pokemonName":"Togetic"
+},
+{
+	"pokemonName":"Snubbull"
+},
+{
+	"pokemonName":"Granbull"
+},
+{
+	"pokemonName":"Teddiursa"
+},
+{
+	"pokemonName":"Phanpy"
+},
+{
+	"pokemonName":"Ralts"
+},
+{
+	"pokemonName":"Kirlia"
+},
+{
+	"pokemonName":"Azurill"
+},
+{
+	"pokemonName":"Skitty"
+},
+{
+	"pokemonName":"Minun"
+},
+{
+	"pokemonName":"Illumise"
+},
+{
+	"pokemonName":"Wynaut"
+},
+{
+	"pokemonName":"Luvdisc"
+},
+{
+	"pokemonName":"Latias"
+},
+{
+	"pokemonName":"Pachirisu"
+},
+{
+	"pokemonName":"Buneary"
+},
+{
+	"pokemonName":"Lopunny"
+},
+{
+	"pokemonName":"Glameow"
+},
+{
+	"pokemonName":"Purugly"
+},
+{
+	"pokemonName":"Happiny"
+},
+{
+	"pokemonName":"Mesprit"
+},
+{
+	"pokemonName":"Phione"
+},
+{
+	"pokemonName":"Manaphy"
+},
+{
+	"pokemonName":"Cottonee"
+},
+{
+	"pokemonName":"Minccino"
+},
+{
+	"pokemonName":"Gothita"
+},
+{
+	"pokemonName":"Gothorita"
+},
+{
+	"pokemonName":"Gothitelle"
+},
+{
+	"pokemonName":"Solosis"
+},
+{
+	"pokemonName":"Duosion"
+},
+{
+	"pokemonName":"Reuniclus"
+},
+{
+	"pokemonName":"Deerling"
+},
+{
+	"pokemonName":"Sawsbuck"
+},
+{
+	"pokemonName":"Cubchoo"
+},
+{
+	"pokemonName":"Furfrou"
+},
+{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+{
+	"pokemonName":"Spritzee"
+},
+{
+	"pokemonName":"Aromatisse"
+},
+{
+	"pokemonName":"Tyrunt"
+},
+{
+	"pokemonName":"Tyrantrum"
+},
+{
+	"pokemonName":"Dedenne"
+},
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Emolga"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

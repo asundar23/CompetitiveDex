@@ -1,0 +1,13 @@
+{
+	"name":"Aroma Veil",
+	"summary": "Protets the user and its allies from Taunt, Torment, Encore, Disable, Heal Block, and Attract.",
+	"viability": "This is the perfect ability for a support Pokémon like Aromatisse. Since the best way to use it is by Wish-passing or Toxic-stalling, you'll be using a lot of non-attacking moves. It's best not to be locked into it (Encore) or be forced to attack (Taunt). In addition, it will allow Aromatisse's allies to set up without worry of being Taunted or Encore'd.",
+	"pokemon":[
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		}
+	]
+}

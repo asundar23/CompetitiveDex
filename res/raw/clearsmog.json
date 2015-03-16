@@ -1,0 +1,84 @@
+{
+	"name": "Clear Smog",
+	"note": "",
+	"type": " Poison ",
+	"category": "Special",
+	"pp": "15",
+	"power": "50",
+	"accuracy": "--",
+	"summary": "Deals damage, and resets all stat changes of the target.",
+	"viability": "Unlike Haze, Clear Smog doesn't affect all Pokémon, just the target. This automatically makes Haze the better choIce in Doubles and Triples. In singles, it's up to you on which move to run. Haze can be Taunted, but Clear Smog can't hit Steel types. Clear Smog also doesn't hit through Substitutes, but it can be useful to deal some damage against Calm Mind Fairy-types. While Haze is technically the better choIce, there is nothing wrong with running Clear Smog.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Amoonguss"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Litwick"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

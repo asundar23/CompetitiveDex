@@ -1,0 +1,492 @@
+{
+	"name":"Druddigon",
+	"types": [
+		"Dragon"
+	],
+	"eggGroup": [
+		"Dragon",
+		"Monster"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Rough Skin",
+		"Sheer Force",
+		"Mold Breaker"
+	],
+	"locations": [
+		{"Location": "Dragonspiral Tower"},
+		{"Location": "Dragonspiral Tower"},
+		{"Location": "Dragonspiral Tower, Victory Road"},
+		{"Location": "Dragonspiral Tower, Victory Road"},
+		{"Location": "Victory Road (Cave), Friend Safari (Dragon)"},
+		{"Location": "Victory Road (Cave), Friend Safari (Dragon)"}
+	],
+	"stats": [
+		77,
+		120,
+		90,
+		60,
+		90,
+		48
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"level": 9,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 21,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 31,
+			"move": "Chip Away",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Revenge",
+			"type": " Fighting "
+		},
+		{
+			"level": 40,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 45,
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"level": 49,
+			"move": "Rock Climb",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 62,
+			"move": "Outrage",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Crush Claw",
+			"pokemon": [
+				{"pokemonName": "Rhyhorn"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Fire "
+		},
+		{
+			"move": "Glare",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Poison Tail",
+			"pokemon": [
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Snatch",
+			"pokemon": [
+				{"pokemonName": "Arbok"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Sucker Punch",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Nidoran♂"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Dark Pulse",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Fire Punch",
+		"Gunk Shot",
+		"Heat Wave",
+		"Iron Head",
+		"Iron Tail",
+		"Outrage",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Stealth Rock",
+		"Superpower",
+		"Thunder Punch"
+	],
+	"sets": [
+	]
+}

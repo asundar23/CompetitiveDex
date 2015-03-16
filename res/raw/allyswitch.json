@@ -1,0 +1,57 @@
+{
+	"name": "Ally Switch",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"note":"",
+	"summary": "The user switches places with the ally on the opposite side of it. Does not work if the user is in the middle in Triple Battles.",
+	"viability": "In Doubles and Triples, this can be a great way to predict switches and possibly gain something out of it. Due to its priority status, the user can possibly predict something and use this move, but this move is still very gimmicky",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

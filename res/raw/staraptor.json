@@ -1,0 +1,410 @@
+{ 
+	 "name": "Staraptor",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Starly" },
+   		{ "pokemonName":"Staravia" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Staravia" },
+   		{ "pokemonName":"Staraptor" }
+   	],
+   "evolutionType":[
+   		"Level 14",
+   		"Level 34"
+   ],
+	"stats": [
+		85,
+		120,
+		70,
+		50,
+		60,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 5,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"level": 33,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 34,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 41,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Brave Bird",
+			"type": " Flying "
+		},
+		{
+			"level": 57,
+			"move": "Final Gambit",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Detect",
+			"pokemon": [
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Feather Dance",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mirror Move",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Fury Attack",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Farfetch'd"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Revenge",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Sand Attack",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Skarmory"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Uproar",
+			"pokemon": [
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Chatot"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Endeavor",
+		"Heat Wave",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Staravia"},
+		{ "Location": "Evolve Staravia"}
+
+	],
+	"abilities": [
+		"Intimidate",
+		"Reckless"
+	],
+	"sets": [
+	]
+}

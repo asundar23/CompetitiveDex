@@ -1,0 +1,180 @@
+{
+	"name": "Bubble Beam",
+	"note": "",
+	"type": " Water ",
+	"category": "Special",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of lowering the target's speed.",
+	"viability": "While this is better than Bubble, it's the same deal. Don't run this move when there are better options in Surf and Hydro Pump readily available.",
+	"pokemonByLevel": [
+	{
+	"pokemonName":"Poliwag"
+},
+{
+	"pokemonName":"Poliwhirl"
+},
+{
+	"pokemonName":"Poliwrath"
+},
+{
+	"pokemonName":"Tentacool"
+},
+{
+	"pokemonName":"Tentacruel"
+},
+{
+	"pokemonName":"Krabby"
+},
+{
+	"pokemonName":"Kingler"
+},
+{
+	"pokemonName":"Horsea"
+},
+{
+	"pokemonName":"Seadra"
+},
+{
+	"pokemonName":"Staryu"
+},
+{
+	"pokemonName":"Starmie"
+},
+{
+	"pokemonName":"Chinchou"
+},
+{
+	"pokemonName":"Lanturn"
+},
+{
+	"pokemonName":"Marill"
+},
+{
+	"pokemonName":"Azumarill"
+},
+{
+	"pokemonName":"Politoed"
+},
+{
+	"pokemonName":"Corsola"
+},
+{
+	"pokemonName":"Remoraid"
+},
+{
+	"pokemonName":"Octillery"
+},
+{
+	"pokemonName":"Mantine"
+},
+{
+	"pokemonName":"Kingdra"
+},
+{
+	"pokemonName":"Suicune"
+},
+{
+	"pokemonName":"Lotad"
+},
+{
+	"pokemonName":"Lombre"
+},
+{
+	"pokemonName":"Surskit"
+},
+{
+	"pokemonName":"Azurill"
+},
+{
+	"pokemonName":"Corphish"
+},
+{
+	"pokemonName":"Crawdaunt"
+},
+{
+	"pokemonName":"Piplup"
+},
+{
+	"pokemonName":"Prinplup"
+},
+{
+	"pokemonName":"Empoleon"
+},
+{
+	"pokemonName":"Mantyke"
+},
+{
+	"pokemonName":"Phione"
+},
+{
+	"pokemonName":"Manaphy"
+},
+{
+	"pokemonName":"Tympole"
+},
+{
+	"pokemonName":"Palpitoad"
+},
+{
+	"pokemonName":"Seismitoad"
+},
+{
+	"pokemonName":"Ducklett"
+},
+{
+	"pokemonName":"Swanna"
+},
+{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+{
+	"pokemonName":"Keldeo"
+},
+{
+	"pokemonName":"Clauncher"
+},
+{
+	"pokemonName":"Clawitzer"
+}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

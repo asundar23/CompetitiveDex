@@ -1,0 +1,459 @@
+{
+	"name":"Skarmory",
+	"types": [
+		"Steel",
+		"Flying"
+	],
+	"eggGroup": [
+		"Flying"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Keen Eye",
+		"Sturdy",
+		"Weak Armor"
+	],
+	"locations": [
+		{"Location": "Route 227, Stark Mountain"},
+		{"Location": "Route 227, Stark Mountain"},
+		{"Location": "Route 227, Stark Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Route 45"},
+		{"Location": "Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Reversal Mountain"},
+		{"Location": "Reversal Mountain"},
+		{"Location": "Victory Road, Friend Safari (Steel)"},
+		{"Location": "Victory Road, Friend Safari (Steel)"}
+	],
+	"stats": [
+		65,
+		80,
+		140,
+		40,
+		70,
+		70
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 6,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 17,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Air Cutter",
+			"type": " Flying "
+		},
+		{
+			"level": 28,
+			"move": "Spikes",
+			"type": " Ground "
+		},
+		{
+			"level": 31,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 34,
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"level": 39,
+			"move": "Autotomize",
+			"type": " Steel "
+		},
+		{
+			"level": 42,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 45,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Night Slash",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Brave Bird",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Drill Peck",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Chatot"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Guard Swap",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Sky Attack",
+			"pokemon": [
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Icy Wind",
+		"Iron Defense",
+		"Iron Head",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Tailwind"
+	],
+	"sets": [
+	]
+}

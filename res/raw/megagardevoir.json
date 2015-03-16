@@ -1,0 +1,572 @@
+{ 
+	 "name": "Mega Gardevoir",
+	"types": [
+		" Psychic ",
+		" Fairy "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Ralts" },
+   		{ "pokemonName":"Kirlia" },
+   		{ "pokemonName":"Kirlia" },
+   		{ "pokemonName": "Gardevoir" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kirlia" },
+   		{ "pokemonName":"Gardevoir" },
+   		{ "pokemonName":"Gallade" },
+   		{ "pokemonName":"Mega Gardevoir" }
+   	],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 30",
+   		"Dusk Stone (if male)",
+   		"Gardevoirite"
+   ],
+	"stats": [
+		68,
+		85,
+		65,
+		165,
+		135,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Moonblast",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Stored Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Misty Terrain",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Healing Wish",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 6,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 10,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 17,
+			"move": "Wish",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Magical Leaf",
+			"type": " Grass "
+		},
+		{
+			"level": 25,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 33,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 53,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 60,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 65,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 73,
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"level": 80,
+			"move": "Stored Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 85,
+			"move": "Moonblast",
+			"type": " Fairy "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Ally Switch",
+			"pokemon": [
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"},
+				{"pokemonName": "Gallade"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Grudge",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Mean Look",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Memento",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Misty Terrain",
+			"pokemon": [
+				{"pokemonName": "Gardevoir"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Shadow Sneak",
+			"pokemon": [
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Skill Swap",
+			"pokemon": [
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Synchronoise",
+			"pokemon": [
+				{"pokemonName": "Chimecho"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Fire Punch",
+		"Heal Bell",
+		"Helping Hand",
+		"Hyper Voice",
+		"Ice Punch",
+		"Icy Wind",
+		"Magic Coat",
+		"Magic Room",
+		"Pain Split",
+		"Recycle",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Thunder Punch",
+		"Trick",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Gardevoirite can be found in Lumiose City, given by Diantha after defeating the main story. It will be held by a Ralts she gives you."},
+		{"Location": "Gardevoirite can be found in Lumiose City, given by Diantha after defeating the main story. It will be held by a Ralts she gives you."}
+	],
+	"abilities": [
+		"Pixilate"
+	],
+	"sets": [
+	]
+}

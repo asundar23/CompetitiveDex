@@ -1,0 +1,28 @@
+{
+	"name": "Sticky Web",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Sets an entry hazard that decreases the Speed of grounded Pokemon by one stage. Can be taken out with Defog or Rapig Spin.",
+	"viability": "Sticky Web is new, but extremely effective. It can stop a fast sweeper like Greninja fast in its tracks, actually. That alone makes it extremely good.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Arisdos" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Surskit" },
+		{ "pokemonName": "Kricketune" },
+		{ "pokemonName": "Sewaddle" },
+		{ "pokemonName": "Galvantula" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

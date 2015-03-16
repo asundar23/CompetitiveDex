@@ -1,0 +1,85 @@
+{
+	"name":"Frisk",
+	"summary": "Identifies held items of all opposing Pokémon, regardless of position.",
+	"viability": "Frisk is very useful for scouting. Sometimes, it's unsure if a Pokémon is holding a Choice-item, Life Orb, or Berry. In that case, it's important to be able to identify it as quickly as possible. Frisk does that without having to any sort of real prediction, which is great.",
+	"pokemon":[
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Banette"
+		},
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Dusclops"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Dusknoir"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		},
+		{
+			"pokemonName": "Gourgeist-Small"
+		},
+		{
+			"pokemonName": "Gourgeist-Average"
+		},
+		{
+			"pokemonName": "Gourgeist-Large"
+		},
+		{
+			"pokemonName": "Gourgeist-Super"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	]
+}

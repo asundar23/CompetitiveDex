@@ -1,0 +1,22 @@
+{
+	"name": "Light of Ruin",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Special",
+	"pp": "140",
+	"power": "140",
+	"accuracy": "90",
+	"summary": "Deals damage. Causes the user to receive recoil damage of 1/3 the damage dealt.",
+	"viability": "This is a very powerful fairy move that can only be learned by Eternal Flower Floette. With 140 damage it is a very good option to replace moonblast if you want to deal more damage. Unfortunately, only Eternal Flower Floette can learn this move. ",
+	"pokemonByLevel": [
+		{ "pokemonName": "Eternal Flower Floette" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

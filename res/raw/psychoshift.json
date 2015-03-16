@@ -1,0 +1,36 @@
+{
+	"name": "Psycho Shift",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Cures any non-volatile status condition of the user, then inflicting the target with said status.",
+	"viability": "Psycho Shift is an extremely good move for a setup wall like Sigilyph, especially with Flame Orb. With a lack of status-inflicting move, Psycho Shift does the job very well.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hoothoot" },
+		{ "pokemonName": "Noctowl" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Deoxys" },
+		{ "pokemonName": "Cresselia" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Sigilyph" },
+		{ "pokemonName": "" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

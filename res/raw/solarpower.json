@@ -1,0 +1,34 @@
+{
+	"name":"Solar Power",
+	"summary": "Raises Special Attack by 1.5x in the sun, at the cost of 1/8 HP each turn.",
+	"viability": "Solar Power is a double-edged sword, and really only works for Mega Houndoom in a Sun team. First, sun decreases the power of Water moves, so that increases Mega Houndoom's longevity. Second, with such a good Special Attack Mega Houndoom just needs that little boost to start wrecking the opponent's Pokémon. Otherwise, Charizard should be holding Mega Stones, Heliolisk should have Dry Skin or Sand Veil, Tropius should have Harvest, and Sunflora should have Chlorophyll.",
+	"pokemon":[
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Charmeleon"
+		},
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Mega Houndoom"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		}
+	]
+}

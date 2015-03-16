@@ -1,0 +1,32 @@
+{
+	"name": "Karate Chop",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage and has an increased critical-hit ratio.",
+	"viability": "There are better fighting type moves out there. Karate Chop isn't worth it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Primeape" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Machoke" },
+		{ "pokemonName": "Machamp" },
+		{ "pokemonName": "Sawk" },
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Pangoro" },
+		{ "pokemonName": "Hawlucha" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Magby" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

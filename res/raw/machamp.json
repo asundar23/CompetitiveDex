@@ -1,0 +1,523 @@
+{ 
+	 "name": "Machamp",
+	"types": [
+		" Fighting "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Machop" },
+   		{ "pokemonName":"Machoke" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Machoke" },
+   		{ "pokemonName":"Machamp" }
+   ],
+   "evolutionType":[
+   		"Level 28",
+   		"Trade"
+   ],
+	"eggGroup": [
+		" Human-Like "
+	],
+	"stats": [
+		90,
+		130,
+		80,
+		65,
+		85,
+		55
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Wide Guard",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Low Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Karate Chop",
+			"type": " Fighting "
+		},
+		{
+			"level": 7,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Karate Chop",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"level": 19,
+			"move": "Foresight",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Seismic Toss",
+			"type": " Fighting "
+		},
+		{
+			"level": 25,
+			"move": "Revenge",
+			"type": " Fighting "
+		},
+		{
+			"level": 32,
+			"move": "Vital Throw",
+			"type": " Fighting "
+		},
+		{
+			"level": 36,
+			"move": "Submission",
+			"type": " Fighting "
+		},
+		{
+			"level": 40,
+			"move": "Wake-Up Slap",
+			"type": " Fighting "
+		},
+		{
+			"level": 44,
+			"move": "Cross Chop",
+			"type": " Fighting "
+		},
+		{
+			"level": 51,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Dynamic Punch",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bullet Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Close Combat",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fire Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmar"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Heavy Slam",
+			"pokemon": [
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Ice Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Sableye"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Meditate",
+			"pokemon": [
+				{"pokemonName": "Drowzee"},
+				{"pokemonName": "Hypno"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Power Trick",
+			"pokemon": [
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Mienfoo"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Rolling Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Smelling Salts",
+			"pokemon": [
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thunder Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Gothita"},
+				{"pokemonName": "Gothorita"},
+				{"pokemonName": "Gothitelle"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Dual Chop",
+		"Fire Punch",
+		"Helping Hand",
+		"Ice Punch",
+		"Knock Off",
+		"Low Kick",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Mountain"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Machoke"},
+		{ "Location": "Evolve Machoke"}
+
+	],
+	"abilities": [
+		"Guts",
+		"No Guard",
+		"Steadfast"
+	],
+	"sets": [
+	]
+}

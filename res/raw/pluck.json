@@ -1,0 +1,33 @@
+{
+	"name": "Pluck",
+	"note": "",
+	"type":" Flying ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage. If the target is holding a Berry, the user will eat the Berry and gain its effect.",
+	"viability": "While not great in Singles (only Unfezant and Archeops should use it as a STAB), it's great in Doubles/Triples. So many Pokemon hold Berries, so having that effect is useful.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Fearow" },
+		{ "pokemonName": "Doduo" },
+		{ "pokemonName": "Dodrio" },
+		{ "pokemonName": "Zapdos" },
+		{ "pokemonName": "Swellow" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Archen" },
+		{ "pokemonName": "Archeops" },
+		{ "pokemonName": "Vullaby" },
+		{ "pokemonName": "Mandibuzz" },
+		{ "pokemonName": "Inkay" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

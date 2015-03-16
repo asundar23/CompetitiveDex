@@ -1,0 +1,37 @@
+{
+	"name": "Sheer Cold",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "Varies",
+	"summary": "Will OHKO the target. Has an accuracy has the formula (level of user - level of target) + 30.",
+	"viability": "OHKO moves are banned in many competitive sites, but even if it wasn't Guillotine isn't worth it. On WiFi competitions, the levels are mostly auto-set to 50, so the accuracy will be only 30.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Dewgong" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Glalie" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Sealeo" },
+		{ "pokemonName": "Walrein" },
+		{ "pokemonName": "Kyogre" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Vanillite" },
+		{ "pokemonName": "Vanillish" },
+		{ "pokemonName": "Vanilluxe" },
+		{ "pokemonName": "Cubchoo" },
+		{ "pokemonName": "Beartic" },
+		{ "pokemonName": "Cryogonal" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

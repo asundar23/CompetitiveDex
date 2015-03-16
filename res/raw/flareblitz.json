@@ -1,0 +1,45 @@
+{
+	"name": "Flare Blitz",
+	"note": "",
+	"type":" Fire ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, thaws out the user if frozen, and has a 10% chance of burning the target. Recoil damage is 1/3 of damage done to the target.",
+	"viability": "Flare Blitz is the best Fire-type physical move out there. Though there is a considerable recoil, that shouldn't necessarily stop you from using it. High Attack Pokemon like Darmanitan and Entei make great use of it, and have high enough HP stats to handle it. In addition, Emboar with Reckless boosts the power even more. It's absolutely worth using.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Flareon" },
+		{ "pokemonName": "Combusken" },
+		{ "pokemonName": "Blaziken" },
+		{ "pokemonName": "Monferno" },
+		{ "pokemonName": "Infernape" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Darumaka" },
+		{ "pokemonName": "Darmanitan" },
+		{ "pokemonName": "Larvesta" },
+		{ "pokemonName": "Volcarona" },
+		{ "pokemonName": "Talonflame" },
+		{ "pokemonName": "Volcanion" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Magby" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

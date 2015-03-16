@@ -1,0 +1,30 @@
+{
+	"name": "Tri Attack",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 20% chance to either paralyze, freeze, or burn the target. Each ailment has a 6.67% chance of being inflicted.",
+	"viability": "Tri Attack is excellent on the Porygon line and Aurorus line. The former has a great STAB move to use, while the latter can make use of Nature Power and Tri Attack as a result. Mega Camerupt can also use Nature Power (Tri AttacK) and it gets the Sheer Force boost.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Dodrio" },
+		{ "pokemonName": "Porygon" },
+		{ "pokemonName": "Porygon2" },
+		{ "pokemonName": "Porygon-Z" },
+		{ "pokemonName": "Hydreigon" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Spearow" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Pay Day",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and scatters coins equal to five times the user's level each time. Prize Money Power, Happy Hour, Amulet Coin, and Luck Incense can stack with this.",
+	"viability": "Don't use Pay Day unless you're scratching for money in game.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Meowth" },
+		{ "pokemonName": "Persian" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Purrloin" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

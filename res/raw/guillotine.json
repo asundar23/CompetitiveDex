@@ -1,0 +1,34 @@
+{
+	"name": "Guillotine",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "OHKO",
+	"accuracy": "Varies",
+	"summary": "Will OHKO the target. Has an accuracy has the formula (level of user - level of target) + 30.",
+	"viability": "OHKO moves are banned in many competitive sites, but even if it wasn't Guillotine isn't worth it. On WiFi competitions, the levels are mostly auto-set to 50, so the accuracy will be only 30.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Krabby" },
+		{ "pokemonName": "Kingler" },
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Corphish" },
+		{ "pokemonName": "Crawdaunt" },
+		{ "pokemonName": "Gliscor" },
+		{ "pokemonName": "Axew" },
+		{ "pokemonName": "Fraxure" },
+		{ "pokemonName": "Haxorus" },
+		{ "pokemonName": "Pawniard" },
+		{ "pokemonName": "Bisharp" },
+		{ "pokemonName": "Durant" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

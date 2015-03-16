@@ -1,0 +1,519 @@
+{
+	"name": "Aqua Tail",
+	"type": " Water ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "90",
+	"summary": "Deals damage.",
+	"viability": "This is a classic case of power vs. accuracy. Most Pokémon who have this move also have access to Waterfall, which is only 80 Base Power but 100% accurate. 90% isn't too bad, however, so it really is up to the user to take that risk. Eelektross can use Aqua Tail along with Coil for a great coverage move, so this might be worst investing in.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Wartortle"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Minccino"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Wartortle"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Quagsire"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Marshtomp"
+		},
+		{
+			"pokemonName": "Swampert"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Sealeo"
+		},
+		{
+			"pokemonName": "Walrein"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Glaceon"
+		},
+		{
+			"pokemonName": "Gliscor"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Giratina-Origin"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Snivy"
+		},
+		{
+			"pokemonName": "Servine"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Simipour"
+		},
+		{
+			"pokemonName": "Scolipede"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Cinccino"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Aurorus"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	]
+}

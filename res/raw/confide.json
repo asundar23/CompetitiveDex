@@ -1,0 +1,24 @@
+{
+	"name": "Confide",
+	"note": "All Pokémon that can learn TMs can learn Confide except Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo and Spewpa.",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Lowers the target's Special Attack by one stage. Hits through everything except Crafty Shield, including Protect, Detect, and Spiky Shield. Ignores evasion boosts. Pokémon with Soundproof ability are immune to this move.",
+	"viability": "This might be an interesting move to run, but only one stage isn't too much, especially against a Calm Mind user. Confide isn't a very good move to use competitively.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Chatot"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

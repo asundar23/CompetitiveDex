@@ -1,0 +1,425 @@
+{ 
+	 "name": "Regice",
+	"types": [
+		" Ice "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"level": 7,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 13,
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"level": 19,
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 31,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 37,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 49,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 55,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 61,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 67,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"stats": [
+		80,
+		50,
+		100,
+		100,
+		200,
+		50
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 17,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 25,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 33,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 41,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"level": 57,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 65,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 73,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 81,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 89,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM79",
+			"move": "Frost Breath",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Block",
+		"Gravity",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Head",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Iceberg Ruins (requires fateful encounter Regigigas)"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Unove Link to obtain Iceberg Key"},
+		{"Location": "Underground Ruins (Iceberg Chamber)"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Clear Body",
+		"Ice Body (Unreleased)"
+	],
+	"sets": [
+	]
+}

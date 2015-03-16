@@ -1,0 +1,43 @@
+{
+	"name": "Powder Snow",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "25",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of freezing the target. Hits all adjacent foes.",
+	"viability": "Powder Snow is a poor move. If you want to hit both opponents, Icy Wind is far better due to the Speed drop.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Piloswine" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Glalie" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Sealeo" },
+		{ "pokemonName": "Walrein" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Mamoswine" },
+		{ "pokemonName": "Froslass" },
+		{ "pokemonName": "Cubchoo" },
+		{ "pokemonName": "Beartic" },
+		{ "pokemonName": "Amaura" },
+		{ "pokemonName": "Aurorus" },
+		{ "pokemonName": "Bergmite" },
+		{ "pokemonName": "Avalugg" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Vanillite" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

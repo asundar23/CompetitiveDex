@@ -1,0 +1,502 @@
+{
+	"name":"Stunfisk",
+	"types": [
+		"Ground",
+		"Electric"
+	],
+	"eggGroup": [
+		"Water 1",
+		"Amorphous"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Static",
+		"Limber",
+		"Sand Veil"
+	],
+	"locations": [
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (puddles in Spring, Summer, and Autumn; fishing and surfing)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (puddles in Spring, Summer, and Autumn; fishing and surfing)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (puddles in Spring, Summer, and Autumn; fishing and surfing)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (puddles in Spring, Summer, and Autumn; fishing and surfing)"},
+		{"Location": "Routes 14 and 19, Friend Safari (Electric)"},
+		{"Location": "Routes 14 and 19, Friend Safari (Electric)"}
+	],
+	"stats": [
+		109,
+		66,
+		84,
+		81,
+		99,
+		32
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Fissure",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 5,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 13,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 17,
+			"move": "Camouflage",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 30,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Bounce",
+			"type": " Flying "
+		},
+		{
+			"level": 40,
+			"move": "Muddy Water",
+			"type": " Water "
+		},
+		{
+			"level": 45,
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"level": 50,
+			"move": "Revenge",
+			"type": " Fighting "
+		},
+		{
+			"level": 55,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Ludicolo"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Chimecho"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrifus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Eerie Impulse",
+			"pokemon": [
+				{"pokemonName": "Wooper"}
+			],
+			"type": " Electric "
+		},
+		{
+			"move": "Me First",
+			"pokemon": [
+				{"pokemonName": "Ducklett"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Pain Split",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Reflect Type",
+			"pokemon": [
+				{"pokemonName": "Omanyte"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Shock Wave",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"},
+				{"pokemonName": "Gallade"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Castform"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Chimecho"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"},
+				{"pokemonName": "Spiritomb"}
+			],
+			"type": " Electric "
+		},
+		{
+			"move": "Spark",
+			"pokemon": [
+				{"pokemonName": "Tynamo"},
+				{"pokemonName": "Eelektrik"}
+			],
+			"type": " Electric "
+		},
+		{
+			"move": "Spite",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Mismagius"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Spiritomb"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Chimecho"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bounce",
+		"Earth Power",
+		"Electroweb",
+		"Endeavor",
+		"Foul Play",
+		"Magnet Rise",
+		"Pain Split",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Stealth Rock",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

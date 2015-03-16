@@ -1,0 +1,67 @@
+{
+	"name":"Blaze",
+	"summary": "Increases the power of Fire moves by 1.5x if the user has less than or equal to 1/3 of its maximum HP remaining.",
+	"viability": "This is the default ability for the starter Pokémon, and its a decent one at that. Fire Blast has a base power at 120, and with Blaze activated it will be a 180 base power attack. Flare Blitz is the same way on the physical side. Both are very nice to have, but the only issue is that since almost all the Fire starters are frail, getting to that 1/3 HP range is almost impossible.",
+	"pokemon":[
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Charmeleon"
+		},
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Pignite"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Simisear"
+		},
+		{
+			"pokemonName": "Fennekin"
+		},
+		{
+			"pokemonName": "Braixen"
+		},
+		{
+			"pokemonName": "Delphox"
+		}
+	]
+}

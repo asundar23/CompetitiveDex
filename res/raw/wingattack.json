@@ -1,0 +1,56 @@
+{
+	"name": "Wing Attack",
+	"note": "",
+	"type":" Flying ",
+	"category": "Physical",
+	"pp": "35",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage. Can hit non-adjavent oppoennts in Triple Battles.",
+	"viability": "Don't ever use Wing Attack. If you really need something to boost Technician, use Aerial Ace with Scyther.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Pidgey" },
+		{ "pokemonName": "Pidgeotto" },
+		{ "pokemonName": "Pidgeot" },
+		{ "pokemonName": "Zubat" },
+		{ "pokemonName": "Golbat" },
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Aerodactyl" },
+		{ "pokemonName": "Moltres" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Crobat" },
+		{ "pokemonName": "Yanma" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Taillow" },
+		{ "pokemonName": "Swellow" },
+		{ "pokemonName": "Wingull" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Starly" },
+		{ "pokemonName": "Staravia" },
+		{ "pokemonName": "Staraptor" },
+		{ "pokemonName": "Honchkrow" },
+		{ "pokemonName": "Mantyke" },
+		{ "pokemonName": "Archen" },
+		{ "pokemonName": "Archeops" },
+		{ "pokemonName": "Ducklett" },
+		{ "pokemonName": "Swanna" },
+		{ "pokemonName": "Rufflet" },
+		{ "pokemonName": "Braviary" },
+		{ "pokemonName": "Hawlucha" },
+		{ "pokemonName": "Noibat" },
+		{ "pokemonName": "Noivern" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Hoothoot" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Gligar" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

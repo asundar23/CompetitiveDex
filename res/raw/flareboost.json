@@ -1,0 +1,13 @@
+{
+	"name":"Flare Boost",
+	"summary": "When the user is burned, its Special Attack is raised by two stages.",
+	"viability": "Drifblim with Flame Orb is a usable set, although it fares better with Unburden. The implications behind Unburden are probably better than with Flare Boost, but its still a viable strategy."
+	"pokemon":[
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		}
+	]
+}

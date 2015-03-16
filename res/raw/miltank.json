@@ -1,0 +1,519 @@
+{ 
+	 "name": "Miltank",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		95,
+		80,
+		105,
+		40,
+		70,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Defense Curl",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Milk Drink",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 24,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 48,
+			"move": "Heal Bell",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Wake-Up Slap",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Belch",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Dizzy Punch",
+			"pokemon": [
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": ""}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hammer Arm",
+			"pokemon": [
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Heart Stamp",
+			"pokemon": [
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vaporeon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Female Meowstic"},
+				{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Present",
+			"pokemon": [
+				{"pokemonName": "Delibird"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Punishment",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Reversal",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Seismic Toss",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Block",
+		"Fire Punch",
+		"Heal Bell",
+		"Helping Hand",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Head",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Routes 209 and 210 (Poké Radar)"},
+		{ "Location": "Routes 209 and 210 (Poké Radar)"},
+		{ "Location": "Route 210 (Poké Radar)"},
+		{ "Location": "Routes (38, 39, and 47)"},
+		{ "Location": "Field"},
+		{ "Location": "Dream World or Poké Transfer"},
+		{ "Location": "Dream World or Poké Transfer"},
+		{ "Location": "Dream World or Poké Transfer"},
+		{ "Location": "Dream World or Poké Transfer"},
+		{ "Location": "Route 12"},
+		{ "Location": "Route 12"}
+
+	],
+	"abilities": [
+		"Thick Fat",
+		"Scrappy",
+		"Sap Sipper"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name":"Honey Gather",
+	"summary": "A Pokémon may collect Honey after a battle if it's not already holding a held item.",
+	"viability": "Honey Gather has no use in battle.",
+	"pokemon":[
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Combee"
+		}
+	]
+}

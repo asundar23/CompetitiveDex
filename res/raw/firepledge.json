@@ -1,0 +1,39 @@
+{
+	"name": "Fire Pledge",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage. If used with Grass Pledge in Doubles or Triples, It will inflict double the damage. A sea of fire will be created on the target's side for four turns. In those four turns, all non-Fire Pokemon will lose 1/8 of their maximum HP at the end of each turn. This is negated if it is raining. If Fire Pledge is combined with Water Pledge, it will come out as Water Pledge and inflict double the damage. A rainbow will form on the target's side, which is double the probability of secondary effects (does not stack with Serene Grace).",
+	"viability": "The pledge moves in general produce some very interesting results. The only problem is that they are exclusive to the starter Pokemon, which limits the creativity. Still, though, it's worth trying out in Doubles and Triples.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Charmeleon" },
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Quilava" },
+		{ "pokemonName": "Typhlosion" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Combusken" },
+		{ "pokemonName": "Blaziken" },
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Monferno" },
+		{ "pokemonName": "Infernape" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Fennekin" },
+		{ "pokemonName": "Braixen" },
+		{ "pokemonName": "Delphox" }
+	]
+}

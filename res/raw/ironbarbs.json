@@ -1,0 +1,15 @@
+{
+	"name":"Iron Barbs.",
+	"summary": "When the opponent makes contact, they lose 1/8 of their own HP. If the move is multi-hit, Iron Barbs activates after each successive hit. If both the user and opponent faint at the same time, the attacker faints first.",
+	"viability": "Given Ferrothorn and Ferroseed's tremendous physical bulk, Iron Barbs is really good for them. In fact, a common strategy is to combine the item Rocky Helmet with Iron Barbs, and contact moves will do 3/16 damage against the opponent each hit. 
+	
+	1/8 HP is pretty significant, too, and if you lose Leech Seed in conjunction, you cost the opponent 1/4 of their HP each contact hit.",
+	"pokemon":[
+		{
+			"pokemonName": "Ferroseed"
+		},
+		{
+			"pokemonName": "Ferrothorn"
+		}
+	]
+}

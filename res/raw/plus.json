@@ -1,0 +1,31 @@
+{
+	"name":"Plus",
+	"summary": "Increases the user's Special Attack stat by 50% if they enter a Double Battle with a Pokémon with the ability Minus.",
+	"viability": "In singles, this is useless. In Doubles and Triples, however, this can serve for some fun gimmicks, especially for Ampharos. Ampharos has a great Special Attack stat, and for it to be raised by one stage can and will make all the difference.",
+	"pokemon":[
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	]
+}

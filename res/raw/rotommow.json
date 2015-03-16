@@ -1,0 +1,293 @@
+{ 
+	 "name": "Rotom-Mow",
+	"types": [
+		" Electric ",
+		" Grass "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		50,
+		65,
+		107,
+		105,
+		107,
+		86
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 8,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Shock Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 29,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 36,
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 50,
+			"move": "Hex",
+			"type": " Ghost "
+		},
+		{
+			"level": 57,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 64,
+			"move": "Discharge",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Electroweb",
+		"Pain Split",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Spite",
+		"Trick",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."},
+		{ "Location": "Possess Rotom with a lawnmower. When this happens, Rotom-Wash will form and try to learn Leaf Storm."}
+
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

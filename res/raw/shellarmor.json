@@ -1,0 +1,70 @@
+{
+	"name":"Shell Armor",
+	"summary": "Prevents critical hits",
+	"viability": "Shell Armor isn't too useful, since critical hits havea  1/16 chance of hitting. In addition, critical hits are no longer twice the normal damage, but 1.5x instead. There really isn't a need to go out of your way to prevent them.",
+	"pokemon":[
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Cloyster"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Kingler"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Crawdaunt"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Grotle"
+		},
+		{
+			"pokemonName": "Torterra"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Crustle"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Shelmet"
+		}
+	]
+}

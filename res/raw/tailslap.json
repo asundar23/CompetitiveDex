@@ -1,0 +1,25 @@
+{
+	"name": "Tail Slap",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "25",
+	"accuracy": "85",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Tail Slap is a very good move to run on Minccino and Cinccino, as both get Skill Link. Even Technician varians can make use of it, due to each strike getting a boost. Either way, it's a must run.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Minccino" },
+		{ "pokemonName": "Cinccino" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Buizel" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

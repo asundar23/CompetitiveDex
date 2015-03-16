@@ -1,0 +1,324 @@
+{
+	"name": "Block",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents the target from switching. The target can switch out via U-Turn, Volt Switch, and Baton Pass. Dragon Tail, Circle Throw, Roar, and Whirlwind will still phase the target out. This move does not affect Ghost type Pokémon.",
+	"viability": "Why waste a move slot on this when there are abilities like Shadow Tag and Arena Trap? You could alternative run a move that could gain coverage, or could status the opponent. Preventing them from switching via a moveslot doesn't really hold much weight, unless you really got lucky with the right Pokémon, put in your sweeper, and had them set up. Besides that, it's really not worth it.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Bastiodon"
+		},
+		{
+			"pokemonName": "Bronzong"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Probopass"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Dwebble"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+	"pokemonName":"Venusaur"
+},
+{
+	"pokemonName":"Geodude"
+},
+{
+	"pokemonName":"Graveler"
+},
+{
+	"pokemonName":"Golem"
+},
+{
+	"pokemonName":"Slowpoke"
+},
+{
+	"pokemonName":"Slowbro"
+},
+{
+	"pokemonName":"Muk"
+},
+{
+	"pokemonName":"Onix"
+},
+{
+	"pokemonName":"Exeggcute"
+},
+{
+	"pokemonName":"Exeggutor"
+},
+{
+	"pokemonName":"Rhydon"
+},
+{
+	"pokemonName":"Lapras"
+},
+{
+	"pokemonName":"Snorlax"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Totodile"
+},
+{
+	"pokemonName":"Croconaw"
+},
+{
+	"pokemonName":"Feraligatr"
+},
+{
+	"pokemonName":"Sudowoodo"
+},
+{
+	"pokemonName":"Slowking"
+},
+{
+	"pokemonName":"Forretress"
+},
+{
+	"pokemonName":"Steelix"
+},
+{
+	"pokemonName":"Donphan"
+},
+{
+	"pokemonName":"Miltank"
+},
+{
+	"pokemonName":"Blissey"
+},
+{
+	"pokemonName":"Tyranitar"
+},
+{
+	"pokemonName":"Slaking"
+},
+{
+	"pokemonName":"Nosepass"
+},
+{
+	"pokemonName":"Aggron"
+},
+{
+	"pokemonName":"Swalot"
+},
+{
+	"pokemonName":"Wailord"
+},
+{
+	"pokemonName":"Cacnea"
+},
+{
+	"pokemonName":"Cacturne"
+},
+{
+	"pokemonName":"Cradily"
+},
+{
+	"pokemonName":"Armaldo"
+},
+{
+	"pokemonName":"Snorunt"
+},
+{
+	"pokemonName":"Glalie"
+},
+{
+	"pokemonName":"Walrein"
+},
+{
+	"pokemonName":"Metagross"
+},
+{
+	"pokemonName":"Regirock"
+},
+{
+	"pokemonName":"Regice"
+},
+{
+	"pokemonName":"Registeel"
+},
+{
+	"pokemonName":"Kyogre"
+},
+{
+	"pokemonName":"Groudon"
+},
+{
+	"pokemonName":"Torterra"
+},
+{
+	"pokemonName":"Bastiodon"
+},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+{
+	"pokemonName":"Bronzong"
+},
+{
+	"pokemonName":"Bonsly"
+},
+{
+	"pokemonName":"Abomasnow"
+},
+{
+	"pokemonName":"Lickilicky"
+},
+{
+	"pokemonName":"Rhyperior"
+},
+{
+	"pokemonName":"Tangrowth"
+},
+{
+	"pokemonName":"Mamoswine"
+},
+{
+	"pokemonName":"Probopass"
+},
+{
+	"pokemonName":"Froslass"
+},
+{
+	"pokemonName":"Regigigas"
+},
+{
+	"pokemonName":"Emboar"
+},
+{
+	"pokemonName":"Samurott"
+},
+{
+	"pokemonName":"Roggenrola"
+},
+{
+	"pokemonName":"Boldore"
+},
+{
+	"pokemonName":"Gigalith"
+},
+{
+	"pokemonName":"Timburr"
+},
+{
+	"pokemonName":"Gurdurr"
+},
+{
+	"pokemonName":"Conkeldurr"
+},
+{
+	"pokemonName":"Throh"
+},
+{
+	"pokemonName":"Sawk"
+},
+{
+	"pokemonName":"Krookodile"
+},
+{
+	"pokemonName":"Dwebble"
+},
+{
+	"pokemonName":"Crustle"
+},
+{
+	"pokemonName":"Yamask"
+},
+{
+	"pokemonName":"Cofagrigus"
+},
+{
+	"pokemonName":"Tirtouga"
+},
+{
+	"pokemonName":"Carracosta"
+},
+{
+	"pokemonName":"Golett"
+},
+{
+	"pokemonName":"Golurk"
+},
+{
+	"pokemonName":"Vullaby"
+},
+{
+	"pokemonName":"Mandibuzz"
+},
+{
+	"pokemonName":"Cobalion"
+},
+{
+	"pokemonName":"Terrakion"
+},
+{
+	"pokemonName":"Virizion"
+},
+{
+	"pokemonName":"Landorus-Incarnate"
+}
+	]
+}

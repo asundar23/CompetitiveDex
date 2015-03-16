@@ -1,0 +1,156 @@
+{
+	"name": "Bubble",
+	"note": "",
+	"type": " Water ",
+	"category": "Special",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance to lower the target's Speed stat by one stage. In Doubles/Triples, this move will hit all opposing adjacent Pokémon.",
+	"viability": "Surf and Hydro Pump are better. Don't bother.",
+	"pokemonByLevel": [
+	{
+	"pokemonName":"Squirtle"
+},
+{
+	"pokemonName":"Wartortle"
+},
+{
+	"pokemonName":"Blastoise"
+},
+{
+	"pokemonName":"Poliwag"
+},
+{
+	"pokemonName":"Poliwhirl"
+},
+{
+	"pokemonName":"Krabby"
+},
+{
+	"pokemonName":"Kingler"
+},
+{
+	"pokemonName":"Horsea"
+},
+{
+	"pokemonName":"Seadra"
+},
+{
+	"pokemonName":"Chinchou"
+},
+{
+	"pokemonName":"Lanturn"
+},
+{
+	"pokemonName":"Marill"
+},
+{
+	"pokemonName":"Azumarill"
+},
+{
+	"pokemonName":"Qwilfish"
+},
+{
+	"pokemonName":"Corsola"
+},
+{
+	"pokemonName":"Mantine"
+},
+{
+	"pokemonName":"Kingdra"
+},
+{
+	"pokemonName":"Surskit"
+},
+{
+	"pokemonName":"Masquerain"
+},
+{
+	"pokemonName":"Azurill"
+},
+{
+	"pokemonName":"Corphish"
+},
+{
+	"pokemonName":"Crawdaunt"
+},
+{
+	"pokemonName":"Piplup"
+},
+{
+	"pokemonName":"Prinplup"
+},
+{
+	"pokemonName":"Empoleon"
+},
+{
+	"pokemonName":"Mantyke"
+},
+{
+	"pokemonName":"Phione"
+},
+{
+	"pokemonName":"Manaphy"
+},
+{
+	"pokemonName":"Tympole"
+},
+{
+	"pokemonName":"Palpitoad"
+},
+{
+	"pokemonName":"Seismitoad"
+},
+{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+{
+	"pokemonName":"Froakie"
+},
+{
+	"pokemonName":"Frogadier"
+},
+{
+	"pokemonName":"Greninja"
+},
+{
+	"pokemonName":"Skrelp"
+},
+{
+	"pokemonName":"Dragalge"
+},
+{
+	"pokemonName":"Clauncher"
+},
+{
+	"pokemonName":"Clawitzer"
+},
+{
+	"pokemonName":"Goomy"
+},
+{
+	"pokemonName":"Sliggoo"
+},
+{
+	"pokemonName":"Goodra"
+}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

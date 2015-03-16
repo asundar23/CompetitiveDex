@@ -1,0 +1,66 @@
+{
+	"name": "Cotton Spore",
+	"note": "",
+	"type": " Grass ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Speed stat by two stages. Pokémon that are either holding Safety Goggles or have the ability Overcoat are immune to this move.",
+	"viability": "The ability to lower your opponent's Speed stat by two whole stages (or half the current speed) is a great choIce. This can slow down traditional sweepers and can cause an easy revenge kill. Prankster Whimsicott, espeically, utilizes this move well.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Whimsicott"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Budew"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

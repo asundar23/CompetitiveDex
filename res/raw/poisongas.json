@@ -1,0 +1,33 @@
+{
+	"name": "Poison Gas",
+	"note": "",
+	"type":" Poison ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "90",
+	"summary": "Poisons the target. Affects all adjacent foes.",
+	"viability": "Could see some use in Doubles/Triples, along with something like Venoshock or Venom Drench.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Mu" },
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Hypno" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Stunky" },
+		{ "pokemonName": "Skuntank" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

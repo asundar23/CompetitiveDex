@@ -1,0 +1,46 @@
+{
+	"name": "Smokescreen",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's accuracy stat by one stage.",
+	"viability": "Smokescreen isn't very good. Raising evasion is a better idea, since your opponent can easily switch out.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Charmeleon" },
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Seadra" },
+		{ "pokemonName": "Magmar" },
+		{ "pokemonName": "Cyndaquil" },
+		{ "pokemonName": "Quilava" },
+		{ "pokemonName": "Typhlosion" },
+		{ "pokemonName": "Kingdra" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Tunky" },
+		{ "pokemonName": "Skuntank" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Droakie" },
+		{ "pokemonName": "Frogadier" },
+		{ "pokemonName": "Greninja" },
+		{ "pokemonName": "Skrelp" },
+		{ "pokemonName": "Dragalge" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sluga" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Spiritomb" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

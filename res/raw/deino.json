@@ -1,0 +1,400 @@
+{ 
+	 "name": "Deino",
+	"types": [
+		" Dark ",
+		" Dragon "
+	],
+	"eggGroup": [
+		" Dragon "
+	],
+	
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Deino" },
+   		{ "pokemonName":"Zweilous" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Zweilous" },
+   		{ "pokemonName":"Hydreigon" }
+   ],
+   "evolutionType":[
+   		"Level 50",
+   		"Level 64"
+   ],
+	"stats": [
+		52,
+		65,
+		50,
+		45,
+		50,
+		38
+	],
+	"moveList": [
+		
+		{
+			"level": 1,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 12,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 20,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 28,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 38,
+			"move": "Work Up",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Dragon Rush",
+			"type": " Dragon "
+		},
+		{
+			"level": 48,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 58,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 62,
+			"move": "Outrage",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Dark Pulse",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweiloud"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Helioptile"},
+				{"pokemonName": "Heliolisk"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Double Hit",
+			"pokemon": [
+				{"pokemonName": "Zweilous"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Head Smash",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Ice Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Gyarados"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Dark Pulse",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Hyper Voice",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Superpower",
+		"Uproad",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Victory Road"},
+		{"Location": "Victory Road"},
+		{"Location": "Breed Zweilous or Hydreigon"},
+		{"Location": "Breed Zweilous or Hydreigon"},
+		{"Location": "Breed Zweilous or Hydreigon"},
+		{"Location": "Breed Zweilous or Hydreigon"}
+	],
+	"abilities": [
+		"Hustle"
+	],
+	"sets": [
+	]
+}

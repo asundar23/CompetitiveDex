@@ -1,0 +1,31 @@
+{
+	"name":"Friend Guard",
+	"summary": "Reduces damage done to an ally by 25% in Doubles and Triples.",
+	"viability": "Useless in singles, but pretty good in Doubles and Triples. 25% doesn't seem like much, but in reality it makes all the difference between a potential 2HKO and a 3HKO. The only problem is that mostly baby Pokémon and first stage evolutions (outside Vivillon and Spewpa) have access to this ability, and these Pokémon aren't particularly useful.",
+	"pokemon":[
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Scatterbug"
+		},
+		{
+			"pokemonName": "Spewpa"
+		},
+		{
+			"pokemonName": "Vivillon"
+		}
+	]
+}

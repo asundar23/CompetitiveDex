@@ -1,0 +1,29 @@
+{
+	"name": "Glare",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Paralyzes the target.",
+	"viability": "Glare is very good as an alternative to Thunder Wave. This is because it can actually paralyze Ground-types, whereas Thunder Wave cannot.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Dunsparce" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Zygarde" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Druddigon" },
+		{ "pokemonName": "Helioptile" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

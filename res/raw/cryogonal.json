@@ -1,0 +1,310 @@
+{
+	"name":"Cryogonal",
+	"types": [
+		"Ice"
+	],
+	"eggGroup": [
+		"Mineral"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Levitate"
+	],
+	"locations": [
+		{"Location": "Twist Mountain"},
+		{"Location": "Twist Mountain"},
+		{"Location": "Twist Mountain"},
+		{"Location": "Twist Mountain"},
+		{"Location": "Frost Cavern"},
+		{"Location": "Frost Cavern"}
+	],
+	"stats": [
+		70,
+		50,
+		30,
+		95,
+		135,
+		105
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Ice Shard",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Bind",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Ice Shard",
+			"type": " Ice "
+		},
+		{
+			"level": 9,
+			"move": "Sharpen",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 21,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 21,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 25,
+			"move": "Aurora Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 29,
+			"move": "Acid Armor",
+			"type": " Poison "
+		},
+		{
+			"level": 33,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 37,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 49,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Freeze-Dry",
+			"type": " Ice "
+		},
+		{
+			"level": 53,
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"level": 57,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 61,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM79",
+			"move": "Frost Breath",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Icy Wind",
+		"Iron Defense",
+		"Knock Off",
+		"Magic Coat",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+	],
+	"sets": [
+	]
+}

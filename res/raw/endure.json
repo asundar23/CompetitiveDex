@@ -1,0 +1,270 @@
+{
+	"name": "Endure",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Allows the user to survive an attack that would normally cause it to faint with 1 HP. The chances of this move successfully working decrease by 50% every consecutive turn. Protects against multi-hitting moves as well.",
+	"viability": "While not as common, Endure can accomplish a couple things; first, if an opponent is burned or poisoned, you can ensure more residual damage. Protect is better for that, but if you have a sweeper on your hands, it's often okay to use Endure instead. The second, and more popular way is to equip a Pokemon like Drifblim with Weakness Policy. A super effective move like Knock Off will send it to 1 HP after Endure, and will also raise its Attack and Special Attack. There are a lot of possibilities with Endure, and is definitely worth trying out.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Vigoroth"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "Bastiodon"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		},
+		{
+			"pokemonName": "Uxie"
+		},
+		{
+			"pokemonName": "Victini"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Beartic"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Sandshrew"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Surskit"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Darumaka"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Larvesta"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Goomy"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

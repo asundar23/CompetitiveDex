@@ -1,0 +1,456 @@
+{ 
+	 "name": "Qwilfish",
+	"types": [
+		" Water ",
+		" Poison "
+	],
+	"eggGroup": [
+		" Water 2 "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		85,
+		95,
+		75,
+		55,
+		55,
+		85
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Hydreo Pump",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Spikes",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 9,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Minimize",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 17,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 25,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Revenge",
+			"type": " Fighting "
+		},
+		{
+			"level": 33,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 37,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 41,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 49,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 53,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		},
+		{
+			"level": 57,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 60,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Spray",
+			"pokemon": [
+				{"pokemonName": "Remoraid"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Aqua Jet",
+			"pokemon": [
+				{"pokemonName": "Carvanha"},
+				{"pokemonName": "Sharpedo"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Bubble Beam",
+			"pokemon": [
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Magikarp"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Remoraid"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Signal Beam",
+			"pokemon": [
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Supersonic",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Barboarch"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Finneon"},
+				{"pokemonName": "Lumineon"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bounce",
+		"Icy Wind",
+		"Pain Split",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Iron Island (Super Rod)"},
+		{ "Location": "Iron Island (Super Rod)"},
+		{ "Location": "Iron Island (Super Rod)"},
+		{ "Location": "Routes 12 and 13 (Super Rod), Route 32 (Good Rod or Super Rod)"},
+		{ "Location": "Routes 12 and 13 (Super Rod), Route 32 (Good Rod or Super Rod)"},
+		{ "Location": "Sea"},
+		{ "Location": "Routes 17 and 18, P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Routes 17 and 18, P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Route 4, Virbank City, Virbank Complex (Fishing), P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Route 4, Virbank City, Virbank Complex (Fishing), P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Route 8 (Super Rod)"},
+		{ "Location": "Route 8 (Super Rod)"}
+
+	],
+	"abilities": [
+		"Poison Point",
+		"Swift Swim",
+		"Intimidate"
+	],
+	"sets": [
+	]
+}

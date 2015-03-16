@@ -1,0 +1,30 @@
+{
+	"name":"Cursed Body",
+	"summary": "When hit with a move, there is a 30% chance the opponent's used move will be disabled for 3 turns. This works through Substitute, and does not prevent multi-hitting moves from hitting the rest of the times.",
+	"viability": "Cursed Body is a pretty good ability, to say the least. Anyone who has had a Pokémon battle knows that 30% for anything is pretty significant, so the chance that Cursed Body activates isn't low at all. The only thing is that the Jellicent line is better suited with Water Absorb, and if allowed Froslass is better with Snow Cloak. Banette might want to consider Frisk to scout the opponent's item.
+	
+	So, Cursed Body isn't bad at all; in fact, it's quite effective. It's just that the Pokémon that have access to it have arguably better moves.",
+	"pokemon":[
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Banette"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		}
+	]
+}

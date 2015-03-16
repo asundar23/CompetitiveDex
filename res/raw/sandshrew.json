@@ -1,0 +1,837 @@
+{ 
+	 "name": "Sandshrew",
+	"types": [
+		" Ground "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"preEvolution":[
+   		{ "pokemonName":"Sandshrew" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Sandslash" }
+   ],
+   "evolutionType":[
+   		"Level 22"
+   ],
+	"eggGroup": [
+		" Field "
+	],
+	"stats": [
+		50,
+		75,
+		85,
+		20,
+		30,
+		40
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Defense Curl",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Sand-Attack",
+			"type": " Ground  "
+		},
+		{
+			"level": 5,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 7,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 9,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 14,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 17,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 26,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 34,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 38,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 46,
+			"move": "Earthquake",
+			"type": " Ground "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Defense Curl",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Sand-Attack",
+			"type": " Ground  "
+		},
+		{
+			"level": 5,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 7,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 9,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 14,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 17,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 26,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 34,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 38,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 46,
+			"move": "Earthquake",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"pokedexNumber": "27",
+	"hatchTime": "5355 - 5609 steps",
+	"height": "2'00\" (0.6 m)",
+	"weight": "26.5 lbs (12.0 kg)",
+	"evYield": [
+		"1 Defense"
+	],
+	"levelingRate": "Medium Fast",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Ground)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Ground)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 111",
+				"Route 113"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 111",
+				"Route 113"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM06",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Chip Away",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Crush Claw",
+			"pokemon": [
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Zangoose"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rapid Spin",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Rock Climb",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Rototiller",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ground "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Earth Power",
+		"Iron Tail",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Super Fang"
+
+	],
+	"abilities": [
+		"Sand Veil",
+		"Sand Rush"
+	],
+	"sets": [
+	]
+}

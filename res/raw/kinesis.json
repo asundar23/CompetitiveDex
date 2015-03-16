@@ -1,0 +1,23 @@
+{
+	"name": "Kinesis",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "80",
+	"summary": "Lowers the target's accuracy by one stage.",
+	"viability": "The irony of a move that lowers accuracy having bad accuracy is not lost on this developer... Don't use it, ever.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Kadabra" },
+		{ "pokemonName": "Alakazam" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

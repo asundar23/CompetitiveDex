@@ -1,0 +1,135 @@
+{
+	"name": "Fake Tears",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Lowers the target's Special Defense by two stages.",
+	"viability": "Fake Tears is decent, but not recommended. This is because the opponent can easily switch out due to stats being reset upon switching.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Vullaby"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

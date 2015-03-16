@@ -1,0 +1,58 @@
+{
+	"name": "Fury Cutter",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "40",
+	"accuracy": "95",
+	"summary": "Deals damage. Doubles in power each consecutive turn it is used.",
+	"viability": "It's a fun idea, but isn't really the best move to do, simply because the first move will have 40 base power. You'll additionally have to keep using it for it to maintain its base power. The opponent can easily switch out.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Sandslash" },
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Parasect" },
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Kabutops" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Scizor" },
+		{ "pokemonName": "Grovyle" },
+		{ "pokemonName": "Sceptile" },
+		{ "pokemonName": "Ninjask" },
+		{ "pokemonName": "Zangoose" },
+		{ "pokemonName": "Anorith" },
+		{ "pokemonName": "Armaldo" },
+		{ "pokemonName": "Kricketune" },
+		{ "pokemonName": "Vespiquen" },
+		{ "pokemonName": "Gliscor" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Oshawott" },
+		{ "pokemonName": "Dewott" },
+		{ "pokemonName": "Smurott" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Karrablast" },
+		{ "pokemonName": "Joltik" },
+		{ "pokemonName": "Galvantula" },
+		{ "pokemonName": "Pawniard" },
+		{ "pokemonName": "Bisharp" },
+		{ "pokemonName": "Durant" },
+		{ "pokemonName": "Genesect" },
+		{ "pokemonName": "Honedge" },
+		{ "pokemonName": "Doublade" },
+		{ "pokemonName": "Aegislash" },
+		{ "pokemonName": "Binacle" },
+		{ "pokemonName": "Barbaracle" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Trapinch" },
+		{ "pokemonName": "Buizel" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

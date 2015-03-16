@@ -1,0 +1,135 @@
+{
+	"name": "Aqua Ring",
+	"type": " Water ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user restores 1/18 of its max HP at the end of every turn. This can be increased with Big Root, and can be Baton Passed as well. The effects can be affected by Snatch.",
+	"viability": "This is a wonderful move to have if you're in a Baton Pass-themed team. Along with Leftovers recovery, the user will regain a total of 1/8 of total HP. That doesn't seem like much, but given the time that Baton Pass chains take to form, the added recovery is always welcome. Besides Baton Pass teams, this move is not particularly useful. Be careful, as with any boosting or status move, this can be Taunted by a quicker or Prankster user.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Kyogre"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Phione"
+		},
+		{
+			"pokemonName": "Manaphy"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Palpitoad"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Alomomola"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Panpour"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

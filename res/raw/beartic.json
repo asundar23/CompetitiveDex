@@ -1,0 +1,504 @@
+{ 
+	 "name": "Beartic",
+	"types": [
+		" Ice "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Cubchoo" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Beartic" }
+   	],
+   "evolutionType":[
+   		"Level 37"
+   ],
+	"stats": [
+		95,
+		110,
+		80,
+		70,
+		80,
+		50
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Aqua Jet",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 9,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 17,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 25,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Icicle Crash",
+			"type": " Ice "
+		},
+		{
+			"level": 41,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"level": 53,
+			"move": "Hali",
+			"type": " Ice "
+		},
+		{
+			"level": 59,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM79",
+			"move": "Frost Breath",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Avalanche",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Delibird"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Ice Punch",
+			"pokemon": [
+				{"pokemonName": "Buneary"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Fatfetch'd"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Play Rough",
+			"pokemon": [
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Ice Punch",
+		"Icy Wind",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore",
+		"Superpower"
+
+	],
+	"locations": [
+		{ "Location": "Dragonspiral Tower (Winter)"},
+		{ "Location": "Dragonspiral Tower (Winter)"},
+		{ "Location": "Twist Mountain, Dragonspiral Tower (Winter)"},
+		{ "Location": "Twist Mountain, Dragonspiral Tower (Winter)"},
+		{ "Location": "Frost Cavern, Friend Safari (Ice)"},
+		{ "Location": "Frost Cavern, Friend Safari (Ice)"}
+
+	],
+	"abilities": [
+		"Snow Cloak",
+		"Swift Swim"
+	],
+	"sets": [
+	]
+}

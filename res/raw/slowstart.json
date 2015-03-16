@@ -1,0 +1,10 @@
+{
+	"name":"Slow Start",
+	"summary": "The user's Attack and Speed are halved for the first five turns the Pokémon is in battle.",
+	"viability": "Slow Start is the only thing that holds Regigigas back from being a complete monster. Five turns is a significant amount of time, especially considering that most one-on-one battles only last a few turns. This forces Regigas to equip itself with status moves, which prevents him from being able to set up its Attacks.",
+	"pokemon":[
+		{
+			"pokemonName": "Regigigas"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Psycho Boost",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "5",
+	"power": "140",
+	"accuracy": "90",
+	"summary": "Deals damage, and lowers the user's Special Attack by two stages.",
+	"viability": "Psycho Boost is the STAB of choice for the Deoxys line. Sure, there is a severe Special Attack drop, but it is still such a good move because of the sheer power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Deovys" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

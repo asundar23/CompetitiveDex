@@ -1,0 +1,695 @@
+{
+   "name":"Mega Medicham",
+   "types":[
+      " Fighting ",
+      " Psychic "
+   ],
+   "eggGroup":[
+      " Human-Like "
+   ],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Meditite" },
+   		{ "pokemonName":"Medicham" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Medicham" },
+   		{ "pokemonName":"Mega Medicham" }
+   	],
+   "evolutionType":[
+   		"Level 37",
+   		"Medichamite"
+   ],
+   "stats":[
+      60,
+      100,
+      85,
+      60,
+      85,
+      100
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Zen Headbutt",
+         "type":" Psychic "
+      },
+      {
+         "level":1,
+         "move":"Fire Punch",
+         "type":" Fire "
+      },
+      {
+         "level":1,
+         "move":"Thunder Punch",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Ice Punch",
+         "type":" Ice "
+      },
+      {
+         "level":1,
+         "move":"Bide",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Meditate",
+         "type":" Psychic "
+      },
+      {
+         "level":1,
+         "move":"Confusion",
+         "type":" Psychic "
+      },
+      {
+         "level":1,
+         "move":"Detect",
+         "type":" Fighting "
+      },
+      {
+         "level":4,
+         "move":"Meditate",
+         "type":" Psychic "
+      },
+      {
+         "level":8,
+         "move":"Confusion",
+         "type":" Psychic "
+      },
+      {
+         "level":11,
+         "move":"Detect",
+         "type":" Fighting "
+      },
+      {
+         "level":15,
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "level":18,
+         "move":"Mind Reader",
+         "type":" Normal "
+      },
+      {
+         "level":22,
+         "move":"Feint",
+         "type":" Normal "
+      },
+      {
+         "level":25,
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "level":29,
+         "move":"Force Palm",
+         "type":" Fighting "
+      },
+      {
+         "level":32,
+         "move":"High Jump Kick",
+         "type":" Fighting "
+      },
+      {
+         "level":36,
+         "move":"Psych Up",
+         "type":" Normal "
+      },
+      {
+         "level":42,
+         "move":"Acupressure",
+         "type":" Normal "
+      },
+      {
+         "level":49,
+         "move":"Power Trick",
+         "type":" Psychic "
+      },
+      {
+         "level":55,
+         "move":"Reversal",
+         "type":" Fighting "
+      },
+      {
+         "level":62,
+         "move":"Recover",
+         "type":" Normal "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM03",
+         "move":"Psyshock",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM04",
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM08",
+         "move":"Bulk Up",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM29",
+         "move":"Psychic",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM30",
+         "move":"Shadow Ball",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM47",
+         "move":"Low Sweep",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM53",
+         "move":"Energy Ball",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM67",
+         "move":"Retaliate",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM84",
+         "move":"Poison Jab",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM85",
+         "move":"Dream Eater",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM94",
+         "move":"Rock Smash",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM04",
+         "move":"Strength",
+         "type":" Normal "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Baton Pass",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Buneary"
+            },
+            {
+               "pokemonName":"Lopunny"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Bullet Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            }
+         ],
+         "type":" Steel "
+      },
+      {
+         "move":"Drain Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Mienfoo"
+            },
+            {
+               "pokemonName":"Mienshao"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Dynamic Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Machop"
+            },
+            {
+               "pokemonName":"Machoke"
+            },
+            {
+               "pokemonName":"Machamp"
+            },
+            {
+               "pokemonName":"Timburr"
+            },
+            {
+               "pokemonName":"Gurdurr"
+            },
+            {
+               "pokemonName":"Conkeldurr"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Fake",
+         "pokemon":[
+            {
+               "pokemonName":"Timburr"
+            },
+            {
+               "pokemonName":"Hariyama"
+            },
+            {
+               "pokemonName":"Sableye"
+            },
+            {
+               "pokemonName":"Mienfoo"
+            },
+            {
+               "pokemonName":"MIenshao"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Fire Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Magmar"
+            },
+            {
+               "pokemonName":"Magmortar"
+            },
+            {
+               "pokemonName":"Medicham"
+            },
+            {
+               "pokemonName":"Electivire"
+            }
+         ],
+         "type":" Fire "
+      },
+      {
+         "move":"Foresight",
+         "pokemon":[
+            {
+               "pokemonName":"Machop"
+            },
+            {
+               "pokemonName":"Machoke"
+            },
+            {
+               "pokemonName":"Machamp"
+            },
+            {
+               "pokemonName":"Hitmonlee"
+            },
+            {
+               "pokemonName":"Sableye"
+            },
+            {
+               "pokemonName":"Buneary"
+            },
+            {
+               "pokemonName":"Lopunny"
+            },
+            {
+               "pokemonName":"Lucario"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Power Swap",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Psycho Cut",
+         "pokemon":[
+            {
+               "pokemonName":"Kadabra"
+            },
+            {
+               "pokemonName":"Alakazam"
+            }
+         ],
+         "type":" Ice "
+      },
+      {
+         "move":"Quick Guard",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Hitmontop"
+            },
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Lucario"
+            },
+            {
+               "pokemonName":"Sawk"
+            },
+            {
+               "pokemonName":"Mienfoo"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Secret Power",
+         "pokemon":[
+            {
+               "pokemonName":"Abra"
+            },
+            {
+               "pokemonName":"Kadabra"
+            },
+            {
+               "pokemonName":"Alakazam"
+            },
+            {
+               "pokemonName":"Machop"
+            },
+            {
+               "pokemonName":"Machoke"
+            },
+            {
+               "pokemonName":"Machamp"
+            },
+            {
+               "pokemonName":"Drowzee"
+            },
+            {
+               "pokemonName":"Hypno"
+            },
+            {
+               "pokemonName":"Hitmonlee"
+            },
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Hitmontop"
+            },
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Electabuzz"
+            },
+            {
+               "pokemonName":"Electivire"
+            },
+            {
+               "pokemonName":"Magmar"
+            },
+            {
+               "pokemonName":"Magmortar"
+            },
+            {
+               "pokemonName":"Makuhita"
+            },
+            {
+               "pokemonName":"Hariyama"
+            },
+            {
+               "pokemonName":"Sableye"
+            },
+            {
+               "pokemonName":"Meditite"
+            },
+            {
+               "pokemonName":"Medicham"
+            },
+            {
+               "pokemonName":"Volbeat"
+            },
+            {
+               "pokemonName":"Spinda"
+            },
+            {
+               "pokemonName":"Cacnea"
+            },
+            {
+               "pokemonName":"Cacturne"
+            },
+            {
+               "pokemonName":"Chimchar"
+            },
+            {
+               "pokemonName":"Monferno"
+            },
+            {
+               "pokemonName":"Infernape"
+            },
+            {
+               "pokemonName":"Buneary"
+            },
+            {
+               "pokemonName":"Lopunny"
+            },
+            {
+               "pokemonName":"Lucario"
+            },
+            {
+               "pokemonName":"Croagunk"
+            },
+            {
+               "pokemonName":"Toxicroak"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Thunder Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Electabuzz"
+            },
+            {
+               "pokemonName":"Electivire"
+            },
+            {
+               "pokemonName":"Medicham"
+            },
+            {
+               "pokemonName":"Magmortar"
+            }
+         ],
+         "type":" Fighting "
+      }
+   ],
+   "tutorMoveList":[
+      "Drain Punch",
+      "Fire Punch",
+      "Gravity",
+      "Helping Hand",
+      "Ice Punch",
+      "Low Kick",
+      "Magic Coat",
+      "Pain Split",
+      "Recycle",
+      "Role Play",
+      "Signal Beam",
+      "Sleep Talk",
+      "Snore",
+      "Thunder Punch",
+      "Trick",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      {"Location": "Route 217, Aculty Lakefront, Mt. Coronet, Victory Road"},
+      {"Location": "Route 217, Aculty Lakefront, Mt. Coronet, Victory Road"},
+      {"Location": "Mt. Coronet"},
+      {"Location": "Evolve Meditite"},
+      {"Location": "Evolve Meditite"},
+      {"Location": "Mountain"},
+      {"Location": "Trade"},
+      {"Location": "Trade"},
+      {"Location": "Pinwheel Forest (Hidden Grotto)"},
+      {"Location": "Pinwheel Forest (Hidden Grotto)"},
+      {"Location": "Evolve Meditite"},
+      {"Location": "Evolve Meditite"}
+   ],
+   "abilities":[
+      "Pure Power"
+   ],
+   "sets":[
+
+   ]
+}

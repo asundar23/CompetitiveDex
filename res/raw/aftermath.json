@@ -1,0 +1,35 @@
+{
+	"name":"Aftermath",
+	"summary": "Whenever a Pokémon with this abilities faints from a contact move, the opposing Pokémon will lose 25% of their HP. This is cancelled out by the ability Damp.",
+	"viability": "This is an interesting ability. Since many sweepers are physical, and many physical moves are contact, draining a significant amount of HP is always nIce.
+	
+	In reality, however, most Pokémon that get this ability have better onces. With Bug Buzz and Hyper Voice increasing in usage, Soundproof on the Electrode line is vital to have. The Drifblim line really benefits from Unburden.
+	
+	The four Pokémon that can only really have this ability are Stunky, Skuntank, Trubbish, and Garbodor. While Weak Armor is an option on the latter two, most are defensive so having Aftermath seems like a better idea. Skuntank is definitely the best user of Aftermath.",
+	"pokemon":[
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		}
+	]
+}

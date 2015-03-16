@@ -1,0 +1,16 @@
+{
+	"itemName": "Dive Ball",
+	"summary":"When underwater, surfing, or fishing, the capture rate for Pokemon is 3.5x. Otherwise, it is 1.",
+	"viability":"This is a great PokeBall when you are trying to catch water Pokemon such as Gyarados.",
+	"buy": "1000",
+	"sell": "500",
+	"wildLocation":[
+		{"Location": "Route 16 - Beat fishing maniac's record"},
+		{"Location": "Route 16 - On floor in north west of fishing area"},
+		{"Location": "Ambrette Town - Trade a Poke Ball with Punk Guy"},
+		{"Location": "Azure Bay - Small Island in the west"}
+	],
+	"shopLocation":[
+		{"Location": "Lumoise City - Poke Ball Botique"}
+	]
+}

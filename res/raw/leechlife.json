@@ -1,0 +1,44 @@
+{
+	"name": "Leech Life",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user recovers up to 50% of the damage dealt.",
+	"viability": "With a power of 20, Leech Life is not a viable move for most competitive sets. It simply is not strong enough to do any real damage or steal enough hp. It is only viable during the beginning stages of a pokemon game because most moves at that stage are weak.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Zubat" },
+		{ "pokemonName": "GOlbat" },
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Parasect" },
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Venomoth" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Crobat" },
+		{ "pokemonName": "Nincada" },
+		{ "pokemonName": "Ninjask" },
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Kricketune" },
+		{ "pokemonName": "Joltik" },
+		{ "pokemonName": "Galvantula" },
+		{ "pokemonName": "Shelmet" },
+		{ "pokemonName": "Accelgor" },
+		{ "pokemonName": "Larvesta" },
+		{ "pokemonName": "Volcarona" },
+		{ "pokemonName": "Noibat" },
+		{ "pokemonName": "Noivern" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Yanma" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

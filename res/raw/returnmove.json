@@ -1,0 +1,22 @@
+{
+	"name": "Return",
+	"note": "All Pokémon who can learn TMs can learn Return except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage depending on the friendship of the Pokemon. The higher the friendship, the higher the Pokemon (denoted by the formula Base Power = Friendship / 2.5). It has a maximum power of 102.",
+	"viability": "Return is the most common Normal-type move due to its power and high distribution. In-game, happiness will increase as you go throughout the game so its power will naturally be better than Frustration. ",
+	"pokemonByLevel": [
+		{ "pokemonName": "Lopunny" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "Magnitude",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage depending on a random value. Magnitude 4 (5% of the time) does 10 damage. 5 (10%) does 30, 6 (20%) does 50, 7 (30%) does 70, 8 (20%) does 90, 9 (10%) does 110, and 10 (5%) does 150.",
+	"viability": "On average, the base power is 71. Earthquake is miles better than Magnitude.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Sandslash" },
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Graveler" },
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Donphan" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Camerupt" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Whiscash" },
+		{ "pokemonName": "Golett" },
+		{ "pokemonName": "Golurk" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Roggenrola" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

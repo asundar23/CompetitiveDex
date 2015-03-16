@@ -1,0 +1,99 @@
+{
+	"name": "Belch",
+	"note": "",
+	"type": " Poison ",
+	"category": "Special",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "90",
+	"summary": "Deals damage only if theuser has eaten a berry during the battle. The user can have switched out, but as long as it eats the berry, Belch can be used.",
+	"viability": "This is a bit situational, but the payoff is tremendous. There are many berries that can be used in conjunction with Belch; Salac comes to mind. If the user ends up at a low enough HP, the Salac Berry will be activated, increasing the speed. A fast enough Pokémon can then take advantage of the 120 base power of Belch. Proper setup is required, however, and the simple fact that most Pokémon that get this move are either Physical Attack or walls really hurt its viability.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Toxicroak"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		},
+		{
+			"pokemonName": "Heatmor"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,428 @@
+{ 
+	 "name": "Cubchoo",
+	"types": [
+		" Ice "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Cubchoo" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Beartic" }
+   	],
+   "evolutionType":[
+   		"Level 37"
+   ],
+	"stats": [
+		55,
+		70,
+		40,
+		60,
+		40,
+		40
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 9,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 15,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 25,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 33,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"level": 49,
+			"move": "Hali",
+			"type": " Ice "
+		},
+		{
+			"level": 53,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 57,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Avalanche",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Delibird"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Ice Punch",
+			"pokemon": [
+				{"pokemonName": "Buneary"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Fatfetch'd"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Play Rough",
+			"pokemon": [
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Ice Punch",
+		"Icy Wind",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore",
+		"Superpower"
+
+	],
+	"locations": [
+		{ "Location": "Twist Mountain, Route 7, Dragonspiral Tower (Winter)"},
+		{ "Location": "Twist Mountain, Route 7, Dragonspiral Tower (Winter)"},
+		{ "Location": "Route 7, Route 7 (Hidden Grotto)"},
+		{ "Location": "Route 7, Route 7 (Hidden Grotto)"},
+		{ "Location": "Frost Cavern (Horde Encounter)"},
+		{ "Location": "Frost Cavern (Horde Encounter)"}
+
+	],
+	"abilities": [
+		"Snow Cloak",
+		"Rattled"
+	],
+	"sets": [
+	]
+}

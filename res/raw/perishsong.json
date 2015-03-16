@@ -1,0 +1,40 @@
+{
+	"name": "Perish Song",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "At the end of three turns, all Pokemon on the battlefield will faint.",
+	"viability": "This move is amazing with trappers like Gengar and Wobbuffet. Though the latter doesn't learn it, you can easily switch it in and force a kill. It also works with moves like Fire Spin and Whirlpool",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Politoed" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Celebi" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Kricketune" },
+		{ "pokemonName": "Arceus" },
+		{ "pokemonName": "Meloetta-Aria" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Cubone" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Marill" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Absol" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

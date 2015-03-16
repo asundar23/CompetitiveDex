@@ -1,0 +1,10 @@
+{
+	"name":"Air Lock",
+	"summary": "All effects of weather are eliminated in battle.",
+	"viability": "This is Rayquaza's signature ability, and it isn't a bad one. Weather is still a pretty relevant thing, especially with Groudon and Kyogre being among the premier weather inducers in the metagame. It also prevents Sandstorm and Hail damage, which is always nIce.",
+	"pokemon":[
+		{
+			"pokemonName": "Rayquaza"
+		}
+	]
+}

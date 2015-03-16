@@ -1,0 +1,22 @@
+{
+	"name": "Fiery Dance",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "10",
+	"power":"80",
+	"accuracy": "100",
+	"summary": "Deals damage. There is a 50% chance the user's Special Attack will rise by 1 stage.",
+	"viability": "Volcarona's signature move is fantastic. By using it, you could actually build up on Volcarona's already high Special Attack stat. It helps that Fiery dance has a good base power of 80, making the risk well worth it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Volcarona" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

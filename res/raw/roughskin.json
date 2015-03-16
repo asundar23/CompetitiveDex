@@ -1,0 +1,25 @@
+{
+	"name":"Rough Skin",
+	"summary": "When the opponent uses a contact move, they lose 1/16 of their maximum HP. The damage repeats for multi-strike moves.",
+	"viability": "Rough Skin works the same way as Iron Barbs. As such, the best way to use it is on a bulky Pokémon like Druddigon with Rocky Helmet to maximize passive damage.",
+	"pokemon":[
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Druddigon"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+	<Button
+	    android:id="@+id/button1"
+	      android:layout_width="fill_parent"
+	      android:layout_height="wrap_content"
+	      android:background="@drawable/x_selector"
+	      android:textColor="@android:color/white"
+	      android:layout_above="@+id/button2"
+	      android:layout_marginBottom="10dp"
+	      android:padding="3dp"
+	      android:text="Pokémon X" />
+	
+	<Button
+	    android:id="@+id/button2"
+	      android:layout_width="fill_parent"
+	      android:layout_height="wrap_content"
+	      android:background="@drawable/y_selector"
+	      android:textColor="@android:color/white"
+	      android:layout_above="@+id/placeholder"
+	      android:layout_marginBottom="5dp"
+	      android:padding="3dp"
+	      android:text="Pokémon Y" />
+	
+	<TextView
+	    android:id="@+id/placeholder"
+	    android:layout_width="0dp"
+	    android:layout_height="0dp"
+	    android:layout_centerInParent="true" />
+	
+	<Button
+	    android:id="@+id/button3"
+	      android:layout_width="fill_parent"
+	      android:layout_height="wrap_content"
+	      android:background="@drawable/omegaruby_selector"
+	      android:textColor="@android:color/white"
+	      android:layout_below="@+id/placeholder"
+	      android:layout_marginTop="5dp"
+	      android:padding="3dp"
+	      android:text="Pokémon Ω-Ruby" />
+	
+	<Button
+	    android:id="@+id/button4"
+	      android:layout_width="fill_parent"
+	      android:layout_height="wrap_content"
+	      android:background="@drawable/alphasapphire_selector"
+	      android:textColor="@android:color/white"
+	      android:layout_below="@+id/button3"
+	      android:layout_marginTop="10dp"
+	      android:padding="3dp"
+	      android:text="Pokémon α-Sapphire" />
+    
+</RelativeLayout>

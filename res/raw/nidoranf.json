@@ -1,0 +1,652 @@
+{
+   "name":"Nidoran♀",
+   "types":[
+      " Poison "
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Nidoran♀" },
+   		{ "pokemonName":"Nidorina" },
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Nidorina" },
+   		{ "pokemonName":"Nidoqueen" },
+   ],
+   "evolutionType":[
+   		"Level 16",
+   		"Moon Stone"
+   ],
+   "eggGroup":[
+      " Monster ",
+      " Field "
+   ],
+   "stats": [
+		55,
+		47,
+		52,
+		40,
+		40,
+		41
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Double Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 19,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 33,
+			"move": "Flatter",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Poison Fang",
+			"type": " Poison "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Double Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 19,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 33,
+			"move": "Flatter",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Poison Fang",
+			"type": " Poison "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM06",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+   "breedMoveList":[
+      {
+         "move":"Beat Up",
+         "pokemon":[
+            {
+               "pokemonName":"Sneasel"
+            },
+            {
+               "pokemonName":"Houndour"
+            },
+            {
+               "pokemonName":"Houndoom"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Skull Bash",
+         "pokemon":[
+            {
+               "pokemonName":"Squirtle"
+            },
+            {
+               "pokemonName":"Wartortle"
+            },
+            {
+               "pokemonName":"Blastoise"
+            },
+            {
+               "pokemonName":"Avalugg"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Venom Drench",
+         "pokemon":[
+            {
+               "pokemonName":"Seviper"
+            }
+         ],
+         "type":" Poison "
+      }
+   ],
+   "pokedexNumber": "29",
+	"hatchTime": "5355 - 5609 steps",
+	"height": "1'04\" (0.4 m)",
+	"weight": "15.4 lbs (7.0 kg)",
+	"evYield": [
+		"1 HP"
+	],
+	"levelingRate": "Medium Slow",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 11"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 11"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+   "tutorMoveList": [
+		"Helping Hand",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Super Fang"
+
+	],
+   "abilities":[
+      "Poison Point",
+      "Rivalry",
+      "Hustle"
+   ],
+   "sets":[
+
+   ]
+}

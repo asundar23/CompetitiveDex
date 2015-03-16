@@ -1,0 +1,22 @@
+{
+	"name": "Volt Tackle",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user receives damage requal to 1/3 of the damage dealt. Has a 10% chance of paralyzing the target.",
+	"viability": "Volt Tackle can be pretty usable for Pikachu holding a Light Ball. Special Variants are far better, though, so Volt Tackle isn't used much.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pichu" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

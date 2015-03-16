@@ -1,0 +1,41 @@
+{
+	"name": "Smog",
+	"note": "",
+	"type": "20",
+	"category": "30",
+	"pp": "70",
+	"power": "Deals damage, and has a 40% chance of poisoning the target.",
+	"accuracy": "Bad power and bad accuracy. Use Sludge Bomb instead.",
+	"summary": "0",
+	"viability": "0",
+	"pokemonByLevel": [
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Magmar" },
+		{ "pokemonName": "Flareon" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Magcargo" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Houndoom" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Chandelure" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Stunky" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

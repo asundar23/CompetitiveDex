@@ -1,0 +1,50 @@
+{
+	"name": "Play Rough",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 10% chance of lowering the target's Attack stat by one stage.",
+	"viability": "Play Rough is the only physical Fairy-type move, and it is a great one at that. It instantly turns Azumarill and Slurpuff into threats due to its power and decent accuracy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Wigglytuff" },
+		{ "pokemonName": "Persian" },
+		{ "pokemonName": "Marill" },
+		{ "pokemonName": "Azumarill" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Granbull" },
+		{ "pokemonName": "Linoone" },
+		{ "pokemonName": "Slakoth" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Volbeat" },
+		{ "pokemonName": "Illumise" },
+		{ "pokemonName": "Glameow" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Herdier" },
+		{ "pokemonName": "Stoutland" },
+		{ "pokemonName": "Purrloin" },
+		{ "pokemonName": "Liepard" },
+		{ "pokemonName": "Swirlix" },
+		{ "pokemonName": "Slurpuff" },
+		{ "pokemonName": "Dedenne" },
+		{ "pokemonName": "Klefki" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Teddiursa" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Stunky" },
+		{ "pokemonName": "Cubchoo" },
+		{ "pokemonName": "Skrelp" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

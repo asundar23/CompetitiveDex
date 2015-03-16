@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bug_damaging">
+        <item>Attack Order</item>
+		<item>Bug Bite</item>
+		<item>Bug Buzz</item>
+		<item>Fell Stinger</item>
+		<item>Fury Cutter</item>
+		<item>Infestation</item>
+		<item>Leech Life</item>
+		<item>Megahorn</item>
+		<item>Pin Missile</item>
+		<item>Signal Beam</item>
+		<item>Silver Wind</item>
+		<item>Steamroller</item>
+		<item>Struggle Bug</item>
+		<item>Twineedle</item>
+		<item>U-turn</item>
+		<item>X-Scissor</item>
+    </string-array>
+    
+    <string-array name="bug_status">
+        <item>Defend Order</item>
+        <item>Heal Order</item>
+        <item>Powder</item>
+		<item>Quiver Dance</item>
+		<item>Rage Powder</item>
+		<item>Spider Web</item>
+		<item>Sticky Web</item>
+		<item>String Shot</item>
+		<item>Tail Glow</item>
+    </string-array>
+    
+    <string-array name = "grass_damaging">
+        <item>Absorb</item>
+		<item>Bullet Seed</item>
+		<item>Energy Ball</item>
+		<item>Frenzy Plant</item>
+		<item>Giga Drain</item>
+		<item>Grass Knot</item>
+		<item>Grass Pledge</item>
+		<item>Horn Leech</item>
+		<item>Leaf Blade</item>
+		<item>Leaf Storm</item>
+		<item>Leaf Tornado</item>
+		<item>Magical Leaf</item>
+		<item>Mega Drain</item>
+		<item>Needle Arm</item>
+		<item>Petal Blizzard</item>
+		<item>Petal Dance</item>
+		<item>Power Whip</item>
+		<item>Razor Leaf</item>
+		<item>Seed Bomb</item>
+		<item>Seed Flare</item>
+		<item>Solar Beam</item>
+		<item>Vine Whip</item>
+		<item>Wood Hammer</item>
+    </string-array>
+    
+    <string-array name="grass_status">
+        <item>Aromatherapy</item>
+        <item>Cotton Guard</item>
+		<item>Cotton Spore</item>
+		<item>Forest\'s Curse</item>
+		<item>Grass Whistle</item>
+		<item>Grassy Terrain</item>
+		<item>Ingrain</item>
+		<item>Leech Seed</item>
+		<item>Sleep Powder</item>
+		<item>Spiky Shield</item>
+		<item>Spore</item>
+		<item>Stun Spore</item>
+		<item>Synthesis</item>
+		<item>Worry Seed</item>
+    </string-array>
+    
+    <string-array name="normal_damaging"> <!-- 88 -->
+		<item>After You</item>
+		<item>Barrage</item>
+		<item>Bide</item>
+		<item>Bind</item>
+		<item>Body Slam</item>
+		<item>Boomburst</item>
+		<item>Chip Away</item>
+		<item>Comet Punch</item>
+		<item>Constrict</item>
+		<item>Covet</item>
+		<item>Crush Claw</item>
+		<item>Crush Grip</item>
+		<item>Cut</item>
+		<item>Dizzy Punch</item>
+		<item>Double Hit</item>
+		<item>Double Slap</item>
+		<item>Double-Edge</item>
+		<item>Echoed Voice</item>
+		<item>Egg Bomb</item>
+		<item>Endeavor</item>
+		<item>Explosion</item>
+		<item>Extreme Speed</item>
+		<item>Facade</item>
+		<item>Fake Out</item>
+		<item>False Swipe</item>
+		<item>Feint</item>
+		<item>Flail</item>
+		<item>Frustration</item>
+		<item>Fury Attack</item>
+		<item>Fury Swipes</item>
+		<item>Giga Impact</item>
+		<item>Guillotine</item>
+		<item>Head Charge</item>
+		<item>Headbutt</item>
+		<item>Hidden Power</item>
+		<item>Hold Back</item>
+		<item>Horn Attack</item>
+		<item>Horn Drill</item>
+		<item>Hyper Beam</item>
+		<item>Hyper Fang</item>
+		<item>Hyper Voice</item>
+		<item>Judgment</item>
+		<item>Last Resort</item>
+		<item>Me First</item>
+		<item>Mega Kick</item>
+		<item>Mega Punch</item>
+		<item>Natural Gift</item>
+		<item>Nature Power</item>
+		<item>Pay Day</item>
+		<item>Pound</item>
+		<item>Present</item>
+		<item>Quick Attack</item>
+		<item>Rage</item>
+		<item>Rapid Spin</item>
+		<item>Razor Wind</item>
+		<item>Relic Song</item>
+		<item>Retaliate</item>
+		<item>Return</item>
+		<item>Rock Climb</item>
+		<item>Round</item>
+		<item>Scratch</item>
+		<item>Secret Power</item>
+		<item>Self-Destruct</item>
+		<item>Skull Bash</item>
+		<item>Slam</item>
+		<item>Slash</item>
+		<item>Smelling Salts</item>
+		<item>Snore</item>
+		<item>Sonic Boom</item>
+		<item>Spike Cannon</item>
+		<item>Spit Up</item>
+		<item>Stomp</item>
+		<item>Strength</item>
+		<item>Struggle</item>
+		<item>Super Fang</item>
+		<item>Swift</item>
+		<item>Tackle</item>
+		<item>Tail Slap</item>
+		<item>Take Down</item>
+		<item>Techno Blast</item>
+		<item>Thrash</item>
+		<item>Tri Attack</item>
+		<item>Trump Card</item>
+		<item>Uproar</item>
+		<item>Vice Grip</item>
+		<item>Weather Ball</item>
+		<item>Wrap</item>
+		<item>Wring Out</item>
+    </string-array>
+    
+    <string-array name="normal_status">
+        <item>Acupressure</item>
+		<item>Assist</item>
+		<item>Attract</item>
+		<item>Baton Pass</item>
+		<item>Belly Drum</item>
+		<item>Bestow</item>
+		<item>Block</item>
+		<item>Camouflage</item>
+		<item>Captivate</item>
+		<item>Celebrate</item>
+		<item>Confide</item>
+		<item>Conversion</item>
+		<item>Conversion 2</item>
+		<item>Copycat</item>
+		<item>Defense Curl</item>
+		<item>Disable</item>
+		<item>Double Team</item>
+		<item>Encore</item>
+		<item>Endure</item>
+		<item>Entrainment</item>
+		<item>Flash</item>
+		<item>Focus Energy</item>
+		<item>Follow Me</item>
+		<item>Foresight</item>
+		<item>Glare</item>
+		<item>Growl</item>
+		<item>Growth</item>
+		<item>Happy Hour</item>
+		<item>Harden</item>
+		<item>Heal Bell</item>
+		<item>Helping Hand</item>
+		<item>Howl</item>
+		<item>Leer</item>
+		<item>Lock-On</item>
+		<item>Lovely Kiss</item>
+		<item>Lucky Chant</item>
+		<item>Mean Look</item>
+		<item>Metronome</item>
+		<item>Milk Drink</item>
+		<item>Mimic</item>
+		<item>Mind Reader</item>
+		<item>Minimize</item>
+		<item>Morning Sun</item>
+		<item>Noble Roar</item>
+		<item>Odor Sleuth</item>
+		<item>Pain Split</item>
+		<item>Perish Song</item>
+		<item>Play Nice</item>
+		<item>Protect</item>
+		<item>Psych Up</item>
+		<item>Recover</item>
+		<item>Recycle</item>
+		<item>Reflect Type</item>
+		<item>Refresh</item>
+		<item>Roar</item>
+		<item>Safeguard</item>
+		<item>Scary Face</item>
+		<item>Screech</item>
+		<item>Sharpen</item>
+		<item>Shell Smash</item>
+		<item>Simple Beam</item>
+		<item>Sing</item>
+		<item>Sketch</item>
+		<item>Slack Off</item>
+		<item>Sleep Talk</item>
+		<item>Smokescreen</item>
+		<item>Soft-Boiled</item>
+		<item>Splash</item>
+		<item>Stockpile</item>
+		<item>Substitute</item>
+		<item>Supersonic</item>
+		<item>Swagger</item>
+		<item>Swallow</item>
+		<item>Sweet Scent</item>
+		<item>Swords Dance</item>
+		<item>Tail Whip</item>
+		<item>Teeter Dance</item>
+		<item>Tickle</item>
+		<item>Transform</item>
+		<item>Whirlwind</item>
+		<item>Wish</item>
+		<item>Work Up</item>
+		<item>Yawn</item>
+		
+    </string-array>
+    
+    <string-array name="fire_damaging">
+        <item>Blast Burn</item>
+		<item>Blaze Kick</item>
+		<item>Blue Flare</item>
+		<item>Ember</item>
+		<item>Eruption</item>
+		<item>Fiery Dance</item>
+		<item>Fire Blast</item>
+		<item>Fire Fang</item>
+		<item>Fire Pledge</item>
+		<item>Fire Punch</item>
+		<item>Fire Spin</item>
+		<item>Flame Burst</item>
+		<item>Flame Charge</item>
+		<item>Flame Wheel</item>
+		<item>Flamethrower</item>
+		<item>Flare Blitz</item>
+		<item>Fusion Flare</item>
+		<item>Heat Crash</item>
+		<item>Heat Wave</item>
+		<item>Incinerate</item>
+		<item>Inferno</item>
+		<item>Lava Plume</item>
+		<item>Magma Storm</item>
+		<item>Mystical Fire</item>
+		<item>Overheat</item>
+		<item>Sacred Fire</item>
+		<item>Searing Shot</item>
+		<item>V-create</item>
+    </string-array>
+    
+    <string-array name="fire_status">
+        <item>Sunny Day</item>
+        <item>Will-O-Wisp</item>
+    </string-array>
+    
+    <string-array name = "water_damaging">
+        <item>Aqua Jet</item>
+		<item>Aqua Tail</item>
+		<item>Brine</item>
+		<item>Bubble</item>
+		<item>Bubble Beam</item>
+		<item>Clamp</item>
+		<item>Crabhammer</item>
+		<item>Dive</item>
+		<item>Hydro Cannon</item>
+		<item>Hydro Pump</item>
+		<item>Muddy Water</item>
+		<item>Octazooka</item>
+		<item>Razor Shell</item>
+		<item>Scald</item>
+		<item>Surf</item>
+		<item>Water Gun</item>
+		<item>Water Pledge</item>
+		<item>Water Pulse</item>
+		<item>Water Shuriken</item>
+		<item>Water Spout</item>
+		<item>Waterfall</item>
+		<item>Whirlpool</item>
+    </string-array>
+    
+    <string-array name="water_status">
+        <item>Aqua Ring</item>
+        <item>Rain Dance</item>
+        <item>Soak</item>
+        <item>Water Sport</item>
+        <item>Withdraw</item>
+    </string-array>
+    
+    <string-array name = "steel_damaging">
+		<item>Bullet Punch</item>
+		<item>Doom Desire</item>
+		<item>Flash Cannon</item>
+		<item>Gear Grind</item>
+		<item>Gyro Ball</item>
+		<item>Heavy Slam</item>
+		<item>Iron Head</item>
+		<item>Iron Tail</item>
+		<item>Metal Burst</item>
+		<item>Magnet Bomb</item>
+		<item>Metal Claw</item>
+		<item>Meteor Mash</item>	
+		<item>Mirror Shot</item>
+		<item>Steel Wing</item>
+    </string-array>
+    
+    <string-array name = "steel_status">
+        <item>Autotomize</item>
+        <item>Iron Defense</item>
+        <item>King\'s Shield</item>
+        <item>Metal Sound</item>
+		<item>Shift Gear</item>
+    </string-array>
+   
+    <string-array name = "rock_damaging">
+        <item>Ancient Power</item>
+		<item>Head Smash</item>
+		<item>Power Gem</item>
+		<item>Rock Blast</item>
+		<item>Rock Slide</item>
+		<item>Rock Throw</item>
+		<item>Rock Tomb</item>
+		<item>Rock Wrecker</item>
+		<item>Rollout</item>
+		<item>Smack Down</item>
+		<item>Stone Edge</item>
+    </string-array>
+    
+    <string-array name = "rock_status">
+        <item>Rock Polish</item>
+        <item>Sandstorm</item>
+        <item>Stealth Rock</item>
+        <item>Wide Guard</item>
+    </string-array>
+    
+    <string-array name = "electric_damaging">
+        <item>Bolt Strike</item>
+		<item>Charge Beam</item>
+		<item>Discharge</item>
+		<item>Electro Ball</item>
+		<item>Electroweb</item>
+		<item>Fusion Bolt</item>
+		<item>Nuzzle</item>
+		<item>Parabolic Charge</item>
+		<item>Shock Wave</item>
+		<item>Spark</item>
+		<item>Thunder</item>
+		<item>Thunder Fang</item>
+		<item>Thunderbolt</item>
+		<item>Thunder Punch</item>
+		<item>Thunder Shock</item>
+		<item>Volt Switch</item>
+		<item>Volt Tackle</item>
+		<item>Wild Charge</item>
+		<item>Zap Cannon</item>
+    </string-array>
+    
+    <string-array name = "electric_status">
+        <item>Charge</item>
+        <item>Eerie Impulse</item>
+		<item>Electric Terrain</item>
+		<item>Electrify</item>
+		<item>Ion Deluge</item>
+		<item>Magnet Rise</item>
+		<item>Magnetic Flux</item>
+		<item>Thunder Wave</item>
+    </string-array>
+    
+    <string-array name = "fairy_damaging">
+		<item>Dazzling Gleam</item>
+		<item>Disarming Voice</item>
+		<item>Draining Kiss</item>
+		<item>Fairy Wind</item>
+		<item>Moonblast</item>
+		<item>Play Rough</item>
+    </string-array>
+    
+    <string-array name = "fairy_status">
+        <item>Aromatic Mist</item>
+		<item>Baby-Doll Eyes</item>
+		<item>Charm</item>
+		<item>Crafty Shield</item>
+		<item>Fairy Lock</item>
+		<item>Flower Shield</item>
+		<item>Geomancy</item>
+		<item>Misty Terrain</item>
+		<item>Moonlight</item>
+		<item>Sweet Kiss</item>
+    </string-array>
+    
+    <string-array name = "dark_damaging">
+        <item>Assurance</item>
+		<item>Beat Up</item>
+		<item>Bite</item>
+		<item>Crunch</item>
+		<item>Dark Pulse</item>
+		<item>Feint Attack</item>
+		<item>Fling</item>
+		<item>Foul Play</item>
+		<item>Knock Off</item>
+		<item>Night Daze</item>
+		<item>Night Slash</item>
+		<item>Payback</item>
+		<item>Punishment</item>
+		<item>Pursuit</item>
+		<item>Snarl</item>
+		<item>Sucker Punch</item>
+		<item>Thief</item>
+    </string-array>
+    
+    <string-array name = "dark_status">
+        <item>Dark Void</item>
+		<item>Embargo</item>
+		<item>Fake Tears</item>
+		<item>Flatter</item>
+		<item>Hone Claws</item>
+		<item>Memento</item>
+		<item>Nasty Plot</item>
+		<item>Parting Shot</item>
+		<item>Quash</item>
+		<item>Snatch</item>
+		<item>Switcheroo</item>
+		<item>Taunt</item>
+		<item>Topsy-Turvy</item>
+		<item>Torment</item>
+    </string-array>
+    
+    <string-array name = "fighting_damaging">
+        <item>Arm Thrust</item>
+		<item>Aura Sphere</item>
+		<item>Brick Break</item>
+		<item>Circle Throw</item>
+		<item>Close Combat</item>
+		<item>Counter</item>
+		<item>Cross Chop</item>
+		<item>Double Kick</item>
+		<item>Drain Punch</item>
+		<item>Dynamic Punch</item>
+		<item>Final Gambit</item>
+		<item>Flying Press</item>
+		<item>Focus Blast</item>
+		<item>Focus Punch</item>
+		<item>Force Palm</item>
+		<item>Hammer Arm</item>
+		<item>High Jump</item>
+		<item>Jump Kick</item>
+		<item>Karate Chop</item>
+		<item>Low Kick</item>
+		<item>Low Sweep</item>
+		<item>Mach Punch</item>
+		<item>Power-Up Punch</item>
+		<item>Revenge</item>
+		<item>Reversal</item>
+		<item>Rock Smash</item>
+		<item>Rolling Kick</item>
+		<item>Sacred Sword</item>
+		<item>Secret Sword</item>
+		<item>Seismic Toss</item>
+		<item>Sky Uppercut</item>
+		<item>Storm Throw</item>
+		<item>Submission</item>
+		<item>Superpower</item>
+		<item>Triple Kick</item>
+		<item>Vacuum Wave</item>
+		<item>Vital Throw</item>
+		<item>Wake-Up Slap</item>
+    </string-array>
+    
+	  <string-array name ="fighting_status">
+	      <item>Bulk Up</item>
+	        <item>Detect</item>
+	        <item>Mat Block</item>
+	        <item>Quick Guard</item>
+	  </string-array>
+    
+    <string-array name = "psychic_damaging">
+		<item>Confusion</item>
+		<item>Cosmic Power</item>
+		<item>Dream Eater</item>
+		<item>Extrasensory</item>
+		<item>Future Sight</item>
+		<item>Heart Stamp</item>
+		<item>Mirror Coat</item>
+		<item>Mist Ball</item>
+		<item>Psybeam</item>
+		<item>Psychic</item>
+		<item>Psycho Boost</item>
+		<item>Psycho Cut</item>
+		<item>Psyshock</item>
+		<item>Psystrike</item>
+		<item>Psywave</item>
+		<item>Stored Power</item>
+		<item>Synchronoise</item>
+		<item>Zen Headbutt</item>
+    </string-array>
+    
+    <string-array name="psychic_status">
+        <item>Agility</item>
+		<item>Ally Switch</item>
+		<item>Amnesia</item>
+		<item>Barrier</item>
+		<item>Calm Mind</item>
+		<item>Gravity</item>
+		<item>Guard Split</item>
+		<item>Guard Swap</item>
+		<item>Heal Block</item>
+		<item>Heal Pulse</item>
+		<item>Healing Wish</item>
+		<item>Heart Swap</item>
+		<item>Hypnosis</item>
+		<item>Imprison</item>
+		<item>Kinesis</item>
+		<item>Light Screen</item>
+		<item>Lunar Dance</item>
+		<item>Luster Purge</item>
+		<item>Magic Coat</item>
+		<item>Magic Room</item>
+		<item>Meditate</item>
+		<item>Miracle Eye</item>
+		<item>Power Split</item>
+		<item>Power Swap</item>
+		<item>Power Trick</item>
+		<item>Psycho Shift</item>
+		<item>Reflect</item>
+		<item>Rest</item>
+		<item>Role Play</item>
+		<item>Skill Swap</item>
+		<item>Telekinesis</item>
+		<item>Teleport</item>
+		<item>Trick</item>
+		<item>Trick Room</item>
+		<item>Wonder Room</item>
+    </string-array>
+    
+    <string-array name = "ghost_damaging">
+        <item>Astonish</item>
+		<item>Hex</item>
+		<item>Lick</item>
+		<item>Night Shade</item>
+		<item>Ominous Wind</item>
+		<item>Phantom Force</item>
+		<item>Shadow Ball</item>
+		<item>Shadow Claw</item>
+		<item>Shadow Force</item>
+		<item>Shadow Punch</item>
+		<item>Shadow Sneak</item>
+    </string-array>
+    
+    <string-array name = "ghost_status">
+        <item>Confuse Ray</item>
+		<item>Curse</item>
+		<item>Destiny Bond</item>
+		<item>Grudge</item>
+		<item>Nightmare</item>
+		<item>Spite</item>
+		<item>Trick-or-Treat</item>
+    </string-array>
+    
+    <string-array name = "dragon_damaging">
+        <item>Draco Meteor</item>
+		<item>Dragon Breath</item>
+		<item>Dragon Claw</item>
+		<item>Dragon Pulse</item>
+		<item>Dragon Rage</item>
+		<item>Dragon Rush</item>
+		<item>Dragon Tail</item>
+		<item>Dual Chop</item>
+		<item>Outrage</item>
+		<item>Roar of Time</item>
+		<item>Spacial Rend</item>
+		<item>Twister</item>
+    </string-array>
+    
+    <string-array name ="dragon_status">
+        <item>Dragon Dance</item>
+    </string-array>
+    
+    <string-array name = "ice_damaging">
+        <item>Aurora Beam</item>
+		<item>Avalanche</item>
+		<item>Blizzard</item>
+		<item>Freeze-Dry</item>
+		<item>Freeze Shock</item>
+		<item>Frost Breath</item>
+		<item>Glaciate</item>
+		<item>Ice Ball</item>
+		<item>Ice Beam</item>
+		<item>Ice Burn</item>
+		<item>Ice Fang</item>
+		<item>Ice Punch</item>
+		<item>Ice Shard</item>
+		<item>Icicle Crash</item>
+		<item>Icicle Spear</item>
+		<item>Icy Wind</item>
+		<item>Powder Snow</item>
+		<item>Sheer Cold</item>
+    </string-array>
+    
+    <string-array name = "ice_status">
+        <item>Hail</item>
+		<item>Haze</item>
+		<item>Mist</item>
+    </string-array>
+    
+    <string-array name = "ground_damaging">
+        <item>Bone Club</item>
+		<item>Bone Rush</item>
+		<item>Bonemerang</item>
+		<item>Bulldoze</item>
+		<item>Dig</item>
+		<item>Drill Run</item>
+		<item>Earth Power</item>
+		<item>Earthquake</item>
+		<item>Fissure</item>
+		<item>Land\'s Wrath</item>
+		<item>Magnitude</item>
+		<item>Mud Bomb</item>
+		<item>Mud Shot</item>
+		<item>Mud-Slap</item>
+		<item>Sand Tomb</item>
+		
+    </string-array>
+    
+    <string-array name = "ground_status">
+        <item>Mud Sport</item>
+        <item>Rototiller</item>
+        <item>Sand Attack</item>
+		<item>Spikes</item>
+    </string-array>
+    
+    <string-array name = "poison_damaging">
+		<item>Acid</item>
+		<item>Acid Spray</item>
+		<item>Belch</item>
+		<item>Clear Smog</item>	
+		<item>Cross Poison</item>
+		<item>Gunk Shot</item>
+		<item>Poison Fang</item>	
+		<item>Poison Jab</item>
+		<item>Poison Sting</item>
+		<item>Poison Tail</item>
+		<item>Sludge</item>
+		<item>Sludge Bomb</item>
+		<item>Sludge Wave</item>
+		<item>Smog</item>
+		<item>Venoshock</item>
+    </string-array>
+    
+    <string-array name = "poison_status">
+        <item>Acid Armor</item>
+        <item>Coil</item>
+        <item>Gastro Acid</item>
+        <item>Poison Gas</item>
+        <item>Poison Powder</item>
+        <item>Toxic</item>
+		<item>Toxic Spikes</item>
+		<item>Venom Drench</item>
+    </string-array>
+    
+    <string-array name = "flying_damaging">
+        <item>Acrobatics</item>
+		<item>Aerial Ace</item>
+		<item>Aeroblast</item>
+		<item>Air Cutter</item>
+		<item>Air Slash</item>
+		<item>Bounce</item>
+		<item>Brave Bird</item>
+		<item>Chatter</item>
+		<item>Drill Peck</item>
+		<item>Fly</item>
+		<item>Gust</item>
+		<item>Hurricane</item>
+		<item>Oblivion Wing</item>
+		<item>Peck</item>
+		<item>Pluck</item>
+		<item>Sky Attack</item>
+		<item>Sky Drop</item>
+		<item>Wing Attack</item>
+    </string-array>
+    
+    <string-array name="flying_status">
+        <item>Defog</item>
+        <item>Feather Dance</item>
+        <item>Mirror Move</item>
+        <item>Roost</item>
+        <item>Tailwind</item>
+    </string-array>
+</resources>

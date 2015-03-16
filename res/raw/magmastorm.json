@@ -1,0 +1,22 @@
+{
+	"name": "Magma Storm",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "75",
+	"summary": "Deals damage, and prevents the target from escaping for two to five. AT the end of each turn the target loses 1/8 of their maximum HP (1/6 with Binding Band).",
+	"viability": "While the accuracy is shoddy, Heatran can make use of this. As a support Pokemon, it can trap unsuspecting opponents and proceed to either set up or switch out.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Heatran" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

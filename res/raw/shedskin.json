@@ -1,0 +1,70 @@
+{
+	"name":"Shed Skin",
+	"summary": "At the end of each turn, Shed Skin has a 33% chance of curing the Pokémon with a non-volatile status (burn, freeze, poison, sleep).",
+	"viability": "Shed Skin is useful for Bulk Up sets, especially on Scrafty. The chances of taking out that burn after each turn is pretty high, and combine that Bulk Up with Rest and you have a healthy and probably awake threat on your hands.",
+	"pokemon":[
+		{
+			"pokemonName": "Metapod"
+		},
+		{
+			"pokemonName": "Kakuna"
+		},
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Pupitar"
+		},
+		{
+			"pokemonName": "Silcoon"
+		},
+		{
+			"pokemonName": "Cascoon"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Kricketot"
+		},
+		{
+			"pokemonName": "Burmy-Plany"
+		},
+		{
+			"pokemonName": "Burmy-Sandy"
+		},
+		{
+			"pokemonName": "Burmy-Trash"
+		},
+		{
+			"pokemonName": "Wormadam-Plany"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Spewpa"
+		}
+	]
+}

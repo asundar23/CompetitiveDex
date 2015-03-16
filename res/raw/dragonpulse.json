@@ -1,0 +1,321 @@
+{
+	"name": "Dragon Pulse",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "10",
+	"power": "85",
+	"accuracy": "100",
+	"summary": "Deals damage; can hit non-adjacent opponents in Triple Battles. If the user has the ability Mega Launcher, Dragon Pulse's power increases by 50%.",
+	"viability": "This is a decent alternative to Draco Meteor to prevent the Special Attack drop. The power is not bad, but it isn't good enough to be forcing any OHKO's. For Pokemon that don't get Draco Meteor at all, this works fine.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		},
+		{
+			"pokemonName": "Noivern"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Axew"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Heatran"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Giratina-Origin"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		}
+	]
+}

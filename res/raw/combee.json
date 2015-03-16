@@ -1,0 +1,81 @@
+{
+	"name":"Combee",
+	"types": [
+		"Bug",
+		"Flying"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Combee" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vespiquen" }
+   	],
+   "evolutionType":[
+   		"Level 21 (if female)"
+   ],
+	"abilities": [
+		"Honey Gather",
+		"Hustle"
+	],
+	"locations": [
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Headbutt trees, National Park (Bug-Catching Contest on Thursday and Saturday)"},
+		{"Location": "Headbutt trees, National Park (Bug-Catching Contest on Thursday and Saturday)"},
+		{"Location": "Route 12"},
+		{"Location": "Route 12"},
+		{"Location": "Route 12, Lostlorn Forest, Lostlorn Forest (Hidden Grotto)"},
+		{"Location": "Route 12, Lostlorn Forest, Lostlorn Forest (Hidden Grotto)"},
+		{"Location": "Route 4, Friend Safari (Bug)"},
+		{"Location": "Route 4, Friend Safari (Bug)"}
+	],
+	"stats": [
+		30,
+		30,
+		42,
+		30,
+		42,
+		70
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 29,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Endeavor",
+		"Snore",
+		"Tailwind"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,166 @@
+{
+	"name": "Crunch",
+	"note": "",
+	"type": " Dark ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 20% chance of lowering the target's Defense by one stage.",
+	"viability": "Crunch is one of the best physical Dark moves in the game, along with Night Slash, Sucker Punch, and Knock Off. Many non-Dark type Pokémon have access to this move, and this gives it great coverage against Ghost and Psychic types.",
+	"pokemonByLevel": [
+	{"pokemonName": "Rattata"},
+{"pokemonName": "Raticate"},
+{"pokemonName": "Arbok"},
+{"pokemonName": "Nidoran♀"},
+{"pokemonName": "Nidorina"},
+{"pokemonName": "Growlithe"},
+{"pokemonName": "Kangaskhan"},
+{"pokemonName": "Aerodactyl"},
+{"pokemonName": "Snorlax"},
+{"pokemonName": "Totodile"},
+{"pokemonName": "Croconaw"},
+{"pokemonName": "Feraligatr"},
+{"pokemonName": "Girafarig"},
+{"pokemonName": "Steelix"},
+{"pokemonName": "Snubbull"},
+{"pokemonName": "Granbull"},
+{"pokemonName": "Houndour"},
+{"pokemonName": "Houndoom"},
+{"pokemonName": "Raikou"},
+{"pokemonName": "Larvitar"},
+{"pokemonName": "Pupitar"},
+{"pokemonName": "Tyranitar"},
+{"pokemonName": "Poochyena"},
+{"pokemonName": "Mightyena"},
+{"pokemonName": "Exploud"},
+{"pokemonName": "Mawile"},
+{"pokemonName": "Carvanha"},
+{"pokemonName": "Sharpedo"},
+{"pokemonName": "Trapinch"},
+{"pokemonName": "Vibrava"},
+{"pokemonName": "Flygon"},
+{"pokemonName": "Seviper"},
+{"pokemonName": "Corphish"},
+{"pokemonName": "Crawdaunt"},
+{"pokemonName": "Snorunt"},
+{"pokemonName": "Glalie"},
+{"pokemonName": "Walrein"},
+{"pokemonName": "Huntail"},
+{"pokemonName": "Bagon"},
+{"pokemonName": "Shelgon"},
+{"pokemonName": "Salamence"},
+{"pokemonName": "Rayquaza"},
+{"pokemonName": "Turtwig"},
+{"pokemonName": "Grotle"},
+{"pokemonName": "Torterra"},
+{"pokemonName": "Shinx"},
+{"pokemonName": "Luxio"},
+{"pokemonName": "Luxray"},
+{"pokemonName": "Floatzel"},
+{"pokemonName": "Garchomp"},
+{"pokemonName": "Hippopotas"},
+{"pokemonName": "Hippowdon"},
+{"pokemonName": "Skorupi"},
+{"pokemonName": "Drapion"},
+{"pokemonName": "Carnivine"},
+{"pokemonName": "Heatran"},
+{"pokemonName": "Patrat"},
+{"pokemonName": "Watchog"},
+{"pokemonName": "Lillipup"},
+{"pokemonName": "Herdier"},
+{"pokemonName": "Stoutland"},
+{"pokemonName": "Pansage"},
+{"pokemonName": "Pansear"},
+{"pokemonName": "Panpour"},
+{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+{"pokemonName": "Sandile"},
+{"pokemonName": "Krokorok"},
+{"pokemonName": "Krookodile"},
+{"pokemonName": "Scraggy"},
+{"pokemonName": "Scrafty"},
+{"pokemonName": "Tirtouga"},
+{"pokemonName": "Carracosta"},
+{"pokemonName": "Archen"},
+{"pokemonName": "Archeops"},
+{"pokemonName": "Eelektrik"},
+{"pokemonName": "Eelektross"},
+{"pokemonName": "Druddigon"},
+{"pokemonName": "Durant"},
+{"pokemonName": "Deino"},
+{"pokemonName": "Zweilous"},
+{"pokemonName": "Hydreigon"},
+{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+{"pokemonName": "Reshiram"},
+{"pokemonName": "Zekrom"},
+{"pokemonName": "Litleo"},
+{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+{"pokemonName": "Pancham"},
+{"pokemonName": "Pangoro"},
+{"pokemonName": "Tyrunt"},
+{"pokemonName": "Tyrantrum"},
+{"pokemonName": "Avalugg"},
+{"pokemonName": "Zygarde"}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Riolu"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

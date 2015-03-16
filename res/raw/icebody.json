@@ -1,0 +1,49 @@
+{
+	"name":"Ice Body",
+	"summary": "If the weather is Hail, the user has 1/16 of their HP restored.",
+	"viability": "For Defensive and Specially Defensive walls like Walrein, Ice Body is fantastic. Combine that with Leftovers, and you gain 1/8 of your max HP each turn. The unfortunate thing is that weather isn't permanent anymore, so you would only get that restored HP for a certain amount of turns. It's still good when operating under a Hail team, though.",
+	"pokemon":[
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Glalie"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Sealeo"
+		},
+		{
+			"pokemonName": "Walrein"
+		},
+		{
+			"pokemonName": "Regice"
+		},
+		{
+			"pokemonName": "Glaceon"
+		},
+		{
+			"pokemonName": "Vanillite"
+		},
+		{
+			"pokemonName": "Vanillish"
+		},
+		{
+			"pokemonName": "Vanilluxe"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Avalugg"
+		}
+	]
+}

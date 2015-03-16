@@ -1,0 +1,42 @@
+{
+	"name": "Thunder Punch",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "75",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of paralyzing the opponent.",
+	"viability": "Thunder Punch can be a decent coverage move for Pokemon like Hitmonchan, who have a Flying-type weakness. Since it gets an Iron Fist boost, it can be quite useful. Unfortunately, Ice Punch has more coverage, and the other Pokemon that learn it have better moves to use.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Electabuzz" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Electivire" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Regigigas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Scraggy" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

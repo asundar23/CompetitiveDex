@@ -1,0 +1,24 @@
+{
+	"name": "Octazooka",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "85",
+	"summary": "Deals damage and has a 50% chance to lower the target's accuracy by one stage.",
+	"viability": "Octazooka is severely outclassed by Surf, Scald, Hydro Pump, and Water Spout.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Octillery" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Remoraid" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

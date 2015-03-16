@@ -1,0 +1,33 @@
+{
+	"name": "Boomburst",
+	"note": "",
+	"type": " Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "140",
+	"accuracy": "100",
+	"summary": "Deals damage, and is a sound-based move. Pokémon with the ability Soundproof are immune to this move.",
+	"viability": "This is one of the best moves in the entire world of Pokémon. Sound-based moves hit through Substitutes, which already make this move wonderful. The power and accuracy combined together are unbelievable, making Pokémon like Exploud workhorses. This move alone has made Exploud relevant. Chatot can use its good speed to set up a Nasty Plot and start firing Boombursts, and Noivern can use it as a great coverage move.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Exploud"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Chatot"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

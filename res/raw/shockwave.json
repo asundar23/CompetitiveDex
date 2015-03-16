@@ -1,0 +1,36 @@
+{
+	"name": "Shock Wave",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "--",
+	"summary": "Deals damage and ignores modifications to accuracy and evasion stats.",
+	"viability": "Shock Wave is like Magical Leaf and Shadow Punch. If evasion is agreed upon, Shock Wave might be useful, but otherwise shouldn't be used.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Electabuzz" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Electivire" },
+		{ "pokemonName": "Rotom" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Zebstrika" },
+		{ "pokemonName": "Emolga" },
+		{ "pokemonName": "Thundurus-Incarnate" },
+		{ "pokemonName": "Thundurus-Therian" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chinchou" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Emolga" },
+		{ "pokemonName": "Stunfisk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

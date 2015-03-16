@@ -1,0 +1,16 @@
+{
+	"name":"Filter",
+	"summary": "Reduces super-effective damage by 1/4. Moves that are 2x effective will be 1.5 instead, and 4x will become 3.",
+	"viability": "Filter is somewhat recommended, mostly because it allows Pokémon like Mega Aggron to have better longevity. Given its lack of reliable recovery, Filter does more than enough to ensure Mega Aggron staying on the field. As for Mr. Mime, Soundproof is better due to the abundance of sound-based moves like Boomburst. Mr. Mime has below-average bulk, anyway, so super effective moves won't work as well.",
+	"pokemon":[
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Mega Aggron"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		}
+	]
+}

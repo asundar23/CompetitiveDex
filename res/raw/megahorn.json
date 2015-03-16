@@ -1,0 +1,39 @@
+{
+	"name": "Megahorn",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "85",
+	"summary": "Deals damage.",
+	"viability": "Megahorn is the best Bug-type move out there. It has a decent, not good, accuracy but outstanding power. It really makes a great STAB move for Pokemon like Heracross and Escavalier, while a good coverage move for Rhyperior.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Nidoking" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Seaking" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Samurott" },
+		{ "pokemonName": "Scolipede" },
+		{ "pokemonName": "Sawsbuck" },
+		{ "pokemonName": "Bouffalant" },
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Stantler" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Karrablast" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name":"Bad Dreams",
+	"summary": "If the opponent is asleep, at the end of each turn they will lose 1/8 of their maximum HP.",
+	"viability": "Since Darkrai has access to Dark Void (its signature move), this ability is very useful. As Darkrai is setting up with Substitute or Nasty Plot, the opponent's health will be slowly fading away, making kills that much easier for it.",
+	"pokemon":[
+		{
+			"pokemonName": "Darkrai"
+		}
+	]
+}

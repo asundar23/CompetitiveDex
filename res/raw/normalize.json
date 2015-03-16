@@ -1,0 +1,13 @@
+{
+	"name":"Normalize",
+	"summary": "Makes all moves used by the user Normal moves.",
+	"viability": "Though Skitty and Delcatty aren't particularly good Pokémon in battle, they are blessed with a great ability. For one, being able to Thunder Wave Ground-types is not something most Pokémon can say. Second, all attacking moves are STAB moves, which increase the damage output.",
+	"pokemon":[
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "Eerie Impulse",
+	"note": "",
+	"type":" Electric ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Special Attack by two stages.",
+	"viability": "Moves like this are a problem because of the fact that the opponent can easily switch out. This is, however, a good move because it stops Calm Mind and Nasty Plot users from setting up. A decent strategy could be using this move on a Defiant user such as Bisharp, raising its Attack.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

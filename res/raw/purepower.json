@@ -1,0 +1,16 @@
+{
+	"name":"Pure Power",
+	"summary": "Doubles the user's Attack stat.",
+	"viability": "This ability is the sole reason that Medicham and Mega Medicham are such threats. The latter, especailly, tops off with an Attack stat of 656, the second highest behind Mega Mawile. Being that it works the same as Huge Power, but exclusive to the Medicham line, one should get a sense as to how dangerous this ability truly is.",
+	"pokemon":[
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Mega Medicham"
+		}
+	]
+}

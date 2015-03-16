@@ -1,0 +1,38 @@
+{
+	"name": "Head Smash",
+	"note": "",
+	"type":" Rock ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "150",
+	"accuracy": "80",
+	"summary": "Inflicts damage, and the user receives a recoil damage of half that done to the opponent.",
+	"viability": "Head Charge is best used with either Reckless or Rock Head. The recoil damage can simply be too much sometimes, but with the right Pokemon and ability it can be a gem.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Cranidos" },
+		{ "pokemonName": "Rampardos" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Scraggy" },
+		{ "pokemonName": "Scrafty" },
+		{ "pokemonName": "Aegislash" },
+		{ "pokemonName": "Tyrantrum" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Archen" },
+		{ "pokemonName": "Deino" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

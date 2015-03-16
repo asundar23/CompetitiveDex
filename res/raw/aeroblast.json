@@ -1,0 +1,24 @@
+{
+	"name": "Aeroblast",
+	"type": " Flying ",
+	"category": "Special",
+	"pp": "5",
+	"power": "100",
+	"note":"",
+	"accuracy": "95",
+	"summary": "Deals damage, and has an increased critical hit ratio. Aeroblast can his nan-adjecent opponents in Triple Battles.",
+	"viability": "This is a good move to run on its only user, Lugia. Though Lugia has a relative low Special Attack, and used primarily as a defensive wall, it isn't a bad idea to use this over Ice Beam. It hits slightly harder, even with less coverage. The power and good accuracy should do enough damage to help Lugia stall an opponent out.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Lugia"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

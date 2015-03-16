@@ -1,0 +1,19 @@
+{
+	"name":"Sand Stream",
+	"summary": "Summons Sandstorm for 5 turns (8 if the user is holding a Smooth Rock). If a Pokémon with Sand Stream is sent out at the same time as a Pokémon with a different weather-summoning ability (Drizzle, Drought, or Snow Warning), the Pokémon with the slower Speed will have its weather activated.",
+	"viability": "Sand Stream works very similar to Drizzle, and is thus quite as good. Tyranitar and Hippowdon can make good use of their bulk and become a special wall (Tyranitar), due to the increased Special Defense that Sandstorm brings out.",
+	"pokemon":[
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Mega Tyranitar"
+		},
+		{
+			"pokemonName": "Hippopotas"
+		},
+		{
+			"pokemonName": "Hippowdon"
+		}
+	]
+}

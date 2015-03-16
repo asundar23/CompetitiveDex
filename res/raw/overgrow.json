@@ -1,0 +1,67 @@
+{
+	"name":"Overgrow",
+	"summary": "If the user is at 1/3 or below their maximum HP, the power of Grass moves is increased by 1.5x.",
+	"viability": "Especially for bulky Grass Pokémon such as Venusaur and Serperior, this is a pretty good ability. They can strike back hard with a Solar Beam or Leaf Blade in return. That being said, it isn't seen much because the Pokémon that do have it have other, better, abilities. Venusaur has Chlorophyll, Sceptile has Unburden, Torterra has Shell Armor, and Chesnaught has Bulletproof.",
+	"pokemon":[
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Ivysaur"
+		},
+		{
+			"pokemonName": "Venusaur"
+		},
+		{
+			"pokemonName": "Chikorita"
+		},
+		{
+			"pokemonName": "Bayleef"
+		},
+		{
+			"pokemonName": "Meganium"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Grotle"
+		},
+		{
+			"pokemonName": "Torterra"
+		},
+		{
+			"pokemonName": "Snivy"
+		},
+		{
+			"pokemonName": "Servine"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Simisage"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Quilladin"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name":"Magic Bounce",
+	"summary": "Reflects all stat lowering status moves (except Memento), non-volatile status conditions, entry hazards, Taunt, Torment, and non-damaging status conditions back to the opponent.",
+	"viability": "Magic Bounce is one of the best abilities in the game, period. The opponent will be unable to set up any sort of status conditions or entry hazards, which are extremely prevalent. Instead, it'll be on the other side of the field! In a way, that is sort of setting up yourself. This takes a bit of prediction, as the opponent can catch you switching in and go for an attacking move, but overall you should always run this ability over anything else.",
+	"pokemon":[
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Espeon"
+		},
+		{
+			"pokemonName": "Mega Absol"
+		}
+	]
+}

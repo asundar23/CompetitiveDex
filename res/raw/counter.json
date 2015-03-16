@@ -1,0 +1,115 @@
+{
+	"name": "Counter",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "If the target does damage to the user using a physical move, the user will strike back, taking away double the damage dealt. This move has a priority of -5.",
+	"viability": "This is a fantastic move for walls, especially Wobbuffet. Along with Mirror Coat, bulky Pokémon that can withstand hits are very dangerous. The best thing is, even though Counter is an Attack stat, the user's Attack stat doesn't even matter due to the damage being dependent on how much the target does.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Wobbuffet"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Vigoroth"
+		},
+		{
+			"pokemonName": "Slaking"
+		},
+		{
+			"pokemonName": "Wynaut"
+		},
+		{
+			"pokemonName": "Deoxys-Defense"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Sawk"
+		}
+	],
+	"pokemonByBreeding": [
+	
+	{"pokemonName": "Charmander" },
+{"pokemonName": "Rattata" },
+{"pokemonName": "Sandshrew" },
+{"pokemonName": "Nidoran♀" },
+{"pokemonName": "Nidoran♂" },
+{"pokemonName": "Paras" },
+{"pokemonName": "Mankey" },
+{"pokemonName": "Machop" },
+{"pokemonName": "Rhyhorn" },
+{"pokemonName": "Chansey" },
+{"pokemonName": "Kangaskhan" },
+{"pokemonName": "Scyther" },
+{"pokemonName": "Snorlax" },
+{"pokemonName": "Chikorita" },
+{"pokemonName": "Aipom" },
+{"pokemonName": "Wooper" },
+{"pokemonName": "Pineco" },
+{"pokemonName": "Gligar" },
+{"pokemonName": "Sneasel" },
+{"pokemonName": "Teddiursa" },
+{"pokemonName": "Houndour" },
+{"pokemonName": "Phanpy" },
+{"pokemonName": "Tyrogue" },
+{"pokemonName": "Torchic" },
+{"pokemonName": "Mudkip" },
+{"pokemonName": "Lotad" },
+{"pokemonName": "Makuhita" },
+{"pokemonName": "Cacnea" },
+{"pokemonName": "Zangoose" },
+{"pokemonName": "Chimchar" },
+{"pokemonName": "Shieldon" },
+{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+{"pokemonName": "Happiny" },
+{"pokemonName": "Munchlax" },
+{"pokemonName": "Croagunk" },
+{"pokemonName": "Timburr" },
+{"pokemonName": "Sandile" },
+{"pokemonName": "Dwebble" },
+{"pokemonName": "Scraggy" },
+{"pokemonName": "Zorua" },
+{"pokemonName": "Karrablast" },
+{"pokemonName": "Axew" },
+{"pokemonName": "Goomy" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

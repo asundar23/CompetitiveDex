@@ -1,0 +1,521 @@
+{ 
+	 "name": "Swablu",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 5,
+			"move": "Sing",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Disarming Voice",
+			"type": " Fairy "
+		},
+		{
+			"level": 14,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 17,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Refresh",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Mirror Move",
+			"type": " Flying "
+		},
+		{
+			"level": 34,
+			"move": "Cotton Guard",
+			"type": " Grass "
+		},
+		{
+			"level": 38,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 42,
+			"move": "Perish Song",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Moonblast",
+			"type": " Fairy "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Swablu" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Altaria" }
+   	],
+   "evolutionType":[
+   		"Level 35"
+   ],
+	"eggGroup": [
+		" Flying ",
+		" Dragon "
+	],
+	"stats": [
+		45,
+		40,
+		60,
+		40,
+		75,
+		50
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 8,
+			"move": "Sing",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 18,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Refresh",
+			"type": " Normal "
+		},
+		{
+			"level": 34,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 34,
+			"move": "Mirror Move",
+			"type": " Flying "
+		},
+		{
+			"level": 39,
+			"move": "Cotton Guard",
+			"type": " Grass "
+		},
+		{
+			"level": 42,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 48,
+			"move": "Perish Song",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Moonblast",
+			"type": " Fairy "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Dragon Rush",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Feather Dance",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Hyper Voice",
+			"pokemon": [
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Power Swap",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rage",
+			"pokemon": [
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Dragon Pulse",
+		"Heal Bell",
+		"Heat Wave",
+		"Hyper Voice",
+		"Outrage",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Route 211 (Poké Radar)"},
+		{"Location": "Route 211 (Poké Radar)"},
+		{"Location": "Route 210"},
+		{"Location": "Route 45 (Swarm)"},
+		{"Location": "Route 45 (Swarm)"},
+		{"Location": " Field"},
+		{"Location": "Breed Altaria"},
+		{"Location": "Breed Altaria"},
+		{"Location": "Route 14 and Abundant Shrine, Abundant Shrine (Hidden Grotto)"},
+		{"Location": "Route 14 and Abundant Shrine, Abundant Shrine (Hidden Grotto)"},
+		{"Location": "Route 21 (Horde Encounter)"},
+		{"Location": "Route 21 (Horde Encounter)"}
+	],
+	"abilities": [
+		"Natural Cure",
+		"Cloud Nine"
+	],
+	"sets": [
+	]
+}

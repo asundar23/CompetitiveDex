@@ -1,0 +1,67 @@
+{
+	"name":"Rock Head",
+	"summary": "Prevents recoil damage. The moves affected are Brave Bird, Double-Edge, Flare Blitz, Head Charge, Head Smash, Submission, Take Down, Volt Tackle, Wood Hammer, and Wild Charge.",
+	"viability": "Rock Head is useful, mostly because of Head Smash. It does so much damage, but at such an expensive cost due to the amount of recoil. Luckily, with Rock Head that won't be the case. This is recommended if you are going to go with an offensive set and Head Smash or Double-Edge.",
+	"pokemon":[
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Graveler"
+		},
+		{
+			"pokemonName": "Golem"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		}
+	]
+}

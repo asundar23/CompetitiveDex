@@ -1,0 +1,289 @@
+{ 
+	 "name": "Doublade",
+	"types": [
+		" Steel ",
+		" Ghost "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Honedge" },
+   		{ "pokemonName":"Doublade" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Doublade" },
+   		{ "pokemonName":"Aegislash-Shield" }
+   	],
+   "evolutionType":[
+   		"Level 35",
+   		"Dusk Stone"
+   ],
+	"stats": [
+		59,
+		110,
+		150,
+		45,
+		49,
+		35
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 13,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 18,
+			"move": "Autotomize",
+			"type": " Steel "
+		},
+		{
+			"level": 20,
+			"move": "Shadow Sneak",
+			"type": " Ghost "
+		},
+		{
+			"level": 22,
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"level": 26,
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 36,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 41,
+			"move": "Power Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 51,
+			"move": "Sacred Sword",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Metal Sound",
+			"pokemon": [
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Klefki"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Shadow Sneak",
+			"pokemon": [
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Aegislash"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Wide Guard",
+			"pokemon": [
+				{"pokemonName": "Dwebble"}
+			],
+			"type": " Rock "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Evolve Honedge"},
+		{"Location": "Evolve Honedge"}
+	],
+	"abilities": [
+		"No Guard"
+	],
+	"sets": [
+	]
+}

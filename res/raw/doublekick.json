@@ -1,0 +1,114 @@
+{
+	"name": "Double Kick",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "30",
+	"accuracy": "100",
+	"summary": "Hits twice. Each strike has an independent critical hit ratio.",
+	"viability": "This isn't a good move, due to the low base power. None of the Pokemon that have access to Double Kick have Technician, making this virtually pointless to use.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidorino"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Jolteon"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Cobalion"
+		},
+		{
+			"pokemonName": "Terrakion"
+		},
+		{
+			"pokemonName": "Virizion"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Blitzle"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

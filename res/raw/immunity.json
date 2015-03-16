@@ -1,0 +1,16 @@
+{
+	"name":"Immunity",
+	"summary": "Prevents the user from being poisoned.",
+	"viability": "This only is useful for Gligar, who cannot be Toxic-stalled. The best way to take down walls is through Toxic, but that can't happen with Gligar, making its name as a Defensive wall.",
+	"pokemon":[
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Zangoose"
+		}
+	]
+}

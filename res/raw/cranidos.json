@@ -1,0 +1,489 @@
+{
+	"name":"Cranidos",
+	"types": [
+		"Rock"
+	],
+	"eggGroup": [
+		"Monster"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Cranidos" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Rampardos" }
+   	],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"abilities": [
+		"Mold Breaker",
+		"Sheer Force"
+	],
+	"locations": [
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Trade"},
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Revive from Skull Fossil Cranidos"},
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Revive from Skull Fossil, Trade with Curtis in Nimbasa City (If the player is female)"},
+		{"Location": "Revive from Skull Fossil, Trade with Curtis in Nimbasa City (If the player is female)"},
+		{"Location": "Revive from Skull Fossil"},
+		{"Location": "Revive from Skull Fossil"}
+	],
+	"stats": [
+		67,
+		125,
+		40,
+		30,
+		30,
+		58
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 15,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 24,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 28,
+			"move": "Chip Away",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 37,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 42,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Head Smash",
+			"type": " Rock "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Snorlax"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Larvitar"},
+				{"pokemonName": "Pupitas"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Hammer Arm",
+			"pokemon": [
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Iron Head",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Shieldon"},
+				{"pokemonName": "Bastiodon"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Leer",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Larvitar"},
+				{"pokemonName": "Pupitar"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Tropius"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Slam",
+			"pokemon": [
+				{"pokemonName": "Lickitung"},
+				{"pokemonName": "Lickilicky"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Stomp",
+			"pokemon": [
+				{"pokemonName": "Lickitung"},
+				{"pokemonName": "Lickilicky"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Tropius"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Larvitar"},
+				{"pokemonName": "Pupitar"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Tropius"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Dragon Pulse",
+		"Earth Power",
+		"Endeavor",
+		"Fire Punch",
+		"Iron Head",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Stealth Rock",
+		"Superpower",
+		"Thunder Punch",
+		"Uproar",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

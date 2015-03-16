@@ -1,0 +1,10 @@
+{
+	"name":"Color Change",
+	"summary": "When hit by a damage-dealing move, the Pokémon will change its type to the type of the move used. Status ailments will change the type after it is inflicted.",
+	"viability": "Kecleon by default ran this when it was its only ability. Now that Protean exists, there's no reason to be running Color Change. Even if Kecleon changes to a different type, you can always counter that with another type. With Protean, you have much more control of what you want Kecleon's type to be, and can act accordingly.",
+	"pokemon":[
+		{
+			"pokemonName": "Kecleon"
+		}
+	]
+}

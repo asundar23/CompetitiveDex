@@ -1,0 +1,22 @@
+{
+	"name": "Steam Eruption",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "5",
+	"power": "110",
+	"accuracy": "95",
+	"summary": "Deals damage and has a 30% chance of a burn. Thaws the user if they are frozen.",
+	"viability": "As a better Scald, Volcanion has an amazing signature move. Being a rather defensive Pokemon, instead of running Scald like most do, it can easily use Steam Eruption instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Volcanion" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

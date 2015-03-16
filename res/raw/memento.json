@@ -1,0 +1,46 @@
+{
+	"name": "Memento",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Causes the user to faint, and the target's Attack and Special Attack will decrease by two stages each.",
+	"viability": "Memento is extremely good if you have a Pokemon on the verge of fainting. You can then bring in a sweeper who can proceed to set up and not worry about the consequences. Whimsicott is perhaps the best user of this due to its Prankster ability.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Muk" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Skiploom" },
+		{ "pokemonName": "Jumpluff" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Stunky" },
+		{ "pokemonName": "Skuntank" },
+		{ "pokemonName": "Spiritomb" },
+		{ "pokemonName": "Uxie" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Duskull" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Cottonee" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Zorua" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

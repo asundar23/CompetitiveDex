@@ -1,0 +1,19 @@
+{
+	"name":"Drought",
+	"summary": "Summons sun for 5 turns (8 if the user is holding a Heat Rock). If a Pokémon with Drought is sent out at the same time as a Pokémon with a different weather-summoning ability (Drizzle, Sand Stream, or Snow Warning), the Pokémon with the slower Speed will have its weather activated.",
+	"viability": "Drought works very similar to Drizzle, and is thus quite as good. Ninetales and Mega Charizard Y both have access to Solar Beam, which can easily take down Water-types. In addition, both Pokémon lose their weakness to Water-type moves for 5 or 8 turns, which allow for some sweeping capabilities.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Charizard Y"
+		},
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Ninetales"
+		},
+		{
+			"pokemonName": "Groudon"
+		}
+	]
+}

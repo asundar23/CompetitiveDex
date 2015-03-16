@@ -1,0 +1,40 @@
+{
+	"name": "Work Up",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Attack and Special Attack.",
+	"viability": "Work Up can be useful for mixed attackers like Virizion, but beyond that doesn't serve much purpose. Nasty Plot or Swords Dance are better because they maximize a certain stat",
+	"pokemonByLevel": [
+		{ "pokemonName": "Tauros" },
+		{ "pokemonName": "Patrat" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Herdier" },
+		{ "pokemonName": "Stoutland" },
+		{ "pokemonName": "Darumaka" },
+		{ "pokemonName": "Darmanitan" },
+		{ "pokemonName": "Deino" },
+		{ "pokemonName": "Zweilous" },
+		{ "pokemonName": "Hydreigon" },
+		{ "pokemonName": "Cobalion" },
+		{ "pokemonName": "Terrakion" },
+		{ "pokemonName": "Virizion" },
+		{ "pokemonName": "Keldeo" },
+		{ "pokemonName": "Litleo" },
+		{ "pokemonName": "Pyroar" },
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Pangoro" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Furfrou" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

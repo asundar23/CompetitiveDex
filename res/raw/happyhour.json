@@ -1,0 +1,21 @@
+{
+	"name": "Happy Hour",
+	"note": "This is an event only move.",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Doubles the money won in a battle. Stacks with Amulet Coin, Luck Incense, and O-Powers",
+	"viability": "No competitive use",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,927 @@
+{ 
+	 "name": "Arbok",
+	"types": [
+		" Poison "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Ekans" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Arbok" }
+   ],
+   "evolutionType":[
+   		"Level 22"
+   ],
+	"eggGroup": [
+		" Field ",
+		" Dragon "
+	],
+	"stats": [
+		60,
+		85,
+		69,
+		65,
+		79,
+		80
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Ice Fang",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 4,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 9,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 12,
+			"move": "Glare",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 22,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Acid Spray",
+			"type": " Poison "
+		},
+		{
+			"level": 39,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 44,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 48,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 51,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 56,
+			"move": "Coil",
+			"type": " Poison "
+		},
+		{
+			"level": 63,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Ice Fang",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 4,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 9,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 12,
+			"move": "Glare",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 22,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Acid Spray",
+			"type": " Poison "
+		},
+		{
+			"level": 39,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 44,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 48,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 51,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 56,
+			"move": "Coil",
+			"type": " Poison "
+		},
+		{
+			"level": 63,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		}
+	],
+	"pokedexNumber": "24",
+	"hatchTime": "5355 - 5609 steps",
+	"height": "11'06\" (3.5 m)",
+	"weight": "143.3 lbs (65.0 kg)",
+	"evYield": [
+		"2 Attack"
+	],
+	"levelingRate": "Medium Fast",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 19 (Horde Encounter)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Ekans"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 19 (Horde Encounter)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Ekand"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Ekans"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade",
+				"Evolve Ekans"
+			]
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Beat Up",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Poison Fang",
+			"pokemon": [
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Poison Tail",
+			"pokemon": [
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Bouffalant"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Slam",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Snivy"},
+				{"pokemonName": "Servine"},
+				{"pokemonName": "Serperior"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Snatch",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Spite",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Sucker Punch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Furfrou"},
+				{"pokemonName": "Female Meowstic"},
+				{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Dark "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bind",
+		"Dark Pulse",
+		"Gastro Acid",
+		"Giga Drain",
+		"Gunk Shot",
+		"Iron Tail",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Spite"
+
+	],
+	"abilities": [
+		"Intimidate",
+		"Shed Skin",
+		"Unnerve"
+	],
+	"sets": [
+	]
+}

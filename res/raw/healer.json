@@ -1,0 +1,28 @@
+{
+	"name":"Healer",
+	"summary": "In Doubles and Triples battles, the user has a 30% chance to heal an adjacent ally's status condition at the end of each turn.",
+	"viability": "Healer isn't bad, especially when you have a bulky Pokémon like Blissey or Audino. They can tank hits, as well as help teammates that can't afford to be inflicted with a status condition.",
+	"pokemon":[
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Bellossom"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		}
+	]
+}

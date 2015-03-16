@@ -1,0 +1,72 @@
+{
+	"name": "Constrict",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "35",
+	"power": "10",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of lowering the target's Speed by one stage.",
+	"viability": "Tackle is more powerful than this move. That should tell you all you need to know about Constrict. Don't ever use it, even in game.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Octillery"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Malamar"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

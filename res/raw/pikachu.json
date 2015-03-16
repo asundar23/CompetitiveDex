@@ -1,0 +1,853 @@
+{ 
+	 "name": "Pikachu",
+	"types": [
+		" Electric "
+	],
+	"eggGroup": [
+		" Field ",
+		" Fairy "
+	],
+	"preEvolution":[
+   		{ "pokemonName":"Pichu" },
+   		{ "pokemonName":"Pikachu" },
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Pikachu" },
+   		{ "pokemonName":"Raichu" },
+   ],
+   "setCheck": "0",
+   "evolutionType":[
+   		"Friendship",
+   		"Thunder Stone"
+   ],
+	"stats": [
+		35,
+		55,
+		30,
+		50,
+		40,
+		90
+	],
+	"pokedexNumber": "25",
+	"hatchTime": "5355 - 5609 steps",
+	"height": "1'04\" (0.4 m)",
+	"weight": "13.2 lbs (6.0 kg)",
+	"evYield": [
+		"2 Speed"
+	],
+	"levelingRate": "Medium Fast",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest",
+				"Route 3"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Electric)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Pichu"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest",
+				"Route 3"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Kilouide City - Friend Safari (Electric)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Pichu"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Safari Zone (Zone 1)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Any Contest Hall after first contest (Cosplay Pikachu)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade",
+				"Evolve Pichu"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Safari Zone (Zone 1)"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Any Contest Hall after first contest (Cosplay Pikachu)"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade",
+				"Evolve Pichu"
+			]
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 18,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 21,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Nuzzle",
+			"type": " Electric "
+		},
+		{
+			"level": 26,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"level": 34,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 42,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 46,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Thunder",
+			"type": " Electric "
+		}
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 18,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 21,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Nuzzle",
+			"type": " Electric "
+		},
+		{
+			"level": 26,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"level": 34,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 42,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 46,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Thunder",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM06",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bestow",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Bide",
+			"pokemon": [
+				{"pokemonName": "Seedot"},
+				{"pokemonName": "Pipulup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Charge",
+			"pokemon": [
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Disarming VoIce",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Clefable"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"},
+				{"pokemonName": "Sylveon"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Double Slap",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Clefable"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Wigglytuff"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Delcatty"},
+				{"pokemonName": "Audino"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Bunnelby"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Cubchoo"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Out",
+			"pokemon": [
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Nuzleaf"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Lucky Chant",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Present",
+			"pokemon": [
+				{"pokemonName": "Delibird"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Reversal",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Thunder Punch",
+			"pokemon": [
+				{"pokemonName": "Ampharos"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Volt Tackle",
+			"pokemon": [
+				{"pokemonName": "Pikachu"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Helping Hand",
+		"Iron Tail",
+		"Knock Off",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch"
+		]
+}

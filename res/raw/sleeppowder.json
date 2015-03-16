@@ -1,0 +1,43 @@
+{
+	"name": "Sleep Powder",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "75",
+	"summary": "Makes the target fall asleep.",
+	"viability": "While not a great move, it is one of the most accurate Sleep-inducing move, behind Dark Void and Spore. Due to its high distribution, this move can be run for many different Pokemon. The best way is through Vivillon and Butterfree, who carry Compound Eyes.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Ivysaur" },
+		{ "pokemonName": "Venusaur" },
+		{ "pokemonName": "Butterfree" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Venomoth" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Weepinbell" },
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Skiploom" },
+		{ "pokemonName": "Jumpluff" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Petilil" },
+		{ "pokemonName": "Vivillon" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Carnivine" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

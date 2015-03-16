@@ -1,0 +1,363 @@
+{
+	"name": "Bite",
+	"note": "",
+	"type": " Dark ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 30% chance to flinch the opponent.",
+	"viability": "This isn't one of the better moves, but this can see some use in Mega Gyarados, due to its lack of Dark STAB. Besides that, most other Pokémon that will be running a physical Dark move have access to either Knock Off, Crunch, or Night Slash.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Wartortle"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Flareon"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Granbull"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Raikou"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Suicune"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Pupitar"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Mightyena"
+		},
+		{
+			"pokemonName": "Loudred"
+		},
+		{
+			"pokemonName": "Exploud"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Glalie"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Grotle"
+		},
+		{
+			"pokemonName": "Torterra"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Luxio"
+		},
+		{
+			"pokemonName": "Luxray"
+		},
+		{
+			"pokemonName": "Hippopotas"
+		},
+		{
+			"pokemonName": "Hippowdon"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Carnivine"
+		},
+		{
+			"pokemonName": "Glaceon"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Herdier"
+		},
+		{
+			"pokemonName": "Stoutland"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Sandile"
+		},
+		{
+			"pokemonName": "Krokorok"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Quilladin"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		},
+		{
+			"pokemonName": "Furfrou"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Archen"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

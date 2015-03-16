@@ -1,0 +1,530 @@
+{ 
+	 "name": "Whiscash",
+	"types": [
+		" Water ",
+		" Ground "
+	],
+	"eggGroup": [
+		" Water 2 "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Tickle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 6,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 6,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 9,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 13,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 15,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 17,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 20,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Snore",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 30,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 39,
+			"move": "Muddy Water",
+			"type": " Water "
+		},
+		{
+			"level": 45,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 52,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Barboach" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Whiscash" }
+   	],
+   "evolutionType":[
+   		"Level 30"
+   ],s
+	"stats": [
+		110,
+		78,
+		73,
+		76,
+		71,
+		60
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Tickle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 6,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 8,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 10,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 14,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 18,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 22,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 26,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 33,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 33,
+			"move": "Snore",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 45,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 51,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 57,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Dragon Dance",
+			"pokemon": [
+				{"pokemonName": "Gyarados"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Relicanth"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Magikarp"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hydro Pump",
+			"pokemon": [
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Finneon"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Muddy Water",
+			"pokemon": [
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"},
+				{"pokemonName": "Spark"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Carvanha"},
+				{"pokemonName": "Sharpedo"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Whirlpool",
+			"pokemon": [
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Finneon"},
+				{"pokemonName": "Lumineon"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bounce",
+		"Earth Power",
+		"Icy Wind",
+		"Sleep Talk",
+		"Snore",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Routes 205, 208, 210, 212, 227, 228, Celestic Town, Eterna City, Great Marsh, Mt. Coronet, Oreburgh Gate, Ravaged Path (Super Rod)"},
+		{"Location": "Routes 205, 208, 210, 212, 227, 228, Celestic Town, Eterna City, Great Marsh, Mt. Coronet, Oreburgh Gate, Ravaged Path (Super Rod)"},
+		{"Location": "Route 228 (Good Rod), Routes 205, 208, 210, 225, 227, 228, Eterna City, Great Marsh, Mt. Coronet, Oreburgh Gate, Ravaged Path (Super Rod)"},
+		{"Location": "Violet City (Swarm)"},
+		{"Location": "Violet City (Swarm)"},
+		{"Location": "Pond"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Rippling water)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Rippling water)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Rippling water)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Rippling water)"},
+		{"Location": "Route 14, Route 19 (Super Rod)"},
+		{"Location": "Route 14, Route 19 (Super Rod)"}
+	],
+	"abilities": [
+		"Oblivious",
+		"Anticipation",
+		"Hydraion"
+	],
+	"sets": [
+	]
+}

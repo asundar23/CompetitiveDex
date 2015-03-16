@@ -1,0 +1,34 @@
+{
+	"name": "Miracle Eye",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Removes Dark-type immunity to Psychic type attacks and restores target's evasion stat to normal.",
+	"viability": "Most Psychic types have some sort of Fighting coverage, be it through Focus Blast, Aura Sphere, or Hidden Power Fighting. Removing this Dark-immunity isn't very necessary.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Kadabra" },
+		{ "pokemonName": "Alakazam" },
+		{ "pokemonName": "Mewtwo" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Metang" },
+		{ "pokemonName": "Metagross" },
+		{ "pokemonName": "Sigilyph" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" },
+		{ "pokemonName": "Male Meowstic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Gothita" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

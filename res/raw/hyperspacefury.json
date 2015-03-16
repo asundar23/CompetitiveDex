@@ -1,0 +1,22 @@
+{
+	"name": "Hyperspace Fury",
+	"note": "",
+	"type":" Dark ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "--",
+	"summary": "Deals damage, and lowers the user's Defense by one stage. It is unaffected accuracy or evasion modifications. Hits the target through Protect, Detect, Spiky Shield, King's Shield, and Mat Block.",
+	"viability": "Hyperspace Fury is the perfect move for Hoopa-Unbound. Where Hyperspace Hole lacks in power, Fury makes up for. Additionally, due to the fact that it can hit thrugh King's Shield, Protect, and lower Defense makes it an incredibly powerful move. It can do a lot of damage and force switches.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hoopa-Unbound" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

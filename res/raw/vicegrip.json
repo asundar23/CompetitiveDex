@@ -1,0 +1,33 @@
+{
+	"name": "Vice Grip",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "55",
+	"accuracy": "100",
+	"summary": "Deals damage.",
+	"viability": "Vice Grip is an early game move; there is no competitive use for it however.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Krabby" },
+		{ "pokemonName": "Kingler" },
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Corphish" },
+		{ "pokemonName": "Crawdaunt" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Durant" },
+		{ "pokemonName": "Clauncher" },
+		{ "pokemonName": "Clawitzer" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

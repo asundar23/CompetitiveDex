@@ -1,0 +1,326 @@
+{ 
+	 "name": "Zapdos",
+	"types": [
+		" Electric ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		90,
+		90,
+		85,
+		125,
+		90,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Drill Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 8,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 15,
+			"move": "Detect",
+			"type": " Fighting "
+		},
+		{
+			"level": 22,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 29,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 36,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 43,
+			"move": "AGility",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 57,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 64,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 71,
+			"move": "Drill Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 78,
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"level": 85,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 92,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Roost",
+		"Signal Beam",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "Location"},
+		{"Location": "Trade"},
+		{"Location": "Roamind Sinnoh (Only one)"},
+		{"Location": "Route 10 (Only one)"},
+		{"Location": "Route 10 (Only one)"},
+		{"Location": "Mountain"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Roadming Kalos and Sea Spirit's Den (if player chooses Fennekin as starter)"},
+		{"Location": "Roadming Kalos and Sea Spirit's Den (if player chooses Fennekin as starter)"}
+	],
+	"abilities": [
+		"Pressure",
+		"Static (Unreleased)"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "Sand Tomb",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "35",
+	"accuracy": "85",
+	"summary": "Deals damage. At the end of each turn, the target's HP will be reduced by 1/8 (1/6 with Binding Band). This continue for 4-5 turns.",
+	"viability": "Sand Tomb is the Ground-type equivalent of Fire Spin. Both have their advantages and disadvantages, but in the end are both decent trapping moves.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Sandslash" },
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Trapinch" },
+		{ "pokemonName": "Vibrava" },
+		{ "pokemonName": "Flygon" },
+		{ "pokemonName": "Gible" },
+		{ "pokemonName": "Gabite" },
+		{ "pokemonName": "Garchomp" },
+		{ "pokemonName": "Hippopotas" },
+		{ "pokemonName": "Hippowdon" },
+		{ "pokemonName": "Sandile" },
+		{ "pokemonName": "Krokorok" },
+		{ "pokemonName": "Krookodile" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sudowoodo" },
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Bonsly" },
+		{ "pokemonName": "Gible" },
+		{ "pokemonName": "Hippopotas" },
+		{ "pokemonName": "Dwebble" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

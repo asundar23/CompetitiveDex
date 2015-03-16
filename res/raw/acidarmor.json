@@ -1,0 +1,81 @@
+{
+	"name": "Acid Armor",
+	"type": " Poison ",
+	"note":"",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--%",
+	"summary": "Increases the user's Defense by two stages.",
+	"viability": "While defensive boosters aren't seen as much, Acid Armor is commonly seen in Baton Pass chains. Having a boost in physical defense is often vital to keeping a chain alive, and this move does the job well. As a standalone move, it's not highly recommended. As mentioned earlier, defensive boosters aren't recommended due to the offensive nature of the game.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Phione"
+		},
+		{
+			"pokemonName": "Manaphy"
+		},
+		{
+			"pokemonName": "Vanillite"
+		},
+		{
+			"pokemonName": "Vanillish"
+		},
+		{
+			"pokemonName": "Vanilluxe"
+		},
+		{
+			"pokemonName": "Cryogonal"
+		},
+		{
+			"pokemonName": "Shelmet"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Goomy"
+		}
+	],
+	"pokemonByTM":[
+	],
+	"pokemonByHM":[
+	], 
+	"pokemonByTutor": [
+	]
+}

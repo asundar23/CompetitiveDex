@@ -1,0 +1,84 @@
+{ 
+	 "name": "Cascoon",
+	"types": [
+		" Bug "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Wurmple" },
+   		{ "pokemonName":"Wurmple" },
+   		{ "pokemonName":"Silcoon" },
+   		{ "pokemonName":"Cascoon" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Silcoon" },
+   		{ "pokemonName":"Cascoon" },
+   		{ "pokemonName":"Beautifly" },
+   		{ "pokemonName":"Dustox" }
+   	],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 7",
+   		"Level 10",
+   		"Level 10"
+   ],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		50,
+		35,
+		55,
+		25,
+		25,
+		15
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Harden",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Iron Defense"
+
+	],
+	"locations": [
+		{"Location": "Evolve Wurmple"},
+		{"Location": "Eterna Forest, Honey trees"},
+		{"Location": "Eterna Forest, Route 205"},
+		{"Location": "National Park (Bug-Catching Contest on Saturday)"},
+		{"Location": "National Park (Bug-Catching Contest on Saturday)"},
+		{"Location": "Forest"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Wurmple"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Friend Safari (Poison)"},
+		{"Location": "Friend Safari (Poison)"}
+	],
+	"abilities": [
+		"Shed Skin"
+	],
+	"sets": [
+	]
+}

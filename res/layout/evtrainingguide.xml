@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent" >
+		
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		    
+		    <TextView
+		        android:layout_margin="15dp"
+		        android:id="@+id/evTitle"
+		        android:layout_centerHorizontal="true"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:textSize="30sp"
+		        android:textColor="@color/white"
+		        android:text="Introduction" />
+		    
+		    <Button
+				android:id="@+id/next"
+				android:text="Next"
+				android:layout_below="@+id/evText"
+				android:layout_marginTop="30dp"
+				android:textColor="#FFFFFF"
+				android:textSize="24sp"
+				android:layout_width="100dp"
+				android:layout_height="60dp"
+				android:layout_alignParentRight="true"
+				android:background="@drawable/next_shape"
+				android:shadowColor="#A8A8A8"
+				android:shadowDx="0"
+				android:shadowDy="0"
+				android:shadowRadius="5" />
+		    
+		    <Spinner
+				android:id="@+id/spinnerEv"
+				android:layout_below="@+id/evTitle"
+				android:layout_marginTop="10dp"
+				android:textColor="#FFFFFF"
+				android:textSize="24sp"
+				android:layout_centerHorizontal="true"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:spinnerMode="dialog" />
+		    
+		    <Button
+				android:id="@+id/previous"
+				android:text="Previous"
+				android:layout_below="@+id/evText"
+				android:layout_marginTop="30dp"
+				android:layout_alignParentLeft="true"
+				android:textColor="#FFFFFF"
+				android:textSize="24sp"
+				android:layout_width="100dp"
+				android:layout_height="60dp"
+				android:background="@drawable/next_shape"
+				android:shadowColor="#A8A8A8"
+				android:shadowDx="0"
+				android:shadowDy="0"
+				android:shadowRadius="5" />
+		    
+		   <TextView
+		       android:id="@+id/pageNumber"
+		       android:layout_width="wrap_content"
+		       android:layout_height="wrap_content"
+		       android:textColor="@color/white"
+		       android:layout_alignBaseline="@+id/previous"
+		       android:layout_centerHorizontal="true"
+		       android:textSize="18sp" />
+		    
+		    
+		    
+		    <ImageView
+		        android:id="@+id/evimage"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@+id/spinnerEv"
+		        android:layout_centerHorizontal="true"
+		        android:layout_marginTop="20dp"
+		        android:contentDescription="@string/app_name" />
+		    
+		    <TextView
+		        android:id="@+id/evText"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginTop="30dp"
+		        android:layout_centerHorizontal="true"
+		        android:textColor="@color/white"
+		        android:textSize="22sp"
+		        android:layout_below="@+id/evimage" />
+
+		</RelativeLayout>
+</ScrollView>

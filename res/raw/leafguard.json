@@ -1,0 +1,46 @@
+{
+	"name":"Leaf Guard",
+	"summary": "Prevents the Pokémon from being addlicted by non-volatile statuses (Burn, Toxic, Sleep, or Freeze) during sunlight. Does not prevent self-inflicted status conditions, like Rest.",
+	"viability": "While a nice idea, for this to work the Pokémon needs to be in sunlight. All Pokémon that have Leaf Guard are Grass types, and Fire types are powered in sunlight. This can be extremely problematic, especially when you consider that many of these Pokémon also have Chlorophyll, which is a far better sun ability.",
+	"pokemon":[
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Chikorita"
+		},
+		{
+			"pokemonName": "Bayleef"
+		},
+		{
+			"pokemonName": "Meganium"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Budew"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Leafeon"
+		},
+		{
+			"pokemonName": "Swadloon"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Lilligant"
+		}
+	]
+}

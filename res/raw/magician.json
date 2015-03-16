@@ -1,0 +1,19 @@
+{
+	"name":"Magician",
+	"summary": "When the user attacks the opponent, they steal their item, provided the user isn't holding one to begin with. Future Sight and Doom Desire do not activate it.",
+	"viability": "In reality, Delphox is the only real user of Magician, through use of Power Herb. Power Herb will activate a move like Solar Beam in one turn instead of two, hit the opponent, then steal their item. Klefki should usually be running Prankster in order to set up screens, entry hazards, or status conditions so Magician is useless on it.",
+	"pokemon":[
+		{
+			"pokemonName": "Fennekin"
+		},
+		{
+			"pokemonName": "Braixen"
+		},
+		{
+			"pokemonName": "Delphox"
+		},
+		{
+			"pokemonName": "Klefki"
+		}
+	]
+}

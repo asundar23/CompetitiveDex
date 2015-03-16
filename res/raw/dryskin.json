@@ -1,0 +1,28 @@
+{
+	"name":"Dry Skin",
+	"summary": "If the weather is rain, the user gains 1/8 of their maximum HP after each turn. Water type moves will heal their HP by 1/4. If the weather is sunny, the user will lose 1/8 of their maximum HP at the end of each turn, and Fire-moves do 1/4 more damage.",
+	"viability": "The added weakness to Water is great, since Water is a fairly common attacking type. Dry Skin is best utilized on rain-based team, preferably with a Pokémon with Drizzle. Heliolist, in particular, makes great use of Dry Skin, since it can deal super effective damage on Water-types. Toxicroak, Jynx, and Parasect welcome Dry Skin as well. If you are able to predict a Water-move, it's best to switch in immediately to these Pokémon in order to gain some HP back.",
+	"pokemon":[
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Toxicroak"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		}
+	]
+}

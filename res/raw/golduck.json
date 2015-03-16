@@ -1,0 +1,761 @@
+{ 
+	 "name": "Golduck",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Psyduck" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Golduck" }
+   ],
+   "evolutionType":[
+   		"Level 33"
+   ],
+	"stats": [
+		80,
+		82,
+		78,
+		95,
+		80,
+		82
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Aqua Jet",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 4,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 11,
+			"move": "Disable",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 18,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 22,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 32,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 38,
+			"move": "Soak",
+			"type": " Water "
+		},
+		{
+			"level": 43,
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 54,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 60,
+			"move": "Wonder Room",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Clear Smog",
+			"pokemon": [
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Ninetales"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Watchog"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Cross Chop",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "furret"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Future Sight",
+			"pokemon": [
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Poliwrath"},
+				{"pokemonName": "Politoed"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"},
+				{"pokemonName": "Inkay"},
+				{"pokemonName": "Malamar"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Mud Bomb",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Psybeam",
+			"pokemon": [
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"},
+				{"pokemonName": "Inkay"},
+				{"pokemonName": "Malamar"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Refresh",
+			"pokemon": [
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Milotic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Secret Power",
+			"pokemon": [
+				{"pokemonName": "Vulpix" },
+{"pokemonName": "Ninetales" },
+{"pokemonName": "Psyduck" },
+{"pokemonName": "Golduck" },
+{"pokemonName": "Girafarig" },
+{"pokemonName": "Dunsparce" },
+{"pokemonName": "Munna" },
+{"pokemonName": "Musharna" },
+{"pokemonName": "Squirtle" },
+{"pokemonName": "Wartortle" },
+{"pokemonName": "Blastoise" },
+{"pokemonName": "Rattata" },
+{"pokemonName": "Raticate" },
+{"pokemonName": "Ekans" },
+{"pokemonName": "Arbok" },
+{"pokemonName": "Pikachu" },
+{"pokemonName": "Raichu" },
+{"pokemonName": "Sandshrew" },
+{"pokemonName": "Sandslash" },
+{"pokemonName": "Nidoran♂" },
+{"pokemonName": "Nidorino" },
+{"pokemonName": "Nidoking" },
+{"pokemonName": "Vulpix" },
+{"pokemonName": "Ninetales" },
+{"pokemonName": "Diglett" },
+{"pokemonName": "Dugtrio" },
+{"pokemonName": "Meowth" },
+{"pokemonName": "Persian" },
+{"pokemonName": "Psyduck" },
+{"pokemonName": "Golduck" },
+{"pokemonName": "Mankey" },
+{"pokemonName": "Primeape" },
+{"pokemonName": "Growlithe" },
+{"pokemonName": "Arcanine" },
+{"pokemonName": "Poliwag" },
+{"pokemonName": "Poliwhirl" },
+{"pokemonName": "Poliwrath" },
+{"pokemonName": "Ponyta" },
+{"pokemonName": "Rapidash" },
+{"pokemonName": "Slowpoke" },
+{"pokemonName": "Slowbro" },
+{"pokemonName": "Farfetch'd" },
+{"pokemonName": "Seel" },
+{"pokemonName": "Dewgong" },
+{"pokemonName": "Rhyhorn" },
+{"pokemonName": "Rhydon" },
+{"pokemonName": "Horsea" },
+{"pokemonName": "Seadra" },
+{"pokemonName": "Tauros" },
+{"pokemonName": "Lapras" },
+{"pokemonName": "Eevee" },
+{"pokemonName": "Vaporeon" },
+{"pokemonName": "Jolteon" },
+{"pokemonName": "Flareon" },
+{"pokemonName": "Omanyte" },
+{"pokemonName": "Omastar" },
+{"pokemonName": "Kabuto" },
+{"pokemonName": "Kabutops" },
+{"pokemonName": "Dratini" },
+{"pokemonName": "Dragonair" },
+{"pokemonName": "Dragonite" },
+{"pokemonName": "Cyndaquil" },
+{"pokemonName": "Quilava" },
+{"pokemonName": "Typhlosion" },
+{"pokemonName": "Totodile" },
+{"pokemonName": "Croconaw" },
+{"pokemonName": "Feraligatr" },
+{"pokemonName": "Sentret" },
+{"pokemonName": "Furret" },
+{"pokemonName": "Mareep" },
+{"pokemonName": "Flaaffy" },
+{"pokemonName": "Ampharos" },
+{"pokemonName": "Marill" },
+{"pokemonName": "Azumarill" },
+{"pokemonName": "Politoed" },
+{"pokemonName": "Aipom" },
+{"pokemonName": "Wooper" },
+{"pokemonName": "Quagsire" },
+{"pokemonName": "Espeon" },
+{"pokemonName": "Umbreon" },
+{"pokemonName": "Slowking" },
+{"pokemonName": "Girafarig" },
+{"pokemonName": "Dunsparce" },
+{"pokemonName": "Snubbull" },
+{"pokemonName": "Granbull" },
+{"pokemonName": "Sneasel" },
+{"pokemonName": "Teddiursa" },
+{"pokemonName": "Ursaring" },
+{"pokemonName": "Swinub" },
+{"pokemonName": "Piloswine" },
+{"pokemonName": "Corsola" },
+{"pokemonName": "Remoraid" },
+{"pokemonName": "Octillery" },
+{"pokemonName": "Delibird" },
+{"pokemonName": "Mantine" },
+{"pokemonName": "Houndour" },
+{"pokemonName": "Houndoom" },
+{"pokemonName": "Kingdra" },
+{"pokemonName": "Phanpy" },
+{"pokemonName": "Donphan" },
+{"pokemonName": "Stantler" },
+{"pokemonName": "Torchic" },
+{"pokemonName": "Combusken" },
+{"pokemonName": "Blaziken" },
+{"pokemonName": "Mudkip" },
+{"pokemonName": "Marshtomp" },
+{"pokemonName": "Swampert" },
+{"pokemonName": "Poochyena" },
+{"pokemonName": "Mightyena" },
+{"pokemonName": "Zigzagoon" },
+{"pokemonName": "Linoone" },
+{"pokemonName": "Lotad" },
+{"pokemonName": "Lombre" },
+{"pokemonName": "Ludicolo" },
+{"pokemonName": "Seedot" },
+{"pokemonName": "Nuzleaf" },
+{"pokemonName": "Shiftry" },
+{"pokemonName": "Wingull" },
+{"pokemonName": "Pelipper" },
+{"pokemonName": "Surskit" },
+{"pokemonName": "Masquerain" },
+{"pokemonName": "Slakoth" },
+{"pokemonName": "Vigoroth" },
+{"pokemonName": "Slaking" },
+{"pokemonName": "Whismur" },
+{"pokemonName": "Loudred" },
+{"pokemonName": "Exploud" },
+{"pokemonName": "Skitty" },
+{"pokemonName": "Delcatty" },
+{"pokemonName": "Mawile" },
+{"pokemonName": "Electrike" },
+{"pokemonName": "Manectric" },
+{"pokemonName": "Wailmer" },
+{"pokemonName": "Wailord" },
+{"pokemonName": "Numel" },
+{"pokemonName": "Camerupt" },
+{"pokemonName": "Torkoal" },
+{"pokemonName": "Spoink" },
+{"pokemonName": "Grumpig" },
+{"pokemonName": "Spinda" },
+{"pokemonName": "Zangoose" },
+{"pokemonName": "Seviper" },
+{"pokemonName": "Corphish" },
+{"pokemonName": "Crawdaunt" },
+{"pokemonName": "Feebas" },
+{"pokemonName": "Milotic" },
+{"pokemonName": "Kecleon" },
+{"pokemonName": "Absol" },
+{"pokemonName": "Spheal" },
+{"pokemonName": "Sealeo" },
+{"pokemonName": "Walrein" },
+{"pokemonName": "Clamperl" },
+{"pokemonName": "Huntail" },
+{"pokemonName": "Gorebyss" },
+{"pokemonName": "Relicanth" },
+{"pokemonName": "Chimchar" },
+{"pokemonName": "Monferno" },
+{"pokemonName": "Infernape" },
+{"pokemonName": "Piplup" },
+{"pokemonName": "Prinplup" },
+{"pokemonName": "Empoleon" },
+{"pokemonName": "Bidoof" },
+{"pokemonName": "Bibarel" },
+{"pokemonName": "Shinx" },
+{"pokemonName": "Luxio" },
+{"pokemonName": "Luxray" },
+{"pokemonName": "Pachirisu" },
+{"pokemonName": "Buizel" },
+{"pokemonName": "Floatzel" },
+{"pokemonName": "Shellos" },
+{"pokemonName": "Gastrodon" },
+{"pokemonName": "Ambipom" },
+{"pokemonName": "Buneary" },
+{"pokemonName": "Lopunny" },
+{"pokemonName": "Glameow" },
+{"pokemonName": "Purugly" },
+{"pokemonName": "Stunky" },
+{"pokemonName": "Skuntank" },
+{"pokemonName": "Lucario" },
+{"pokemonName": "Hippopotas" },
+{"pokemonName": "Hippowdon" },
+{"pokemonName": "Weavile" },
+{"pokemonName": "Rhyperior" },
+{"pokemonName": "Leafeon" },
+{"pokemonName": "Glaceon" },
+{"pokemonName": "Mamoswine" }
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Synchronoise",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Tail",
+		"Low Kick",
+		"Role Play",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Wonder Room",
+		"Worry Seed",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Routes 203, 204, 205, 208, 209, 210, 212, 214 and 225, Twinleaf Town, Eterna City, Celestic Town, Ravaged Path, Oreburgh Gate, Lakes Verity, Acuity, and Valor, Sendoff Spring, Resort Area (surfing), Routes 226, and 230, Great Marsh, Sendoff Spring (tall grass/walking)"},
+		{ "Location": "Routes 203, 204, 205, 208, 209, 210, 212, 214 and 225, Twinleaf Town, Eterna City, Celestic Town, Ravaged Path, Oreburgh Gate, Lakes Verity, Acuity, and Valor, Sendoff Spring, Resort Area (surfing), Routes 226, and 230, Great Marsh, Sendoff Spring (tall grass/walking)"},
+		{ "Location": "Routes 203, 204, 205, 208, 209, 210, 212, 214 and 225, Twinleaf Town, Eterna City, Celestic Town, Ravaged Path, Oreburgh Gate, Lakes Verity, Acuity, and Valor, Sendoff Spring, Resort Area (surfing), Route 226, Oreburgh Gate, Lakes Acuity, and Valor (tall grass/walking)"},
+		{ "Location": "Routes 6 and 35, Ilex Forest (surfing), Mt. Silver, Seafoam Islands"},
+		{ "Location": "Routes 6 and 35, Ilex Forest (surfing), Mt. Silver, Seafoam Islands"},
+		{ "Location": "Pond"},
+		{ "Location": "Routes 11 and 14, Village Bridge"},
+		{ "Location": "Routes 11 and 14, Village Bridge"},
+		{ "Location": "Routes 11, 14, 22 and 23, Village Bridge, Seaside Cave, Abundant Shrine and Nature Preserve, Route 23 and Abundant Shrine (Hidden Grotto)"},
+		{ "Location": "Routes 11, 14, 22 and 23, Village Bridge, Seaside Cave, Abundant Shrine and Nature Preserve, Route 23 and Abundant Shrine (Hidden Grotto)"},
+		{ "Location": "Evolve Psyduck"},
+		{ "Location": "Evolve Psyduck"}
+
+	],
+	"abilities": [
+		"Damp",
+		"Cloud Nine",
+		"Swift Swim"
+	],
+	"sets": [
+	]
+}

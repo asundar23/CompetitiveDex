@@ -1,0 +1,61 @@
+{
+	"name":"Hustle",
+	"summary": "Increases the user's Attack stat by 50%, but lowers the accuracy of the user's physical moves by 20%.",
+	"viability": "Hustle is good, but risky. The best user of Hustle is Durant, due to its Hone Claws set. Otherwise, it all depends on your thoughts on the risk vs. reward debate.",
+	"pokemon":[
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidorino"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Combee"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Darumaka"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		}
+	]
+}

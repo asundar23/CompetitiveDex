@@ -1,0 +1,29 @@
+{
+	"name": "Ice Ball",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "30",
+	"accuracy": "90",
+	"summary": "Does damage over five turns, increasing in power for each hit. Doubles each consecutive turn; resets if misses or after five consecutive turn.",
+	"viability": "The problem isn't the fact that it increases in power; the power is that you have to use it when it is at 30 and 60 base power. That's two wasted turns right there powering up a move that can easily be countered.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Sealeo" },
+		{ "pokemonName": "Walrein" },
+		{ "pokemonName": "Bergmite" },
+		{ "pokemonName": "Avalugg" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Mudkip" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

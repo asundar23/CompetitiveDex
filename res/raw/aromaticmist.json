@@ -1,0 +1,24 @@
+{
+	"name": "Aromatic Mist",
+	"type": " Fairy ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Aromatic Mist will raise the Special Defense of a target Ally Pokémon. Fails if the target is under Crafty Shield.",
+	"viability": "In singles, this is useless. In Doubles and Triples, this can provide a use to let a sweeper stay in longer. It can also turn a physical wall into a mixed wall. Aromatisse is rather slow, though, so use this at your own discretion.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Aromatisse"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

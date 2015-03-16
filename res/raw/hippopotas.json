@@ -1,0 +1,347 @@
+{
+	"name":"Hippopotas",
+	"types": [
+		"Ground"
+	],
+	"eggGroup": [
+		"Field"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Hippopotas" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Hippowdon" }
+   	],
+   "evolutionType":[
+   		"Level 34"
+   ],
+	"abilities": [
+		"Sand Stream",
+		"Sand Force"
+	],
+	"locations": [
+		{"Location": "Maniac Tunnel"},
+		{"Location": "Maniac Tunnel"},
+		{"Location": "Maniac Tunnel"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Route 4 (Swarm)"},
+		{"Location": "Route 4 (Swarm)"},
+		{"Location": "Breed Hippowdon"},
+		{"Location": "Breed Hippowdon"},
+		{"Location": "Route 9"},
+		{"Location": "Route 9"}
+	],
+	"stats": [
+		88,
+		72,
+		78,
+		38,
+		42,
+		32
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 7,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 31,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 44,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Revenge",
+			"pokemon": [
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Sand Tomb",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Slack Off",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Spite Up",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " null "
+		},
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Shiftry"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Earth Power",
+		"Iron Head",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Superpower"
+	],
+	"sets": [
+	]
+}

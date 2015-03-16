@@ -1,0 +1,51 @@
+{
+	"name": "Coil",
+	"note": "",
+	"type": " Poison ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Attack, Defense, and accuracy by one stage each.",
+	"viability": "This is one of the least used viable boosting moves, but that doesn't mean it's not good. It's essentially a better version of Bulk Up, because accuracy is increased. With physical Poison types like Seviper or Arbok, using Coil in conjunction with Gunk Shot makes them powerful weapons. In addition, the rare physical Serperior variant does well with it, with Leaf Blade and a great Speed stat.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Snivy"
+		},
+		{
+			"pokemonName": "Servine"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

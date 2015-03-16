@@ -1,0 +1,19 @@
+{
+	"name":"Solid Rock",
+	"summary": "Reduces super-effective damage by 1/4. Moves that are 2x effective will be 1.5 instead, and 4x will become 3.",
+	"viability": "Solid Rock is somewhat recommended, mostly because it allows Pokémon like Mega Aggron to have better longevity. Given its lack of reliable recovery, Solid Rock does more than enough to ensure Rhyperior staying on the field. Carracosta may fare better with Sturdy, but Solid Rock isn't a bad choice for ability.",
+	"pokemon":[
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name":"Light Metal",
+	"summary": "The user's weight is halved.",
+	"viability": "Taking more damage from Low Kick, a fairly used move, is never good. Light Metal is not a good ability under any circumstance.",
+	"pokemon":[
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Beldum"
+		},
+		{
+			"pokemonName": "Metang"
+		},
+		{
+			"pokemonName": "Metagross"
+		},
+		{
+			"pokemonName": "Registeel"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "Muddy Water",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 30% chance of lowering the target's accuracy by one stage. Hits all adjacent foes.",
+	"viability": "Muddy Water can see some use in Doubles and Triples due to its ability to hit all adjacent opponents. The 30% chance of lowering someone's accuracy is pretty high in that case.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Vaporeon" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Quagsire" },
+		{ "pokemonName": "Marshtomp" },
+		{ "pokemonName": "Swampert" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Whiscash" },
+		{ "pokemonName": "Kyogre" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "East-Sea Gastrodon" },
+		{ "pokemonName": "West-Sea Gastrodon" },
+		{ "pokemonName": "Tympole" },
+		{ "pokemonName": "Palpitoad" },
+		{ "pokemonName": "Seismitoad" },
+		{ "pokemonName": "Stunfisk" },
+		{ "pokemonName": "Clauncher" },
+		{ "pokemonName": "Clawitzer" },
+		{ "pokemonName": "Goomy" },
+		{ "pokemonName": "Sliggoo" },
+		{ "pokemonName": "Goodra" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Marill" },
+		{ "pokemonName": "Azurill" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Clamperl" },
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Red-Striped Basculin" },
+		{ "pokemonName": "Blue-Striped Basculin" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name":"Unburden",
+	"summary": "If the user loses their held item, by either use or having it removed, their Speed is doubled. The Speed is reset upon switching out.",
+	"viability": "With the multitude of one-time use items, such as Normal Gem, Red Card, or Sitrus Berry, there are so many options to make Unburden effective. Hitmonlee can use Fake Out with Normal Gem, and then proceed to outspeed everyone with Close Combat or High Jump Kick. Slurpuff has the infamous Belly Drum/Unburden set, which will allow it to outspeed most scarfers. Many Pokémon also use Red Card to possibly get a more favorable matchup, and then damage the other Pokémon from there. Hawlucha actually uses a Power Herb and Sky Attack set, which will activate Unburden as well. This allows Acrobatics to hit to its full potential.",
+	"pokemon":[
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Accelgor"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	]
+}

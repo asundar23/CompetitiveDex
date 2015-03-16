@@ -1,0 +1,19 @@
+{
+	"name":"Tough Claws",
+	"summary": "Raises the power of contact moves by 33%",
+	"viability": "Perfect ability for Mega Charizard X, Mega Aerodactyl, and Barbaracle, since all have physical prowess with good contact moves. The former has Dragon Claw and Flare Blitz, Mega Aerodactyl has Aerial Ace and all the Fang moves, and Barbaracle has Razor Shell, X-Scissor, and Poison Jab.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Charizard X"
+		},
+		{
+			"pokemonName": "Mega Aerodactyl"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		}
+	]
+}

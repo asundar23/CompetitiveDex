@@ -1,0 +1,507 @@
+{ 
+	 "name": "Mega Scizor",
+	"types": [
+		" Bug ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Scyther" },
+   		{ "pokemonName":"Scizor" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Scizor" },
+   		{ "pokemonName":"Mega Scizor" }
+   ],
+   "evolutionType":[
+   		"Trade holding Metal Coat",
+   		"Scizorite"
+   ],
+	"stats": [
+		70,
+		150,
+		140,
+		65,
+		100,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bullet Punch",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 21,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 25,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 29,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Razor Wind",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 41,
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"level": 45,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 49,
+			"move": "Double Hit",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 57,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Feint",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Bug Buzz",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Beautiflu"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Shelmer"},
+				{"pokemonName": "Accelgor"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Volcarona"},
+				{"pokemonName": "Vivillon"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Heracross"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Mothim"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gliscor"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Escavalier"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Razor Wind",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Reversal",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Escavalier"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Silver Wind",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Volcarona"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Steel Wing",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Leavanny"}
+			],
+			"type": " Steel "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Iron Defense",
+		"Iron Head",
+		"Knock Off",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Tailwind"
+
+	],
+	"locations": [
+		{ "Location": "Scizorite can be found behind the Abomasnow in Frost Cavern between 8-9 PM, after the player had upgraded their Mega Ring."},
+		{ "Location": "Scizorite can be found behind the Abomasnow in Frost Cavern between 8-9 PM, after the player had upgraded their Mega Ring."}
+
+	],
+	"abilities": [
+		"Technician"
+	],
+	"sets": [
+	]
+}

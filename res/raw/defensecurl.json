@@ -1,0 +1,105 @@
+{
+	"name": "Defense Curl",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Defense by one stage. Rollout and Ice Ball's power will be doubled as long as the user remains in the battle.",
+	"viability": "Rollout and Ice Ball aren't very good moves to begin with, mostly because of their slow start. Also, while increasing your physical defense is nIce, you can still be open to Special Attackers. In addition, Iron Defense and Acid Armor are a lot better since they achieve the same effect in half the time. Stat boosters that only boost one stat by one stage (such as this, Withdraw, Medititate, etc.) aren't very good due to the amount of time they take to properly set up. It's not a very good idea to use this move unless you have a way to keep your Rollout or Ice Ball user in the field.",
+	"pokemonByLevel": [
+	{"pokemonName": "Sandshrew"},
+{"pokemonName": "Sandslash"},
+{"pokemonName": "Clefairy"},
+{"pokemonName": "Jigglypuff"},
+{"pokemonName": "Wigglytuff"},
+{"pokemonName": "Geodude"},
+{"pokemonName": "Graveler"},
+{"pokemonName": "Golem"},
+{"pokemonName": "Lickitung"},
+{"pokemonName": "Chansey"},
+{"pokemonName": "Snorlax"},
+{"pokemonName": "Cyndaquil"},
+{"pokemonName": "Quilava"},
+{"pokemonName": "Typhlosion"},
+{"pokemonName": "Sentret"},
+{"pokemonName": "Furret"},
+{"pokemonName": "Igglybuff"},
+{"pokemonName": "Marill"},
+{"pokemonName": "Azumarill"},
+{"pokemonName": "Dunsparce"},
+{"pokemonName": "Phanpy"},
+{"pokemonName": "Donphan"},
+{"pokemonName": "Porygon 2" },
+{"pokemonName": "Miltank"},
+{"pokemonName": "Blissey"},
+{"pokemonName": "Spheal"},
+{"pokemonName": "Sealeo"},
+{"pokemonName": "Walrein"},
+{"pokemonName": "Bidoof"},
+{"pokemonName": "Bibarel"},
+{"pokemonName": "Buneary"},
+{"pokemonName": "Lopunny"},
+{"pokemonName": "Munchlax"},
+{"pokemonName": "Lickilicky"},
+{"pokemonName": "Shaymin"},
+{"pokemonName": "Tepig"},
+{"pokemonName": "Pignite"},
+{"pokemonName": "Emboar"},
+{"pokemonName": "Munna"},
+{"pokemonName": "Musharna"},
+{"pokemonName": "Venipede"},
+{"pokemonName": "Whirlipede"},
+{"pokemonName": "Scolipede"},
+{"pokemonName": "Golett"},
+{"pokemonName": "Golurk"}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Cherubi"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Skiddo"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

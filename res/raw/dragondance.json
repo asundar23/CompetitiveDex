@@ -1,0 +1,96 @@
+{
+	"name": "Dragon Dance",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the Attack and Speed of the user.",
+	"viability": "Dragon Dance is a fantastic boosting move for physical sweepers such as Gyarados or Haxorus.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

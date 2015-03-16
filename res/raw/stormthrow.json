@@ -1,0 +1,24 @@
+{
+	"name": "Storm Throw",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Inflicts damage and will always result in a critical hit unless the target has Battle Armor, Shell Armor, or is under Lucky Chant.",
+	"viability": "Storm Throw has a total pre-STAB power of 90 with the critical hit. It will always hit through Reflect and Defense boost, due to the fact that it always results in a crit. Throh and Pangoro really like using it for that reason.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Throh" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pancham" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

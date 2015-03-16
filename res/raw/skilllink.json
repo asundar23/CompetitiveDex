@@ -1,0 +1,28 @@
+{
+	"name":"Skill Link",
+	"summary": "Multi-strike moves will always hit 5 times.",
+	"viability": "Skill Link ensures Rock Blast, Bullet Seed, Pin Missile, Tail Slap, and Icicle Spear to be 125 base power moves. That's absolutely deadly, beacuse Cinccino, Cloyster, and Mega Heracross all have great Attack stats. Another decent option is Ambipom with Fury Swipes, though the Technician set is far better.",
+	"pokemon":[
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Cloyster"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Mega Heracross"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Cinccino"
+		}
+	]
+}

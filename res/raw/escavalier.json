@@ -1,0 +1,499 @@
+{ 
+	 "name": "Escavalier",
+	"types": [
+		" Bug ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck":1,
+	"preEvolution":[
+   		{ "pokemonName":"Karrablast" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Escavalier" }
+   	],
+   "evolutionType":[
+   		"Trade for Shelmet"
+   ],
+	"stats": [
+		70,
+		135,
+		105,
+		60,
+		105,
+		20
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Twineedle",
+			"type": " Bug "
+		},
+		{
+			"level": 4,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Twineedle",
+			"type": " Bug "
+		},
+		{
+			"level": 16,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 32,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 40,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 44,
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"level": 49,
+			"move": "Reversal",
+			"type": " Fighting "
+		},
+		{
+			"level": 52,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 56,
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"level": 60,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bug Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Heracross"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Drill Run",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Foretress"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Horn Attack",
+			"pokemon": [
+				{"pokemonName": "Heracross"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Megahorn",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Giga Drain",
+		"Iron Defense",
+		"Iron Head",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Karrablast"},
+		{ "Location": "Evolve Karrablast"},
+		{ "Location": "Evolve Karrablast"},
+		{ "Location": "Evolve Karrablast"},
+		{ "Location": "Evolve Karrablast"},
+		{ "Location": "Evolve Karrablast"}
+
+	],
+	"abilities": [
+		"Swarm",
+		"Shell Armor",
+		"Overcoat"
+	],
+	"sets": [
+		{
+			"name": "Special Tank",
+			"item":[
+				 "Assault Vest"
+			],
+			"ability": "Overcoat",
+			"nature":[
+				 "Adamant",
+				 "Brave"
+			],
+			"evs":[
+				"252 HP",
+				"252 Attack",
+				"4 Special Defense"
+			],
+			"moves":[
+				"Megahorn",
+				"Iron Head",
+				"Knock Off",
+				"Drill Run"
+			],
+			"alternativemoves":[
+				"Pursuit",
+				"X-Scissor"
+			],
+			"setexplanation": "This set is revolved around Escavalier's great base Special Defense and Attack. It has a Special Defense stat of 105, and with Assault Vest (at level 100) that stat total is 370! That, combined with a good HP stat of 70, makes it able easily take any neutral special attack. As a tank that can hit hard, along with only one (albeit crippling) weakness to fire, Escavalier is at an advantage compared to most Pokémon.<br /><br />At level 100, with Adamant nature, Escavalier reaches a stat toal of 405, which is more than enough to show off its prowess. Megahorn and Iron are the easy STAB choIces. X-Scissor may be used if Megahorn's accuracy is worrisome. Knock Off is excellent for any incoming switch, and is vital against Honedge. It not only does super effective damage, it will knock off Honedge's item of choIce, which is usually Eviolite. Knock Off reaches a power of 93 when the opponent holds an item, and 65 otherwise; either way it will hit hard. Drill Run or Pursuit should go in that last slot. Drill Run is better due to the ability to hit Fire types hard, but Pursuit is nIce if you can predict a switch. <br /><br />Beware, though, because Escavalier has a poor Speed; in fact, it's one of the slowest Pokémon in the entire game. Don't switch in carelessly, because even with Assault Vest it can only take so much damage. In addition, due to the nature of Assault Vest Escavalier will not have any reliable recovery options outside of team support. Wish passing is highly recommended with Escavalier. Having a Pokémon that can easily switch into Fire-type moves is also a must, due to Escavalier 4x weakness. Last, having a Heal Bell or Aromatherapy sort of support is good due to the fact that it can get burned, and from there it's rather useless.<br /><br />This is one of the best Pokémon that can take advantage of Assault Vest; one can even say the item was made for Escavalier.",
+			"checksandcounters": "Any Fire/Flying type deals with this set with ease. Moltres and Fletchinder immediately come to mind; they both resist Megahorn and Iron Head, are immune to Drill Run, and can easily live a Knock Off without taking Stealth Rock damage. Without entry hazard damage, any Fire/Flying Pokémon will easily wall this set, or any Escavalier set for that matter.<br /><br />Even Pokémon with mediocre speed that have a Fire-type move can deal with Escavalier easily. Due to its high Attack stat, though, these are generally checks rather than counters. Physical attackers fare well also, due to Escavalier's good but uninvested Defense stat.",
+			"damagecalc":"<strong>(vs.) 0 Defense, 4 HP Magmortar</<br /><br />Drill Run does 93.8% - 110.9%, which is a 62.5% chance to OHKO. It is guaranteed with Stealth Rock or Spikes damage.<br /><br /><strong>252 Special Attack, Life Orb Shaymin</<br /><br />Hidden Power Fire does 52.9% - 63.3%, which is a guaranteed 2HKO. Megahorn, in turn, will do a clean OHKO.<br /><br /><strong>(vs.) 0 Defense, Eviolite Doublade</<br /><br />Knock Off does 34.7 - 41.6%, which gives you a guaranteed 3HKO, along with the Eviolite no longer being there."		
+		},
+		
+		{
+			"name": "No Holds Barred Attacker",
+			"item":[
+			 	"ChoIce Band",
+			 	"Life Orb",
+			 	"Leftovers"
+			 ],
+			"ability": "Overcoat",
+			"nature":[
+				 "Adamant",
+				 "Brave"
+			],
+			"evs":[
+				"252 HP",
+				"252 Attack",
+				"4 Speed"
+			],
+			"moves":[
+				"Megahorn",
+				"Iron Head",
+				"Drill Run",
+				"Knock Off"
+			],
+			"alternativemoves":[
+				"Swords Dance"
+			],
+			"setexplanation": "If you want more power, which the Assault Vest set cannot provide, this is the set for you. This is generally recommended as a late game bulky sweeper, or with a Trick Room team due to Escavalier's low Speed stat.<br /><br />ChoIce Band set gives you a power, at level 100, of a whopping 607 Attack. The only problem is that you're locked into one move, so be careful what move you choose to use. Life Orb allows freedom of use, and will allow the use of Swords Dance, at the cost of 10% of your HP every attack. Leftovers doesn't give the boost in power, but allows for some much needed recovery when setting up a Swords Dance.<br /><br />As always, Megahorn and Iron Head are the best options for STAB moves. No matter the set, they will usually do a lot of damage on the opponent, and it's usually worth it to be locked into them. X-Scissor may be used instead of Megahorn is the 100% accuracy (but less power) is desired.<br /><br />If you choose to run a Life Orb set, Swords Dance is optional. Leftovers, Swords Dance is probably a must, and will increase its power to 810 while recovering some HP. If Swords Dance is in the set, it should replace Drill Run; while the option to hit Fire-Types is nIce, Knock Off is a lot better in the long run.<br /><br />Adamant nature should be used for non-Trick Room teams, while Brave is required for Trick Room teams. With the Brave nature, Escavalier can utilize its incredibly slow Speed and become a terrifying sweeper within a matter of a turn or two.",
+			"checksandcounters": "Unboosted, Fire/Flying types are definitely counters to this set without Stealth Rock damage.<br /><br />ChoIce Band sets are a lot easier to find counters for due to being locked into one move. Life Orb/Leftovers provides some trouble, though, due to switching moves up.",
+			"damagecalc":"<strong>252 HP, 252 Defense Doublade</<br /><br />Knock Off boosted by Swords Dance (either Life Orb or Leftovers) is a guaranteed 2HK0, doing 59 - 90.3% damage.<br /><br /><strong>4 HP, 0 Def Delphox</<br /><br />All moves except Iron Head are a guaranteed OHKO, if Escavalier is holding either ChoIce Band or Life Orb. With Leftovers, everything except Iron Head is a guaranteed OHKO after Spikes and/or Stealth Rock damage."
+		}
+	]
+}

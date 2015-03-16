@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "damage_power">
+        <item>20</item>
+		<item>40</item>
+		<item>40</item>
+		<item>55</item>
+		<item>60</item>
+		<item>100</item>
+		<item>60</item>
+		<item>75</item>
+		<item>60</item>
+		<item>40</item>
+		<item>90</item>
+		<item>15</item>
+		<item>60</item>
+		<item>30</item>
+		<item>90</item>
+		<item>80</item>
+		<item>65</item>
+		<item>60</item>
+		<item>15</item>
+		<item>--</item>
+		<item>120</item>
+		<item>--</item>
+		<item>15</item>
+		<item>60</item>
+		<item>150</item>
+		<item>85</item>
+		<item>110</item>
+		<item>130</item>
+		<item>85</item>
+		<item>130</item>
+		<item>65</item>
+		<item>25</item>
+		<item>50</item>
+		<item>140</item>
+		<item>85</item>
+		<item>120</item>
+		<item>75</item>
+		<item>65</item>
+		<item>40</item>
+		<item>65</item>
+		<item>60</item>
+		<item>90</item>
+		<item>60</item>
+		<item>40</item>
+		<item>25</item>
+		<item>50</item>
+		<item>65</item>
+		<item>70</item>
+		<item>60</item>
+		<item>35</item>
+		<item>50</item>
+		<item>120</item>
+		<item>18</item>
+		<item>50</item>
+		<item>10</item>
+		<item>--</item>
+		<item>60</item>
+		<item>100</item>
+		<item>100</item>
+		<item>70</item>
+		<item>80</item>
+		<item>75</item>
+		<item>--</item>
+		<item>50</item>
+		<item>80</item>
+		<item>80</item>
+		<item>80</item>
+		<item>40</item>
+		<item>80</item>
+		<item>80</item>
+		<item>70</item>
+		<item>140</item>
+		<item>35</item>
+		<item>30</item>
+		<item>15</item>
+		<item>120</item>
+		<item>130</item>
+		<item>60</item>
+		<item>80</item>
+		<item>85</item>
+		<item>--</item>
+		<item>100</item>
+		<item>60</item>
+		<item>75</item>
+		<item>50</item>
+		<item>100</item>
+		<item>80</item>
+		<item>80</item>
+		<item>40</item>
+		<item>100</item>
+		<item>90</item>
+		<item>100</item>
+		<item>40</item>
+		<item>100</item>
+		<item>--</item>
+		<item>55</item>
+		<item>40</item>
+		<item>--</item>
+		<item>90</item>
+		<item>150</item>
+		<item>250</item>
+		<item>80</item>
+		<item>80</item>
+		<item>70</item>
+		<item>40</item>
+		<item>40</item>
+		<item>40</item>
+		<item>30</item>
+		<item>60</item>
+		<item>30</item>
+		<item>80</item>
+		<item>--</item>
+		<item>110</item>
+		<item>65</item>
+		<item>80</item>
+		<item>75</item>
+		<item>35</item>
+		<item>--</item>
+		<item>70</item>
+		<item>50</item>
+		<item>60</item>
+		<item>90</item>
+		<item>120</item>
+		<item>80</item>
+		<item>--</item>
+		<item>90</item>
+		<item>80</item>
+		<item>120</item>
+		<item>150</item>
+		<item>60</item>
+		<item>95</item>
+		<item>140</item>
+		<item>70</item>
+		<item>150</item>
+		<item>60</item>
+		<item>--</item>
+		<item>15</item>
+		<item>40</item>
+		<item>18</item>
+		<item>100</item>
+		<item>100</item>
+		<item>120</item>
+		<item>50</item>
+		<item>75</item>
+		<item>150</item>
+		<item>65</item>
+		<item>--</item>
+		<item>80</item>
+		<item>120</item>
+		<item>40</item>
+		<item>--</item>
+		<item>100</item>
+		<item>120</item>
+		<item>150</item>
+		<item>70</item>
+		<item>60</item>
+		<item>--</item>
+		<item>95</item>
+		<item>--</item>
+		<item>65</item>
+		<item>60</item>
+		<item>130</item>
+		<item>40</item>
+		<item>65</item>
+		<item>75</item>
+		<item>110</item>
+		<item>150</item>
+		<item>110</item>
+		<item>150</item>
+		<item>80</item>
+		<item>90</item>
+		<item>30</item>
+		<item>90</item>
+		<item>140</item>
+		<item>65</item>
+		<item>75</item>
+		<item>40</item>
+		<item>85</item>
+		<item>25</item>
+		<item>55</item>
+		<item>60</item>
+		<item>100</item>
+		<item>20</item>
+		<item>80</item>
+		<item>100</item>
+		<item>100</item>
+		<item>100</item>
+		<item>50</item>
+		<item>65</item>
+		<item>90</item>
+		<item>140</item>
+		<item>80</item>
+		<item>90</item>
+		<item>130</item>
+		<item>65</item>
+		<item>20</item>
+		<item>30</item>
+		<item>--</item>
+		<item>65</item>
+		<item>70</item>
+		<item>40</item>
+		<item>60</item>
+		<item>100</item>
+		<item>60</item>
+		<item>--</item>
+		<item>--</item>
+		<item>40</item>
+		<item>120</item>
+		<item>80</item>
+		<item>120</item>
+		<item>--</item>
+		<item>50</item>
+		<item>90</item>
+		<item>--</item>
+		<item>65</item>
+		<item>70</item>
+		<item>95</item>
+		<item>65</item>
+		<item>55</item>
+		<item>20</item>
+		<item>90</item>
+		<item>65</item>
+		<item>--</item>
+		<item>--</item>
+		<item>60</item>
+		<item>85</item>
+		<item>--</item>
+		<item>70</item>
+		<item>20</item>
+		<item>80</item>
+		<item>65</item>
+		<item>60</item>
+		<item>120</item>
+		<item>130</item>
+		<item>50</item>
+		<item>40</item>
+		<item>50</item>
+		<item>40</item>
+		<item>90</item>
+		<item>120</item>
+		<item>90</item>
+		<item>25</item>
+		<item>90</item>
+		<item>60</item>
+		<item>50</item>
+		<item>80</item>
+		<item>15</item>
+		<item>50</item>
+		<item>40</item>
+		<item>40</item>
+		<item>80</item>
+		<item>120</item>
+		<item>40</item>
+		<item>--</item>
+		<item>65</item>
+		<item>90</item>
+		<item>140</item>
+		<item>70</item>
+		<item>80</item>
+		<item>100</item>
+		<item>--</item>
+		<item>--</item>
+		<item>40</item>
+		<item>40</item>
+		<item>20</item>
+		<item>20</item>
+		<item>55</item>
+		<item>75</item>
+		<item>80</item>
+		<item>75</item>
+		<item>70</item>
+		<item>--</item>
+		<item>60</item>
+		<item>--</item>
+		<item>150</item>
+		<item>25</item>
+		<item>90</item>
+		<item>75</item>
+		<item>40</item>
+		<item>50</item>
+		<item>60</item>
+		<item>150</item>
+		<item>60</item>
+		<item>30</item>
+		<item>60</item>
+		<item>100</item>
+		<item>90</item>
+		<item>35</item>
+		<item>80</item>
+		<item>40</item>
+		<item>100</item>
+		<item>70</item>
+		<item>85</item>
+		<item>80</item>
+		<item>120</item>
+		<item>--</item>
+		<item>200</item>
+		<item>80</item>
+		<item>70</item>
+		<item>120</item>
+		<item>60</item>
+		<item>40</item>
+		<item>60</item>
+		<item>75</item>
+		<item>60</item>
+		<item>130</item>
+		<item>140</item>
+		<item>60</item>
+		<item>85</item>
+		<item>80</item>
+		<item>70</item>
+		<item>--</item>
+		<item>65</item>
+		<item>90</item>
+		<item>95</item>
+		<item>50</item>
+		<item>70</item>
+		<item>30</item>
+		<item>55</item>
+		<item>50</item>
+		<item>120</item>
+		<item>--</item>
+		<item>100</item>
+		<item>65</item>
+		<item>20</item>
+		<item>--</item>
+		<item>65</item>
+		<item>70</item>
+		<item>65</item>
+		<item>100</item>
+		<item>20</item>
+		<item>60</item>
+		<item>80</item>
+		<item>50</item>
+		<item>50</item>
+		<item>80</item>
+		<item>80</item>
+		<item>--</item>
+		<item>120</item>
+		<item>90</item>
+		<item>60</item>
+		<item>120</item>
+		<item>50</item>
+		<item>25</item>
+		<item>90</item>
+		<item>120</item>
+		<item>60</item>
+		<item>120</item>
+		<item>110</item>
+		<item>65</item>
+		<item>75</item>
+		<item>40</item>
+		<item>90</item>
+		<item>80</item>
+		<item>10</item>
+		<item>--</item>
+		<item>25</item>
+		<item>40</item>
+		<item>70</item>
+		<item>90</item>
+		<item>180</item>
+		<item>40</item>
+		<item>65</item>
+		<item>55</item>
+		<item>45</item>
+		<item>70</item>
+		<item>70</item>
+		<item>120</item>
+		<item>70</item>
+		<item>40</item>
+		<item>80</item>
+		<item>60</item>
+		<item>15</item>
+		<item>150</item>
+		<item>80</item>
+		<item>50</item>
+		<item>35</item>
+		<item>90</item>
+		<item>60</item>
+		<item>120</item>
+		<item>15</item>
+		<item>--</item>
+		<item>80</item>
+		<item>120</item>
+		<item>80</item>
+    </string-array>
+    
+    <string-array name="damage_type">
+        <item>Grass</item>
+        
+        <item>Poison</item>
+
+		<item>Poison</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Rock</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Fighting</item>
+		
+		<item>Dark</item>
+		
+		<item>Ghost</item>
+		
+		<item>Bug</item>
+		
+		<item>Fighting</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Poison</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Ice</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Electric</item>
+		
+		<item>Ground</item>
+		
+		<item>Ground</item>
+		
+		<item>Ground</item>
+		
+		<item>Normal</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Fighting</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Bug</item>
+		
+		<item>Bug</item>
+		
+		<item>Ground</item>
+		
+		<item>Steel</item>
+		
+		<item>Grass</item>
+		
+		<item>Electric</item>
+		
+		<item>Flying</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Water</item>
+		
+		<item>Poison</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Psychic</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Water</item>
+		
+		<item>Fighting</item>
+		
+		<item>Poison</item>
+		
+		<item>Dark</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Fairy</item>
+		
+		<item>Ground</item>
+		
+		<item>Fairy</item>
+		
+		<item>Electric</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Steel</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Dragon</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fairy</item>
+		
+		<item>Psychic</item>
+		
+		<item>Flying</item>
+		
+		<item>Ground</item>
+		
+		<item>Dragon</item>
+		
+		<item>Fighting</item>
+		
+		<item>Ground</item>
+		
+		<item>Ground</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Psychic</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Fairy</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Bug</item>
+		
+		<item>Fire</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Steel</item>
+		
+		<item>Dark</item>
+		
+		<item>Flying</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Dark</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Grass</item>
+		
+		<item>Ice</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Normal</item>
+		
+		<item>Electric</item>
+		
+		<item>Fire</item>
+		
+		<item>Psychic</item>
+		
+		<item>Steel</item>
+		
+		<item>Grass</item>
+		
+		<item>Normal</item>
+		
+		<item>Ice</item>
+		
+		<item>Grass</item>
+		
+		<item>Grass</item>
+		
+		<item>Poison</item>
+		
+		<item>Flying</item>
+		
+		<item>Steel</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Rock</item>
+		
+		<item>Normal</item>
+		
+		<item>Psychic</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Steel</item>
+		
+		<item>Ghost</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Flying</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Ice</item>
+		
+		<item>Fire</item>
+		
+		<item>Fire</item>
+		
+		<item>Bug</item>
+		
+		<item>Steel</item>
+		
+		<item>Steel</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Dark</item>
+		
+		<item>Ground</item>
+		
+		<item>Normal</item>
+		
+		<item>Fire</item>
+		
+		<item>Grass</item>
+		
+		<item>Grass</item>
+		
+		<item>Grass</item>
+		
+		<item>Bug</item>
+		
+		<item>Ghost</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Psychic</item>
+		
+		<item>Fighting</item>
+		
+		<item>Grass</item>
+		
+		<item>Fire</item>
+		
+		<item>Steel</item>
+		
+		<item>Ground</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Steel</item>
+		
+		<item>Steel</item>
+		
+		<item>Steel</item>
+		
+		<item>Psychic</item>
+		
+		<item>Steel</item>
+		
+		<item>Psychic</item>
+		
+		<item>Fairy</item>
+		
+		<item>Ground</item>
+		
+		<item>Ground</item>
+		
+		<item>Ground</item>
+		
+		<item>Water</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Dark</item>
+		
+		<item>Ghost</item>
+		
+		<item>Dark</item>
+		
+		<item>Electric</item>
+		
+		<item>Flying</item>
+		
+		<item>Water</item>
+		
+		<item>Ghost</item>
+		
+		<item>Dragon</item>
+		
+		<item>Fire</item>
+		
+		<item>Electric</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Flying</item>
+		
+		<item>Grass</item>
+		
+		<item>Grass</item>
+		
+		<item>Ghost</item>
+		
+		<item>Bug</item>
+		
+		<item>Fairy</item>
+		
+		<item>Flying</item>
+		
+		<item>Poison</item>
+		
+		<item>Poison</item>
+		
+		<item>Poison</item>
+		
+		<item>Poison</item>
+		
+		<item>Normal</item>
+		
+		<item>Ice</item>
+		
+		<item>Rock</item>
+		
+		<item>Fighting</item>
+		
+		<item>Grass</item>
+		
+		<item>Normal</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psychic</item>
+		
+		<item>Dark</item>
+		
+		<item>Dark</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Fighting</item>
+		
+		<item>Dragon</item>
+		
+		<item>Rock</item>
+		
+		<item>Normal</item>
+		
+		<item>Rock</item>
+		
+		<item>Fighting</item>
+		
+		<item>Rock</item>
+		
+		<item>Rock</item>
+		
+		<item>Rock</item>
+		
+		<item>Fighting</item>
+		
+		<item>Rock</item>
+		
+		<item>Normal</item>
+		
+		<item>Fire</item>
+		
+		<item>Fighting</item>
+		
+		<item>Ground</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Fire</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Ghost</item>
+		
+		<item>Ghost</item>
+		
+		<item>Ghost</item>
+		
+		<item>Ghost</item>
+		
+		<item>Ghost</item>
+		
+		<item>Electric</item>
+		
+		<item>Bug</item>
+		
+		<item>Bug</item>
+		
+		<item>Normal</item>
+		
+		<item>Flying</item>
+		
+		<item>Flying</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Poison</item>
+		
+		<item>Poison</item>
+		
+		<item>Poison</item>
+		
+		<item>Rock</item>
+		
+		<item>Normal</item>
+		
+		<item>Poison</item>
+		
+		<item>Dark</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Normal</item>
+		
+		<item>Dragon</item>
+		
+		<item>Electric</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Steel</item>
+		
+		<item>Normal</item>
+		
+		<item>Rock</item>
+		
+		<item>Psychic</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Fighting</item>
+		
+		<item>Dark</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Psychic</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Dark</item>
+		
+		<item>Normal</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Normal</item>
+		
+		<item>Fighting</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Dragon</item>
+		
+		<item>Bug</item>
+		
+		<item>Normal</item>
+		
+		<item>Fire</item>
+		
+		<item>Fighting</item>
+		
+		<item>Poison</item>
+		
+		<item>Normal</item>
+		
+		<item>Grass</item>
+		
+		<item>Fighting</item>
+		
+		<item>Electric</item>
+		
+		<item>Electric</item>
+		
+		<item>Fighting</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Water</item>
+		
+		<item>Normal</item>
+		
+		<item>Water</item>
+		
+		<item>Electric</item>
+		
+		<item>Flying</item>
+		
+		<item>Grass</item>
+		
+		<item>Normal</item>
+		
+		<item>Normal</item>
+		
+		<item>Bug</item>
+		
+		<item>Electric</item>
+		
+		<item>Psychic</item>
+    </string-array>
+    
+    <string-array name="damage_moves">
+        <item>Absorb</item>
+
+		<item>Acid</item>
+		
+		<item>Acid Spray</item>
+		
+		<item>Acrobatics</item>
+		
+		<item>Aerial Ace</item>
+		
+		<item>Aeroblast</item>
+		
+		<item>Air Cutter</item>
+		
+		<item>Air Slash</item>
+		
+		<item>Ancient Power</item>
+		
+		<item>Aqua Jet</item>
+		
+		<item>Aqua Tail</item>
+		
+		<item>Arm Thrust</item>
+		
+		<item>Assurance</item>
+		
+		<item>Astonish</item>
+		
+		<item>Attack Order</item>
+		
+		<item>Aura Sphere</item>
+		
+		<item>Aurora Beam</item>
+		
+		<item>Avalanche</item>
+		
+		<item>Barrage</item>
+		
+		<item>Beat Up</item>
+		
+		<item>Belch</item>
+		
+		<item>Bide</item>
+		
+		<item>Bind</item>
+		
+		<item>Bite</item>
+		
+		<item>Blast Burn</item>
+		
+		<item>Blaze Kick</item>
+		
+		<item>Blizzard</item>
+		
+		<item>Blue Flare</item>
+		
+		<item>Body Slam</item>
+		
+		<item>Bolt Strike</item>
+		
+		<item>Bone Club</item>
+		
+		<item>Bone Rush</item>
+		
+		<item>Bonemerang</item>
+		
+		<item>Boomburst</item>
+		
+		<item>Bounce</item>
+		
+		<item>Brave Bird</item>
+		
+		<item>Brick Break</item>
+		
+		<item>Brine</item>
+		
+		<item>Bubble</item>
+		
+		<item>Bubble Beam</item>
+		
+		<item>Bug Bite</item>
+		
+		<item>Bug Buzz</item>
+		
+		<item>Bulldoze</item>
+		
+		<item>Bullet Punch</item>
+		
+		<item>Bullet Seed</item>
+		
+		<item>Charge Beam</item>
+		
+		<item>Chatter</item>
+		
+		<item>Chip Away</item>
+		
+		<item>Circle Throw</item>
+		
+		<item>Clamp</item>
+		
+		<item>Clear Smog</item>
+		
+		<item>Close Combat</item>
+		
+		<item>Comet Punch</item>
+		
+		<item>Confusion</item>
+		
+		<item>Constrict</item>
+		
+		<item>Counter</item>
+		
+		<item>Covet</item>
+		
+		<item>Crabhammer</item>
+		
+		<item>Cross Chop</item>
+		
+		<item>Cross Poison</item>
+		
+		<item>Crunch</item>
+		
+		<item>Crush Claw</item>
+		
+		<item>Crush Grip</item>
+		
+		<item>Cut</item>
+		
+		<item>Dark Pulse</item>
+		
+		<item>Dazzling Gleam</item>
+		
+		<item>Dig</item>
+		
+		<item>Disarming Voice</item>
+		
+		<item>Discharge</item>
+		
+		<item>Dive</item>
+		
+		<item>Dizzy Punch</item>
+		
+		<item>Doom Desire</item>
+		
+		<item>Double Hit</item>
+		
+		<item>Double Kick</item>
+		
+		<item>Double-Edge</item>
+		
+		<item>Double Slap</item>
+		
+		<item>Draco Meteor</item>
+		
+		<item>Dragon Claw</item>
+		
+		<item>Dragon Pulse</item>
+		
+		<item>Dragon Rage</item>
+		
+		<item>Dragon Rush</item>
+		
+		<item>Dragon Tail</item>
+		
+		<item>Dragon Breath</item>
+		
+		<item>Drain Punch</item>
+		
+		<item>Draining Kiss</item>
+		
+		<item>Dream Eater</item>
+		
+		<item>Drill Peck</item>
+		
+		<item>Drill Run</item>
+		
+		<item>Dual Chop</item>
+		
+		<item>Dynamic Punch</item>
+		
+		<item>Earth Power</item>
+		
+		<item>Earthquake</item>
+		
+		<item>Echoed Voice</item>
+		
+		<item>Egg Bomb</item>
+		
+		<item>Electro Ball</item>
+		
+		<item>Electroweb</item>
+		
+		<item>Ember</item>
+		
+		<item>Endeavor</item>
+		
+		<item>Energy Ball</item>
+		
+		<item>Eruption</item>
+		
+		<item>Explosion</item>
+		
+		<item>Extrasensory</item>
+		
+		<item>Extreme Speed</item>
+		
+		<item>Facade</item>
+		
+		<item>Fairy Wind</item>
+		
+		<item>Fake Out</item>
+		
+		<item>False Swipe</item>
+		
+		<item>Feint</item>
+		
+		<item>Feint Attack</item>
+		
+		<item>Fell Stinger</item>
+		
+		<item>Fiery Dance</item>
+		
+		<item>Final Gambit</item>
+		
+		<item>Fire Blast</item>
+		
+		<item>Fire Fang</item>
+		
+		<item>Fire Pledge</item>
+		
+		<item>Fire Punch</item>
+		
+		<item>Fire Spin</item>
+		
+		<item>Flail</item>
+		
+		<item>Flame Burst</item>
+		
+		<item>Flame Charge</item>
+		
+		<item>Flame Wheel</item>
+		
+		<item>Flamethrower</item>
+		
+		<item>Flare Blitz</item>
+		
+		<item>Flash Cannon</item>
+		
+		<item>Fling</item>
+		
+		<item>Fly</item>
+		
+		<item>Flying Press</item>
+		
+		<item>Focus Blast</item>
+		
+		<item>Focus Punch</item>
+		
+		<item>Force Palm</item>
+		
+		<item>Foul Play</item>
+		
+		<item>Freeze-Dry</item>
+		
+		<item>Freeze Shock</item>
+		
+		<item>Frenzy Plant</item>
+		
+		<item>Frost Breath</item>
+		
+		<item>Frustration</item>
+		
+		<item>Fury Attack</item>
+		
+		<item>Fury Cutter</item>
+		
+		<item>Fury Swipes</item>
+		
+		<item>Fusion Bolt</item>
+		
+		<item>Fusion Flare</item>
+		
+		<item>Future Sight</item>
+		
+		<item>Gear Grind</item>
+		
+		<item>Giga Drain</item>
+		
+		<item>Giga Impact</item>
+		
+		<item>Glaciate</item>
+		
+		<item>Grass Knot</item>
+		
+		<item>Grass Pledge</item>
+		
+		<item>Gunk Shot</item>
+		
+		<item>Gust</item>
+		
+		<item>Gyro Ball</item>
+		
+		<item>Hammer Arm</item>
+		
+		<item>Head Charge</item>
+		
+		<item>Head Smash</item>
+		
+		<item>Headbutt</item>
+		
+		<item>Heart Stamp</item>
+		
+		<item>Heat Crash</item>
+		
+		<item>Heat Wave</item>
+		
+		<item>Heavy Slam</item>
+		
+		<item>Hex</item>
+		
+		<item>High Jump Kick</item>
+		
+		<item>Hidden Power</item>
+		
+		<item>Hold Back</item>
+		
+		<item>Horn Attack</item>
+		
+		<item>Horn Leech</item>
+		
+		<item>Hurricane</item>
+		
+		<item>Hydro Cannon</item>
+		
+		<item>Hydro Pump</item>
+		
+		<item>Hyper Beam</item>
+		
+		<item>Hyper Fang</item>
+		
+		<item>Hyper Voice</item>
+		
+		<item>Ice Ball</item>
+		
+		<item>Ice Beam</item>
+		
+		<item>Ice Burn</item>
+		
+		<item>Ice Fang</item>
+		
+		<item>Ice Punch</item>
+		
+		<item>Ice Shard</item>
+		
+		<item>Icicle Crash</item>
+		
+		<item>Icicle Spear</item>
+		
+		<item>Icy Wind</item>
+		
+		<item>Incinerate</item>
+		
+		<item>Inferno</item>
+		
+		<item>Infestation</item>
+		
+		<item>Iron Head</item>
+		
+		<item>Iron Tail</item>
+		
+		<item>Judgment</item>
+		
+		<item>Jump Kick</item>
+		
+		<item>Karate Chop</item>
+		
+		<item>Knock Off</item>
+		
+		<item>Land\'s Wrath</item>
+		
+		<item>Last Resort</item>
+		
+		<item>Lava Plume</item>
+		
+		<item>Leaf Blade</item>
+		
+		<item>Leaf Storm</item>
+		
+		<item>Leaf Tornado</item>
+		
+		<item>Leech Life</item>
+		
+		<item>Lick</item>
+		
+		<item>Low Kick</item>
+		
+		<item>Low Sweep</item>
+		
+		<item>Luster Purge</item>
+		
+		<item>Mach Punch</item>
+		
+		<item>Magical Leaf</item>
+		
+		<item>Magma Storm</item>
+		
+		<item>Magnet Bomb</item>
+		
+		<item>Magnitude</item>
+		
+		<item>Me First</item>
+		
+		<item>Mega Drain</item>
+		
+		<item>Mega Kick</item>
+		
+		<item>Mega Punch</item>
+		
+		<item>Megahorn</item>
+		
+		<item>Metal Burst</item>
+		
+		<item>Metal Claw</item>
+		
+		<item>Meteor Mash</item>
+		
+		<item>Mirror Coat</item>
+		
+		<item>Mirror Shot</item>
+		
+		<item>Mist Ball</item>
+		
+		<item>Moonblast</item>
+		
+		<item>Mud Bomb</item>
+		
+		<item>Mud Shot</item>
+		
+		<item>Mud-Slap</item>
+		
+		<item>Muddy Water</item>
+		
+		<item>Mystical Fire</item>
+		
+		<item>Natural Gift</item>
+		
+		<item>Nature Power</item>
+		
+		<item>Needle Arm</item>
+		
+		<item>Night Daze</item>
+		
+		<item>Night Shade</item>
+		
+		<item>Night Slash</item>
+		
+		<item>Nuzzle</item>
+		
+		<item>Oblivion Wing</item>
+		
+		<item>Octazooka</item>
+		
+		<item>Ominous Wind</item>
+		
+		<item>Outrage</item>
+		
+		<item>Overheat</item>
+		
+		<item>Parabolic Charge</item>
+		
+		<item>Pay Day</item>
+		
+		<item>Payback</item>
+		
+		<item>Peck</item>
+		
+		<item>Petal Blizzard</item>
+		
+		<item>Petal Dance</item>
+		
+		<item>Phantom Force</item>
+		
+		<item>Pin Missile</item>
+		
+		<item>Play Rough</item>
+		
+		<item>Pluck</item>
+		
+		<item>Poison Fang</item>
+		
+		<item>Poison Jab</item>
+		
+		<item>Poison Sting</item>
+		
+		<item>Poison Tail</item>
+		
+		<item>Pound</item>
+		
+		<item>Powder Snow</item>
+		
+		<item>Power Gem</item>
+		
+		<item>Power-Up Punch</item>
+		
+		<item>Power Whip</item>
+		
+		<item>Present</item>
+		
+		<item>Psybeam</item>
+		
+		<item>Psychic</item>
+		
+		<item>Psycho Boost</item>
+		
+		<item>Psycho Cut</item>
+		
+		<item>Psyshock</item>
+		
+		<item>Psystrike</item>
+		
+		<item>Psywave</item>
+		
+		<item>Punishment</item>
+		
+		<item>Pursuit</item>
+		
+		<item>Quick Attack</item>
+		
+		<item>Rage</item>
+		
+		<item>Rapid Spin</item>
+		
+		<item>Razor Leaf</item>
+		
+		<item>Razor Shell</item>
+		
+		<item>Razor Wind</item>
+		
+		<item>Relic Song</item>
+		
+		<item>Retaliate</item>
+		
+		<item>Return</item>
+		
+		<item>Revenge</item>
+		
+		<item>Reversal</item>
+		
+		<item>Roar of Time</item>
+		
+		<item>Rock Blast</item>
+		
+		<item>Rock Climb</item>
+		
+		<item>Rock Slide</item>
+		
+		<item>Rock Smash</item>
+		
+		<item>Rock Throw</item>
+		
+		<item>Rock Tomb</item>
+		
+		<item>Rock Wrecker</item>
+		
+		<item>Rolling Kick</item>
+		
+		<item>Rollout</item>
+		
+		<item>Round</item>
+		
+		<item>Sacred Fire</item>
+		
+		<item>Sacred Sword</item>
+		
+		<item>Sand Tomb</item>
+		
+		<item>Scald</item>
+		
+		<item>Scratch</item>
+		
+		<item>Searing Shot</item>
+		
+		<item>Secret Power</item>
+		
+		<item>Secret Sword</item>
+		
+		<item>Seed Bomb</item>
+		
+		<item>Seed Flare</item>
+		
+		<item>Seismic Toss</item>
+		
+		<item>Self-Destruct</item>
+		
+		<item>Shadow Ball</item>
+		
+		<item>Shadow Claw</item>
+		
+		<item>Shadow Force</item>
+		
+		<item>Shadow Punch</item>
+		
+		<item>Shadow Sneak</item>
+		
+		<item>Shock Wave</item>
+		
+		<item>Signal Beam</item>
+		
+		<item>Silver Wind</item>
+		
+		<item>Skull Bash</item>
+		
+		<item>Sky Attack</item>
+		
+		<item>Sky Drop</item>
+		
+		<item>Sky Uppercut</item>
+		
+		<item>Slam</item>
+		
+		<item>Slash</item>
+		
+		<item>Sleep Talk</item>
+		
+		<item>Sludge</item>
+		
+		<item>Sludge Bomb</item>
+		
+		<item>Sludge Wave</item>
+		
+		<item>Smack Down</item>
+		
+		<item>Smelling Salts</item>
+		
+		<item>Smog</item>
+		
+		<item>Snarl</item>
+		
+		<item>Snore</item>
+		
+		<item>Solar Beam</item>
+		
+		<item>Sonic Boom</item>
+		
+		<item>Spacial Rend</item>
+		
+		<item>Spark</item>
+		
+		<item>Spike Cannon</item>
+		
+		<item>Spit Up</item>
+		
+		<item>Steamroller</item>
+		
+		<item>Steel Wing</item>
+		
+		<item>Stomp</item>
+		
+		<item>Stone Edge</item>
+		
+		<item>Stored Power</item>
+		
+		<item>Storm Throw</item>
+		
+		<item>Strength</item>
+		
+		<item>Struggle</item>
+		
+		<item>Struggle Bug</item>
+		
+		<item>Submission</item>
+		
+		<item>Sucker Punch</item>
+		
+		<item>Super Fang</item>
+		
+		<item>Superpower</item>
+		
+		<item>Surf</item>
+		
+		<item>Swift</item>
+		
+		<item>Synchronoise</item>
+		
+		<item>Tackle</item>
+		
+		<item>Tail Slap</item>
+		
+		<item>Take Down</item>
+		
+		<item>Techno Blast</item>
+		
+		<item>Thief</item>
+		
+		<item>Thrash</item>
+		
+		<item>Thunder</item>
+		
+		<item>Thunder Fang</item>
+		
+		<item>Thunder Punch</item>
+		
+		<item>Thunder Shock</item>
+		
+		<item>Thunderbolt</item>
+		
+		<item>Tri Attack</item>
+		
+		<item>Triple Kick</item>
+		
+		<item>Trump Card</item>
+		
+		<item>Twineedle</item>
+		
+		<item>Twister</item>
+		
+		<item>U-turn</item>
+		
+		<item>Uproar</item>
+		
+		<item>V-create</item>
+		
+		<item>Vacuum Wave</item>
+		
+		<item>Venoshock</item>
+		
+		<item>Vice Grip</item>
+		
+		<item>Vine Whip</item>
+		
+		<item>Vital Throw</item>
+		
+		<item>Volt Switch</item>
+		
+		<item>Volt Tackle</item>
+		
+		<item>Wake-Up Slap</item>
+		
+		<item>Water Gun</item>
+		
+		<item>Water Pledge</item>
+		
+		<item>Water Pulse</item>
+		
+		<item>Water Shuriken</item>
+		
+		<item>Water Spout</item>
+		
+		<item>Waterfall</item>
+		
+		<item>Weather Ball</item>
+		
+		<item>Whirlpool</item>
+		
+		<item>Wild Charge</item>
+		
+		<item>Wing Attack</item>
+		
+		<item>Wood Hammer</item>
+		
+		<item>Wrap</item>
+		
+		<item>Wring Out</item>
+		
+		<item>X-Scissor</item>
+		
+		<item>Zap Cannon</item>
+		
+		<item>Zen Headbutt</item>
+        
+    </string-array>
+    
+    
+    <string-array name = "damage_accuracy">
+        <item>100%</item>
+
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>95%</item>
+		
+		<item>95%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>--</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>70%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>85%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>85%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>75%</item>
+		
+		<item>90</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>90%</item>
+		
+		<item>50%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>75%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>95%</item>
+		
+		<item>70%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>95%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>70%</item>
+		
+		<item>90%</item>
+		
+		<item>80%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>50%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>75%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>75%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>75%</item>
+		
+		<item>85%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>90%</item>
+		
+		<item>85%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>95%</item>
+		
+		<item>90%</item>
+		
+		<item>85%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>75%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>70%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>80%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>70%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>--</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>95%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>85%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>90%</item>
+		
+		<item>100%</item>
+		
+		<item>100%</item>
+		
+		<item>50%</item>
+		
+		<item>90%</item>
+    </string-array>
+</resources>

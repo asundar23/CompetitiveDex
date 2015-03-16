@@ -1,0 +1,24 @@
+{
+	"name": "Heat Crash",
+	"note": "",
+	"type":" Fire ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage. Power is dependent on how much heavier the user is than the target. It can be 40 base power (target's weight is greater than 1/2 of the user's weight), 60 (1/3 < target's weight <= 1/2), 80 (1/4 < target's weight <= 1/3), 100 (1/5 < target's weight <= 1/4), or 120 (target's weight <= 1/5).",
+	"viability": "Heat Crash is decent because of Emboar's weight. The problem is that at most you'll be doing is 120, the same base power for Flare Blitz. With Reckless, however, Flare Blitz is ultimately more powerful for Emboar.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

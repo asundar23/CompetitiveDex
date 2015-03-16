@@ -1,0 +1,449 @@
+{ 
+	 "name": "West-Sea Shellos",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Amorphous "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"West-Sea Shellos" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"West-Sea Gastrodon" }
+   	],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"stats": [
+		76,
+		48,
+		48,
+		57,
+		62,
+		34
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 2,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 4,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 11,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 16,
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 29,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Muddy Water",
+			"type": " Water "
+		},
+		{
+			"level": 46,
+			"move": "Recover",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Armor",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Muk"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Amnesia",
+			"pokemon": [
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Frillish"},
+				{"pokemonName": "JellIcent"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Clear Smog",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Wobbuffet"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Fissure",
+			"pokemon": [
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Memento",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mirror Coat",
+			"pokemon": [
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Mist",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Sludge",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Spit Up",
+			"pokemon": [
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Trump Card",
+			"pokemon": [
+				{"pokemonName": "Slowking"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Chimecho"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Earth Power",
+		"Icy Wind",
+		"Pain Split",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Routes (205, 218, and 221), Fuego Ironworks, Valley Windworks (tall grass; West Sea), Route 205 (Surfing; West Sea)"},
+		{"Location": "Routes (205, 218, and 221), Fuego Ironworks, Valley Windworks (tall grass; West Sea), Route 205 (Surfing; West Sea)"},
+		{"Location": "Routes 205 and 218, Valley Windworks (tall grass; West Sea), Routes 205 and 218, Canalave City, Valley Windworks, Fuego Ironworks (Surfing; West Sea)"},
+		{"Location": "Transfer from Pokéwalker"},
+		{"Location": "Transfer from Pokéwalker"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade with Curtis or Yancy in Nimbasa City"},
+		{"Location": "Trade with Curtis or Yancy in Nimbasa City"},
+		{"Location": "Breed West Sea Gastrodon"},
+		{"Location": "Breed West Sea Gastrodon"}
+	],
+	"abilities": [
+		"Sticky Hold",
+		"Storm Drain",
+		"Sand Force"
+	],
+	"sets": [
+	]
+}

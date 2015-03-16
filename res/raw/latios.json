@@ -1,0 +1,509 @@
+{ 
+	 "name": "Latios",
+	"types": [
+		" Psychic ",
+		" Dragon "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Memento",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Psywave",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 10,
+			"move": "Stored Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 13,
+			"move": "Refresh",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 24,
+			"move": "Luster Purge",
+			"type": " Psychic "
+		},
+		{
+			"level": 28,
+			"move": "Psycho Shift",
+			"type": " Psychic "
+		},
+		{
+			"level": 32,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Telekinesis",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 46,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 51,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 56,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 61,
+			"move": "Memento",
+			"type": " Dark "
+		}
+	],
+	"stats": [
+		80,
+		90,
+		80,
+		130,
+		110,
+		110
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Psywave",
+			"type": " Psychic "
+		},
+		{
+			"level": 5,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 10,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 25,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Refresh",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Luster Purge",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Psycho Shift",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 60,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 65,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 70,
+			"move": "Telekinesis",
+			"type": " Psychic "
+		},
+		{
+			"level": 75,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 80,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 85,
+			"move": "Memento",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Helping Hand",
+		"Icy Wind",
+		"Last Resort",
+		"Magic Coat",
+		"Outrage",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Trick",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Pewter City (requires Enigma Stone)"},
+		{"Location": "Roaming Kanto"},
+		{"Location": "Field"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Dreamyard"},
+		{"Location": "Trade"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

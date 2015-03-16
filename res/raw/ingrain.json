@@ -1,0 +1,49 @@
+{
+	"name": "Ingrain",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user restores 1/16 of its maximum HP at the end of each turn. Big Root increases this by 30%. The Pokemon cannot be switched out afterwards.",
+	"viability": "Since Ingrain can be Baton Passed, it makes for some very good recovery use. The only problem is that the user can't switch out if something goes awry.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Sunflora" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Cacturne" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Cradile" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Amoonguss" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Phantump" },
+		{ "pokemonName": "Trevenant" },
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Petilil" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

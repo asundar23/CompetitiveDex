@@ -1,0 +1,31 @@
+{
+	"name":"Battle Armor",
+	"summary": "Prevents the opponent from landing a critical hit.",
+	"viability": "Critical hits are annoying; they are purely based off luck and can turn a sure win into a horrible loss. That being said, Battle Armor simply isn't a good ability, by virtue of Pokémon having access to better ones. Marowak has Rock Head, Kabutops has Swift Swim, Armaldo has Swift Swim, and Drapion has Sniper. Plus, critical hits usually have a 1/16 chance; it's not that high a chance, so itssimply not worth eliminating those.",
+	"pokemon":[
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "kabutops"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Minimize",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's evasion by two stages. Stomp, Steamroller, Body Slam, Dragon Rush, Flying Press, and Phantom Force will never miss and their base power is doubled if the target uses this move.",
+	"viability": "If you and your opponent have agreed on evasion being legal, by all means run it. Many formats such as Smogon don't allow it, though, so you'll need to see which environment is best to use Minimize.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Clefable" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Muk" },
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Staryu" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Blissey" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

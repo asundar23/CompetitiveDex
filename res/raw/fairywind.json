@@ -1,0 +1,63 @@
+{
+	"name": "Fairy Wind",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Special",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage.",
+	"viability": "Dazzling Gleam and Moonblast are far better. There's no reason to use Fairy Wind.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Flabébé"
+		},
+		{
+			"pokemonName": "Floette"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Sylveon"
+		},
+		{
+			"pokemonName": "Klefki"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

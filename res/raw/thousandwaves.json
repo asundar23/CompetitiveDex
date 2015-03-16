@@ -1,0 +1,21 @@
+{
+	"name": "Thousand Waves",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage and prevents foes from fleeing or switching out as long as the user remains in battle.",
+	"viability": "Thousand Waves is an extremely good version of Infestation and Fire Spin. For that, alone, it should be used.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

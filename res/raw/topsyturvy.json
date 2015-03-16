@@ -1,0 +1,23 @@
+{
+	"name": "Topsy-Turvy",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Reverses all stat changes on the target Pokemon.",
+	"viability": "Topsy-Turvy is really gimmicky but yield interesting results. You can potentially completely screw up a sweeper's potential but reversing their boosts. The challenge is living whatever attack they throw at you, though.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Inkay" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "Mirror Move",
+	"note": "",
+	"type":" Flying ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Uses the last move targeted at the user by the opponent.",
+	"viability": "Copying a Pokemon's last move like that takes an awful lot of prediction. Without any priority, or without any boost, it makes this move not as good as something like Me First.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pidgey" },
+		{ "pokemonName": "Pidgeotto" },
+		{ "pokemonName": "Pidgeot" },
+		{ "pokemonName": "Spearow" },
+		{ "pokemonName": "Fearow" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Combusken" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Sigilyph" },
+		{ "pokemonName": "Vullaby" },
+		{ "pokemonName": "Mandibuzz" },
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Doduo" },
+		{ "pokemonName": "Hoothoot" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Taillow" },
+		{ "pokemonName": "Starly" },
+		{ "pokemonName": "Ducklett" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

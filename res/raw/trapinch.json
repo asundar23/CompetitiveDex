@@ -1,0 +1,523 @@
+{
+	"name":"Trapinch",
+	"types": [
+		"Ground"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 8,
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"level": 12,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 15,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 19,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 22,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 29,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 36,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 40,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 43,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Trapinch" },
+   		{ "pokemonName":"Vibrava" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vibrava" },
+   		{ "pokemonName":"Flygon" }
+   	],
+   "evolutionType":[
+   		"Level 35",
+   		"Level 45"
+   ],
+	"abilities": [
+		"Hyper Cutter",
+		"Arena Trap",
+		"Sheer Force"
+	],
+	"locations": [
+		{"Location": "Route 228 (Poké Radar)"},
+		{"Location": "Route 228 (Poké Radar)"},
+		{"Location": "Trade"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Mountain"},
+		{"Location": "Trade"},
+		{"Location": "White Forest"},
+		{"Location": "Desert Resort, Reversal Mountain"},
+		{"Location": "Desert Resort, Reversal Mountain"},
+		{"Location": "Route 13, Friend Safari (Ground)"},
+		{"Location": "Route 13, Friend Safari (Ground)"}
+	],
+	"stats": [
+		45,
+		100,
+		45,
+		45,
+		45,
+		10
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Fissure",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 4,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 7,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 10,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 13,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 17,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 29,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 34,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 39,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 44,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 49,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 61,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 67,
+			"move": "Superpower",
+			"type": " Fighting "
+		},
+		{
+			"level": 73,
+			"move": "Fissure",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bug Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy-Plant"},
+				{"pokemonName": "Burmy-Sandy"},
+				{"pokemonName": "Burmy-Trash"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Pinsir"},
+				{"pokemonName": "Kricketune"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Fury Cutter",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"}
+			],
+			"type": " Bug "
+		},
+		{
+			"move": "Gust",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Vivillon"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Surskit"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Quick Attack",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Accelgor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Signal Beam",
+			"pokemon": [
+				{"pokemonName": "Venonat"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Bug "
+		}
+	],	"tutorMoveList": [
+		"Bug Bite",
+		"Earth Power",
+		"Giga Drain",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Superpower"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "Synchronoise",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Damages all adjavent Pokemon with the same type as the user. Considers both types if the user is dual-typed.",
+	"viability": "Synchronoise is horrible because of the fact that it only works if the target is the same type as you. That on it's own is nearly impossible to figure out. Never use it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Hypno" },
+		{ "pokemonName": "Hoothoot" },
+		{ "pokemonName": "Noctowl" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Loudred" },
+		{ "pokemonName": "Exploud" },
+		{ "pokemonName": "Kecleon" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Sigilyph" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Eevee" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Woobat" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

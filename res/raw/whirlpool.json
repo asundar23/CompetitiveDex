@@ -1,0 +1,45 @@
+{
+	"name": "Whirlpool",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "15",
+	"power": "35",
+	"accuracy": "85",
+	"summary": "Deals damage, and traps the target for 4-5 turns. It deals damage at the end of each turn by 1/8 their max HP (1/6 with Binding Band). The target cannot switch out during this time unless using Rapid Spin.",
+	"viability": "For Perish Trap versions of Lapras, Whirlpool is a must. Otherwise, it has the same problems as Fire Spin and Sand Tomb, where its power can be suspect.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Wailord" },
+		{ "pokemonName": "Clamperl" },
+		{ "pokemonName": "Huntail" },
+		{ "pokemonName": "Gorebyss" },
+		{ "pokemonName": "Piplup" },
+		{ "pokemonName": "Prinplup" },
+		{ "pokemonName": "Empoleon" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Floatzel" },
+		{ "pokemonName": "Finneon" },
+		{ "pokemonName": "Lumineon" },
+		{ "pokemonName": "Phione" },
+		{ "pokemonName": "Manaphy" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Chinchou" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Red-Striped Basculin" },
+		{ "pokemonName": "Blue-Striped Basculin" },
+		{ "pokemonName": "Tirtouga" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

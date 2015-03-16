@@ -1,0 +1,395 @@
+{
+	"name":"Vullaby",
+	"types": [
+		" Dark ",
+		" Flying "
+	],
+	"eggGroup": [
+		"Flying"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Vullaby" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Mandibuzz" }
+   	],
+   "evolutionType":[
+   		"Level 54"
+   ],
+	"abilities": [
+		"Big Pecks",
+		"Overcoat",
+		"Weak Armor"
+	],
+	"locations": [
+		{"Location": "Routes 10 and 11, Victory Road, Village Bridge"},
+		{"Location": "Trade"},
+		{"Location": "Route 23"},
+		{"Location": "Trade"},
+		{"Location": "Friend Safari (Dark)"},
+		{"Location": "Friend Safari (Dark)"}
+	],
+	"stats": [
+		70,
+		55,
+		75,
+		45,
+		65,
+		60
+	],
+	"moveList": [
+		
+		{
+			"level": 1,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 14,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 19,
+			"move": "Flatter",
+			"type": " Dark "
+		},
+		{
+			"level": 23,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 28,
+			"move": "Punishment",
+			"type": " Dark "
+		},
+		{
+			"level": 32,
+			"move": "Defog",
+			"type": " Flying "
+		},
+		{
+			"level": 37,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 41,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 46,
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"level": 50,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 55,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 59,
+			"move": "Brave Bird",
+			"type": " Flying "
+		},
+		{
+			"level": 64,
+			"move": "Mirror Move",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Woobat"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Foul Play",
+			"pokemon": [
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Fatfetch'd"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Mean Look",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Roost",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Female Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Steel Wing",
+			"pokemon": [
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Steel "
+		}
+	],
+	"tutorMoveList": [
+		"Block",
+		"Dark Pulse",
+		"Foul Play",
+		"Heat Wave",
+		"Iron Defense",
+		"Knock Off",
+		"Roost",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Tailwind"
+	],
+	"sets": [
+	]
+}

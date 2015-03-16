@@ -1,0 +1,258 @@
+{ 
+	 "name": "Shaymin-Sky",
+	"types": [
+		" Grass ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		100,
+		103,
+		75,
+		120,
+		75,
+		127
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Growth",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Magical Leaf",
+			"type": " Grass "
+		},
+		{
+			"level": 19,
+			"move": "Leech Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 28,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Worry Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 64,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 73,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 82,
+			"move": "Sweet Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 91,
+			"move": "Leaf Storm",
+			"type": " Grass "
+		},
+		{
+			"level": 100,
+			"move": "Seed Flare",
+			"type": " Grass "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Earth Power",
+		"Endeavor",
+		"Giga Drain",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Synthesis",
+		"Worry Seed",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Gracidea Flower can be obtained during player's trip to Floaroma Town. Must have Shaymin in party."},
+		{"Location": "Gracidea Flower can be obtained in Goldenrod City. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Goldenrod City. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Lacuna Town's Pokémon Center. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Lacuna Town's Pokémon Center. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Striaton City's Pokémon Center. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Straiton City's Pokémon Center. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Snowbelle City's Pokémon Center. Must have Shaymin in party"},
+		{"Location": "Gracidea Flower can be obtained in Snowbelle City's Pokémon Center. Must have Shaymin in party"}
+	],
+	"abilities": [
+		"Serene Grace"
+	],
+	"sets": [
+	]
+}

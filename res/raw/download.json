@@ -1,0 +1,21 @@
+{
+	"name":"Download",
+	"summary": "Raises the user's Attack by one stage stat if the opponent has a lower Defense than Special Defense, and Special Attack by a stage if the opponent has a lower Special Defense than Defense. The Defense and Special Defense stats of the opponents are dependent on EV spreads and possible boosts. If the Defense and Special Defense are equal, the user will get a Special Attack increase.",
+	"viability": "Porygon-Z and Genesect are Pokémon that benefit greatly from Download, especially the latter. Genesect is known for running deadly mixed sets, so no matter what you're going to benefit. Porygon-Z, on the other hand, is more of a Special Attacker, and takes some wise switching; however, if you are able to get that Special Attack boost, this turns Porygon-Z into an instant threat.
+	
+	For the Porygon line, the choice is between that and Adaptability. Both work for different situations; Adaptability is better for a Scarf set with Tri Attack, while Download is better for a Life Orb set.",
+	"pokemon":[
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Genesect"
+		}
+	]
+}

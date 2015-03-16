@@ -1,0 +1,32 @@
+{
+	"name": "Wood Hammer",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user receives a recoil of 1/3 of the damage dealt.",
+	"viability": "Wood Hammer is very powerful, but the recoil can be harmful. It's the Grass-equivalent of Flare Blitz, and for that it is very good. Just be careful when running this. Have a recovery move on hand.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Exeggutor" },
+		{ "pokemonName": "Sudowoodo" },
+		{ "pokemonName": "Torterra" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Chespin" },
+		{ "pokemonName": "Quilladin" },
+		{ "pokemonName": "Chesnaught" },
+		{ "pokemonName": "Phantump" },
+		{ "pokemonName": "Trevenant" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Maractus" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

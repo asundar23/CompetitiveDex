@@ -1,0 +1,621 @@
+{ 
+	 "name": "Teddiursa",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Teddiursa" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Ursaring" }
+   ],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"stats": [
+		60,
+		80,
+		50,
+		50,
+		50,
+		40
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Covet",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Baby-Doll Eyes",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 8,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 43,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Snore",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 57,
+			"move": "Fling",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Belly Drum",
+			"pokemon": [
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Chesnaught"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Chip Away",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Close Combat",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Cross Chop",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutlant"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Simisage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Simipour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Play Rough",
+			"pokemon": [
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Seismic Toss",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Poochena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList":[
+		"Covet",
+		"Fire Punch",
+		"Gunk Shot",
+		"Hyper Voice",
+		"Ice Punch",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Superpower",
+		"Thunder Punch"
+	],
+	"locations": [
+		{ "Location": "Route 211, Acuity Lakefront (Emerald)"},
+		{ "Location": "Route 211, Acuity Lakefront (Emerald)"},
+		{ "Location": "Lake Acuity (Emerald)"},
+		{ "Location": "Trade"},
+		{ "Location": "Route 45, Mt. Silver"},
+		{ "Location": "Forest"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade with Yancy in Nimbasa City (male player character only)"},
+		{ "Location": "Trade with Yancy in Nimbasa City (male player character only)"},
+		{ "Location": "Friend Safari (Normal)"},
+		{ "Location": "Friend Safari (Normal)"}
+
+	],
+	"abilities": [
+		"Pickup",
+		"Quick Feet",
+		"Honey Gather"
+	],
+	"sets": [
+	]
+}

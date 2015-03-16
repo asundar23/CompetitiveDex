@@ -1,0 +1,24 @@
+{
+	"name": "Crafty Shield",
+	"note": "",
+	"type": " Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects all Pokémon on the user's side of the field from status moves. Does not protect against damaging moves, but can be used consecutively without failing. Does not block Perish Song, and Feint, Shadow Force, and Phantom Force lift the effect of Crafty Shield. This move has a priority of +3.",
+	"viability": "In Doubles and Triples, this can be one of the best support moves. Preventing that burn on your physical sweeper or that poison on your specially defensive wall can make all the difference. While damaging moves aren't blocked, the fact that you can prevent status to your team is extremely valuable.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Klefki"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,299 @@
+{ 
+	 "name": "Fletchling",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Fletchling" },
+   		{ "pokemonName":"Fletchinder" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Fletchinder" },
+   		{ "pokemonName":"Talonflame" }
+   	],
+   "evolutionType":[
+   		"Level 17",
+   		"Level 35"
+   ],
+	"stats": [
+		45,
+		50,
+		43,
+		40,
+		38,
+		62
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 16,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 25,
+			"move": "Razor Wind",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 34,
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"level": 39,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 41,
+			"move": "Me First",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 48,
+			"move": "Steel Wing",
+			"type": " Steel "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Snatch",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Tailwind",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Xatu"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfexant"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Routes 2 and 3, Santalune Forest"},
+		{"Location": "Routes 2 and 3, Santalune Forest"}
+	],
+	"abilities": [
+		"Big Pecks",
+		"Gale Wings"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"name": "Cross Chop",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "80",
+	"summary": "Deals damage, and has an increased critical hit ratio.",
+	"viability": "This is a decent coverage move on physical sweepers such as Barbaracle. The accuracy is a bit of a risk, and most Pokémon that get Cross Chop also get access to Close Combat or Drain Punch, which are both better options. For those who dont, though, such as Magmortar or Barbaracle, it's a solid moves.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Timburr"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

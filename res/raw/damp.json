@@ -1,0 +1,67 @@
+{
+	"name":"Damp",
+	"summary": "Prevents self-destruction, and makes the user immune to Self-Destruct and Explosion. This also prevents Aftermath from doing any damage. It also works against non-adjacent opponents in Triple battles.",
+	"viability": "Explosion and Self-Destruct aren't nearly as used because of the changes in the fifth generation, so that alone would make Damp not as useful. Aftermath is a pretty rare sight in battle, so worrying about possible damage is futile. Furthermore, all Pokémon that get Damp have better abilities.",
+	"pokemon":[
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Poliwhirl"
+		},
+		{
+			"pokemonName": "Poliwrath"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Politoed"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Quagsire"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Marshtomp"
+		},
+		{
+			"pokemonName": "Swampert"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		}
+	]
+}

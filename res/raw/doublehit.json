@@ -1,0 +1,72 @@
+{
+	"name": "Double Hit",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "35",
+	"accuracy": "90",
+	"summary": "Hits twice. Each strike has an independent critial hit ratio.",
+	"viability": "This is only usable on Ambipom due to its Technician ability. 35*1.5 is 52.5, and twice that gets you 105 before STAB. This is slightly more powerful than Return and has the chance of breaking a Substitute and then dealing more damage.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		},
+		{
+			"pokemonName": "Zweilous"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Deino"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

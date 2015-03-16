@@ -1,0 +1,186 @@
+{ 
+	 "name": "Weedle",
+	"types": [
+		" Bug ",
+		" Poison "
+	],
+	"hatchTime": "2805 - 3059 steps",
+	"height": "1'00\" (0.3 m)",
+	"weight": "7.1 lbs (3.2 kg)",
+	"evYield": [
+		"1 Speed"
+	],
+	"levelingRate": "Medium Fast",
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Weedle" },
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" },
+   		{ "pokemonName":"Mega Beedrill" }
+   ],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 10",
+   		"Beedrillite"
+   ],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		40,
+		35,
+		30,
+		20,
+		20,
+		50
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "String Shot",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Bug Bite",
+			"type": " Bite "
+		}
+	],
+	"tmMoveList": [
+
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "String Shot",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Bug Bite",
+			"type": " Bite "
+		}
+	],
+	"ORASTMMoveList": [
+
+	],
+	"ORASHMMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb"
+
+	],
+	"pokedexNumber": "13",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Route 2",
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Breed Kakuna or Beedrill",
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Breed Kakuna or Beedrill",
+				"Trade"
+			]
+		}
+	],
+	"abilities": [
+		"Shield Dust",
+		"Run Away"
+	],
+	"sets": [
+	]
+}

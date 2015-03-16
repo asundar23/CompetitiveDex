@@ -1,0 +1,13 @@
+{
+	"name":"Grass Pelt",
+	"summary": "Raises the user's Defense stat when Grassy Terrain is active in battle.",
+	"viability": "Having to spend a moveslot on Grassy Terrain is ultimately detrimental. Sap Sipper is better choice for Skiddo and Gogoat.",
+	"pokemon":[
+		{
+			"pokemonName": "Skiddo"
+		},
+		{
+			"pokemonName": "Gogoat"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Mat Block",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects all Pokemon on the user's side except for status move. Only works on the first turn.",
+	"viability": "Mat Block isn't a great move, even in Doubles and Triples. Fake Out is so common, and Mat Block simply cannot protect against it. It always depends on Greninja's Speed, which doesn't always work.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Greninja" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

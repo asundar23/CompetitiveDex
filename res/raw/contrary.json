@@ -1,0 +1,28 @@
+{
+	"name":"Contrary",
+	"summary": "Causes all stats that are lowered to be inversely raised, and vice versa. This means that if a move lowers your Attack by one stage, it will actually increase by one stage instead. Stats that are Baton Passed are not reversed.",
+	"viability": "Contrary is one of the most fun abilities to use. It takes a wild amount of predicting, but the payoff is well worth it. Take a look at Superpower, for example. Spinda and Malamar can both use it, at an insane 120 base-power, actually increasing their Attack and Defense instead of lowering it. Even something like Sticky Web can be very helpful, because your Speed will be actually increased instead of decreased.",
+	"pokemon":[
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Snivy"
+		},
+		{
+			"pokemonName": "Servine"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Malamar"
+		}
+	]
+}

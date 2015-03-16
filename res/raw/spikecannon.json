@@ -1,0 +1,25 @@
+{
+	"name": "Spike Cannon",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Spike Cannon isn't really recommended. Cloyster has two great multi-hit moves (Icicle Spear and Rock Blast) to use with Skill Link. Spike Cannon isn't going to have as much of an impact.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Omastar" },
+		{ "pokemonName": "Corsola" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

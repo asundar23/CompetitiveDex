@@ -1,0 +1,367 @@
+{
+	"name":"Yamask",
+	"types": [
+		"Ghost"
+	],
+	"eggGroup": [
+		"Mineral",
+		"Amorphous"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Yamask" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Cofagrigus" }
+   	],
+   "evolutionType":[
+   		"Level 34"
+   ],
+	"abilities": [
+		"Mummy"
+	],
+	"locations": [
+		{"Location": "Relic Castle"},
+		{"Location": "Relic Castle"},
+		{"Location": "Relic Castle"},
+		{"Location": "Relic Castle"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"stats": [
+		58,
+		50,
+		145,
+		95,
+		105,
+		30
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Disable",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 13,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 17,
+			"move": "Hex",
+			"type": " Ghost "
+		},
+		{
+			"level": 21,
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 29,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 33,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 33,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 41,
+			"move": "Grudge",
+			"type": " Ghost "
+		},
+		{
+			"level": 45,
+			"move": "Mean Look",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Heal Block",
+			"pokemon": [
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Snorunt"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Imprison",
+			"pokemon": [
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Memento",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Nasty Plot",
+			"pokemon": [
+				{"pokemonName": "Spiritomb"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Nightmare",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"}
+			],
+			"type": " Ghost "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Block",
+		"Dark Pulse",
+		"Iron Defense",
+		"Knock Off",
+		"Magic Coat",
+		"Pain Split",
+		"Role Play",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Spite",
+		"Trick",
+		"Wonder ROom"
+	],
+	"sets": [
+	]
+}

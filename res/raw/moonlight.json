@@ -1,0 +1,34 @@
+{
+	"name": "Moonlight",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Recovers the user's HP based on weather. In normal conditions, it is 1/2. In sunny it is 2/3, and all others 1/4.",
+	"viability": "Moonlight is a very good recovery move. It can even be combined with a sun team to maximize recovery.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Clefable" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Umbreon" },
+		{ "pokemonName": "Dustox" },
+		{ "pokemonName": "Volbeat" },
+		{ "pokemonName": "Illumise" },
+		{ "pokemonName": "Cresselia" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Noivern" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Sableye" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

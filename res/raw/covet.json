@@ -1,0 +1,257 @@
+{
+	"name": "Covet",
+	"note": "Mankey",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, and steals the target's held item if they are holding one. Pokémon with Sticky Hold, Multitype, or holding the Griseous Orb (if the target is a Giratina), a Mega Stone, Chilan Berry, or a Focus Sash will not have their item taken. ",
+	"viability": "Knock Off and Thief are much better options. Thief does the same thing as Covet, but with better type coverage. Knock Off takes off the item of the target, has better type coverage, and does much more damage. Last, pokemon with Magician (such as Delphox) can just steal their opponent's item by way of attacking them. This move is too outclassed by other moves/abilities to use efficiently.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Slaking"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	
+	{"pokemonName": "Rattata" },
+{"pokemonName": "Raticate" },
+{"pokemonName": "Pikachu" },
+{"pokemonName": "Raichu" },
+{"pokemonName": "Sandshrew" },
+{"pokemonName": "Sandslash" },
+{"pokemonName": "Clefairy" },
+{"pokemonName": "Clefable" },
+{"pokemonName": "Vulpix" },
+{"pokemonName": "Ninetales" },
+{"pokemonName": "Jigglypuff" },
+{"pokemonName": "Wigglytuff" },
+{"pokemonName": "Meowth" },
+{"pokemonName": "Persian" },
+{"pokemonName": "Mankey" },
+{"pokemonName": "Primeape" },
+{"pokemonName": "Growlithe" },
+{"pokemonName": "Arcanine" },
+{"pokemonName": "Farfetch'd" },
+{"pokemonName": "Hitmonlee" },
+{"pokemonName": "Hitmonchan" },
+{"pokemonName": "Chansey" },
+{"pokemonName": "Kangaskhan" },
+{"pokemonName": "Mr. Mime" },
+{"pokemonName": "Jynx" },
+{"pokemonName": "Electabuzz" },
+{"pokemonName": "Magmar" },
+{"pokemonName": "Eevee" },
+{"pokemonName": "Vaporeon" },
+{"pokemonName": "Jolteon" },
+{"pokemonName": "Flareon" },
+{"pokemonName": "Snorlax" },
+{"pokemonName": "Mew" },
+{"pokemonName": "Cyndaquil" },
+{"pokemonName": "Quilava" },
+{"pokemonName": "Typhlosion" },
+{"pokemonName": "Sentret" },
+{"pokemonName": "Furret" },
+{"pokemonName": "Pichu" },
+{"pokemonName": "Cleffa" },
+{"pokemonName": "Igglybuff" },
+{"pokemonName": "Togepi" },
+{"pokemonName": "Togetic" },
+{"pokemonName": "Marill" },
+{"pokemonName": "Azumarill" },
+{"pokemonName": "Sudowoodo" },
+{"pokemonName": "Aipom" },
+{"pokemonName": "Espeon" },
+{"pokemonName": "Umbreon" },
+{"pokemonName": "Snubbull" },
+{"pokemonName": "Granbull" },
+{"pokemonName": "Teddiursa" },
+{"pokemonName": "Ursaring" },
+{"pokemonName": "Tyrogue" },
+{"pokemonName": "Hitmontop" },
+{"pokemonName": "Smoochum" },
+{"pokemonName": "Elekid" },
+{"pokemonName": "Magby" },
+{"pokemonName": "Blissey" },
+{"pokemonName": "Poochyena" },
+{"pokemonName": "Mightyena" },
+{"pokemonName": "Zigzagoon" },
+{"pokemonName": "Linoone" },
+{"pokemonName": "Slakoth" },
+{"pokemonName": "Vigoroth" },
+{"pokemonName": "Slaking" },
+{"pokemonName": "Azurill" },
+{"pokemonName": "Skitty" },
+{"pokemonName": "Delcatty" },
+{"pokemonName": "Illumise" },
+{"pokemonName": "Roselia" },
+{"pokemonName": "Spoink" },
+{"pokemonName": "Grumpig" },
+{"pokemonName": "Spinda" },
+{"pokemonName": "Latias" },
+{"pokemonName": "Chimchar" },
+{"pokemonName": "Monferno" },
+{"pokemonName": "Infernape" },
+{"pokemonName": "Piplup" },
+{"pokemonName": "Prinplup" },
+{"pokemonName": "Empoleon" },
+{"pokemonName": "Bidoof" },
+{"pokemonName": "Bibarel" },
+{"pokemonName": "Budew" },
+{"pokemonName": "Roserade" },
+{"pokemonName": "Pachirisu" },
+{"pokemonName": "Ambipom" },
+{"pokemonName": "Buneary" },
+{"pokemonName": "Lopunny" },
+{"pokemonName": "Glameow" },
+{"pokemonName": "Purugly" },
+{"pokemonName": "Bonsly" },
+{"pokemonName": "Mime Jr." },
+{"pokemonName": "Happiny" },
+{"pokemonName": "Munchlax" },
+{"pokemonName": "Electivire" },
+{"pokemonName": "Magmortar" },
+{"pokemonName": "Togekiss" },
+{"pokemonName": "Leafeon" },
+{"pokemonName": "Glaceon" },
+{"pokemonName": "Phione" },
+{"pokemonName": "Manaphy" },
+{"pokemonName": "Shaymin" },
+{"pokemonName": "Shaymin-Sky" },
+{"pokemonName": "Tepig" },
+{"pokemonName": "Pignite" },
+{"pokemonName": "Emboar" },
+{"pokemonName": "Oshawott" },
+{"pokemonName": "Dewott" },
+{"pokemonName": "Samurott" },
+{"pokemonName": "Patrat" },
+{"pokemonName": "Watchog" },
+{"pokemonName": "Lillipup" },
+{"pokemonName": "Herdier" },
+{"pokemonName": "Stoutland" },
+{"pokemonName": "Purrloin" },
+{"pokemonName": "Liepard" },
+{"pokemonName": "Pansage" },
+{"pokemonName": "Simisage" },
+{"pokemonName": "Pansear" },
+{"pokemonName": "Simisear" },
+{"pokemonName": "Panpour" },
+{"pokemonName": "Simipour" },
+{"pokemonName": "Audino" },
+{"pokemonName": "Cottonee" },
+{"pokemonName": "Whimsicott" },
+{"pokemonName": "Petilil" },
+{"pokemonName": "Lilligant" },
+{"pokemonName": "Zorua" },
+{"pokemonName": "Zoroark" },
+{"pokemonName": "Minccino" },
+{"pokemonName": "Cinccino" },
+{"pokemonName": "Gothita" },
+{"pokemonName": "Gothorita" },
+{"pokemonName": "Gothitelle" },
+{"pokemonName": "Emolga" },
+{"pokemonName": "Cubchoo" },
+{"pokemonName": "Beartic" },
+{"pokemonName": "Keldeo" },
+{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		}
+	]
+}

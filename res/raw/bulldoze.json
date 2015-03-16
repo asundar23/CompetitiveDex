@@ -1,0 +1,797 @@
+{
+	"name": "Bulldoze",
+	"note": "",
+	"type": " Ground ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Bulldoze deals damage and lowers the target's Speed by one stage. In Doubles/Triples, this move hits all adjacent Pokémon.",
+	"viability": "While not recommended in singles, In Doubles and Triples this is one of the best moves. Lowering everyone's speed at once gives you the opportunity to strike first later on, which is very important in the grand scheme of things. It can even allow your Pokémon to set up more easily.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Graveler"
+		},
+		{
+			"pokemonName": "Golem"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Donphan"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		},
+		{
+			"pokemonName": "Diggersby"
+		},
+		{
+			"pokemonName": "Skiddo"
+		},
+		{
+			"pokemonName": "Gogoat"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	{
+	"pokemonName":"Venusaur"
+},
+{
+	"pokemonName":"Charizard"
+},
+{
+	"pokemonName":"Blastoise"
+},
+{
+	"pokemonName":"Ekans"
+},
+{
+	"pokemonName":"Arbok"
+},
+{
+	"pokemonName":"Sandshrew"
+},
+{
+	"pokemonName":"Sandslash"
+},
+{
+	"pokemonName":"Nidoqueen"
+},
+{
+	"pokemonName":"Nidoking"
+},
+{
+	"pokemonName":"Diglett"
+},
+{
+	"pokemonName":"Dugtrio"
+},
+{
+	"pokemonName":"Mankey"
+},
+{
+	"pokemonName":"Primeape"
+},
+{
+	"pokemonName":"Arcanine"
+},
+{
+	"pokemonName":"Poliwhirl"
+},
+{
+	"pokemonName":"Poliwrath"
+},
+{
+	"pokemonName":"Machop"
+},
+{
+	"pokemonName":"Machoke"
+},
+{
+	"pokemonName":"Machamp"
+},
+{
+	"pokemonName":"Geodude"
+},
+{
+	"pokemonName":"Graveler"
+},
+{
+	"pokemonName":"Golem"
+},
+{
+	"pokemonName":"Slowpoke"
+},
+{
+	"pokemonName":"Slowbro"
+},
+{
+	"pokemonName":"Onix"
+},
+{
+	"pokemonName":"Cubone"
+},
+{
+	"pokemonName":"Marowak"
+},
+{
+	"pokemonName":"Hitmonlee"
+},
+{
+	"pokemonName":"Hitmonchan"
+},
+{
+	"pokemonName":"Lickitung"
+},
+{
+	"pokemonName":"Rhyhorn"
+},
+{
+	"pokemonName":"Rhydon"
+},
+{
+	"pokemonName":"Chansey"
+},
+{
+	"pokemonName":"Kangaskhan"
+},
+{
+	"pokemonName":"Pinsir"
+},
+{
+	"pokemonName":"Tauros"
+},
+{
+	"pokemonName":"Gyarados"
+},
+{
+	"pokemonName":"Lapras"
+},
+{
+	"pokemonName":"Aerodactyl"
+},
+{
+	"pokemonName":"Snorlax"
+},
+{
+	"pokemonName":"Dragonite"
+},
+{
+	"pokemonName":"Mewtwo"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Meganium"
+},
+{
+	"pokemonName":"Typhlosion"
+},
+{
+	"pokemonName":"Feraligatr"
+},
+{
+	"pokemonName":"Ampharos"
+},
+{
+	"pokemonName":"Azumarill"
+},
+{
+	"pokemonName":"Sudowoodo"
+},
+{
+	"pokemonName":"Politoed"
+},
+{
+	"pokemonName":"Wooper"
+},
+{
+	"pokemonName":"Quagsire"
+},
+{
+	"pokemonName":"Slowking"
+},
+{
+	"pokemonName":"Girafarig"
+},
+{
+	"pokemonName":"Pineco"
+},
+{
+	"pokemonName":"Forretress"
+},
+{
+	"pokemonName":"Dunsparce"
+},
+{
+	"pokemonName":"Gligar"
+},
+{
+	"pokemonName":"Steelix"
+},
+{
+	"pokemonName":"Snubbull"
+},
+{
+	"pokemonName":"Granbull"
+},
+{
+	"pokemonName":"Shuckle"
+},
+{
+	"pokemonName":"Heracross"
+},
+{
+	"pokemonName":"Teddiursa"
+},
+{
+	"pokemonName":"Ursaring"
+},
+{
+	"pokemonName":"Magcargo"
+},
+{
+	"pokemonName":"Swinub"
+},
+{
+	"pokemonName":"Piloswine"
+},
+{
+	"pokemonName":"Corsola"
+},
+{
+	"pokemonName":"Mantine"
+},
+{
+	"pokemonName":"Phanpy"
+},
+{
+	"pokemonName":"Donphan"
+},
+{
+	"pokemonName": "Stantler"
+},
+{
+	"pokemonName":"Tyrogue"
+},
+{
+	"pokemonName":"Hitmontop"
+},
+{
+	"pokemonName":"Miltank"
+},
+{
+	"pokemonName":"Blissey"
+},
+{
+	"pokemonName":"Raikou"
+},
+{
+	"pokemonName":"Entei"
+},
+{
+	"pokemonName":"Suicune"
+},
+{
+	"pokemonName":"Larvitar"
+},
+{
+	"pokemonName":"Pupitar"
+},
+{
+	"pokemonName":"Tyranitar"
+},
+{
+	"pokemonName":"Lugia"
+},
+{
+	"pokemonName":"Ho-Oh"
+},
+{
+	"pokemonName":"Sceptile"
+},
+{
+	"pokemonName":"Blaziken"
+},
+{
+	"pokemonName":"Marshtomp"
+},
+{
+	"pokemonName":"Swampert"
+},
+{
+	"pokemonName":"Vigoroth"
+},
+{
+	"pokemonName":"Slaking"
+},
+{
+	"pokemonName":"Loudred"
+},
+{
+	"pokemonName":"Exploud"
+},
+{
+	"pokemonName":"Makuhita"
+},
+{
+	"pokemonName":"Hariyama"
+},
+{
+	"pokemonName":"Nosepass"
+},
+{
+	"pokemonName":"Aron"
+},
+{
+	"pokemonName":"Lairon"
+},
+{
+	"pokemonName":"Aggron"
+},
+{
+	"pokemonName":"Swalot"
+},
+{
+	"pokemonName":"Sharpedo"
+},
+{
+	"pokemonName":"Wailmer"
+},
+{
+	"pokemonName":"Wailord"
+},
+{
+	"pokemonName":"Numel"
+},
+{
+	"pokemonName":"Camerupt"
+},
+{
+	"pokemonName":"Torkoal"
+},
+{
+	"pokemonName":"Grumpig"
+},
+{
+	"pokemonName":"Trapinch"
+},
+{
+	"pokemonName":"Vibrava"
+},
+{
+	"pokemonName":"Flygon"
+},
+{
+	"pokemonName":"Altaria"
+},
+{
+	"pokemonName":"Seviper"
+},
+{
+	"pokemonName":"Lunatone"
+},
+{
+	"pokemonName":"Solrock"
+},
+{
+	"pokemonName":"Barboach"
+},
+{
+	"pokemonName":"Whiscash"
+},
+{
+	"pokemonName":"Baltoy"
+},
+{
+	"pokemonName":"Claydol"
+},
+{
+	"pokemonName":"Cradily"
+},
+{
+	"pokemonName":"Armaldo"
+},
+{
+	"pokemonName":"Milotic"
+},
+{
+	"pokemonName":"Dusclops"
+},
+{
+	"pokemonName":"Tropius"
+},
+{
+	"pokemonName":"Glalie"
+},
+{
+	"pokemonName":"Spheal"
+},
+{
+	"pokemonName":"Sealeo"
+},
+{
+	"pokemonName":"Walrein"
+},
+{
+	"pokemonName":"Relicanth"
+},
+{
+	"pokemonName":"Salamence"
+},
+{
+	"pokemonName":"Metang"
+},
+{
+	"pokemonName":"Metagross"
+},
+{
+	"pokemonName":"Regirock"
+},
+{
+	"pokemonName":"Regice"
+},
+{
+	"pokemonName":"Registeel"
+},
+{
+	"pokemonName":"Latias"
+},
+{
+	"pokemonName":"Latios"
+},
+{
+	"pokemonName":"Kyogre"
+},
+{
+	"pokemonName":"Groudon"
+},
+{
+	"pokemonName":"Rayquaza"
+},
+{
+	"pokemonName":"Torterra"
+},
+{
+	"pokemonName":"Infernape"
+},
+{
+	"pokemonName":"Empoleon"
+},
+{
+	"pokemonName":"Bibarel"
+},
+{
+	"pokemonName":"Cranidos"
+},
+{
+	"pokemonName":"Rampardos"
+},
+{
+	"pokemonName":"Shieldon"
+},
+{
+	"pokemonName":"Bastiodon"
+},
+{
+	"pokemonName":"Wormadam-Sandy"
+},
+{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+{
+	"pokemonName":"Purugly"
+},
+{
+	"pokemonName":"Bronzor"
+},
+{
+	"pokemonName":"Bronzong"
+},
+{
+	"pokemonName":"Gible"
+},
+{
+	"pokemonName":"Gabite"
+},
+{
+	"pokemonName":"Garchomp"
+},
+{
+	"pokemonName":"Munchlax"
+},
+{
+	"pokemonName":"Riolu"
+},
+{
+	"pokemonName":"Lucario"
+},
+{
+	"pokemonName":"Hippopotas"
+},
+{
+	"pokemonName":"Hippowdon"
+},
+{
+	"pokemonName":"Drapion"
+},
+{
+	"pokemonName":"Croagunk"
+},
+{
+	"pokemonName":"Toxicroak"
+},
+{
+	"pokemonName":"Mantyke"
+},
+{
+	"pokemonName":"Abomasnow"
+},
+{
+	"pokemonName":"Lickilicky"
+},
+{
+	"pokemonName":"Rhyperior"
+},
+{
+	"pokemonName":"Tangrowth"
+},
+{
+	"pokemonName":"Electivire"
+},
+{
+	"pokemonName":"Magmortar"
+},
+{
+	"pokemonName":"Gliscor"
+},
+{
+	"pokemonName":"Mamoswine"
+},
+{
+	"pokemonName":"Gallade"
+},
+{
+	"pokemonName":"Probopass"
+},
+{
+	"pokemonName":"Dusknoir"
+},
+{
+	"pokemonName":"Dialga"
+},
+{
+	"pokemonName":"Palkia"
+},
+{
+	"pokemonName":"Heatran"
+},
+{
+	"pokemonName":"Regigigas"
+},
+{
+	"pokemonName":"Giratina"
+},
+{
+	"pokemonName":"Arceus"
+},
+{
+	"pokemonName":"Pignite"
+},
+{
+	"pokemonName":"Emboar"
+},
+{
+	"pokemonName":"Roggenrola"
+},
+{
+	"pokemonName":"Boldore"
+},
+{
+	"pokemonName":"Gigalith"
+},
+{
+	"pokemonName":"Drilbur"
+},
+{
+	"pokemonName":"Excadrill"
+},
+{
+	"pokemonName":"Conkeldurr"
+},
+{
+	"pokemonName":"Palpitoad"
+},
+{
+	"pokemonName":"Seismitoad"
+},
+{
+	"pokemonName":"Throh"
+},
+{
+	"pokemonName":"Sawk"
+},
+{
+	"pokemonName":"Scolipede"
+},
+{
+	"pokemonName":"Sandile"
+},
+{
+	"pokemonName":"Krokorok"
+},
+{
+	"pokemonName":"Krookodile"
+},
+{
+	"pokemonName":"Darmanitan"
+},
+{
+	"pokemonName":"Dwebble"
+},
+{
+	"pokemonName":"Crustle"
+},
+{
+	"pokemonName":"Tirtouga"
+},
+{
+	"pokemonName":"Carracosta"
+},
+{
+	"pokemonName":"Archen"
+},
+{
+	"pokemonName":"Archeops"
+},
+{
+	"pokemonName":"Ferrothorn"
+},
+{
+	"pokemonName":"Haxorus"
+},
+{
+	"pokemonName":"Beartic"
+},
+{
+	"pokemonName":"Stunfisk"
+},
+{
+	"pokemonName":"Druddigon"
+},
+{
+	"pokemonName":"Golett"
+},
+{
+	"pokemonName":"Golurk"
+},
+{
+	"pokemonName":"Bouffalant"
+},
+{
+	"pokemonName":"Hydreigon"
+},
+{
+	"pokemonName":"Terrakion"
+},
+{
+	"pokemonName":"Landorus-Incarnate"
+},
+{
+	"pokemonName":"Landorus-Therian"
+},
+{
+	"pokemonName":"Chespin"
+},
+{
+	"pokemonName":"Quilladin"
+},
+{
+	"pokemonName":"Chesnaught"
+},
+{
+	"pokemonName":"Bunnelby"
+},
+{
+	"pokemonName":"Diggersby"
+},
+{
+	"pokemonName":"Litleo"
+},
+{"pokemonName": "Male Pyroar"},
+{"pokemonName": "Female Pyroar"},
+{
+	"pokemonName":"Skiddo"
+},
+{
+	"pokemonName":"Gogoat"
+},
+{
+	"pokemonName":"Pancham"
+},
+{
+	"pokemonName":"Pangoro"
+},
+{
+	"pokemonName":"Binacle"
+},
+{
+	"pokemonName":"Barbaracle"
+},
+{
+	"pokemonName":"Helioptile"
+},
+{
+	"pokemonName":"Heliolisk"
+},
+{
+	"pokemonName":"Tyrunt"
+},
+{
+	"pokemonName":"Tyrantrum"
+},
+{
+	"pokemonName":"Amaura"
+},
+{
+	"pokemonName":"Aurorus"
+},
+{
+	"pokemonName":"Goodra"
+},
+{
+	"pokemonName":"Phantump"
+},
+{
+	"pokemonName":"Trevenant"
+},
+{
+	"pokemonName":"Avalugg"
+},
+{
+	"pokemonName":"Zygarde"
+}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

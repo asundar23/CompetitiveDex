@@ -1,0 +1,21 @@
+{
+	"name": "Struggle",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "1",
+	"power": "50",
+	"accuracy": "--",
+	"summary": "Deals damage, and has a recoil of 1/4 their total HP. Only can be used if there are no available moves left.",
+	"viability": "There's no way to actually use it, only if nothing else can be used.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,324 @@
+{ 
+	 "name": "Suicune",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		100,
+		75,
+		115,
+		90,
+		115,
+		85
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Bubble Beam",
+			"type": " Water "
+		},
+		{
+			"level": 15,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 22,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 29,
+			"move": "Aurora Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 36,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 43,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Ice Fang",
+			"type": " Ice "
+		},
+		{
+			"level": 57,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 64,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 71,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 78,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 85,
+			"move": "Blizzard",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM60",
+			"move": "Quash",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Icy Wind",
+		"Iron Head",
+		"Iron Tail",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Route 25"},
+		{"Location": "Route 25, Burned Tower"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Pressure",
+		"Water Absorb"
+	],
+	"sets": [
+	]
+}

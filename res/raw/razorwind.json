@@ -1,0 +1,52 @@
+{
+	"name": "Razor Wind",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Does nothing on the first turn; on the second it attacks. Can be executed in one turn by Power Herb, and has an increased critical hit ratio.",
+	"viability": "Razor Wind, like many two turn moves, is not powerful enough to justify waiting that long to attack. In that first turn, you can even be attacked. You also allow the opponent to get a free set up. It's simply not worth using it, even with Power Herb.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Scizor" },
+		{ "pokemonName": "Nuzleaf" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Floatzel" },
+		{ "pokemonName": "Pidove" },
+		{ "pokemonName": "Tranquill" },
+		{ "pokemonName": "Male Unfezant" },
+		{ "pokemonName": "Female Unfezant" },
+		{ "pokemonName": "Fletchling" },
+		{ "pokemonName": "Fletchinder" },
+		{ "pokemonName": "Talonflame" },
+		{ "pokemonName": "Helioptile" },
+		{ "pokemonName": "Heliolisk" },
+		{ "pokemonName": "Noibat" },
+		{ "pokemonName": "Noivern" },
+		{ "pokemonName": "Yveltal" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Spearow" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Scyther" },
+		{ "pokemonName": "Totodile" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Seedot" },
+		{ "pokemonName": "Zangoose" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Sewaddle" },
+		{ "pokemonName": "Axew" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

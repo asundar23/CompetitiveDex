@@ -1,0 +1,246 @@
+{
+	"name": "Earth Power",
+	"note": "",
+	"type":" Ground ",
+	"category": "Special",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance of lowering the target's Special Defense by one stage.",
+	"viability": "This is the best Special Ground-type move, and works amazingly well for Sheer Force users like Nidoking, Nidoqueen, Landorus-Incarnate, and Mega Camerupt.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Probopass"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Heatran"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": ""
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{"pokemonName": "Sandshrew"},
+{"pokemonName": "Sandslash"},
+{"pokemonName": "Nidoqueen"},
+{"pokemonName": "Nidoking"},
+{"pokemonName": "Diglett"},
+{"pokemonName": "Dugtrio"},
+{"pokemonName": "Geodude"},
+{"pokemonName": "Graveler"},
+{"pokemonName": "Golem"},
+{"pokemonName": "Onix"},
+{"pokemonName": "Cubone"},
+{"pokemonName": "Marowak"},
+{"pokemonName": "Rhyhorn"},
+{"pokemonName": "Rhydon"},
+{"pokemonName": "Omanyte"},
+{"pokemonName": "Omastar"},
+{"pokemonName": "Kabuto"},
+{"pokemonName": "Kabutops"},
+{"pokemonName": "Aerodactyl"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Sudowoodo"},
+{"pokemonName": "Sunkern"},
+{"pokemonName": "Sunflora"},
+{"pokemonName": "Wooper"},
+{"pokemonName": "Quagsire"},
+{"pokemonName": "Gligar"},
+{"pokemonName": "Steelix"},
+{"pokemonName": "Shuckle"},
+{"pokemonName": "Slugma"},
+{"pokemonName": "Magcargo"},
+{"pokemonName": "Swinub"},
+{"pokemonName": "Piloswine"},
+{"pokemonName": "Corsola"},
+{"pokemonName": "Phanpy"},
+{"pokemonName": "Donphan"},
+{"pokemonName": "Larvitar"},
+{"pokemonName": "Pupitar"},
+{"pokemonName": "Tyranitar"},
+{"pokemonName": "Lugia"},
+{"pokemonName": "Ho-Oh"},
+{"pokemonName": "Celebi"},
+{"pokemonName": "Mudkip"},
+{"pokemonName": "Marshtomp"},
+{"pokemonName": "Swampert"},
+{"pokemonName": "Nosepass"},
+{"pokemonName": "Aron"},
+{"pokemonName": "Lairon"},
+{"pokemonName": "Aggron"},
+{"pokemonName": "Numel"},
+{"pokemonName": "Camerupt"},
+{"pokemonName": "Torkoal"},
+{"pokemonName": "Trapinch"},
+{"pokemonName": "Vibrava"},
+{"pokemonName": "Flygon"},
+{"pokemonName": "Lunatone"},
+{"pokemonName": "Solrock"},
+{"pokemonName": "Barboach"},
+{"pokemonName": "Whiscash"},
+{"pokemonName": "Baltoy"},
+{"pokemonName": "Claydol"},
+{"pokemonName": "Lileep"},
+{"pokemonName": "Cradily"},
+{"pokemonName": "Anorith"},
+{"pokemonName": "Armaldo"},
+{"pokemonName": "Relicanth"},
+{"pokemonName": "Regirock"},
+{"pokemonName": "Groudon"},
+{"pokemonName": "Rayquaza"},
+{"pokemonName": "Turtwig"},
+{"pokemonName": "Grotle"},
+{"pokemonName": "Torterra"},
+{"pokemonName": "Cranidos"},
+{"pokemonName": "Rampardos"},
+{"pokemonName": "Shieldon"},
+{"pokemonName": "Bastiodon"},
+{"pokemonName": "WormadamSandy Cloak"},
+{"pokemonName": "Shellos"},
+{"pokemonName": "Gastrodon"},
+{"pokemonName": "Bonsly"},
+{"pokemonName": "Gible"},
+{"pokemonName": "Gabite"},
+{"pokemonName": "Garchomp"},
+{"pokemonName": "Hippopotas"},
+{"pokemonName": "Hippowdon"},
+{"pokemonName": "Rhyperior"},
+{"pokemonName": "Gliscor"},
+{"pokemonName": "Mamoswine"},
+{"pokemonName": "Probopass"},
+{"pokemonName": "Dialga"},
+{"pokemonName": "Palkia"},
+{"pokemonName": "Heatran"},
+{"pokemonName": "Regigigas"},
+{"pokemonName": "Giratina"},
+{"pokemonName": "Giratina-Origin"},
+{"pokemonName": "Shaymin"},
+{"pokemonName": "Arceus"},
+{"pokemonName": "Roggenrola"},
+{"pokemonName": "Boldore"},
+{"pokemonName": "Gigalith"},
+{"pokemonName": "Drilbur"},
+{"pokemonName": "Excadrill"},
+{"pokemonName": "Tympole"},
+{"pokemonName": "Palpitoad"},
+{"pokemonName": "Seismitoad"},
+{"pokemonName": "Sandile"},
+{"pokemonName": "Krokorok"},
+{"pokemonName": "Krookodile"},
+{"pokemonName": "Tirtouga"},
+{"pokemonName": "Carracosta"},
+{"pokemonName": "Archen"},
+{"pokemonName": "Archeops"},
+{"pokemonName": "Stunfisk"},
+{"pokemonName": "Golett"},
+{"pokemonName": "Golurk"},
+{"pokemonName": "Deino"},
+{"pokemonName": "Zweilous"},
+{"pokemonName": "Hydreigon"},
+{"pokemonName": "Terrakion"},
+{"pokemonName": "Reshiram"},
+{"pokemonName": "Zekrom"},
+{"pokemonName": "Landorus-Incarnate"},
+{"pokemonName": "Landorus-Therian"},
+{"pokemonName": "Kyurem"}
+	]
+}

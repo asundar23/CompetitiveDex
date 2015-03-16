@@ -1,0 +1,28 @@
+{
+	"name": "Hyper Fang",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "80",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 10% chance to flinch the target.",
+	"viability": "The flinch chance is pretty small, and Return has a much greater base power. Use that instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Rattata" },
+		{ "pokemonName": "Raticate" },
+		{ "pokemonName": "Bidoof" },
+		{ "pokemonName": "Bibarel" },
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Patrat" },
+		{ "pokemonName": "Watchog" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

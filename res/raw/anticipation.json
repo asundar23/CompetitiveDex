@@ -1,0 +1,36 @@
+{
+	"name":"Anticipation",
+	"summary": "The user will \"shudder\" if the opponent switches in and has a super-effective move or an OHKO-move.",
+	"viability": "This is a decent ability for scouting. If you're running a Ferrothorn or Wormadam-Trash, having the ability to find out if a Pokémon has that Fire-type move will be nice.
+	
+	Unfortunately, almost all the Pokémon that have access to Anticipation have access to a much better ability. Ferrothorn has Iron Barbs, Wormadam has Overcoat, Toxicroak has Dry Skin, and Whiscash has Oblivious.",
+	"pokemon":[
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Wormadam-Plant"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Toxicroak"
+		},
+		{
+			"pokemonName": "Ferrothorn"
+		}
+	]
+}

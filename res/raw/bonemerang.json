@@ -1,0 +1,27 @@
+{
+	"name": "Bonemerang",
+	"note": "",
+	"type": " Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "50",
+	"accuracy": "90",
+	"summary": "Hits the target twIce.",
+	"viability": "The debate you might have with yourself is: Bonemerang or Earthquake? In reality, both are fine choIces to be running on Cubone or Marowak. While Earthquake is 100% accurate, Bonemerang has the ability to not only break Substitutes, but to hit past them. Earthquake only hits once, so that might be a problem when the opponent is under a substitute. In Doubles and Triples, Earthquake is a better choIce since it hits all adjacent Pokémon, whereas Bonemerang doesnt.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

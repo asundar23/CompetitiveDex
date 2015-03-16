@@ -1,0 +1,29 @@
+{
+	"name": "Jump Kick",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "95",
+	"summary": "Deals damage. If the user misses their HP is reduced by half.",
+	"viability": "While not as risky as brother High Jump Kick, it's also not as high a reward. The power is great, though, making it a good coverage move for Pokemon like Sawsbuck and Stantler.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Stantler" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Deerling" },
+		{ "pokemonName": "Sawsbuck" },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Mienshao" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

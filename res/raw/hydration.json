@@ -1,0 +1,70 @@
+{
+	"name":"Hydration",
+	"summary": "If the weather is rainy, all non-volatile statuses of the user will be cured.",
+	"viability": "Pokémon with Hydration are the most effective with rain teams, especially Manaphy. Manaphy with Kyogre (which has Drizzle) is very effective because Manaphy can never be Toxic-stalled, and set up a Tail Glow.",
+	"pokemon":[
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Phione"
+		},
+		{
+			"pokemonName": "Manaphy"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Palpitoad"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Accelgor"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	]
+}

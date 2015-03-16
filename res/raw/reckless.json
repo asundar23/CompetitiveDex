@@ -1,0 +1,43 @@
+{
+	"name":"Reckless",
+	"summary": "Increases the base power of recoil moves by 20%. The moves that get the boost are Brave Bird, Double-Edge, Flare Blitz, Head Charge, Head Smash, High Jump Kick, Jump Kick, Submission, Take Down, Volt Tackle, Wood Hammer, and Wild Charge.",
+	"viability": "There are so many moves that benefit from this, and all are very good moves. That 20% increase doesn't seem like much, but when you do the actual math, it's a pretty significant increase. For example, High Jump Kick goes from a base 130 power move to a ridiculous 156 base power, without STAB. It's the definition of high-risk, high reward. Recoil can be a problem but at the end of the day recoil moves usually do so much damage, so it's almost always worth the loss of HP.",
+	"pokemon":[
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		}
+	]
+}

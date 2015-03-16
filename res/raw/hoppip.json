@@ -1,0 +1,430 @@
+{ 
+	 "name": "Hoppip",
+	"types": [
+		" Grass ",
+		" Flying "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Hoppip" },
+   		{ "pokemonName":"Skiploom" },
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Skiploom" },
+   		{ "pokemonName":"Jumpluff" }
+   ],
+   "evolutionType":[
+   		"Level 18",
+   		"Level 27"
+   ],
+	"eggGroup": [
+		" Fairy ",
+		" Grass "
+	],
+	"stats": [
+		35,
+		35,
+		40,
+		35,
+		55,
+		50
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Splash",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Synthesis",
+			"type": " Grass "
+		},
+		{
+			"level": 6,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fairy Wind",
+			"type": " Fairy "
+		},
+		{
+			"level": 12,
+			"move": "Poison Powder",
+			"type": " Poison "
+		},
+		{
+			"level": 14,
+			"move": "Stun Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 16,
+			"move": "Sleep Powder",
+			"type": " Grass "
+		},
+		{
+			"level": 18,
+			"move": "Bullet Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 22,
+			"move": "Leech Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 25,
+			"move": "Mega Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 28,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 31,
+			"move": "Rage Powder",
+			"type": " Bug "
+		},
+		{
+			"level": 34,
+			"move": "Cotton Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 37,
+			"move": "U-Turn",
+			"type": " Bug "
+		},
+		{
+			"level": 40,
+			"move": "Worry Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 43,
+			"move": "Giga Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 46,
+			"move": "Bounce",
+			"type": " Flying "
+		},
+		{
+			"level": 49,
+			"move": "Memento",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Amnesia",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Seedot"},
+				{"pokemonName": "Castform"},
+				{"pokemonName": "Turtwig"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Aromatherapy",
+			"pokemon": [
+				{"pokemonName": "Vileplume"},
+				{"pokemonName": "Paras"},
+				{"pokemonName": "Parasect"},
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Bayleef"},
+				{"pokemonName": "Meganium"},
+				{"pokemonName": "Roselia"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Slurpuff"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Confusion",
+			"pokemon": [
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Exeggutor"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Cotton Guard",
+			"pokemon": [
+				{"pokemonName": "Cottonee"},
+				{"pokemonName": "Maractus"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Slurpuff"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Wigglytuff"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Sunflora"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Audino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Grassy Terrain",
+			"pokemon": [
+				{"pokemonName": "Oddish"},
+				{"pokemonName": "Gloom"},
+				{"pokemonName": "Tangela"},
+				{"pokemonName": "Roserade"},
+				{"pokemonName": "Tangrowth"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"},
+				{"pokemonName": "Cottonee"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Seed Bomb",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Exeggutor"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Breloom"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Worry Seed",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Sunflora"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"}
+			],
+			"type": " Grass "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Giga Drain",
+		"Helping Hand",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Synthesis",
+		"Worry Seed"
+
+	],
+	"locations": [
+		{"Location": "Route 205 (North and South, Poké Radar), Fuego Ironworks"},
+		{"Location": "Route 205 (South, Poké Radar), Fuego Ironworks"},
+		{"Location": "Route 205 (Poké Radar)"},
+		{"Location": "Route 32 (Morning, Day), Route 33 (Morning, Day), Route 48"},
+		{"Location": "Route 32 (Morning, Day), Route 33 (Morning, Day), Route 48"},
+		{"Location": "Field"},
+		{"Location": "Trade"},
+		{"Location": "Location Forest"},
+		{"Location": "Route 18 (Swarm)"},
+		{"Location": "Route 18 (Swarm)"},
+		{"Location": "Route 7 (Horde Encounter)"},
+		{"Location": "Route 7 (Horde Encounter)"}
+	],
+	"abilities": [
+		"Chlorophyll",
+		"Leaf Guard",
+		"Infiltrator"
+	],
+	"sets": [
+	]
+}

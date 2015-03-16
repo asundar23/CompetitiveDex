@@ -1,0 +1,162 @@
+{
+	"name": "Brine",
+	"note": "",
+	"type": " Water ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage, and doubles in power if the user is at 50% or below in HP.",
+	"viability": "Brine is an interesting move. On one hand, why not run Hydro Pump and Surf, due to their consistency? That thought process has its own merits, and is completely valid. Though, one might think of investing this move in a bulkier Special Attacker. Since you will be able to live an attack, firing back a 130 base power move without worrying about missing is really nIce. Still, though, it's a bit situational, so use this at your own discretion. It's certainly not a bad move, but the consistency that Surf and Hydro Pump provide could be a deciding factor.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Kingler"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Pelipper"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Prinplup"
+		},
+		{
+			"pokemonName": "Empoleon"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Beartic"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Ducklett"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

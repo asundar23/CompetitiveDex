@@ -1,0 +1,36 @@
+{
+	"name": "Power Swap",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Switches any changes to the user's Attack and Special Attack with any changes to the target's Attack and Special Attack stat.",
+	"viability": "You're better off boosting your own Attack and Special Attack and keeping it that way.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Mewtwo" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Espeon" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Accelgor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Seedot" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Elgyem" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

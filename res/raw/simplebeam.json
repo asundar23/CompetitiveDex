@@ -1,0 +1,32 @@
+{
+	"name": "Simple Beam",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Changes the target's Ability to Simple. The ability will revert back when the target switches out.",
+	"viability": "The ability Simple is quite good, and can be used on some setup sweepers in Doubles/Triples. Use this on your ally to maximize something like Dragon Dance or Quiver Dance.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Elgyrem" },
+		{ "pokemonName": "Beheeyem" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Farfetch'd" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Zigzagoon" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Inkay" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "Magical Leaf",
+	"note": "",
+	"type":" Grass ",
+	"category": "Special",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "--",
+	"summary": "Deals damage, and is unaffected by any modifications to accuracy and evasion.",
+	"viability": "Magical Leaf isn't powerful, but can be useful if you and your opponent allow evasion. It also boosta Roselia's Technician to base 90 power, so that's certainly viable.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Bayleef" },
+		{ "pokemonName": "Meganium" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Togetic" },
+		{ "pokemonName": "Bellosson" },
+		{ "pokemonName": "Celebi" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Kirlia" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Roserade" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Cherrim" },
+		{ "pokemonName": "Mismagius" },
+		{ "pokemonName": "Leafeon" },
+		{ "pokemonName": "Shayman" },
+		{ "pokemonName": "Petilil" },
+		{ "pokemonName": "Virizion" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" },
+		{ "pokemonName": "Female Meowstic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Pansage" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

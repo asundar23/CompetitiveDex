@@ -1,0 +1,64 @@
+{
+	"name":"Rivalry",
+	"summary": "Raises the base power of a move by 25% if the foe and user have the same gender, and decreases the power by 25% if they are of opposite genders.",
+	"viability": "As primal as this sounds, Rivalry is simply a terrible ability. Expecting to battle a Pokémon of the same gender is an unrealistic expectation, since there are so many variables in determining the gender. There are also genderless Pokémon, which make the matter even worse. Don't use Rivalry at any cost.",
+	"pokemon":[
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidorino"
+		},
+		
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Luxio"
+		},
+		{
+			"pokemonName": "Luxray"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+	]
+}

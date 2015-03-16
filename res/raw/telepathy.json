@@ -1,0 +1,55 @@
+{
+	"name":"Telepathy",
+	"summary": "Avoids all damaging moves used by allies in Double and Triple Battles.",
+	"viability": "This is great for Doubles and Triples, since moves like Surf and Discharge are used so often. You don't risk attacking your own teammate, and can attack all opponents on the field.",
+	"pokemon":[
+		{
+			"pokemonName": "Wobbuffet"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Wynaut"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Musharna"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Beheeyem"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	]
+}

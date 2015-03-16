@@ -1,0 +1,54 @@
+{
+	"name": "Cotton Guard",
+	"note": "",
+	"type": " Grass ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the Defense stat of the user by three stages.",
+	"viability": "Any time you have the opportunity to raise a stat by three stages, it's well worth it. This is no exception; it turns Furfrou into an unbeatable wall from the Physical side. Prankster Whimsicott can also make amazing use of Cotton Guard.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Furfrou"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Hoppip"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

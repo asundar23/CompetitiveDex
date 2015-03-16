@@ -1,0 +1,39 @@
+{
+	"name": "Play Nice",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Lowers the target's Attack stat and is unaffected by accuracy/evasion modifications. Hits the target through Protect, Detect, and Spiky Shield.",
+	"viability": "Play Nice isn't good because it lowers ONLY the Attack stat by only ONE stage. Use something else.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pikachu" },
+		{ "pokemonName": "Jigglypuff" },
+		{ "pokemonName": "Teddiursa" },
+		{ "pokemonName": "Ursaring" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Illumise" },
+		{ "pokemonName": "Pansage" },
+		{ "pokemonName": "Pansear" },
+		{ "pokemonName": "Panpour" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Gothorita" },
+		{ "pokemonName": "Gothitelle" },
+		{ "pokemonName": "Cubchoo" },
+		{ "pokemonName": "Beartic" },
+		{ "pokemonName": "Swirlix" },
+		{ "pokemonName": "Slurpuff" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

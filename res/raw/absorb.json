@@ -1,0 +1,126 @@
+{
+	"name": "Absorb",
+	"type": " Grass ",
+	"category": "Special",
+	"pp":"25",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "50% of the damage done to the target is restored by the user. For example, if Absorb does 100 HP damage to the opponent, the user receives 50 HP back. If the Pokémon is holding Big Root, 30% more damage will be restored.",
+	"viability": "This is a very poor move, no matter who is using it. There are much better options, including Giga Drain. Giga Drain does the exact same thing, except at 75 Base Power. Using Absorb is highly discouraged.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Gloom"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Lotad"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Turtwig"
+		},
+		{
+			"pokemonName": "Grotle"
+		},
+		{
+			"pokemonName": "Torterra"
+		},
+		{
+			"pokemonName": "Budew"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Amoonguss"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	],
+	"note":"",
+	"pokemonByTM":[
+	],
+	"pokemonByHM":[
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"name": "Electro Ball",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "10",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals more damage the faster the user is compared to the target. If the target's Speed is more than 50% of the user's, Electro Ball has a base power of 60. If it's between 34% - 50%, the BP is 80. Between 25% - 33% is 120, and less than 25% has a base power of 150.",
+	"viability": "This can be incredibly dangerous on a Choice Scarf user like Raichu. It must be used on a Pokemon with an already great Speed stat, though, to maximize its potential.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Magnemite"
+		},
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Electabuzz"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Electivire"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Electrike"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

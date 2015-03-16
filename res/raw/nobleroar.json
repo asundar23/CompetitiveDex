@@ -1,0 +1,24 @@
+{
+	"name": "Noble Roar",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Attack and Special Attack by one stage. Pokemon with the Ability Soundproof are not affected by this move.",
+	"viability": "While it has its benefit, it's not too good to use in competitive play. This is because opponents can easily switch out, rectifying their stats.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Litleo" },
+		{ "pokemonName": "Male Pyroar" },
+		{ "pokemonName": "Female Pyroar " }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

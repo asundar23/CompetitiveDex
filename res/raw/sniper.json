@@ -1,0 +1,49 @@
+{
+	"name":"Sniper",
+	"summary": "Critical hits will do 1.5x the normal critical hit damage. This means that instead of 1.5x, crits will do 2.25x.",
+	"viability": "While not useful before, there is a new strategy with Sniper, due to the mechanics changing. Equip your Pokémon with the Scope Lens, then use Focus Energy. From there, you have a 100% of getting a critical hit on everything. While gimmicky, it's an entirely effective strategy, as it is essentially slightly more useful than a Swords Dance/Nasty Plot.",
+	"pokemon":[
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Octillery"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		}
+	]
+}

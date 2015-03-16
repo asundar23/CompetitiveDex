@@ -1,0 +1,915 @@
+{
+   "name":"Lombre",
+   "types":[
+      " Water ",
+      " Grass "
+   ],
+   "eggGroup":[
+      " Water 1 ",
+      " Grass "
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Lotad" },
+   		{ "pokemonName":"Lombre" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Lombre" },
+   		{ "pokemonName":"Ludicolo" }
+   	],
+   "evolutionType":[
+   		"Level 14",
+   		"Water Stone"
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 3,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Absorb",
+			"type": " Grass "
+		},
+		{
+			"level": 9,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 12,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 18,
+			"move": "Mega Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 21,
+			"move": "Bubble Beam",
+			"type": " Water "
+		},
+		{
+			"level": 24,
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 30,
+			"move": "Giga Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 33,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Energy Ball",
+			"type": " Grass "
+		}
+	],
+   "stats":[
+      40,
+      30,
+      30,
+      40,
+      50,
+      30
+   ],
+   "moveList": [
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 3,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Absorb",
+			"type": " Grass "
+		},
+		{
+			"level": 7,
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Fake Out",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 25,
+			"move": "Bubble Beam",
+			"type": " Water "
+		},
+		{
+			"level": 31,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Hydro Pump",
+			"type": " Water "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+   "breedMoveList":[
+      {
+         "move":"Counter",
+         "pokemon":[
+            {
+               "pokemonName":"Breloom"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Flail",
+         "pokemon":[
+            {
+               "pokemonName":"Totodile"
+            },
+            {
+               "pokemonName":"Croconaw"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Corsola"
+            },
+            {
+               "pokemonName":"Feebas"
+            },
+            {
+               "pokemonName":"Tympole"
+            },
+            {
+               "pokemonName":"Palpitoad"
+            },
+            {
+               "pokemonName":"Seismitoad"
+            },
+            {
+               "pokemonName":"Stunfisk"
+            },
+            {
+               "pokemonName":"Clauncher"
+            },
+            {
+               "pokemonName":"Clawitzer"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Giga Drain",
+         "pokemon":[
+            {
+               "pokemonName":"Oddish"
+            },
+            {
+               "pokemonName":"Gloom"
+            },
+            {
+               "pokemonName":"Paras"
+            },
+            {
+               "pokemonName":"Parasect"
+            },
+            {
+               "pokemonName":"Tangela"
+            },
+            {
+               "pokemonName":"Tangrowth"
+            },
+            {
+               "pokemonName":"Hoppip"
+            },
+            {
+               "pokemonName":"Skiploom"
+            },
+            {
+               "pokemonName":"Jumpluff"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Sunflora"
+            },
+            {
+               "pokemonName":"Shroomish"
+            },
+            {
+               "pokemonName":"Roselia"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Snivy"
+            },
+            {
+               "pokemonName":"Servine"
+            },
+            {
+               "pokemonName":"Serperior"
+            },
+            {
+               "pokemonName":"Cottonee"
+            },
+            {
+               "pokemonName":"Maractus"
+            },
+            {
+               "pokemonName":"Foongus"
+            },
+            {
+               "pokemonName":"Amoonguss"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Leech Seed",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Ivysaur"
+            },
+            {
+               "pokemonName":"Venusaur"
+            },
+            {
+               "pokemonName":"Exeggcute"
+            },
+            {
+               "pokemonName":"Hoppip"
+            },
+            {
+               "pokemonName":"Skiploom"
+            },
+            {
+               "pokemonName":"Jumpluff"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Sunflora"
+            },
+            {
+               "pokemonName":"Shroomish"
+            },
+            {
+               "pokemonName":"Breloom"
+            },
+            {
+               "pokemonName":"Roselia"
+            },
+            {
+               "pokemonName":"Cacturne"
+            },
+            {
+               "pokemonName":"Cacnea"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Cherubi"
+            },
+            {
+               "pokemonName":"Cherrim"
+            },
+            {
+               "pokemonName":"Snivy"
+            },
+            {
+               "pokemonName":"Servine"
+            },
+            {
+               "pokemonName":"Serperior"
+            },
+            {
+               "pokemonName":"Cottonee"
+            },
+            {
+               "pokemonName":"Whimsicott"
+            },
+            {
+               "pokemonName":"Phantump"
+            },
+            {
+               "pokemonName":"Trevenant"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Razor Leaf",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Ivysaur"
+            },
+            {
+               "pokemonName":"Venusaur"
+            },
+            {
+               "pokemonName":"Bellsprout"
+            },
+            {
+               "pokemonName":"Weepinbell"
+            },
+            {
+               "pokemonName":"Victreebel"
+            },
+            {
+               "pokemonName":"Chikorita"
+            },
+            {
+               "pokemonName":"Bayleef"
+            },
+            {
+               "pokemonName":"Meganium"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Sunflora"
+            },
+            {
+               "pokemonName":"Nuzleaf"
+            },
+            {
+               "pokemonName":"Shiftry"
+            },
+            {
+               "pokemonName":"Tropius"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Snover"
+            },
+            {
+               "pokemonName":"Abomasnow"
+            },
+            {
+               "pokemonName":"Cottonee"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Sweet Scent",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Ivysaur"
+            },
+            {
+               "pokemonName":"Venusaur"
+            },
+            {
+               "pokemonName":"Oddish"
+            },
+            {
+               "pokemonName":"Gloom"
+            },
+            {
+               "pokemonName":"Vileplume"
+            },
+            {
+               "pokemonName":"Bellossom"
+            },
+            {
+               "pokemonName":"Bellsprout"
+            },
+            {
+               "pokemonName":"Weepinbell"
+            },
+            {
+               "pokemonName":"Victreebel"
+            },
+            {
+               "pokemonName":"Chikorita"
+            },
+            {
+               "pokemonName":"Bayleef"
+            },
+            {
+               "pokemonName":"Meganium"
+            },
+            {
+               "pokemonName":"Roselia"
+            },
+            {
+               "pokemonName":"Roserade"
+            },
+            {
+               "pokemonName":"Tropius"
+            },
+            {
+               "pokemonName":"Carnivine"
+            },
+            {
+               "pokemonName":"Maractus"
+            },
+            {
+               "pokemonName":"Foongus"
+            },
+            {
+               "pokemonName":"Amoonguss"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Synthesis",
+         "pokemon":[
+            {
+               "pokemonName":"Bulbasaur"
+            },
+            {
+               "pokemonName":"Ivysaur"
+            },
+            {
+               "pokemonName":"Venusaur"
+            },
+            {
+               "pokemonName":"Chikorita"
+            },
+            {
+               "pokemonName":"Bayleef"
+            },
+            {
+               "pokemonName":"Meganium"
+            },
+            {
+               "pokemonName":"Hoppip"
+            },
+            {
+               "pokemonName":"Skiploom"
+            },
+            {
+               "pokemonName":"Jumpluff"
+            },
+            {
+               "pokemonName":"Sunkern"
+            },
+            {
+               "pokemonName":"Seedot"
+            },
+            {
+               "pokemonName":"Roselia"
+            },
+            {
+               "pokemonName":"Tropius"
+            },
+            {
+               "pokemonName":"Turtwig"
+            },
+            {
+               "pokemonName":"Grotle"
+            },
+            {
+               "pokemonName":"Torterra"
+            },
+            {
+               "pokemonName":"Maractus"
+            },
+            {
+               "pokemonName":"Foongus"
+            },
+            {
+               "pokemonName":"Amoonguss"
+            }
+         ],
+         "type":" Grass "
+      },
+      {
+         "move":"Teeter Dance",
+         "pokemon":[
+            {
+               "pokemonName":"Cacnea"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Tickle",
+         "pokemon":[
+            {
+               "pokemonName":"Tangela"
+            },
+            {
+               "pokemonName":"Tangrowth"
+            },
+            {
+               "pokemonName":"Omanyte"
+            },
+            {
+               "pokemonName":"Omastar"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Water Gun",
+         "pokemon":[
+            {
+               "pokemonName":"Squirtle"
+            },
+            {
+               "pokemonName":"Wartortle"
+            },
+            {
+               "pokemonName":"Blastoise"
+            },
+            {
+               "pokemonName":"Psyduck"
+            },
+            {
+               "pokemonName":"Golduck"
+            },
+            {
+               "pokemonName":"Poliwag"
+            },
+            {
+               "pokemonName":"Poliwhirl"
+            },
+            {
+               "pokemonName":"Slowpoke"
+            },
+            {
+               "pokemonName":"Slowbro"
+            },
+            {
+               "pokemonName":"Slowking"
+            },
+            {
+               "pokemonName":"Horsea"
+            },
+            {
+               "pokemonName":"Seadra"
+            },
+            {
+               "pokemonName":"Kingdra"
+            },
+            {
+               "pokemonName":"Lapras"
+            },
+            {
+               "pokemonName":"Omanyte"
+            },
+            {
+               "pokemonName":"Omastar"
+            },
+            {
+               "pokemonName":"Totodile"
+            },
+            {
+               "pokemonName":"Croconaw"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Marill"
+            },
+            {
+               "pokemonName":"Azumarill"
+            },
+            {
+               "pokemonName":"Wooper"
+            },
+            {
+               "pokemonName":"Quagsire"
+            },
+            {
+               "pokemonName":"Remoraid"
+            },
+            {
+               "pokemonName":"Octillery"
+            },
+            {
+               "pokemonName":"Mudkip"
+            },
+            {
+               "pokemonName":"Marshtomp"
+            },
+            {
+               "pokemonName":"Swampert"
+            },
+            {
+               "pokemonName":"Wingull"
+            },
+            {
+               "pokemonName":"Pelipper"
+            },
+            {
+               "pokemonName":"Milotic"
+            },
+            {
+               "pokemonName":"Spheal"
+            },
+            {
+               "pokemonName":"Sealeo"
+            },
+            {
+               "pokemonName":"Walrein"
+            },
+            {
+               "pokemonName":"Clamperl"
+            },
+            {
+               "pokemonName":"Relicanth"
+            },
+            {
+               "pokemonName":"Bibarel"
+            },
+            {
+               "pokemonName":"Buizel"
+            },
+            {
+               "pokemonName":"Floatzel"
+            },
+            {
+               "pokemonName":"Tirtouga"
+            },
+            {
+               "pokemonName":"Carracosta"
+            },
+            {
+               "pokemonName":"Ducklett"
+            },
+            {
+               "pokemonName":"Swanna"
+            },
+            {
+               "pokemonName":"Skrelp"
+            },
+            {
+               "pokemonName":"Dragalge"
+            },
+            {
+               "pokemonName":"Clauncher"
+            },
+            {
+               "pokemonName":"Clawitzer"
+            }
+         ],
+         "type":" Water "
+      }
+   ],
+   "tutorMoveList":[
+      "Giga Drain",
+      "Icy Wind",
+      "Seed Bomb",
+      "Sleep Talk",
+      "Snore",
+      "Synthesis",
+      "Uproar",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      {"Location": "Routes (203, 204, 205, and 212) (Sapphire)"},
+      {"Location": "Routes (203, 204, 205, and 212) (Sapphire)"},
+      {"Location": "Routes (203, 204, and 210, South), Eterna Forest (Sapphire)"},
+      {"Location": "Safari Zone"},
+      {"Location": "Safari Zone"},
+      {"Location": "Pond"},
+      {"Location": "Trade"},
+      {"Location": "White Forest (Surfing)"},
+      {"Location": "Breed Lombre or Ludicolo"},
+      {"Location": "Breed Lombre or Ludicolo"},
+      {"Location": "Breed Lombre or Ludicolo"},
+      {"Location": "Breed Lombre or Ludicolo"}
+   ],
+   "abilities":[
+      "Swift Swim",
+      "Rain Dish",
+      "Own Tempo"
+   ],
+   "sets":[
+
+   ]
+}

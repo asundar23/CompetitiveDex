@@ -1,0 +1,49 @@
+{
+	"name": "Hex",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage. Doubles in power if the target is under a major status condition (burn, sleep, paralyze, frozen, poison).",
+	"viability": "Hex is extremely good, considering that almost all Ghost types have a status move. Be it Will-O-Wisp, Toxic, or Thunder Wave there is ample opportunity to power up Hex. Having a STAB 130 base power move is so valuable.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Tentacruel" },
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Banette" },
+		{ "pokemonName": "Duskull" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Rotom" },
+		{ "pokemonName": "Giratina" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Frillish" },
+		{ "pokemonName": "Jellicent" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Chandelure" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Dunsparce" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Snorunt" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

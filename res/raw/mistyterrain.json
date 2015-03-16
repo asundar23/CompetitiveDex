@@ -1,0 +1,36 @@
+{
+	"name": "Misty Terrain",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Creates a terrain that prevents Non-volatile status conditions. Halves the damage taken by Dragon-type moves by Pokemon on the ground. Fades after five turns.",
+	"viability": "Misty Terrain can work as a Safeguard alternative. It also can allow for teammates like Salamence to deal the same amount of damage while taking in less from Dragon moves.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "FLorges" },
+		{ "pokemonName": "Male Meowstic" },
+		{ "pokemonName": "Spritzee" },
+		{ "pokemonName": "Aromatisse" },
+		{ "pokemonName": "Sylveon" },
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Mawile" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

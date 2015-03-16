@@ -1,0 +1,478 @@
+{ 
+	 "name": "Swellow",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Brave Bird",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 17,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"level": 27,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 33,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 39,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 45,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "Brave Bird",
+			"type": " Flying "
+		}
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Taillow" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Swellow" }
+   	],
+   "evolutionType":[
+   		"Level 22"
+   ],
+	"stats": [
+		60,
+		85,
+		60,
+		50,
+		50,
+		125
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 19,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"level": 49,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 61,
+			"move": "Air Slash",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Boomburst",
+			"pokemon": [
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Brave Bird",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Mirror Move",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Wingull"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rage",
+			"pokemon": [
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Refresh",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Sky Attack",
+			"pokemon": [
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Supersonic",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Endeavor",
+		"Heat Wave",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "Route 213 (Poké Radar)"},
+		{"Location": "Route 213 (Poké Radar)"},
+		{"Location": "Route 213 (Poké Radar)"},
+		{"Location": "Evolve Taillow"},
+		{"Location": "Evolve Taillow"},
+		{"Location": "Field"},
+		{"Location": "Route 13, Giant Chasm"},
+		{"Location": "Route 13, Giant Chasm"},
+		{"Location": "Route 13 (Swarm)"},
+		{"Location": "Route 13 (Swarm)"},
+		{"Location": "Evolve Taillow"},
+		{"Location": "Evolve Taillow"}
+	],
+	"abilities": [
+		"Guts",
+		"Scrappy"
+	],
+	"sets": [
+	]
+}

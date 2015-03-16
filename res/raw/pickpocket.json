@@ -1,0 +1,28 @@
+{
+	"name":"Pickpocket",
+	"summary": "When the opponent makes contact with the user, the user steals the opponent's item. This fails if the user is holding an item or if either Pokémon is behind a Substitute.",
+	"viability": "Pickpocket is a terrible version of Magician. For one, almost all Pokémon will be holding an item. The only way this would work is if the user has a one-use item, like a Lum Berry. The other thing is that they have to be able to take a contact move, which the majority of available Pokémon can't, outside Barbaracle. Even so, Barbaracle needs Tough Claws to make it a threat.",
+	"pokemon":[
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Nuzleaf"
+		},
+		{
+			"pokemonName": "Shiftry"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		}
+	]
+}

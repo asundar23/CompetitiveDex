@@ -1,0 +1,39 @@
+{
+	"name": "Grassy Terrain",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Restores HP of grounded Pokemon by 1/16 each turn. Increases the power of Grass-type moves used by grounded Pokemon by 50%. Fades after five turns. Nature Power becomes Energy ball. Earthquake, Bulldoze, and Magnitude's power are all halved. Activates Grass Pelt.",
+	"viability": "Grassy Terrain, as with all terrain moves, have interesting effects. Gogoat definitely benefits most from a partner in Doubles or Triples using this move, as it will activate Grass Pelt.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Roserade" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Seedot" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Maractus" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

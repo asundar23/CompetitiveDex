@@ -1,0 +1,33 @@
+{
+	"name": "Sludge",
+	"note": "",
+	"type":" Poison ",
+	"category": "Special",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Does damage and has a 30% chance of poisoning the target.",
+	"viability": "Sludge Bomb does the job far better. Sludge is simply too weak.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Muk" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

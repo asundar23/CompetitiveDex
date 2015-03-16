@@ -1,0 +1,353 @@
+{ 
+	 "name": "Location Kyurem",
+	"types": [
+		" Dragon ",
+		" Ice "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		125,
+		120,
+		90,
+		170,
+		100,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 8,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 15,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 22,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 29,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 36,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Fusion Flare",
+			"type": " Fire "
+		},
+		{
+			"level": 50,
+			"move": "Ice Burn",
+			"type": " Ice "
+		},
+		{
+			"level": 57,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 64,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 71,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 78,
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"level": 85,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 92,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Endeavor",
+		"Hyper Voice",
+		"Icy Wind",
+		"Iron Head",
+		"Outrage",
+		"Roost",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "DNA SplIcers are dropped by Kyurem when caught, defeated, or fled from in Giant Chasm"},
+		{"Location": "DNA SplIcers are dropped by Kyurem when caught, defeated, or fled from in Giant Chasm"},
+		{"Location": "Given by a girl in Kiloude City when she is shown a Kyurem"},
+		{"Location": "Given by a girl in Kiloude City when she is shown a Kyurem"}
+	],
+	"abilities": [
+		"Pressure"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Frustration",
+	"note": "All Pokémon who can learn TMs can learn Frustration except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage. Power is based off of Friendship with the formula: (255-Frienship)/2.5. The lower the Friendship is, the higher the base power. It has a minimum of 1 and a maximum of 102 base power.",
+	"viability": "In game, Frustration is useful when you first catch a Pokemon because they'll be at their base friendship. In competitive, unless you consciously make sure the Pokemon's happiness is low this move will be awful. The only clear advantage Frustration has over Return is that Ditto will not be able to have the same power (it will be at one due to its probable max Friendship(",
+	"pokemonByLevel": [
+		{ "pokemonName": "Buneary" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

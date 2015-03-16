@@ -1,0 +1,559 @@
+{ 
+	 "name": "Cradily",
+	"types": [
+		" Rock ",
+		" Grass "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 5,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 9,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 13,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 17,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 26,
+			"move": "Giga Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 31,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 36,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 44,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 52,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 52,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 52,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"eggGroup": [
+		" Water 3 "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Lileep" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Cradily" }
+   	],
+   "evolutionType":[
+   		"Level 40"
+   ],
+	"stats": [
+		86,
+		81,
+		97,
+		81,
+		107,
+		43
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 8,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 15,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 22,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 29,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Gastro Acid",
+			"type": " Rock "
+		},
+		{
+			"level": 46,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 56,
+			"move": "Energy Ball",
+			"type": " Poison "
+		},
+		{
+			"level": 66,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 76,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Barrier",
+			"pokemon": [
+				{"pokemonName": "Tentacool"},
+				{"pokemonName": "Tentacruel"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mega Drain",
+			"pokemon": [
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Mirror Coat",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Recover",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Lileep"},
+				{"pokemonName": "Cradily"},
+				{"pokemonName": "Anorith"},
+				{"pokemonName": "Armaldo"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Wring Out",
+			"pokemon": [
+				{"pokemonName": "Tentacool"},
+				{"pokemonName": "Tentacruel"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Lileep"},
+				{"pokemonName": "Cradily"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Block",
+		"Earth Power",
+		"Gastro Acid",
+		"Giga Drain",
+		"Pain Split",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Synthesis",
+		"Worry Seed"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Sea"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Evolve Lileep"},
+		{ "Location": "Trade"}
+
+	],
+	"abilities": [
+		"Suction Cups",
+		"Storm Drain"
+	],
+	"sets": [
+		{
+			"name": "Special Tank",
+			"items": [
+				"Leftovers"
+			],
+			"ability": "Storm Drain",
+			"evs": [
+				"252 HP",
+				"200 Special Defense",
+				"48 Defense",
+				"4 Attack"
+			],
+			"moves": [
+				"Rock Slide",
+				"Recover",
+				"Toxic",
+				"Stealth Rock"
+			],
+		"alternativemoves": [
+				"Seed Bomb",
+				"Protect"
+			],
+			"setexplanation": "<font color="#A300A3"><b>Cradily</b></font> is a very versatile Pokemon, especially on the defensive side. It doesn't have the best defensive typing, being weak to the common offensive types Bug, Fighting, and Ice as well as the less common Steel. What it lacks in typing, it makes up for in excellent Special Defense with 107; coupled with a good 88 HP it makes <font color="#A300A3"><b>Cradily</b></font> a difficult wall.
+<br /><br />
+<font color="#7575D6"><i>Toxic</i></font> and <font color="#7575D6"><i>Recover</i></font> are the bread and butter of this set. It's a great staller because of the fact that it <i>indeed</i> has a reliable form of recovery, slowly widdling away the HP of a Pokemon. It can be even a hard counter against a Pokemon like <font color="#A300A3"><b>Jellicent</b></font>. The Defense investment is important because it can live certain Fighting moves like <font color="#A300A3"><b>Ambipom</b></font>'s <font color="#7575D6"><i>Low Kick</i></font>.",
+			"checksandcounters": "Poison types are the kryptonite of this set, since they cannot be poisoned. Furthermore, a resistance to ground is nice, but a defensive Pokemon like <font color="#A300A3"><b>Garbodor</b></font> or <font color="#A300A3"><b>Vileplume</b></font> can do the job nicely. Physically offensive Pokemon like <font color="#A300A3"><b>Primeape</b></font> are also counters if <font color="#7575D6"><i>Seed Bomb</i></font> is not being run on the set. One Life Orb or Choice Banded <font color="#7575D6"><i>Close Combat</i></font> will knock <font color="#A300A3"><b>Cradily</b></font> out in one hit clean.",
+			"damagecalc": ""
+		}
+	]
+}

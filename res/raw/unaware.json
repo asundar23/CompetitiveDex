@@ -1,0 +1,28 @@
+{
+	"name":"Unaware",
+	"summary": "Ignores the opponent's positive and negative stat changes. Does not prevent Stored Power and Punishment damage.",
+	"viability": "Unaware is an extremely important ability for defensive Pokémon trying to deal with a threat at hand. For example, if Mega Gyarados has set up 2 or 3 Dragon Dances, they are set up to easily sweep. With Quagsire in the game, though, that becomes nearly impossibly due to Quagsire's bulk and ignoring the stat changes. Though the debate is whether to run Unaware or another ability, there are definitely perks to using Unaware.",
+	"pokemon":[
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Quagsire"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Bibarel"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		}
+	]
+}

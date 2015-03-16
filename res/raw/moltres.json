@@ -1,0 +1,330 @@
+{ 
+	 "name": "Moltres",
+	"types": [
+		" Fire ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		90,
+		100,
+		90,
+		125,
+		85,
+		90
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Hurricane",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Sky Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 8,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 15,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 22,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 36,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 43,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 57,
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"level": 64,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 71,
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"level": 78,
+			"move": "Sky Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 85,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 92,
+			"move": "Hurricane",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Roaming Sinnoh (Only one)"},
+		{"Location": "Mt. Silver (Only one)"},
+		{"Location": "Mt. Silver (Only one)"},
+		{"Location": "Mountain"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Roadming Kalos and Sea Spirit's Den (if player chooses Froakie as starter)"},
+		{"Location": "Roadming Kalos and Sea Spirit's Den (if player chooses Froakie as starter)"}
+	],
+	"abilities": [
+		"Pressure",
+		"Flame Body (Unreleased)"
+	],
+	"sets": [
+	]
+}

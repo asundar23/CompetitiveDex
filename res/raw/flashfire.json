@@ -1,0 +1,61 @@
+{
+	"name":"Flash Fire",
+	"summary": "Activated if the opponent uses a Fire-type move on the user. The user is immune to Fire-moves, and the power of Fire-type moves is increased to 1.5x. While further boosts don't exist, the user is still immune to Fire moves. Not activated by the burn status.",
+	"viability": "Flash Fire is a great ability, if you are able to predict a Fire type move. Especially with Fire Blast, that turns into a 180 base-power move, not considering STAB.",
+	"pokemon":[
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Ninetales"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Flareon"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Heatran"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Chandelure"
+		},
+		{
+			"pokemonName": "Heatmor"
+		}
+	]
+}

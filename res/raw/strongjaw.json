@@ -1,0 +1,13 @@
+{
+	"name":"Strong Jaw",
+	"summary": "Increases the power of biting moves by 50%. The moves affected are Bite, Crunch, Fire Fang, Ice Fang, Poison Fang, and Thunder Fang.",
+	"viability": "The problem with the Fang moves are that they don't have good power, but that changes significantly with Strong Jaw. Ice Fang goes from 65 power to 97, which is perfectly acceptable for a Pokémon like Tyrantrum. In addition, Crunch becomes a 120 Base Power move, which is even better.",
+	"pokemon":[
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		}
+	]
+}

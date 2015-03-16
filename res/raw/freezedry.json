@@ -1,0 +1,29 @@
+{
+	"name": "Freeze-Dry",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "20",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance to freeze. Does super effective damage on Water types, even in Inverse battles.",
+	"viability": "Freeze-Dry is one of the best Ice-type moves out there because of the fact that it can hit Water types. Because of the fear of this move, Water types can't freely switch in. The only problem is the low distribution of this move; not a lot of Pokemon have access to it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Glalie" },
+		{ "pokemonName": "Vanilluxe" },
+		{ "pokemonName": "Cryogonal" },
+		{ "pokemonName": "Aurorus" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Delibird" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

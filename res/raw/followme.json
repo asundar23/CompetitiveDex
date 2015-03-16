@@ -1,0 +1,28 @@
+{
+	"name": "Follow Me",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Becomes the center of attention in Doubles and Triple Battles. Draws attacks of all adjacent opponents on the field. Has +2 priority",
+	"viability": "Follow me can be very good for allowing the partner to set up or prevent being hurt. It's better to have a faster or bulkier Pokemon use Follow Me, like Togekiss.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Sentret" },
+		{ "pokemonName": "Furret" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Togetic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Riolu" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

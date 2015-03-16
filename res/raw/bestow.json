@@ -1,0 +1,81 @@
+{
+	"name": "Bestow",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user gives their held item to the target. Multitype Pokémon can't Bestow a plate, Giratina can't Bestow its Griseous Orb, and Genesect can't Bestow a Drive. This move fails if the target already has a held item.",
+	"viability": "Under no circumstances should this move ever be run. Especially when Trick and Switcheroo exist, there's no point in just giving a Pokémon an item. Besides, most Pokémon already hold items in the first place, rendering Bestow completely pointless.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Tropius"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

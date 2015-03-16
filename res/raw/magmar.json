@@ -1,0 +1,452 @@
+{ 
+	 "name": "Magmar",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Human-Like "
+	],
+	"stats": [
+		65,
+		95,
+		57,
+		100,
+		85,
+		93
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 8,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 15,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 19,
+			"move": "Clear Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 22,
+			"move": "Flame Burst",
+			"type": " Fire "
+		},
+		{
+			"level": 26,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 29,
+			"move": "Fire Punch",
+			"type": " Fire "
+		},
+		{
+			"level": 36,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 42,
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"level": 49,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 55,
+			"move": "Fire Blast",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Barrier",
+			"pokemon": [
+				{"pokemonName": "Mr. Mime"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Belch",
+			"pokemon": [
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Belly Drum",
+			"pokemon": [
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Cross Chop",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Dynamic Punch",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Flare Blitz",
+			"pokemon": [
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Throh"},
+				{"pokemonName": "Sawk"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Abra"},
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmar"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Karate Chop",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Mach Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Mega Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Power Swap",
+			"pokemon": [
+				{"pokemonName": "Mr. Mime"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thunder Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Magmortar"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Dual Chop",
+		"Fire Punch",
+		"Heat Wave",
+		"Helping Hand",
+		"Iron Tail",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{"Location": "Evolve Magby"},
+		{"Location": "Evolve Magby"},
+		{"Location": "Fuego Ironworks"},
+		{"Location": "Burned Tower, Safari Zone (Morning and Day)"},
+		{"Location": "Burned Tower, Safari Zone (Morning and Day)"},
+		{"Location": "Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Magby"},
+		{"Location": "Evolve Magby"},
+		{"Location": "Trade"},
+		{"Location": "Friend Safari (Fire)"},
+		{"Location": "Friend Safari (Fire)"}
+	],
+	"abilities": [
+		"Flame Body",
+		"Vital Spirit"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"name": "Avalanche",
+	"type": " Ice ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "This move deals damage. It has a priority of -4, and will deal double the damage if hit by a move in the same turn.",
+	"viability": "This is a great move to switch into an opponent you know will attack you. Mamoswine can forego the risk that comes with Icicle Crash and use this move, essentially dealing a ton of damage along the way. This should be used with mostly bulky Pokémon, though, as taking too much damage might prevent you from even using Avalanche.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Vanillite"
+		},
+		{
+			"pokemonName": "Vanillish"
+		},
+		{
+			"pokemonName": "Vanilluxe"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Aurorus"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Avalugg"
+		}
+	],
+	"note":"",
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Snover"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

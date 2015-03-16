@@ -1,0 +1,18 @@
+{
+	"name":"Mega Launcher",
+	"summary": "Powers up aura and pulse moves by 50%. These moves are Aura Sphere, Dark Pulse, Dragon Pulse, Heal Pulse, and Water Pulse",
+	"viability": "Mega Launcher works perfectly for Mega Blastoise and Clawitzer, because they get all these moves. Aura Sphere and Dark Pulse are both deadly moves, but are usually held back by somewhat mediocre power. With Mega Launcher, though, they are raised to an outstanding 120 base power at infinite accuracy and 100%, respectively. Dragon Pulse is a similar case, and Water Pulse becomes instantly better than Surf, due to the added chance of confusion.
+	
+	In Doubles and Triples, using Heal Pulse will heal up your teammate even more, which should serve to be valuable in keeping a wall or sweeper healthy. Mega Launcher is the way to go for these Pokémon, and instantly turns them into a threat.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Blastoise"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		}
+	]
+}

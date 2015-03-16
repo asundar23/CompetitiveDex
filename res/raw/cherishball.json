@@ -1,0 +1,12 @@
+{
+	"itemName": "Cherish Ball",
+	"summary":"A rare Poke Ball that has been crafted to commemorate an occasion.",
+	"viability":"This has the same modifier as a Poke Ball, which isn't very good.",
+	"buy": "200",
+	"sell": "100",
+	"wildlocation":[
+		{"Location": "Event Pokemon come inside Cherish Balls"}
+	],
+	"shopLocation":[
+	]
+}

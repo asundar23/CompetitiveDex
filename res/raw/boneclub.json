@@ -1,0 +1,27 @@
+{
+	"name": "Bone Club",
+	"note": "",
+	"type": " Ground ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 10% chance to cause the target to flinch.",
+	"viability": "Cubone and Marowak's other signature move is Bonemerang, which is far better than Bone Club. 65 base power simply isn't good, and the accuracy makes things worse.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

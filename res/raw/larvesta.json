@@ -1,0 +1,408 @@
+{
+   "name":"Larvesta",
+   "types":[
+      " Bug ",
+      " Fire "
+   ],
+   "eggGroup":[
+      " Bug "
+   ],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Larvesta" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Volcarona" }
+   	],
+   "evolutionType":[
+   		"Level 59"
+   ],
+   "stats":[
+      55,
+      85,
+      55,
+      50,
+      55,
+      60
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Ember",
+         "type":" Fire "
+      },
+      {
+         "level":10,
+         "move":"Leech Life",
+         "type":" Bug "
+      },
+      {
+         "level":20,
+         "move":"Take Down",
+         "type":" Normal "
+      },
+      {
+         "level":30,
+         "move":"Flame Charge",
+         "type":" Fire "
+      },
+      {
+         "level":40,
+         "move":"Bug Bite",
+         "type":" Bug "
+      },
+      {
+         "level":50,
+         "move":"Double-Edge",
+         "type":" Normal "
+      },
+      {
+         "level":60,
+         "move":"Flame Wheel",
+         "type":" Fire "
+      },
+      {
+         "level":70,
+         "move":"Bug Buzz",
+         "type":" Bug "
+      },
+      {
+         "level":80,
+         "move":"Amnesia",
+         "type":" Psychic "
+      },
+      {
+         "level":90,
+         "move":"Thrash",
+         "type":" Normal "
+      },
+      {
+         "level":100,
+         "move":"Flare Blitz",
+         "type":" Fire "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM04",
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM20",
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM22",
+         "move":"Solar Beam",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM29",
+         "move":"Psychic",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM35",
+         "move":"Flamethrower",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM38",
+         "move":"Fire Blast",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM43",
+         "move":"Flame Charge",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM50",
+         "move":"Overheat",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM59",
+         "move":"Incinerate",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM61",
+         "move":"Will-O-Wisp",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM62",
+         "move":"Acrobatics",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM76",
+         "move":"Struggle Bug",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM89",
+         "move":"U-turn",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM93",
+         "move":"Wild Charge",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+   ],
+   "breedMoveList":[
+      {
+         "move":"Endure",
+         "pokemon":[
+            {
+               "pokemonName":"Heracross"
+            },
+            {
+               "pokemonName":"Sewaddle"
+            },
+            {
+               "pokemonName":"Karrablast"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Foresight",
+         "pokemon":[
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Yanma"
+            },
+            {
+               "pokemonName":"Yanmega"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Harden",
+         "pokemon":[
+            {
+               "pokemonName":"Metapod"
+            },
+            {
+               "pokemonName":"Kakuna"
+            },
+            {
+               "pokemonName":"Pinsir"
+            },
+            {
+               "pokemonName":"Gligar"
+            },
+            {
+               "pokemonName":"Gliscor"
+            },
+            {
+               "pokemonName":"Cascoon"
+            },
+            {
+               "pokemonName":"Silcoon"
+            },
+            {
+               "pokemonName":"Nincada"
+            },
+            {
+               "pokemonName":"Ninjask"
+            },
+            {
+               "pokemonName":"Spewpa"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Magnet Rise",
+         "pokemon":[
+            {
+               "pokemonName":"Foretress"
+            }
+         ],
+         "type":" Electric "
+      },
+      {
+         "move":"Morning Sun",
+         "pokemon":[
+            {
+               "pokemonName":"Beautifly"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"String Shot",
+         "pokemon":[
+            {
+               "pokemonName":"Caterpie"
+            },
+            {
+               "pokemonName":"Weedle"
+            },
+            {
+               "pokemonName":"Spinarak"
+            },
+            {
+               "pokemonName":"Ariados"
+            },
+            {
+               "pokemonName":"Wurmple"
+            },
+            {
+               "pokemonName":"Sewaddle"
+            },
+            {
+               "pokemonName":"Swadloon"
+            },
+            {
+               "pokemonName":"Leavanny"
+            },
+            {
+               "pokemonName":"Joltik"
+            },
+            {
+               "pokemonName":"Galvantula"
+            },
+            {
+               "pokemonName":"Larvesta"
+            },
+            {
+               "pokemonName":"Volcarona"
+            },
+            {
+               "pokemonName":"Scatterbug"
+            }
+         ],
+         "type":" Bug "
+      },
+      {
+         "move":"Zen Headbutt",
+         "pokemon":[
+            {
+               "pokemonName":"Venonat"
+            },
+            {
+               "pokemonName":"Venomoth"
+            },
+            {
+               "pokemonName":"Volbeat"
+            }
+         ],
+         "type":" Psychic "
+      }
+   ],
+   "tutorMoveList":[
+      "Bug Bite",
+      "Giga Drain",
+      "Heat Wave",
+      "Magnet Rise",
+      "Signal Beam",
+      "Sleep Talk",
+      "Snore",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      {"Location": "Hatch Egg received from the Pokémon Ranger inside the building on Route 18"},
+      {"Location": "Hatch Egg received from the Pokémon Ranger inside the building on Route 18"},
+      {"Location": "Breed Volcarona"},
+      {"Location": "Breed Volcarona"},
+      {"Location": "Friend Safari (Fire)"},
+      {"Location": "Friend Safari (Fire)"}
+   ],
+   "abilities":[
+      "Flame Body",
+      "Swarm"
+   ],
+   "sets":[
+
+   ]
+}

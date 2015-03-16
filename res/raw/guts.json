@@ -1,0 +1,72 @@
+{
+	"name":"Guts",
+	"summary": "Raises the user's Attack by 50% when inflicted by burn, paralysis, poison, or sleep. The Attack drop with burn does not occur.",
+	"viability": "Guts is amazing, especially with the use of Toxic and Flame Orb. Not having to waste a turn setting up Bulk Up or Swords Dance is very valuable, and allows for hitting hard at a much quicker pace. Heracross and Swellow are some users of Guts that make them the deadly Pokémon they are. Heracross can utilize Megahorn and Close Combat at insane power, and Swellow, though not sporting a great Attack stat, can use a Guts-boosted Facade for a lot of damage.
+	
+	As far as items, use Toxic Orb if you plan on switching out constantly, and Flame if you plan on sweeping.",
+	"pokemon":[
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Flareon"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Luxio"
+		},
+		{
+			"pokemonName": "Luxray"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Throh"
+		}
+	]
+}

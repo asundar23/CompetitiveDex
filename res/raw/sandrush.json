@@ -1,0 +1,25 @@
+{
+	"name":"Sand Rush",
+	"summary": "Doubles the Pokémon's Speed if the weather is Sandstorm.",
+	"viability": "Now that weather isn't permanent, Sand Rush isn't broken like it once was. It's still a good ability, though, as 5-8 turns is still pretty significant. Given Excadrill's and Stoutland's high Attack stats, they can fully take advantage with a partner like Tyranitar or Hippowdon (who both have Sandstream)",
+	"pokemon":[
+		{
+			"pokemonName": "Sandshrew"
+		},
+		{
+			"pokemonName": "Sandslash"
+		},
+		{
+			"pokemonName": "Herdier"
+		},
+		{
+			"pokemonName": "Stoutland"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		}
+	]
+}

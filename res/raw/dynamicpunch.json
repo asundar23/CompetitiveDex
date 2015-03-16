@@ -1,0 +1,69 @@
+{
+	"name": "Dynamic Punch",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "50",
+	"summary": "Deals damage and has a 100% chance of confusing the target.",
+	"viability": "This is only usable on Pokemon with No Guard such as Machamp or Golurk. This is because of Dynamic Punch's horrible accuracy. For those two Pokemon, though, Dynamic Punch is great because of the guaranteed confusion.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Poliwrath"
+		},
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Golett"
+		},
+		{
+			"pokemonName": "Golurk"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Croagunk"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

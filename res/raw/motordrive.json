@@ -1,0 +1,19 @@
+{
+	"name":"Motor Drive",
+	"summary": "The user is immune to all Electric attacks; their Speed is raised by one stage if hit by an Electric move.",
+	"viability": "This works similar to Lightning Rod, with Speed instead of Special Attack. This is important for Pokémon like Electivire and Emolga, which have decent Attack and Special Attack, but aren't as quick. If you can predict correctly, activating this ability will make them outspeed almost everyone, causing some nice kills in the process.",
+	"pokemon":[
+		{
+			"pokemonName": "Electivire"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Zebstrika"
+		},
+		{
+			"pokemonName": "Emolga"
+		}
+	]
+}

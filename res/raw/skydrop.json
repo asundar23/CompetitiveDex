@@ -1,0 +1,45 @@
+{
+	"name": "Sky Drop",
+	"note": "",
+	"type":" Flying ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "On the first turn, Sky Drop brings the target to the air. In the air, both the user and target will be unable to take action, avoiding any move except Gust, Thunder, Twister, Sky Uppercut, Hurricane, Smack Down, any move used after Lock-On or Mind Reader, or if the Pokemon has No Guard. Targets weighing more than 200kg will cause the move to fail.",
+	"viability": "Sky Drop is not a very good move, especially being two-turn. It's only base 60, and ther are simply too many ways around it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Aerodactyl" },
+		{ "pokemonName": "Rufflet" },
+		{ "pokemonName": "Braviary" },
+		{ "pokemonName": "Hawlucha" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	{"pokemonName": "Charizard" },
+{"pokemonName": "Aerodactyl" },
+{"pokemonName": "Articuno" },
+{"pokemonName": "Zapdos" },
+{"pokemonName": "Moltres" },
+{"pokemonName": "Dragonite" },
+{"pokemonName": "Mew" },
+{"pokemonName": "Skarmory" },
+{"pokemonName": "Lugia" },
+{"pokemonName": "Ho-Oh" },
+{"pokemonName": "Pelipper" },
+{"pokemonName": "Rayquaza" },
+{"pokemonName": "Rufflet" },
+{"pokemonName": "Braviary" },
+{"pokemonName": "Tornadus-Incarnate" },
+{"pokemonName": "Tornadus-Therian" },
+{"pokemonName": "Thundurus-Incarnate" },
+{"pokemonName": "Thundurus-Therian" },
+{"pokemonName": "Hawlucha" },
+{"pokemonName": "Yveltal" }
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name":"Wonder Skin",
+	"summary": "Reduces the accuracy of the opponent's status move by 50%.",
+	"viability": "Venomoth greatly benefits from this, because it can easily set up a Substitute or Quiver Dance and then Baton Pass, or even sweep. Having the oppotunity to potentially be immune to status moves allows Venomoth to be a viable threat.",
+	"pokemon":[
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		}
+	]
+}

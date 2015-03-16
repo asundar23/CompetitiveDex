@@ -1,0 +1,316 @@
+{ 
+	 "name": "Klefki",
+	"types": [
+		" Steel ",
+		" Fairy "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		57,
+		80,
+		91,
+		80,
+		87,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Fairy Lock",
+			"type": " Fairy "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " NormalFairy "
+		},
+		{
+			"level": 5,
+			"move": "Fairy Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 8,
+			"move": "Astonish",
+			"type": " Steel "
+		},
+		{
+			"level": 12,
+			"move": "Metal Sound",
+			"type": " Ground "
+		},
+		{
+			"level": 15,
+			"move": "Spikes",
+			"type": " Fairy "
+		},
+		{
+			"level": 18,
+			"move": "Draining Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 23,
+			"move": "Crafty Shield",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Foul Play",
+			"type": " Dark "
+		},
+		{
+			"level": 32,
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"level": 34,
+			"move": "Mirror Shot",
+			"type": " Steel "
+		},
+		{
+			"level": 36,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "Recycle",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Play Rough",
+			"type": " Fairy "
+		},
+		{
+			"level": 44,
+			"move": "Magic Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Heal Block",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Iron Defense",
+			"pokemon": [
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Boldora"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"},
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Aegislash"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Lock-On",
+			"pokemon": [
+				{"pokemonName": "Nosepass"},
+				{"pokemonName": "Probopass"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Snorunt"}
+			],
+			"type": " Dark "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Routes 15 and 16, Lost Hotel, Friend Safari (Steel)"},
+		{ "Location": "Routes 15 and 16, Lost Hotel, Friend Safari (Steel)"}
+
+	],
+	"abilities": [
+		"Prankster",
+		"Magician"
+	],
+	"sets": [
+	]
+}

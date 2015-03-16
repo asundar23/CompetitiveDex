@@ -1,0 +1,34 @@
+{
+	"name": "Grudge",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the target, on the next turn, uses an attacking move that knocks it out, they will lose all PP of that move.",
+	"viability": "Grudge can have some nice effects. With a Prankster user, you can probably get rid of a move like Knock off that will otherwise be detrimental to your team.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Banette" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Duskull" },
+		{ "pokemonName": "Spiritomb" },
+		{ "pokemonName": "Phantump" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

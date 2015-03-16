@@ -1,0 +1,166 @@
+{
+	"name": "After You",
+	"type":  " Normal ",
+	"category": "Status",
+	"pp": "15",
+	"note":"",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The target will move directly after the user the same turn, provided they haven't gone yet.",
+	"viability": "This is a move designed to succeed in double/triple battles. You can use this move on a slower Pokémon and have them go first, leading to some important kills. In singles, don't bother, as this move has no use.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Minccino"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Swirlix"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	{"pokemonName": "Clefairy" },
+{"pokemonName": "Clefable" },
+{"pokemonName": "Oddish" },
+{"pokemonName": "Gloom" },
+{"pokemonName": "Vileplume" },
+{"pokemonName": "Paras" },
+{"pokemonName": "Parasect" },
+{"pokemonName": "Slowpoke" },
+{"pokemonName": "Slowbro" },
+{"pokemonName": "Snorlax" },
+{"pokemonName": "Mew" },
+{"pokemonName": "Cleffa" },
+{"pokemonName": "Togepi" },
+{"pokemonName": "Togetic" },
+{"pokemonName": "Mareep" },
+{"pokemonName": "Flaaffy" },
+{"pokemonName": "Ampharos" },
+{"pokemonName": "Bellossom" },
+{"pokemonName": "Sudowoodo" },
+{"pokemonName": "Sunkern" },
+{"pokemonName": "Sunflora" },
+{"pokemonName": "Wooper" },
+{"pokemonName": "Quagsire" },
+{"pokemonName": "Slowking" },
+{"pokemonName": "Shuckle" },
+{"pokemonName": "Slugma" },
+{"pokemonName": "Magcargo" },
+{"pokemonName": "Miltank" },
+{"pokemonName": "Slakoth" },
+{"pokemonName": "Vigoroth" },
+{"pokemonName": "Slaking" },
+{"pokemonName": "Numel" },
+{"pokemonName": "Camerupt" },
+{"pokemonName": "Torkoal" },
+{"pokemonName": "Kecleon" },
+{"pokemonName": "Buneary" },
+{"pokemonName": "Lopunny" },
+{"pokemonName": "Bonsly" },
+{"pokemonName": "Munchlax" },
+{"pokemonName": "Togekiss" },
+{"pokemonName": "Patrat" },
+{"pokemonName": "Watchog" },
+{"pokemonName": "Lillipup" },
+{"pokemonName": "Herdier" },
+{"pokemonName": "Stoutland" },
+{"pokemonName": "Munna" },
+{"pokemonName": "Musharna" },
+{"pokemonName": "Woobat" },
+{"pokemonName": "Swoobat" },
+{"pokemonName": "Audino" },
+{"pokemonName": "Tympole" },
+{"pokemonName": "Palpitoad" },
+{"pokemonName": "Seismitoad" },
+{"pokemonName": "Petilil" },
+{"pokemonName": "Lilligant" },
+{"pokemonName": "Maractus" },
+{"pokemonName": "Yamask" },
+{"pokemonName": "Cofagrigus" },
+{"pokemonName": "Minccino" },
+{"pokemonName": "Cinccino" },
+{"pokemonName": "Solosis" },
+{"pokemonName": "Duosion" },
+{"pokemonName": "Reuniclus" },
+{"pokemonName": "Foongus" },
+{"pokemonName": "Amoonguss" },
+{"pokemonName": "Elgyem" },
+{"pokemonName": "Beheeyem" },
+{"pokemonName": "Flabébé" },
+{"pokemonName": "Floette" },
+{"pokemonName": "Florges" },
+{"pokemonName": "Honedge" },
+{"pokemonName": "Doublade" },
+{"pokemonName": "Aegislash-Shield" },
+{"pokemonName": "Aegislash-Blade" },
+{"pokemonName": "Spritzee" },
+{"pokemonName": "Aromatisse" },
+{"pokemonName": "Swirlix" },
+{"pokemonName": "Slurpuff" },
+{"pokemonName": "Carbink" },
+{"pokemonName": "Bergmite" },
+{"pokemonName": "Avalugg" },
+{"pokemonName": "Diancie" }
+	]
+}

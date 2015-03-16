@@ -1,0 +1,16 @@
+{
+	"name":"Arena Trap",
+	"summary": "Prevents all foes from fleeing or switching out if the user is in the battle field. Pokémon immune to Ground types (Flying-types, Pokémon with Levitate, and those under Magnet Rise and Telekinesis), as well as Ghost types, can switch out.",
+	"viability": "Arena Trap is essentially a less-severe version of Shadow Tag. The ability to trap your opponent is very valuable, since you can do a number of things. Dugtrio can get that revenge kill, or can set up Stealth Rock without having to worry about a possible Magic Bounce switch.",
+	"pokemon":[
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Trapinch"
+		}
+	]
+}

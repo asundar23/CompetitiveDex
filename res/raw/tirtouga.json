@@ -1,0 +1,459 @@
+{
+	"name":"Carracosta",
+	"types": [
+		"Water",
+		"Rock"
+	],
+	"eggGroup": [
+		"Water 1",
+		"Water 3"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Tirtouga" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Carracosta" }
+   	],
+   "evolutionType":[
+   		"Level 37"
+   ],
+	"abilities": [
+		"Solid Rock",
+		"Sturdy",
+		"Swift Swim"
+	],
+	"locations": [
+		{"Location": "Revive from Cover Fossil"},
+		{"Location": "Revive from Cover Fossil"},
+		{"Location": "Revive from Cover Fossil"},
+		{"Location": "Revive from Cover Fossil"},
+		{"Location": "Revive from Cover Fossil"},
+		{"Location": "Revive from Cover Fossil"}
+	],
+	"stats": [
+		54,
+		78,
+		103,
+		53,
+		45,
+		22
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 5,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 8,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 11,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Aqua Jet",
+			"type": " Water "
+		},
+		{
+			"level": 18,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Wide Guard",
+			"type": " Rock "
+		},
+		{
+			"level": 28,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 31,
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"level": 35,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 38,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 45,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 48,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 50,
+			"move": "Hydro Pump",
+			"type": " Water "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bide",
+			"pokemon": [
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "East-Sea Gastrodon"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Feebas"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Guard Swap",
+			"pokemon": [
+				{"pokemonName": "Wooper"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Iron Defense",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Shellder"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Clamperl"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Rock Throw",
+			"pokemon": [
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Slam",
+			"pokemon": [
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Tentacool"},
+				{"pokemonName": "Tentacruel"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Froakie"},
+				{"pokemonName": "Frogadier"},
+				{"pokemonName": "Greninja"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Whirlpool",
+			"pokemon": [
+				{"pokemonName": "Shellder"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Clamperl"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Block",
+		"Earth Power",
+		"Icy Wind",
+		"Iron Defense",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+	],
+	"sets": [
+	]
+}

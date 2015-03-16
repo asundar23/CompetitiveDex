@@ -1,0 +1,90 @@
+{
+	"name": "Barrier",
+	"note": "",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Defense by two stages.",
+	"viability": "While defensive boosters aren't seen as much, Barrier is commonly seen in Baton Pass chains. Having a boost in physical defense is often vital to keeping a chain alive, and this move does the job well. As a standalone move, it's not highly recommended. As mentioned earlier, defensive boosters aren't recommended due to the offensive nature of the game.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Glaceon"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Bergmite"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

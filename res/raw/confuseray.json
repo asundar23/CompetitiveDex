@@ -1,0 +1,246 @@
+{
+	"name": "Confuse Ray",
+	"note": "",
+	"type": " Ghost ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Confuses the target. Pokémon under Safeguard or with the ability Own Tempo are immune to this move.",
+	"viability": "This is a very good status move, especially since it has 100% accuracy. Though there is a risk with Confusion status, if there is a move to run to achieve that, Confuse Ray would be it.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Ninetales"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Starmie"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Umbreon"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Shedinja"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Dusclops"
+		},
+		{
+			"pokemonName": "Vespiquen"
+		},
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Dusknoir"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Regigigas"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Chandelure"
+		},
+		{
+			"pokemonName": "Cryogonal"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		},
+		{
+			"pokemonName": "Gourgeist-Small"
+		},
+		{
+			"pokemonName": "Gourgeist-Average"
+		},
+		{
+			"pokemonName": "Gourgeist-Large"
+		},
+		{
+			"pokemonName": "Gourgeist-Super"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

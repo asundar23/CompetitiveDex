@@ -1,0 +1,359 @@
+{ 
+	 "name": "Mesprit",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		80,
+		105,
+		105,
+		105,
+		105,
+		80
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Healing Wish",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Copycat",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 6,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 16,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Lucky Chant",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 46,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 51,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 61,
+			"move": "Copycat",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 76,
+			"move": "Healing Wish",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Fire Punch",
+		"Helping Hand",
+		"Ice Punch",
+		"Iron Tail",
+		"Knock Off",
+		"Magic Coat",
+		"Magic Room",
+		"Recycle",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch",
+		"Trick",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Roaming Sinnoh"},
+		{"Location": "Roaming Sinnoh"},
+		{"Location": "Roaming Sinnoh"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Celestial Tower"},
+		{"Location": "Celestial Tower"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

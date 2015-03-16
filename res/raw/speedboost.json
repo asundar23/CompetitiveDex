@@ -1,0 +1,43 @@
+{
+	"name":"Speed Boost",
+	"summary": "Increases the user's Speed by one stage after every turn.",
+	"viability": "Speed Boost is the cause of Blaziken turning into the best starter, and and why Pokémon like Sharpedo, Ninjask, Yanmega, and Scolipede are so dangerous. In addition to the added Speed, all Pokémon have good, diverse movepools. Blaziken, Ninjask, and Scolipede have access to Swords Dance and Baton Pass, which can let someone else set up with a great Attack and Speed stat. Sharpedo and Yanmega can utilize their good Special Attack stats (Sharped can run a mixed set), and then proceed to sweep the opponent.",
+	"pokemon":[
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Mega Blaziken"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Venipede"
+		},
+		{
+			"pokemonName": "Whirlipede"
+		},
+		{
+			"pokemonName": "Scolipede"
+		}
+	]
+}

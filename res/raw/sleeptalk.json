@@ -1,0 +1,58 @@
+{
+	"name": "Sleep Talk",
+	"note": "All Pokémon who can learn TMs can learn Sleep Talk except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the user is asleep, Sleep Talk selects any of the three other moves the user learns for that turn. Fails if the user is awake.",
+	"viability": "Sleep Talk is most widely seen with Rest, called Rest-Talk sets. This can be used for Pokemon that are rather bulky and want to preserve their longevity.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Snorlax" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Loudred" },
+		{ "pokemonName": "Exploud" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Dunsparce" },
+		{ "pokemonName": "Teddiursa" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Zigzagoon" },
+		{ "pokemonName": "Slakoth" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Bidoof" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Hippopotas" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pansear" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Tympole" },
+		{ "pokemonName": "Darumaka" },
+		{ "pokemonName": "Minccino" },
+		{ "pokemonName": "Deerling" },
+		{ "pokemonName": "Cubchoo" },
+		{ "pokemonName": "Stunfisk" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

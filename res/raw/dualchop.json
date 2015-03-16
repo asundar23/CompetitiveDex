@@ -1,0 +1,139 @@
+{
+	"name": "Dual Chop",
+	"note": "Gabite",
+	"type":" Dragon ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "40",
+	"accuracy": "90",
+	"summary": "Deals damage, and hits twice per use. Each strike has an independent critical hit ratio.",
+	"viability": "Dual Chop is often forgotten about, due to its seemingly low base power and low distribution. However, Dual Chop is a good alternative to Dragon Claw and Outrage. Dragon Claw has a mediocre 70 BP, while Dragon Claw reaches 80, plus can break Substitutes and hit again. Outrage locks you into that move, and with Fairy-types running around is not a very good option. For Haxorus, while the 90 accuracy isn't ideal, it's not a bad idea to use Dual Chop.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		}
+	],
+	"pokemonByBreeding": [
+		
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Electabuzz"
+		},
+		{
+			"pokemonName": "Magmar"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Elekid"
+		},
+		{
+			"pokemonName": "Magby"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Toxicroak"
+		},
+		{
+			"pokemonName": "Electivire"
+		},
+		{
+			"pokemonName": "Magmortar"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Scrafty"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		},
+		{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		}
+	]
+}

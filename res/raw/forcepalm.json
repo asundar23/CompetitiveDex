@@ -1,0 +1,31 @@
+{
+	"name": "Force Palm",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 30% chance of paralyzing the target.",
+	"viability": "Doesn't have enough power, but Breloom can take advantage of Technician to boost this move to base power 90.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Breloom" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Lucario" },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Mienshao" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Timburr" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

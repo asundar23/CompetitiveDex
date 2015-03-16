@@ -1,0 +1,429 @@
+{ 
+	 "name": "Tentacruel",
+	"types": [
+		" Water ",
+		" Poison "
+	],
+	"eggGroup": [
+		" Water 3 "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Tentacool" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Tentacruel" }
+   ],
+   "evolutionType":[
+   		"Level 30"
+   ],
+	"stats": [
+		80,
+		70,
+		65,
+		80,
+		120,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Reflect Type",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Sting",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 15,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 19,
+			"move": "Bubble Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Wrap",
+			"type": " Water "
+		},
+		{
+			"level": 26,
+			"move": "Acid Apray",
+			"type": " Poison "
+		},
+		{
+			"level": 29,
+			"move": "Barrier",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 38,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 43,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Hex",
+			"type": " Ghost "
+		},
+		{
+			"level": 52,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 56,
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"level": 61,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acupressure",
+			"pokemon": [
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Aurora Beam",
+			"pokemon": [
+				{"pokemonName": "Shellder"},
+				{"pokemonName": "Cloyster"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Aqua Ring",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Bubble",
+			"pokemon": [
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Lileep"},
+				{"pokemonName": "Cradily"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Omanyte"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mirror Coat",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Muddy Water",
+			"pokemon": [
+				{"pokemonName": "Omanyte"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Rapid Spin",
+			"pokemon": [
+				{"pokemonName": "Kabuto"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Giga Drain",
+		"Icy Wind",
+		"Knock Off",
+		"Magic Coat",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Routes (205, 213, 218, 220, 221, 222, 223, 224, 226, 230), Pastoria City, Canalave City, Sunyshore City, Valley Windworks, Fuego Ironworks, Iron Island, Pokémon League (surfing)"},
+		{ "Location": "Routes (205, 213, 218, 220, 221, 222, 223, 224, 226, 230), Pastoria City, Canalave City, Sunyshore City, Valley Windworks, Fuego Ironworks, Iron Island, Pokémon League (surfing)"},
+		{ "Location": "Routes (205, 212, 213, 218, 219, 220, 221, 222, 223, 224, 226, and 230), Pastoria City, Canalave City, Sunyshore City, Valley Windworks, Fuego Ironworks, Iron Island, Pokémon League (surfing)"},
+		{ "Location": "New Bark Town, Vermilion City, Cinnabar Island,Pallet Town, Routes (20, 21, 26, 27, and 41, surfing and Super Rod), Cherrygrove City, Union Cave*, Whirl Islands*, Routes (12, 13, 19, 32, 34, and 40), Olivine City, Cianwood City (surfing), Route 47 (Super Rod)"},
+		{ "Location": "New Bark Town, Vermilion City, Cinnabar Island,Pallet Town, Routes (20, 21, 26, 27, and 41, surfing and Super Rod), Cherrygrove City, Union Cave*, Whirl Islands*, Routes (12, 13, 19, 32, 34, and 40), Olivine City, Cianwood City (surfing), Route 47 (Super Rod)"},
+		{ "Location": "Sea"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Evolve Tentacool"},
+		{ "Location": "Evolve Tentacool"}
+
+	],
+	"abilities": [
+		"Clear Body",
+		"Liquid Ooze",
+		"Rain Dish"
+	],
+	"sets": [
+	]
+}

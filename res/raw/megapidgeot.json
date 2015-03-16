@@ -1,0 +1,650 @@
+{ 
+	 "name": "Mega Pidgeot",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"hatchTime": "4080 - 4334 steps",
+	"height": "7'03\" (2.2 m)",
+	"weight": "111.3 lbs (50.5 kg)",
+	"evYield": [
+		"3 Speed"
+	],
+	"levelingRate": "Medium Slow",
+	"setCheck": "1",
+   "preEvolution":[
+   		{ "pokemonName":"Pidgey" },
+   		{ "pokemonName":"Pidgeotto" },
+   		{ "pokemonName":"Pidgeot" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Pidgeotto" },
+   		{ "pokemonName":"Pidgeot" },
+   		{ "pokemonName":"Mega Pidgeot" }
+   ],
+   "evolutionType":[
+   		"Level 18",
+   		"Level 36",
+   		"Pidgeotite"
+   ],
+	"eggGroup": [
+		" Flying "
+	],
+	"stats": [
+		83,
+		80,
+		80,
+		135,
+		80,
+		121
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hurricane",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Whirlwind",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 27,
+			"move": "Feather Dance",
+			"type": " Flying "
+		},
+		{
+			"level": 32,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 38,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 44,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 50,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 56,
+			"move": "Mirror Move",
+			"type": " Flying "
+		},
+		{
+			"level": 62,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 68,
+			"move": "Hurricane",
+			"type": " Flying "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Air Cutter",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Air Slash",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Brave Bird",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Wingull"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Steel Wing",
+			"pokemon": [
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Chatot"}
+			],
+			"type": " Steel "
+		}
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Sky Attack",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"pokedexNumber": "18",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"None"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"None"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Pidgeotite -> Rustboro City (from Mr. Stone in exchange for the Intriguing Stone)"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Pidgeotite -> Rustboro City (from Mr. Stone in exchange for the Intriguing Stone)"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"abilities": [
+		"No Guard"
+	],
+	"sets": [
+		{
+			"name": "Late Game Sweeper",
+			"items": [
+				"Pidgeotite"
+			],
+			"ability": "No Guard",
+			"evs": [
+				"252 Special Attack",
+				"252 Speed",
+				"4 HP"
+			],
+			"moves": [
+				"Hurricane",
+				"Heat Wave",
+				"Roost",
+				"Defog"
+			],
+		"alternativemoves": [
+				"U-Turn",
+				"Hidden Power Ground"
+			],
+			"setexplanation": "Because of ability <font color="#CC0000">No Guard</font>, <font color="#A300A3"><b>Mega Pidgeot</b></font> is very good at spamming moves such as <font color="#7575D6"><i>Hurricane</i></font> and <font color="#7575D6"><i>Heat Wave</i></font>. In fact, these are the two only two moves you'll really need. Due to its very high Speed and Special Attack, these two moves provide enough coverage against Grass, Bug, Fighting, and Steel, only being countered by Rock types.
+<br /><br />
+<font color="#7575D6"><i>Hidden Power Ground</i></font> is also a viable option for Rock types, but it is simply better to have some support on your team. Its power is too low to be of believable power. <font color="#7575D6"><i>U-Turn</i></font> can provide momentum for your team, and <font color="#7575D6"><i>Defog</i></font> is a great support move to get rid of <font color="#7575D6"><i>Stealth Rock</i></font> and <font color="#7575D6"><i>Sticky Web</i></font>. Since <font color="#A300A3"><b>Mega Pidgeot</b></font> is weak to <font color="#7575D6"><i>Stealth Rock</i></font>, <font color="#7575D6"><i>Defog</i></font> could be a huge benefit.
+<br /><br />
+Last moveslot goes to <font color="#7575D6"><i>Roost</i></font>, in part because of the aforementioned weakness to <font color="#7575D6"><i>Stealth Rock</i></font>. It also increases its longevity, and can keep its role as a late game sweeper.",
+			"checksandcounters": "If you don't run <font color="#7575D6"><i>Hidden Power Ground</i></font>, any Electric/Water combination will be a hard counter, specifically <font color="#A300A3"><b>Rotom-Wash</b></font> and <font color="#A300A3"><b>Lanturn</b></font>. They resist both of <font color="#A300A3"><b>Mega Pidgeot's</b></font> attacking moves, and have the Special Defense to wall. Specially Defensive <font color="#A300A3"><b>Sylveon</b></font> doesn't resist anything, but is neutral to both <font color="#7575D6"><i>Hurricane</i></font> and <font color="#7575D6"><i>Heat Wave</i></font>. Due to its very high Special Defense, it will be able to to tank some hits and stall out <font color="#A300A3"><b>Mega Pidgeot</b></font>.",
+			"damagecalc": "<b>(vs.) Impish, 252 HP, 120 Special Defense <font color="#A300A3"><b>Mega Aggron</b></font></b>
+<br /><br />
+- <font color="#7575D6"><i>Heat Wave</i></font> does 65.1 - 76.7</b></font>, whi
+ch is a guaranteed 2HKO.
+<br /><br />
+<b>(vs.) Sassy, 252 HP, 252 Special Defense <font color="#A300A3"><b>Aegislash</b></font></b>
+<br /><br />
+- <font color="#7575D6"><i>Heat Wave</i></font> does 35.8</b></font> - 42.5</b></font>, which is a guaranteed 3HKO."
+		}
+	]
+}

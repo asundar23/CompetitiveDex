@@ -1,0 +1,398 @@
+{ 
+	 "name": "Tyrantrum",
+	"types": [
+		" Rock ",
+		" Dragon "
+	],
+	"eggGroup": [
+		" Monster ",
+		" Dragon "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Tyrunt" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Tyrantrum" }
+   	],
+   "evolutionType":[
+   		"Level 39 (Day)"
+   ],
+	"stats": [
+		82,
+		121,
+		119,
+		69,
+		59,
+		71
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Head Smash",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Stealth Rock",
+			"type": " Rock "
+		},
+		{
+			"level": 17,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 26,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 30,
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"level": 34,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 42,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 53,
+			"move": "Horn Drill",
+			"type": " Normal "
+		},
+		{
+			"level": 58,
+			"move": "Head Smash",
+			"type": " Rock "
+		},
+		{
+			"level": 68,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 75,
+			"move": "Giga Impact",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Dragon Dance",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Ice Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Poison Fang",
+			"pokemon": [
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Draco Meteor"
+
+	],
+	"locations": [
+		{"Location": "Evolve Tyrunt"},
+		{"Location": "Evolve Tyrunt"}
+	],
+	"abilities": [
+		"Strong Jaw",
+		"Rock Head (Unreleased)"
+	],
+	"sets": [
+	]
+}

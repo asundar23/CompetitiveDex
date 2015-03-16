@@ -1,0 +1,28 @@
+{
+	"name":"Poison Touch",
+	"summary": "When the user makes contact with the opponent, there is a 30% chance they will be poisoned.",
+	"viability": "Poison Touch is a bit better than Poison Point because you can control your poison chance. You can run the contact moves, and not have to hope your opponent uses one. That alone makes this better. In addition, you can also run Poison Jab for some additional chance of inflicting the poison status on your opponent.",
+	"pokemon":[
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		}
+	]
+}

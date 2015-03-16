@@ -1,0 +1,26 @@
+{
+	"name": "Needle Arm",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Inflicts damage and has a 30% chance of causing the target to flinch.",
+	"viability": "Seed Bomb and Leaf Blade are far better, even with the flinch chance. It lacks the power to do any real damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Cacturne" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Quilladin" },
+		{ "pokemonName": "Chesnaught" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,491 @@
+{ 
+	 "name": "Deoxys-Defense",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 13,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Knock Off",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Spikes",
+			"type": " Ground "
+		},
+		{
+			"level": 31,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Snatch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Psycho Shift",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 55,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 61,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 67,
+			"move": "Psycho Boost",
+			"type": " Psychic "
+		},
+		{
+			"level": 73,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 73,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		50,
+		70,
+		160,
+		70,
+		160,
+		90
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 17,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Knock Off",
+			"type": " Dark "
+		},
+		{
+			"level": 33,
+			"move": "Spikes",
+			"type": " Ground "
+		},
+		{
+			"level": 41,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 47,
+			"move": "Snatch",
+			"type": " Dark "
+		},
+		{
+			"level": 57,
+			"move": "Psycho Shift",
+			"type": " Psychic "
+		},
+		{
+			"level": 65,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 73,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 73,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 81,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 89,
+			"move": "Psycho Boost",
+			"type": " Psychic "
+		},
+		{
+			"level": 97,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bind",
+		"Drain Punch",
+		"Gravity",
+		"Low Kick",
+		"Magic Coat",
+		"Recycle",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Stealth Rock",
+		"Superpower",
+		"Trick",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Location"},
+		{"Location": "Location"},
+		{"Location": "Location"},
+		{"Location": "Location"},
+		{"Location": "Location"},
+		{"Location": "Mountain"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Pressure"
+	],
+	"sets": [
+	]
+}

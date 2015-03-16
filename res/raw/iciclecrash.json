@@ -1,0 +1,25 @@
+{
+	"name": "Icicle Crash",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "85",
+	"accuracy": "90",
+	"summary": "Deals damage and has a 30% chance of causing the target to flinch.",
+	"viability": "Probably the best physical Ice type move there is. Though it has low distribution, it is still a great move for Cloyster, Beartic, Weavile, and Mamoswine due to its flinch rate and power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Beartic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Swinub" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

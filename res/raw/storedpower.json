@@ -1,0 +1,40 @@
+{
+	"name": "Stored Power",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "10",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "Deals damage depending on the amount of positive stat changes the user has. It starts out at 20 base power, and adds 20 for each positive stat change. It reaches a maximum base power of 860.",
+	"viability": "Stored Power is a very good move, but is entirely dependent on setting up. Swoobat and Sigilyph are very good users, the former having Simple Calm Mind and the latter having Cosmic Power. Female Meowstic can also take advantage of Competitive and set up Calm Mind, quickly reaching an ideal power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Kirlia" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Female Meowstic" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Eevee" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Chingling" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Sigilyph" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

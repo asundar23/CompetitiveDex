@@ -1,0 +1,22 @@
+{
+	"name":"Simple",
+	"summary": "Doubles the number of stages in a stat change.",
+	"viability": "Even though Simple is a double-edged sword, it does much more good than harm. Curse sets with Bibarel can turn it into a great Defensive wall with Attack power. The same works on the special side for Swoobat, who can subsequently used Stored Power more quickly. One Calm Mind boost for Swoobat turn Stored Power from a 20 Base Power move to 100! Two will turn it into 180, and so on.",
+	"pokemon":[
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Bidoof"
+		},
+		{
+			"pokemonName": "Bibarel"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		}
+	]
+}

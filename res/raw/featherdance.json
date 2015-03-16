@@ -1,0 +1,81 @@
+{
+	"name": "Feather Dance",
+	"note": "",
+	"type":" Flying ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the target's Attack by two stages.",
+	"viability": "This can work really well with Murkrow, who has the Prankster ability and can utilize this well. Otherwise, it's not the greatest move because the opponent can switch out. It is definitely viable in Doubles and Triples, though, as switches are less common.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Starly"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

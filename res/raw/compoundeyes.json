@@ -1,0 +1,36 @@
+{
+	"name":"Compound Eyes",
+	"summary": "Raises accuracy of a move by 30% of its original accuracy. This means that anything with an accuracy of 77% or higher will be 100% accurate. 
+	
+	Outside battle, if the Pokémon with Compound Eyes (even if fainted) leads the party, the chance of finding a held item on a Pokémon increases from 50%/5%/1% to 60%/20%/5%.",
+	"viability": "In battle, this is highly recommended. Especially when you consider that some Pokémon that have this ability also have Hurricane or Thunder, that makes Compound Eyes all the more Important. Vivillon and Galvantula are the two best users of this ability, since they rely so heavily on Hurricane and Thunder respectively. You're getting two 120 base-power moves at an amazing 91% accuracy. That is absolutely lethal to the opposition, and also is the reason Vivillon is one of the best Quiver-Dance users.",
+	"pokemon":[
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Dustox"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Scatterbug"
+		},
+		{
+			"pokemonName": "Vivillon"
+		}
+	]
+}

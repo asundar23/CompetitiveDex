@@ -1,0 +1,10 @@
+{
+	"name":"Fairy Aura",
+	"summary": "Increases the damage of Fairy moves by 1/3. Its effects are reversed by Aura Break.",
+	"viability": "Xerneas has a gem of an ability here. Moonblast is a 95 base-powered move, and with Fairy Aura that increases to an outstanding 124. Combined with Geomancy and Xerneas's amazing Special Attack, that makes Moonblast an absolute terror.",
+	"pokemon":[
+		{
+			"pokemonName": "Xerneas"
+		}
+	]
+}

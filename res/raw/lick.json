@@ -1,0 +1,52 @@
+{
+	"name": "Lick",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "30",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance of paralyzing the target.",
+	"viability": "With only a 30 percent chance of paralyzing and 30 damage, this move is not viable. There are many stronger ghost type moves, as well as other more effective means of paralyzing an opponent. ",
+	"pokemonByLevel": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Jynx" },
+		{ "pokemonName": "Snorlax" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Granbull" },
+		{ "pokemonName": "Teddiursa" },
+		{ "pokemonName": "Ursaring" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Kecleon" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Pansage" },
+		{ "pokemonName": "Simisage" },
+		{ "pokemonName": "Pansear" },
+		{ "pokemonName": "Simisear" },
+		{ "pokemonName": "Panpour" },
+		{ "pokemonName": "Simipour" },
+		{ "pokemonName": "Heatmor" },
+		{ "pokemonName": "Froakie" },
+		{ "pokemonName": "Frogadier" },
+		{ "pokemonName": "Greninja" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Snorlax" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Lillipup" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "Pin Missile",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "25",
+	"accuracy": "95",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Pin Missile is only usable on Mega Heracross, who will have a 125 base power STAB move with Skill Link.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Beedrill" },
+		{ "pokemonName": "Jolteon" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Zigzagoon" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Cacturne" },
+		{ "pokemonName": "skorupi" },
+		{ "pokemonName": "Drapion" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Chespin" },
+		{ "pokemonName": "Quilladin" },
+		{ "pokemonName": "Chesnaught" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Joltik" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

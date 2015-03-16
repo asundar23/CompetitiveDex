@@ -1,0 +1,34 @@
+{
+	"name":"Quick Feet",
+	"summary": "Increases the user's Speed by 50% if inflicted with a status.",
+	"viability": "The only realistic user of Quick Feet is Ursaring, who can activate a Toxic Orb and then proceed to sweep with Swords Dance and Facade. Otherwise, Linoone can't get it yet, Mightyena has Moxie, Jolteon has Volt Absorb, and Granbull has Intimidate.",
+	"pokemon":[
+		{
+			"pokemonName": "Jolteon"
+		},
+		{
+			"pokemonName": "Granbull"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Mightyena"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Shroomish"
+		}
+	]
+}

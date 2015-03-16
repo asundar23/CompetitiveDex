@@ -1,0 +1,52 @@
+{
+	"name":"Lightning Rod",
+	"summary": "The user is immune to all Electric-type attacks, as well as Electrify and Eerie Impulse. In addition, the use will receive a Special Attack boost.",
+	"viability": "Lightning Rod is a wonderful ability, simply due to the abundance of Volt Switch. It works best on Pikachu, Raichu, and Manectric to their great Special Attack. One correct prediction and the Pokémon become instant threats. Seaking also gains an immunity to what should be weakness. That's always useful.",
+	"pokemon":[
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Raichu"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Zebstrika"
+		}
+	]
+}

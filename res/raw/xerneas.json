@@ -1,0 +1,322 @@
+{ 
+	 "name": "Xerneas",
+	"types": [
+		" Fairy "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		126,
+		131,
+		95,
+		131,
+		98,
+		99
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Aromatherapy",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Ingrain",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 10,
+			"move": "Aurora Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 18,
+			"move": "Gravity",
+			"type": " Psychic "
+		},
+		{
+			"level": 26,
+			"move": "Geomancy",
+			"type": " Fairy "
+		},
+		{
+			"level": 35,
+			"move": "Moonblast",
+			"type": " Fairy "
+		},
+		{
+			"level": 44,
+			"move": "Megahorn",
+			"type": " Bug "
+		},
+		{
+			"level": 51,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 55,
+			"move": "Horn Leech",
+			"type": " Grass "
+		},
+		{
+			"level": 59,
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"level": 63,
+			"move": "Misty Terrain",
+			"type": " Fairy "
+		},
+		{
+			"level": 72,
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"level": 80,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 88,
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"level": 93,
+			"move": "Outrage",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Team Flare Secret HQ (Only one)"},
+		{"Location": "Trade"}
+	],
+	"abilities": [
+		"Fairy Aura"
+	],
+	"sets": [
+	]
+}

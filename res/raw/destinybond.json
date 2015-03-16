@@ -1,0 +1,116 @@
+{
+	"name": "Destiny Bond",
+	"note": "",
+	"type": " Ghost ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "When used, if the user faints because of an attack, the Pokémon who did the attack will also faint. The previous move before the attack must have been Destiny Bond, however; otherwise, it doesn't work.",
+	"viability": "Destiny Bond is a very good move. Mega Banette is potentially the best user of this move, due to it having Prankster, and boosting Destiny Bond's priority to +1. 
+	
+	Fast Ghost-types, such as Gengar, or bulky trappers like Wobbuffet are also good users, the former with speed and the latter with tanking ability. There is some prediction involved, though, so it's reccommended to not reveal it too early so that the opponent doesn't work their way around it.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Wobbuffet"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Wynaut"
+		},
+		{
+			"pokemonName": "Vespiquen"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Cofagrigus"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Honedge"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Pumpkaboo"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

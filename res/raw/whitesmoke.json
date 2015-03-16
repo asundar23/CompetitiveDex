@@ -1,0 +1,13 @@
+{
+	"name":"White Smoke",
+	"summary": "Prevents stat reduction. Does not self-inflicted stat reductions like with Overheat, nor does it prevent stat reduction from paralysis.",
+	"viability": "Heatmor does better with Flash Fire, so Torkoal is the only realistic user of White Smoke. Under no circumstances does it want its Defense or Special Attack decreasing, so White Smoke is good for Torkoal.",
+	"pokemon":[
+		{
+			"pokemonName": "Torkoal"
+		},
+		{
+			"pokemonName": "Heatmor"
+		}
+	]
+}

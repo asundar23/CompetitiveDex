@@ -1,0 +1,52 @@
+{
+	"name":"Technician",
+	"summary": "Moves that have 60 base power and below are increased by 1.5x the damage.",
+	"viability": "Technician is one of the best abilities out there, primarily for Pokémon like Scizor and Breloom. For them, they have priority moves in the form of Bullet Punch and Mach Punch, respectively. These moves are boosted to 60 base power before STAB, which makes them very dangerous with priority. Moves like Bullet Seed also are increased, which at the very least become 75 Base Power moves before STAB. Fake Out, on Ambipom and Persian, also gets a boost, turning into a 60 base power move. With a Normal Gem, that increases by even more. Technician is a great ability, and should be used wherever applicable.",
+	"pokemon":[
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Mega Scizor"
+		},
+		{
+			"pokemonName": "Smeargle"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Kricketune"
+		},
+		{
+			"pokemonName": "Roserade"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Cinccino"
+		}
+	]
+}

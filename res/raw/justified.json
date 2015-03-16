@@ -1,0 +1,34 @@
+{
+	"name":"Justified",
+	"summary": "When the user is hit by a Dark-type move, their Attack stat will raise by one stage.",
+	"viability": "Dark type moves are pretty common, so it's a fair option. With Terrakion, Virizion (physical variant), and Cobalion, Justified really works due to their resistance to Dark type, then firing back with a powerful Close Combat. Lucario is a similar story, although some people prefer Steadfast. It really depends on the set your Pokémon is running, and if the other abilities provided serve their purposes better.",
+	"pokemon":[
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Cobalion"
+		},
+		{
+			"pokemonName": "Terrakion"
+		},
+		{
+			"pokemonName": "Virizion"
+		},
+		{
+			"pokemonName": "Keldeo"
+		}
+	]
+}

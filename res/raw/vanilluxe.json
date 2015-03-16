@@ -1,0 +1,380 @@
+{ 
+	 "name": "Vanilluxe",
+	"types": [
+		" Ice "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Vanillite" },
+   		{ "pokemonName":"Vanillish" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vanillish" },
+   		{ "pokemonName":"Vanilluxe" }
+   ],
+   "evolutionType":[
+   		"Level 35",
+   		"Level 47"
+   ],
+	"stats": [
+		71,
+		95,
+		85,
+		110,
+		95,
+		79
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Freeze-Dry",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Weather Ball",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Icicle Spear",
+			"type": " Ice "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Icy Wind",
+			"type": " Ice "
+		},
+		{
+			"level": 16,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 19,
+			"move": "Avalanche",
+			"type": " Ice "
+		},
+		{
+			"level": 22,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Mirror Shot",
+			"type": " Steel "
+		},
+		{
+			"level": 31,
+			"move": "Acid Armor",
+			"type": " Poison "
+		},
+		{
+			"level": 36,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 42,
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"level": 50,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 59,
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"level": 67,
+			"move": "Sheer Cold",
+			"type": " Ice "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM79",
+			"move": "Frost Breath",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Autotomize",
+			"pokemon": [
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Aegislash"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Ice Shard",
+			"pokemon": [
+				{"pokemonName": "Snorunt"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Iron Defense",
+			"pokemon": [
+				{"pokemonName": "Probopass"},
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Boldore"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Honedge"},
+				{"pokemonName": "Doublade"},
+				{"pokemonName": "Aegislash"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Imprison",
+			"pokemon": [
+				{"pokemonName": "Klefki"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Magnet Rise",
+			"pokemon": [
+				{"pokemonName": "Probopass"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Sudowoodo"},
+				{"pokemonName": "Nosepass"},
+				{"pokemonName": "Probopass"},
+				{"pokemonName": "Snorunt"},
+				{"pokemonName": "Glalie"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Powder Snow",
+			"pokemon": [
+				{"pokemonName": "Snorunt"},
+				{"pokemonName": "Glalie"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Snorunt"},
+				{"pokemonName": "Glalie"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Icy Wind",
+		"Iron Defense",
+		"Magic Coat",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Vanillish"},
+		{ "Location": "Evolve Vanillish"},
+		{ "Location": "Giant Chasm"},
+		{ "Location": "Dragonspiral Tower (Winter)"},
+		{ "Location": "Evolve Vanillish"},
+		{ "Location": "Evolve Vanillish"}
+
+	],
+	"abilities": [
+		"Ice Body",
+		"Weak Armor"
+	],
+	"sets": [
+	]
+}

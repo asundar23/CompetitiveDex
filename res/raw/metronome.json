@@ -1,0 +1,31 @@
+{
+	"name": "Metronome",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "A random move is performed when the user uses Metronome.",
+	"viability": "While not viable, Metronome-only battles are hilarious and incredibly fun. Just grab six Pokemon with only Metronome and do a Triple Battle with your partner.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Clefable" },
+		{ "pokemonName": "Mew" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Togetic" },
+		{ "pokemonName": "Munchlax" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Happiny" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

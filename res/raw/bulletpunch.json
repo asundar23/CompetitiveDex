@@ -1,0 +1,31 @@
+{
+	"name": "Bullet Punch",
+	"note": "",
+	"type": " Steel ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and is an increased priority move.",
+	"viability": "Bullet Punch is excellent on Scizor, who with Technician turns this into a base 60 priority move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Scizor" },
+		{ "pokemonName": "Metang" },
+		{ "pokemonName": "Metagross" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Croagunk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

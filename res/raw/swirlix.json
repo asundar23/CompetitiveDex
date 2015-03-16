@@ -1,0 +1,313 @@
+{ 
+	 "name": "Swirlix",
+	"types": [
+		" Fairy "
+	],
+	"eggGroup": [
+		" Fairy "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Swirlix" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Slurpuff" }
+   	],
+   "evolutionType":[
+   		"Trade holding Whipped Dream"
+   ],
+	"stats": [
+		62,
+		48,
+		66,
+		59,
+		57,
+		49
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Fairy Wind",
+			"type": " Fairy "
+		},
+		{
+			"level": 8,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Cotton Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 21,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Aromatherapy",
+			"type": " Grass "
+		},
+		{
+			"level": 31,
+			"move": "Draining Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 36,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 41,
+			"move": "Cotton Guard",
+			"type": " Grass "
+		},
+		{
+			"level": 45,
+			"move": "Wish",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Play Rough",
+			"type": " Fairy "
+		},
+		{
+			"level": 58,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 67,
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "After You",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Audino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Belly Drum",
+			"pokemon": [
+				{"pokemonName": "Marill"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Copycat",
+			"pokemon": [
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Route 7, Friend Safari (Fairy)"},
+		{ "Location": "Friend Safari (Fairy)"}
+
+	],
+	"abilities": [
+		"Sweet Veil",
+		"Unburden"
+	],
+	"sets": [
+	]
+}

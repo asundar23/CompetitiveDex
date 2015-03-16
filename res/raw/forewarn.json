@@ -1,0 +1,25 @@
+{
+	"name":"Forewarn",
+	"summary": "Shows the opponent's move with the higest base power. If two or more moves have the same base power, one is chosen at random.",
+	"viability": "Forewarn can be somewhat useful for scouting an opponent's moveset, and this should be used on a bulky Pokémon like Hypno. Jynx has Dry Skin, which is far more useful, and Musharna has Synchronize.",
+	"pokemon":[
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Hypno"
+		},
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Musharna"
+		}
+	]
+}

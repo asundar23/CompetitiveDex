@@ -1,0 +1,40 @@
+{
+	"name": "Twister",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "20",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deas damage, affects all adjacent foes, and has a 20% chance to cause each target to flinch.",
+	"viability": "Don't use Twister. There are many better options out there with better base power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pidgey" },
+		{ "pokemonName": "Pidgeotto" },
+		{ "pokemonName": "Pidgeot" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Seadra" },
+		{ "pokemonName": "Gyarados" },
+		{ "pokemonName": "Dratini" },
+		{ "pokemonName": "Dragonair" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Kingdra" },
+		{ "pokemonName": "Milotic" },
+		{ "pokemonName": "Rayquaza" },
+		{ "pokemonName": "Dragalge" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Wingull" },
+		{ "pokemonName": "Bagon" },
+		{ "pokemonName": "Gible" },
+		{ "pokemonName": "Mantyke" },
+		{ "pokemonName": "Snivy" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

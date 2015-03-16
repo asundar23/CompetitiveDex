@@ -1,0 +1,112 @@
+{
+	"name":"Chlorophyll",
+	"summary": "When the weather is Sunny, the Speed of the Pokémon doubles.",
+	"viability": "This is an incredible ability for Grass sweepers. In fact, Chlorophyll combined with Growth will give you +2 Speed, +2 Special Attack, and +2 Special Defense is the weather is sunny. Although there is no permanent weather like in earlier generations, the fact that you can still have 8 turns of sweeping ability is very advantageous.",
+	"pokemon":[
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Ivysaur"
+		},
+		{
+			"pokemonName": "Venusaur"
+		},
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Gloom"
+		},
+		{
+			"pokemonName": "Vileplume"
+		},
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Weepinbell"
+		},
+		{
+			"pokemonName": "Victreebel"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Exeggutor"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Bellossom"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Nuzleaf"
+		},
+		{
+			"pokemonName": "Shiftry"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Cherubi"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Leafeon"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Swadloon"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Whimsicott"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Lilligant"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		}
+	]
+}

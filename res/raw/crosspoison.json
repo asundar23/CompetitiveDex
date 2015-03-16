@@ -1,0 +1,51 @@
+{
+	"name": "Cross Poison",
+	"note": "",
+	"type": " Poison ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage, has an increased critical hit ratio, and has a 10% chance to poison the opponent.",
+	"viability": "Poison Jab outclasses Cross Poison in every way, given the higher base power and poisoning chance. For those that don't get Poison Jab, like Crobat, Cross Poison is a nIce option. Crobat can run this move to take on Florges with minimal issue, due to Florges's poor physical Defense. Its base power is a bit low, though, so you would have to decide if the added coverage is worth the lack of power.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Joltik"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

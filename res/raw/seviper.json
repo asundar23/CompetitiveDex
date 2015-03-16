@@ -1,0 +1,583 @@
+{
+	"name":"Seviper",
+	"types": [
+		"Poison"
+	],
+	"eggGroup": [
+		"Field",
+		"Dragon"
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 7,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Poison Tail",
+			"type": " Poison "
+		},
+		{
+			"level": 13,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"level": 19,
+			"move": "Glare",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Poison Fang",
+			"type": " Poison "
+		},
+		{
+			"level": 25,
+			"move": "Venom Drench",
+			"type": " Poison "
+		},
+		{
+			"level": 28,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 34,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 37,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 40,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 46,
+			"move": "Coil",
+			"type": " Poison "
+		},
+		{
+			"level": 49,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Shed Skin",
+		"Infiltrator"
+	],
+	"locations": [
+		{"Location": "Route 208 (Sapphire)"},
+		{"Location": "Route 208 (Sapphire)"},
+		{"Location": "Route 208 (Sapphire)"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Forest"},
+		{"Location": "Route 11, Village Bridge"},
+		{"Location": "Route 11, Village Bridge"},
+		{"Location": "Routes 7 and 11, Village Bridge, Routes 7 and 23 (Hidden Grotto)"},
+		{"Location": "Routes 7 and 11, Village Bridge, Routes 7 and 23 (Hidden Grotto)"},
+		{"Location": "Route 8, Friend Safari (Poison)"},
+		{"Location": "Route 8, Friend Safari (Poison)"}
+	],
+	"stats": [
+		73,
+		100,
+		60,
+		100,
+		60,
+		65
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Wrap",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 9,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 12,
+			"move": "Poison Tail",
+			"type": " Poison "
+		},
+		{
+			"level": 16,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"level": 23,
+			"move": "Glare",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Poison Fang",
+			"type": " Poison "
+		},
+		{
+			"level": 28,
+			"move": "Venom Drench",
+			"type": " Poison "
+		},
+		{
+			"level": 31,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 34,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 38,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 42,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 45,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 46,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 48,
+			"move": "Coil",
+			"type": " Poison "
+		},
+		{
+			"level": 50,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Final Gambit",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Punishment",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Spit Up",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Wring Out",
+			"pokemon": [
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Snivy"},
+				{"pokemonName": "Servine"},
+				{"pokemonName": "Serperior"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bind",
+		"Dark Pulse",
+		"Gastro Acid",
+		"Giga Drain",
+		"Iron Tail",
+		"Knock Off",
+		"Sleep Talk",
+		"Snatch",
+		"Snore"
+	],
+	"sets": [
+	]
+}

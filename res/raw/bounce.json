@@ -1,0 +1,366 @@
+{
+	"name": "Bounce",
+	"note": "",
+	"type": " Flying ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "85",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 30% chance of paralyzing the target. The Pokémon is in a semi-invulnerable state for one turn, then attacks the next. Gust, Thunder, Twister, and Sky Uppercut can hit the user while in this semi-invulnerable state; their powers are doubled as well. Hurricane can hit this semi-invulnerable state as well, but its power is not doubled. Pokémon that have used Lock-On or Mind Reader, or have the ability No Guard, can hit the Pokémon in this state. If the user is holding a Power Herb, the move will be executed in one turn.",
+	"viability": "This isn't the best move to run, but Gyarados does see some use in it. The paralyzing chance is pretty good, and Gyarados doesn't really have a better option at a Flying-STAB. Besides Gyarados, the only viable Pokémon would be Rapidash, but that is rarely seen.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Politoed"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Frogadier"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Maractus"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	{
+	"pokemonName":"Clefairy"
+},
+{
+	"pokemonName":"Clefable"
+},
+{
+	"pokemonName":"Jigglypuff"
+},
+{
+	"pokemonName":"Wigglytuff"
+},
+{
+	"pokemonName":"Ponyta"
+},
+{
+	"pokemonName":"Rapidash"
+},
+{
+	"pokemonName":"Hitmonlee"
+},
+{
+	"pokemonName":"Horsea"
+},
+{
+	"pokemonName":"Seadra"
+},
+{
+	"pokemonName":"Goldeen"
+},
+{
+	"pokemonName":"Seaking"
+},
+{
+	"pokemonName":"Magikarp"
+},
+{
+	"pokemonName":"Gyarados"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Spinarak"
+},
+{
+	"pokemonName":"Ariados"
+},
+{
+	"pokemonName":"Chinchou"
+},
+{
+	"pokemonName":"Lanturn"
+},
+{
+	"pokemonName":"Igglybuff"
+},
+{
+	"pokemonName":"Marill"
+},
+{
+	"pokemonName":"Azumarill"
+},
+{
+	"pokemonName":"Politoed"
+},
+{
+	"pokemonName":"Hoppip"
+},
+{
+	"pokemonName":"Skiploom"
+},
+{
+	"pokemonName":"Jumpluff"
+},
+{
+	"pokemonName":"Aipom"
+},
+{
+	"pokemonName":"Qwilfish"
+},
+{
+	"pokemonName":"Remoraid"
+},
+{
+	"pokemonName":"Octillery"
+},
+{
+	"pokemonName":"Delibird"
+},
+{
+	"pokemonName":"Mantine"
+},
+{
+	"pokemonName":"Kingdra"
+},
+{
+	"pokemonName":"Donphan"
+},
+{
+	"pokemonName": "Stantler"
+},
+{
+	"pokemonName":"Torchic"
+},
+{
+	"pokemonName":"Combusken"
+},
+{
+	"pokemonName":"Blaziken"
+},
+{
+	"pokemonName":"Shiftry"
+},
+{
+	"pokemonName":"Azurill"
+},
+{
+	"pokemonName":"Carvanha"
+},
+{
+	"pokemonName":"Sharpedo"
+},
+{
+	"pokemonName":"Wailmer"
+},
+{
+	"pokemonName":"Wailord"
+},
+{
+	"pokemonName":"Spoink"
+},
+{
+	"pokemonName":"Grumpig"
+},
+{
+	"pokemonName":"Barboach"
+},
+{
+	"pokemonName":"Whiscash"
+},
+{
+	"pokemonName":"Absol"
+},
+{
+	"pokemonName":"Huntail"
+},
+{
+	"pokemonName":"Gorebyss"
+},
+{
+	"pokemonName":"Relicanth"
+},
+{
+	"pokemonName":"Luvdisc"
+},
+{
+	"pokemonName":"Ambipom"
+},
+{
+	"pokemonName":"Buneary"
+},
+{
+	"pokemonName":"Lopunny"
+},
+{
+	"pokemonName":"Croagunk"
+},
+{
+	"pokemonName":"Toxicroak"
+},
+{
+	"pokemonName":"Finneon"
+},
+{
+	"pokemonName":"Lumineon"
+},
+{
+	"pokemonName":"Mantyke"
+},
+{
+	"pokemonName":"Phione"
+},
+{
+	"pokemonName":"Manaphy"
+},
+{
+	"pokemonName":"Victini"
+},
+{
+	"pokemonName":"Blitzle"
+},
+{
+	"pokemonName":"Zebstrika"
+},
+{
+	"pokemonName":"Tympole"
+},
+{
+	"pokemonName":"Palpitoad"
+},
+{
+	"pokemonName":"Seismitoad"
+},
+{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+{
+	"pokemonName":"Maractus"
+},
+{
+	"pokemonName":"Archen"
+},
+{
+	"pokemonName":"Archeops"
+},
+{
+	"pokemonName":"Zorua"
+},
+{
+	"pokemonName":"Zoroark"
+},
+{
+	"pokemonName":"Deerling"
+},
+{
+	"pokemonName":"Sawsbuck"
+},
+{
+	"pokemonName":"Alomomola"
+},
+{
+	"pokemonName":"Joltik"
+},
+{
+	"pokemonName":"Galvantula"
+},
+{
+	"pokemonName":"Eelektrik"
+},
+{
+	"pokemonName":"Eelektross"
+},
+{
+	"pokemonName":"Stunfisk"
+},
+{
+	"pokemonName":"Mienfoo"
+},
+{
+	"pokemonName":"Mienshao"
+},
+{
+	"pokemonName":"Cobalion"
+},
+{
+	"pokemonName":"Virizion"
+},
+{
+	"pokemonName":"Keldeo"
+}
+	]
+}

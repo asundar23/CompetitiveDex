@@ -1,0 +1,35 @@
+{
+	"name": "Meditate",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Attack by one level.",
+	"viability": "While this is the only Attack-boosting move for Medicham, it's not really worth it. Raising one stat by one stage doesn't really do anything in the long run.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Drowzee" },
+		{ "pokemonName": "Hypno" },
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Mienshao" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Croagunk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

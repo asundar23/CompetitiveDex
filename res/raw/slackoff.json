@@ -1,0 +1,28 @@
+{
+	"name": "Slack Off",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user recovers half of its maximum HP.",
+	"viability": "Slack Off is a very good recovery move; it works the same way as Recover. To build a defensive presence, Slack Off is a good move to use.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Slowbro" },
+		{ "pokemonName": "Slakoth" },
+		{ "pokemonName": "Slaking" },
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Monferno" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Hippopotas" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

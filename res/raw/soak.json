@@ -1,0 +1,38 @@
+{
+	"name": "Soak",
+	"note": "",
+	"type":" Water ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Changes the target's type to pure water.",
+	"viability": "The only real use of this is with Shedinja's Wonder Guard in Doubles/Triples. Instead of being weak to five different types, it'll only be weak to two: Grass and Electric.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Golduck" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Seaking" },
+		{ "pokemonName": "Remoraid" },
+		{ "pokemonName": "Octillery" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Finneon" },
+		{ "pokemonName": "Lumineon" },
+		{ "pokemonName": "Red-Striped Basculin" },
+		{ "pokemonName": "Blue-Striped Basculin" },
+		{ "pokemonName": "Alomomola" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chinchou" },
+		{ "pokemonName": "Wingull" },
+		{ "pokemonName": "Azurill" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Buizel" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

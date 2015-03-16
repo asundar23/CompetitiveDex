@@ -1,0 +1,54 @@
+{
+	"name": "Drill Peck",
+	"note": "",
+	"type":" Flying ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and hits non-adjacent opponents in Triple Battles.",
+	"viability": "While not as good as Brave Bird, it's a great option for Fearow, who does not have access to it.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Prinplup"
+		},
+		{
+			"pokemonName": "Empoleon"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Skarmory"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

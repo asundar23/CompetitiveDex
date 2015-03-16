@@ -1,0 +1,81 @@
+{ 
+	 "name": "Beldum",
+	"types": [
+		" Steel ",
+		" Psychic "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Beldum" },
+   		{ "pokemonName":"Metang" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Metang" },
+   		{ "pokemonName":"Metagross" }
+   	],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 45"
+   ],
+	"stats": [
+		40,
+		55,
+		80,
+		35,
+		60,
+		30
+	],
+	"ORASmoveList": [
+		{
+			"level": 1,
+			"move": "Take Down",
+			"type": " Normal "
+		}
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Take Down",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Iron Defense",
+		"Iron Head",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Route 228 (Swarm)"},
+		{ "Location": "Route 228 (Swarm)"},
+		{ "Location": "Route 228 (Swarm)"},
+		{ "Location": "Trade Forretress to Steven at Silph Co., Safari Zone"},
+		{ "Location": "Trade Forretress to Steven at Silph Co., Safari Zone"},
+		{ "Location": "Mountain"},
+		{ "Location": "Breed Metang or Metagross"},
+		{ "Location": "Breed Metang or Metagross"},
+		{ "Location": "Breed Metang or Metagross"},
+		{ "Location": "Breed Metang or Metagross"},
+		{ "Location": "Breed Metang or Metagross"},
+		{ "Location": "Breed Metang or Metagross"}
+
+	],
+	"abilities": [
+		"Clear Body",
+		"Light Metal"
+	],
+	"sets": [
+	]
+}

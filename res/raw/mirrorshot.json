@@ -1,0 +1,35 @@
+{
+	"name": "Mirror Shot",
+	"note": "",
+	"type":" Steel ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "85",
+	"summary": "Deals damage and has a 30% chance to decrease the target's accuracy by one stage.",
+	"viability": "Even with the nice accuracy chance, the power and accuracy simply aren't good.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Wormadam-Trash" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Vanillite" },
+		{ "pokemonName": "Vanillish" },
+		{ "pokemonName": "Vanilluxe" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Klefki" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

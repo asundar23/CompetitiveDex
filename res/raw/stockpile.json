@@ -1,0 +1,51 @@
+{
+	"name": "Stockpile",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Defense and Special Defense by one stage each. Powers up Spit Up and Swallow.",
+	"viability": "Stockpile can be a lesser version of Cosmic Power. Actually, three Stockpiles do the job quite well for establishing a defensive presence, so Stockpile is quite good in that respect. Just don't use Spit Up or Swallow.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Lanturn" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Cradily" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Hippopotas" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

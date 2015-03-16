@@ -1,0 +1,591 @@
+{
+	"name": "Dream Eater",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "15",
+	"power": "100",
+	"accuracy": "100",
+	"summary": "Deals damage only if the target asleep. Dream Eater will restore 50% of the dealt damage to the user. Affected by Big Root.",
+	"viability": "It doesn't seem to good on paper, mostly because you are revolving your strategy around the sleep status. While the power and accuracy are great, putting your opponent to sleep is hard because moves like Hypnosis have poor accuracy.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Munna"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Chingling"
+		}
+	],
+	"pokemonByTM": [
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Ninetales"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Hypno"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Exeggutor"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Starmie"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Espeon"
+		},
+		{
+			"pokemonName": "Umbreon"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Celebi"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Shedinja"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Lunatone"
+		},
+		{
+			"pokemonName": "Solrock"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Clayfol"
+		},
+		{
+			"pokemonName": "Shuppet"
+		},
+		{
+			"pokemonName": "Banette"
+		},
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Dusclops"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Deoxys"
+		},
+		{
+			"pokemonName": "Wormadam-Plant"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Drifblim"
+		},
+		{
+			"pokemonName": "Mismagius"
+		},
+		{
+			"pokemonName": "Honchkrow"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Dusknoir"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Uxie"
+		},
+		{
+			"pokemonName": "Mesprit"
+		},
+		{
+			"pokemonName": "Azelf"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Cresselia"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Mursharna"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Swadloon"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Whimsicott"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Lilligant"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		},
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Cofagrigus"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Duosion"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		},
+		{
+			"pokemonName": "Frillish"
+		},
+		{
+			"pokemonName": "Jellicent"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Beheeyem"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Chandelure"
+		},
+		{
+			"pokemonName": "Meloetta"
+		},
+		{
+			"pokemonName": "Fennekin"
+		},
+		{
+			"pokemonName": "Braixen"
+		},
+		{
+			"pokemonName": "Delphox"
+		},
+		{
+			"pokemonName": "Vivillon"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Amaura"
+		},
+		{
+			"pokemonName": "Aurorus"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		},
+		{
+			"pokemonName": "Gourgeist-Small"
+		},
+		{
+			"pokemonName": "Gourgeist-Average"
+		},
+		{
+			"pokemonName": "Gourgeist-Large"
+		},
+		{
+			"pokemonName": "Gourgeist-Super"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

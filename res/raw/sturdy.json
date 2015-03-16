@@ -1,0 +1,115 @@
+{
+	"name":"Sturdy",
+	"summary": "If the user is at full HP, moves that would OHKO will leave the Pokémon living with one-HP.",
+	"viability": "With Stealth Rock being so heavily used, Sturdy isn't that good. Therefore, the best way to use Sturdy is to lead with a Pokémon with the ability. This allows Pokémon like Skarmory to set up Stealth Rock while not having to worry about being OHKO'ed.",
+	"pokemon":[
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Graveler"
+		},
+		{
+			"pokemonName": "Golem"
+		},
+		{
+			"pokemonName": "Magnemite"
+		},
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Donphan"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Relicanth"
+		},
+		{
+			"pokemonName": "Regirock"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "Bastiodon"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Probopass"
+		},
+		{
+			"pokemonName": "Roggenrola"
+		},
+		{
+			"pokemonName": "Boldore"
+		},
+		{
+			"pokemonName": "Gigalith"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Crustle"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Carbink"
+		},
+		{
+			"pokemonName": "Bergmite"
+		},
+		{
+			"pokemonName": "Avalugg"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "Rock Climb",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "90",
+	"accuracy": "85",
+	"summary": "Deals damage, and has a 20% chance to flinch the target.",
+	"viability": "There is no competitive use for Rock Climb. Return and Double-Edge are just so much beter, with better power and accuracy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Whirlipede" },
+		{ "pokemonName": "Scolipede" },
+		{ "pokemonName": "Scraggy" },
+		{ "pokemonName": "Scrafty" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Fruddigon" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Gligar" },
+		{ "pokemonName": "Zigzagoon" },
+		{ "pokemonName": "Bidoof" },
+		{ "pokemonName": "Gible" },
+		{ "pokemonName": "Drilbur" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Sandile" },
+		{ "pokemonName": "Joltik" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Bouffalant" },
+		{ "pokemonName": "Durant" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

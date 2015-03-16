@@ -1,0 +1,78 @@
+{
+	"name": "Brave Bird",
+	"note": "",
+	"type": " Flying ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user receives 1/3 of the damage done to the target. Can hit non-adjacent targets in Triple Battles.",
+	"viability": "This is the best Physical-Flying type move out there. The recoil damage isn't too bad, and 120 power with 100% accuracy is perfect. Talonflame, with its Gale Wings ability, is one of the best users of this move. In addition, Blaziken can run this as an additional coverage move, Ho-Oh has an amazing STAB move, and Swellow can utilize its Guts ability to hit hard. Definitely find a spot for this move on your team if you can, because it usually will deal a significant amount of damage.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		},
+		{
+			"pokemonName": "Talonflame"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Taillow"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

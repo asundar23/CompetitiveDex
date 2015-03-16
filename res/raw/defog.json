@@ -1,0 +1,68 @@
+{
+	"name": "Defog",
+	"note": "",
+	"type": " Flying ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Lowers the target's evasion stat, and clears Safeguard, Mist, Toxic Spikes, Stealth Rock, Spikes, and Sticky Web from both sides of the field. Will clear Light Screen and Reflect from the target's side of the field.",
+	"viability": "Defog received an incredible buff in Generation VI, and is now one of the most popular moves. 
+	
+	The problems with Rapid Spin is that it does negligible damage and can be blocked by Ghosts. Defog, on the other hand, doesn't have this issue, although it can be Taunted. 
+	
+	In addition, lowering your target's evasiveness may not seem like a big deal, but it virtually guarantees low accuracy moves such as Hydro Pump or Fire Blast. It's a nIce little side bonus, but it should mainly be used for clearing out entry hazards and screens.",
+	
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		}
+	],
+	"pokemonByBreeding": [
+		{	
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Drifloon"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Archen"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

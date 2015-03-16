@@ -1,0 +1,450 @@
+{
+   "name":"Abra",
+   "types":[
+      " Psychic "
+   ],
+   "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Abra" },
+   		{ "pokemonName":"Kadabra" },
+   		{ "pokemonName":"Alakazam" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kadabra" },
+   		{ "pokemonName":"Alakazam" },
+   		{ "pokemonName":"Mega Alakazam" }
+   ],
+   "evolutionType":[
+   		"Level 16",
+   		"Trade",
+   		"Alakazite"
+   ],
+   "eggGroup":[
+      " Human-Like "
+   ],
+   "stats":[
+      25,
+      20,
+      15,
+      105,
+      55,
+      90
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Teleport",
+         "type":" Psychic "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM03",
+         "move":"Psyshock",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM04",
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM12",
+         "move":"Taunt",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM20",
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM29",
+         "move":"Psychic",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM30",
+         "move":"Shadow Ball",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM41",
+         "move":"Torment",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM46",
+         "move":"Thief",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM53",
+         "move":"Energy Ball",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM57",
+         "move":"Charge Beam",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM63",
+         "move":"Embargo",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM73",
+         "move":"Thunder Wave",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM85",
+         "move":"Dream Eater",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM92",
+         "move":"Trick Room",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM99",
+         "move":"Dazzling Gleam",
+         "type":" Fairy "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+
+   ],
+   "breedMoveList":[
+      {
+         "move":"Ally Switch",
+         "pokemon":[
+            {
+               "pokemonName":"Kadabra"
+            },
+            {
+               "pokemonName":"Alakazam"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Barrier",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Encore",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Hawlucha"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Fire Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Electivire"
+            },
+            {
+               "pokemonName":"Alakazam"
+            },
+            {
+               "pokemonName":"Magmortar"
+            },
+            {
+               "pokemonName":"Medicham"
+            }
+         ],
+         "type":" Fire "
+      },
+      {
+         "move":"Guard Split",
+         "pokemon":[
+            {
+               "pokemonName":"Elgyem"
+            },
+            {
+               "pokemonName":"Beheeyem"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Guard Swap",
+         "pokemon":[
+            {
+               "pokemonName":"Mr. Mime"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Ice Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Medicham"
+            }
+         ],
+         "type":" Ice "
+      },
+      {
+         "move":"Knock Off",
+         "pokemon":[
+            {
+               "pokemonName":"Makuhita"
+            },
+            {
+               "pokemonName":"Hariyama"
+            },
+            {
+               "pokemonName":"Sableye"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Power Trick",
+         "pokemon":[
+            {
+               "pokemonName":"Meditite"
+            },
+            {
+               "pokemonName":"Medicham"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Psycho Shift",
+         "pokemon":[
+            {
+               "pokemonName":"Spinda"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Skill Swap",
+         "pokemon":[
+            {
+               "pokemonName":"Abra"
+            },
+            {
+               "pokemonName":"Kadabra"
+            },
+            {
+               "pokemonName":"Alakazam"
+            },
+            {
+               "pokemonName":"Drowzee"
+            },
+            {
+               "pokemonName":"Hypno"
+            },
+            {
+               "pokemonName":"Mr. Mime"
+            },
+            {
+               "pokemonName":"Spinda"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Thunder Punch",
+         "pokemon":[
+            {
+               "pokemonName":"Hitmonchan"
+            },
+            {
+               "pokemonName":"Electabuzz"
+            },
+            {
+               "pokemonName":"Electivire"
+            },
+            {
+               "pokemonName":"Magmortar"
+            },
+            {
+               "pokemonName":"Medicham"
+            },
+            {
+               "pokemonName":""
+            }
+         ],
+         "type":" Electric "
+      }
+   ],
+   "tutorMoveList":[
+      "Drain Punch",
+      "Fire Punch",
+      "Foul Play",
+      "Gravity",
+      "Ice Punch",
+      "Iron Tail",
+      "Knock Off",
+      "Magic Coat",
+      "Magic Room",
+      "Recycle",
+      "Role Play",
+      "Signal Beam",
+      "Skill Swap",
+      "Sleep Talk",
+      "Snatch",
+      "Snore",
+      "Thunder Punch",
+      "Trick",
+      "Wonder Room",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      {"Location": "Routes 203 and 215, Trade Machop in Oreburgh City"},
+      {"Location": "Routes 203 and 215, Trade Machop in Oreburgh City"},
+      {"Location": "Routes 203 and 215, Trade Machop in Oreburgh City"},
+      {"Location": "Routes (5, 6, 8, 24, 25, 34, and 35), Safari Zone, Goldenrod Game Corner"},
+      {"Location": "Routes (5, 6, 8, 24, 25, 34, and 35), Safari Zone, Goldenrod Game Corner"},
+      {"Location": "Field"},
+      {"Location": "Trade"},
+      {"Location": "White Forest"},
+      {"Location": "Breed Kadabra or Alakazam"},
+      {"Location": "Breed Kadabra or Alakazam"},
+      {"Location": "Route 5, Friend Safari (Psychic)"},
+      {"Location": "Route 5, Friend Safari (Psychic)"}
+   ],
+   "abilities":[
+      "Synchronize",
+      "Inner Focus",
+      "Magic Guard"
+   ],
+   "sets":[
+
+   ]
+}

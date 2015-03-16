@@ -1,0 +1,25 @@
+{
+	"name": "Milk Drink",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Restores up to 50% of the user's current HP. Outside of battle, Milk Drink can be used to take away the user's HP and pass it off to another party Pokemon.",
+	"viability": "Milk Drink is a very usable move for stallers like Miltank or Gogoat. Since that is their only real recovery option, it's best to use it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Skiddo" },
+		{ "pokemonName": "Gogoat" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Skiddo" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

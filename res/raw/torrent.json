@@ -1,0 +1,67 @@
+{
+	"name":"Torrent",
+	"summary": "Powers up Water-type moves by 1.5x if the user is at 1/3 of their maximum HP.",
+	"viability": "Similar to Swarm, Blaze, and Overgrow, Torrent works the best on bulkier water types like Empoleon, Blastoise, or Swampert. They can tank hits, and when they are at a low enough HP, can fire back with a powerful Hydro Pump or Waterfall.",
+	"pokemon":[
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Wartortle"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Marshtomp"
+		},
+		{
+			"pokemonName": "Swampert"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Prinplup"
+		},
+		{
+			"pokemonName": "Empoleon"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": "Simipour"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Frogadier"
+		},
+		{
+			"pokemonName": "Greninja"
+		}
+	]
+}

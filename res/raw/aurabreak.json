@@ -1,0 +1,10 @@
+{
+	"name":"Aura Break",
+	"summary": "Reverses the effects of Fairy Aura and Dark Aura. This means that Fairy and Dark moves will have its power decreased by 33% if the Pokémon has Fairy Aura or Dark Aura, respectively.",
+	"viability": "This is a pretty bad ability for Zygarde. Xerneas is an incredibly powerful Pokémon, so Moonblast will still do a lot even with Aura Break on the field. To make matters worse, this ability only affects Xerneas and Yveltal. It does nothing to help out Zygarde, really.",
+	"pokemon":[
+		{
+			"pokemonName": "Zygarde"
+		}
+	]
+}

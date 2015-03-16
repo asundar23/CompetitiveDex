@@ -1,0 +1,384 @@
+{ 
+	 "name": "Frogadier",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 1 "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Froakie" },
+   		{ "pokemonName":"Frogadier" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Frogadier" },
+   		{ "pokemonName":"Greninja" }
+   	],
+   "evolutionType":[
+   		"Level 16",
+   		"Level 36"
+   ],
+	"stats": [
+		54,
+		63,
+		52,
+		83,
+		56,
+		97
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 8,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 14,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 20,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 33,
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"level": 38,
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Bounce",
+			"type": " Flying "
+		},
+		{
+			"level": 48,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Hydro Pump",
+			"type": " Water "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bestow",
+			"pokemon": [
+				{"pokemonName": "Delibird"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Camouflage",
+			"pokemon": [
+				{"pokemonName": "Stunfisk"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mind Reader",
+			"pokemon": [
+				{"pokemonName": "Poliwrath"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Toxic Spikes",
+			"pokemon": [
+				{"pokemonName": "Omanyte"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Water Sport",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Water Pledge"
+
+	],
+	"locations": [
+		{"Location": "Friend Safari (Water)"},
+		{"Location": "Friend Safari (Water)"}
+	],
+	"abilities": [
+		"Torrent",
+		"Protean"
+	],
+	"sets": [
+	]
+}

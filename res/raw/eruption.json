@@ -1,0 +1,42 @@
+{
+	"name": "Eruption",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Does damage depending on the amount of health the user has. This is calculated by using the equation 150*(current HP/maximum HP). This means that at full health this move has a base power of 150.",
+	"viability": "Use this move with a fast or Choice Scarf user. Typhlosion utilizes Eruption best.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Camerupt"
+		},
+		{
+			"pokemonName": "Groudon"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Torkoal"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

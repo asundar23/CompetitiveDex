@@ -1,0 +1,585 @@
+{ 
+	 "name": "Chimchar",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Field ",
+		" Human-Like "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Chimchar" },
+   		{ "pokemonName":"Monferno" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Monferno" },
+   		{ "pokemonName":"Infernape" }
+   	],
+   "evolutionType":[
+   		"Level 14",
+   		"Level 36"
+   ],
+	"stats": [
+		44,
+		58,
+		44,
+		58,
+		44,
+		61
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 9,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 15,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Flame Wheel",
+			"type": " Fire "
+		},
+		{
+			"level": 23,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 39,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 41,
+			"move": "Slack Off",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Flamethrower",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assist",
+			"pokemon": [
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Blaze Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Blaziken"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Out",
+			"pokemon": [
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Nuzleaf"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Delcatty"},
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fire Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmar"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Throh"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Torkoal"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vapreon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Submission",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Thunder Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Endeavor",
+		"Fire Pledge",
+		"Fire Punch",
+		"Gunk Shot",
+		"Heat Wave",
+		"Helping Hand",
+		"Iron Tail",
+		"Low Kick",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Starter Pokémon from Professor Rowan"},
+		{"Location": "Starter Pokémon from Professor Rowan"},
+		{"Location": "Starter Pokémon from Professor Rowan"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Pokétransfer"},
+		{"Location": "Pokétransfer"},
+		{"Location": "Pokétransfer"},
+		{"Location": "Pokétransfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Blaze",
+		"Iron Fist"
+	],
+	"sets": [
+	]
+}

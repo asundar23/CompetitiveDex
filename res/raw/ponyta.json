@@ -1,0 +1,444 @@
+{ 
+	 "name": "Ponyta",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Ponyta" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Rapidash" }
+   ],
+   "evolutionType":[
+   		"Level 40"
+   ],
+	"stats": [
+		50,
+		85,
+		55,
+		65,
+		65,
+		90
+	],
+	"moveList": [
+
+		
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 13,
+			"move": "Flame Wheel",
+			"type": " Fire "
+		},
+		{
+			"level": 17,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 29,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Inferno",
+			"type": " Fire "
+		},
+		{
+			"level": 37,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"level": 45,
+			"move": "Bounce",
+			"type": " Flying "
+		},
+		{
+			"level": 49,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ally Switch",
+			"pokemon": [
+				{"pokemonName": "Mienfoo"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Minccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Charm",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Furfrou"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoar"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Flame Wheel",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Horn Drill",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Munna"},
+				{"pokemonName": "Musharna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Low kIck",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Morning Sun",
+			"pokemon": [
+				{"pokemonName": "Espeon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Heat Wave",
+		"Iron Tail",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Routes (206, 210, 211, 214, and 215)"},
+		{"Location": "Routes (206, 210, 211, 214, and 215)"},
+		{"Location": "Routes (206, 207, and 210)"},
+		{"Location": "Routes (22, 26, 27, and 28), Mt. Silver"},
+		{"Location": "Routes (22, 26, 27, and 28), Mt. Silver"},
+		{"Location": "Field"},
+		{"Location": "Breed Rapidash"},
+		{"Location": "Breed Rapidash"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Friend Safari (Fire)"},
+		{"Location": "Friend Safari (Fire)"}
+	],
+	"abilities": [
+		"Run Away",
+		"Flash Fire",
+		"Flame Body"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Rock Blast",
+	"note": "",
+	"type":" Rock ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "25",
+	"accuracy": "90",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Rock Blast is very usable with Skill Link. Mega Heracross and Cloyster can turn this move into a 125 base power move at a great 90% accuracy. It can also be used on some Pokemon like Rhyperior, if you hate using Stone Edge and won't use Rock Slide. It's not recommended outside of Skill Link, though.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Graveler" },
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Omastar" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Octillery" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Anorith" },
+		{ "pokemonName": "Armaldo" },
+		{ "pokemonName": "Wormadam-Sandy" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Roggenrola" },
+		{ "pokemonName": "Boldore" },
+		{ "pokemonName": "Gigalith" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Crustle" },
+		{ "pokemonName": "Cinccino" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Heracross" },
+		{ "pokemonName": "Remoraid" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Trubbish" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

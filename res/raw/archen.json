@@ -1,0 +1,430 @@
+{ 
+	 "name": "Archen",
+	"types": [
+		" Rock ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying ",
+		" Water 3 "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Archen" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Archeops" }
+   	],
+   "evolutionType":[
+   		"Level 37"
+   ],
+	"stats": [
+		55,
+		112,
+		45,
+		74,
+		45,
+		70
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 5,
+			"move": "Rock Throw",
+			"type": " Rock "
+		},
+		{
+			"level": 8,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 18,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 28,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 31,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 35,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 38,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "U-Turn",
+			"type": " Bug "
+		},
+		{
+			"level": 45,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 48,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 50,
+			"move": "Thrash",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ally Switch",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Bite",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Dragon Pulse",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Head Smash",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Switcheroo",
+			"pokemon": [
+				{"pokemonName": "Corphish"}
+			],
+			"type": " Dark "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bounce",
+		"Dragon Pulse",
+		"Earth Power",
+		"Endeavor",
+		"Heat Wave",
+		"Iron Defense",
+		"Iron Tail",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Revive from Plume Fossil"},
+		{"Location": "Revive from Plume Fossil"},
+		{"Location": "Revive from Plume Fossil"},
+		{"Location": "Revive from Plume Fossil"},
+		{"Location": "Revive from Plume Fossil"},
+		{"Location": "Revive from Plume Fossil"}
+	],
+	"abilities": [
+		"Defeatist"
+	],
+	"sets": [
+	]
+}

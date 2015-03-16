@@ -1,0 +1,58 @@
+{
+	"name":"Regenerator",
+	"summary": "Upon switching out, the user gains 1/3 of their maximum HP back.",
+	"viability": "This is so useful for walls like Alomomola, Slowbro, Amoonguss, and Tangrowth. They can status or cause trouble for an opponent, and if their HP is dwindling down, they can switch out and gain a significant portion back. It just might be the best ability for a defensive Pokémon out there.",
+	"pokemon":[
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Solosis"
+		},
+		{
+			"pokemonName": "Duosion"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Amoonguss"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		}
+	]
+}

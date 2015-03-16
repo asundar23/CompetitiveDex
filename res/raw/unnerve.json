@@ -1,0 +1,63 @@
+{
+	"name":"Unnerve",
+	"summary": "Prevents the opponent from using Berries.",
+	"viability": "In Singles, Unnerve isn't as good because Berries simply aren't as common. In Doubles, and Triples, though, this is better because many Pokémon run type-effective Berries and Sitrus Berry. This prevents them from using those berries to their advantage.",
+	"pokemon":[
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Masquerain"
+		},
+		{
+			"pokemonName": "Vespiquen"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+	]
+}

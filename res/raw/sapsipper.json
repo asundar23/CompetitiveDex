@@ -1,0 +1,55 @@
+{
+	"name":"Sap Sipper",
+	"summary": "The user is immune to Grass-type atatcks, and if it its Attack stat increases by one stage. If hit by Bullet Seed, the Attack stage will only raise by one.",
+	"viability": "For the most part, predicting a switch for Sap Sipper can turn the tide of the match. Gaining an immunity, as well as the opporunity to raise one of your stats is pretty valuable. The exception to this is Azumarill, who benefits far more from Huge Power than with Sap Sipper. Otherwise, for Pokémon like Miltank, Zebstrika, and Goodra, it all depends on the sets you're running and how you are going to utilize your Attack stat.",
+	"pokemon":[
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Zebstrika"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		},
+		{
+			"pokemonName": "Skiddo"
+		},
+		{
+			"pokemonName": "Gogoat"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	]
+}

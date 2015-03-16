@@ -1,0 +1,713 @@
+{
+   "name":"Heliolisk",
+   "types":[
+      " Electric ",
+      " Normal "
+   ],
+   "pokedexNumber":"695",
+   "eggGroup":[
+      " Monster ",
+      " Dragon "
+   ],
+   "setCheck": "1",
+	"preEvolution":[
+   		{ "pokemonName":"Helioptile" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Heliolisk" }
+   	],
+   "evolutionType":[
+   		"Sun Stone"
+   ],
+   "stats":[
+      62,
+      55,
+      52,
+      109,
+      94,
+      109
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Eerie Impulse",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Electrify",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Razor Wind",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Quick Attack",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Thunder",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Charge",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Parabolic Charge",
+         "type":" Electric "
+      }
+   ],
+   "ORASMoveList":[
+      {
+         "level":1,
+         "move":"Eerie Impulse",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Electrify",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Razor Wind",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Quick Attack",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Thunder",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Charge",
+         "type":" Electric "
+      },
+      {
+         "level":1,
+         "move":"Parabolic Charge",
+         "type":" Electric "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM24",
+         "move":"Thunderbolt",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM25",
+         "move":"Thunder",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM37",
+         "move":"Sandstorm",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM47",
+         "move":"Low Sweep",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM57",
+         "move":"Charge Beam",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM72",
+         "move":"Volt Switch",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM73",
+         "move":"Thunder Wave",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM78",
+         "move":"Bulldoze",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM82",
+         "move":"Dragon Tail",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM89",
+         "move":"U-turn",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM93",
+         "move":"Wild Charge",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM97",
+         "move":"Dark Pulse",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "ORASTMMoveList":[
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM24",
+         "move":"Thunderbolt",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM25",
+         "move":"Thunder",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM37",
+         "move":"Sandstorm",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM47",
+         "move":"Low Sweep",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM52",
+         "move":"Focus Blast",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM57",
+         "move":"Charge Beam",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM72",
+         "move":"Volt Switch",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM73",
+         "move":"Thunder Wave",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM78",
+         "move":"Bulldoze",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM82",
+         "move":"Dragon Tail",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM86",
+         "move":"Grass Knot",
+         "type":" Grass "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM89",
+         "move":"U-turn",
+         "type":" Bug "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM93",
+         "move":"Wild Charge",
+         "type":" Electric "
+      },
+      {
+         "tm":"TM94",
+         "move":"Secret Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM97",
+         "move":"Dark Pulse",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM03",
+         "move":"Surf",
+         "type":" Water "
+      }
+   ],
+   "ORASHMMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "hm":"HM03",
+         "move":"Surf",
+         "type":" Water "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Agility",
+         "pokemon":[
+            {
+               "pokemonName":"Horsea"
+            },
+            {
+               "pokemonName":"Seadra"
+            },
+            {
+               "pokemonName":"Kingdra"
+            },
+            {
+               "pokemonName":"Dratini"
+            },
+            {
+               "pokemonName":"Dragonair"
+            },
+            {
+               "pokemonName":"Dragonite"
+            },
+            {
+               "pokemonName":"Feraligatr"
+            },
+            {
+               "pokemonName":"Treecko"
+            },
+            {
+               "pokemonName":"Grovyle"
+            },
+            {
+               "pokemonName":"Sceptile"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Camouflage",
+         "pokemon":[
+            {
+               "pokemonName":"Skrelp"
+            },
+            {
+               "pokemonName":"Dragalge"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Electric Terrain",
+         "pokemon":[
+            {
+               "pokemonName":"Mareep"
+            }
+         ],
+         "type":" Electric "
+      },
+      {
+         "move":"Glare",
+         "pokemon":[
+            {
+               "pokemonName":"Ekans"
+            },
+            {
+               "pokemonName":"Arbok"
+            },
+            {
+               "pokemonName":"Seviper"
+            }
+         ],
+         "type":" Normal "
+      }
+   ],
+   "tutorMoveList":[
+   		"Dragon Pulse",
+   		"Electroweb",
+   		"Fire Punch",
+   		"Hyper Voice",
+   		"Iron Tail",
+   		"Low Kick",
+   		"Magnet Rise",
+   		"Shock Wave",
+   		"Signal Beam",
+   		"Snore",
+   		"Thunder Punch"
+   ],
+   "XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Helioptile"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Helioptile"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Helioptile",
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Helioptile",
+				"Trade"
+			]
+		}
+	],
+   "abilities":[
+      "Dry Skin",
+      "Sand Veil",
+      "Solar Power"
+   ],
+   "sets":[
+		{
+			"name": "Life Orb Pivot",
+			"items": [
+				"Life Orb"
+			],
+			"ability": "Dry Skin",
+			"evs": [
+				"252 Special Attack",
+				"252 Speed",
+				"4 HP"
+			],
+			"moves": [
+				"Volt Switch",
+				"Focus Blast",
+				"Surf",
+				"Dark Pulse"
+			],
+			"nature": [
+				"Timid"
+			],
+		"alternativemoves": [
+				"Thunderbolt",
+				"Grass Knot",
+				"Hidden Power Ice",
+				"Dark Pulse"
+			],
+			"setexplanation": "Heliolisk's very good Speed stat makes for a good pivot switcher while remaining a viable offensive threat. Use Volt Switch to gain momentum on a switch in or to get out of a less than desirable position. The next three moves are up to preference and team build.<br /><br />Focus Blast has great power, but comes at the cost of accuracy. This is probably the best move to use due to Fighting's coverage. Surf, Grass Knot, and Hidden Power Ice all deal with Ground types effectively and have different uses. Surf can help out against Mega Camerupt, Grass Knot against Mega Swampert, and Hidden Power Ice for mono Ground types as well as Dragons. It really depends on who you have for teammates that can possibly take on said Ground types. Thunderbolt is also an option if you want two STAB moves, one with more power.",
+			"checksandcounters": "This depends on the moves you run. If Dark Pulse isn't being run, a Specially Defensive wall such as Cresselia is your best bet. Mega Swampert can deal with a set without Grass Knot. Probably your best counter would be Dragalge, as most Heliolisk don't use Hidden Power Ice due to the lack of power. Even if it ran it, Dragalge has fantastic Special bulk to tank it easily. Druddigon can be in the same conversation.",
+			"damagecalc": "<b><i>(vs.) 248 HP, 252 Special Defense Talonflame</b></i><br /><br />• Volt Switch does 67.4 - 78.8%, which is a guaranteed 2HKO, guaranteed if Stealth Rock is up.<br /><br /><b><i>(vs.) 252 HP, 240 Special Defense Impish Mega Aggron</b></i><br /><br />• Focus Blast does 60.7 - 71.5%, a guaranteed 2HKO.<br /><br />• Thunderbolt does 45.3 - 53.7%, a 41% chance to 2HKO."
+		}
+   ]
+}

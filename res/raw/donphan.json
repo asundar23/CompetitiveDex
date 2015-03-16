@@ -1,0 +1,485 @@
+{ 
+	 "name": "Donphan",
+	"types": [
+		" Ground "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"stats": [
+		90,
+		120,
+		120,
+		60,
+		60,
+		50
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Phanpy" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Donphan" }
+   ],
+   "evolutionType":[
+   		"Level 25"
+   ],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Fang",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Horn Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Defense Curl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"level": 6,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Knock Off",
+			"type": " Dark "
+		},
+		{
+			"level": 15,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 19,
+			"move": "Magnitude",
+			"type": " Ground "
+		},
+		{
+			"level": 24,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 39,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 54,
+			"move": "Giga Impact",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ancient Power",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Kecleon"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Endeavor",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fissure",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Head Smash",
+			"pokemon": [
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Heavy Slam",
+			"pokemon": [
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Ice Shard",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Glaceon"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Play Rough",
+			"pokemon": [
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Snore",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		}
+	],
+	"tutorMoveList": [
+		"Block",
+		"Bounce",
+		"Earth Power",
+		"Endeavor",
+		"Gunk Shot",
+		"Hyper Voice",
+		"Iron Defense",
+		"Iron Tail",
+		"Knock Off",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Superpower"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Route 28. Mt. Silver, Victory Road"},
+		{ "Location": "Trade"},
+		{ "Location": "Mountain"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Evolve Phanpy"},
+		{ "Location": "Evolve Phanpy"}
+
+	],
+	"abilities": [
+		"Sturdy",
+		"Sand Veil"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name":"Fur Coat",
+	"summary": "Halves damage from Physical moves, Psyshock, Psystrike, and Secret Sword.",
+	"viability": "Combined with Cotton Guard, this makes Furfrou one of the best physical walls overall. Since Fur Coat is essentially the defensive version of Huge Power, this makes Furfrou, who doesn't have bad base physical Defense, into a behemoth of a wall.",
+	"pokemon":[
+		{
+			"pokemonName": "Furfrou"
+		}
+	]
+}

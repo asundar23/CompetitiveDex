@@ -1,0 +1,46 @@
+{
+	"name":"Serene Grace",
+	"summary": "If a move has a secondary effect, the chances of the secondary effect executing is doubled.",
+	"viability": "Serene Grace is one of the most irritating abilities around, particularly bceause of Jirachi, Shaymin-Sky, and Togekiss using Thunder Wave in conjunction with either Iron Head, for the former, or Air Slash, for the latter two. Iron Head and Air Slash both have a 60% chance of flinching the opponent, increased from the usual 30%. That makes those three very difficult to counter under this strategy. While Shaymin-Sky can't use Thunder Wave, it gets access to Seed Flare, which goes from a 40% chance of dropping the opponent's Special Defense by 2 stakes to an 80% chance. This guarantees Shaymin-Sky at least a few kills.",
+	"pokemon":[
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Blissey"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Shaymin-Sky"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		}
+	]
+}

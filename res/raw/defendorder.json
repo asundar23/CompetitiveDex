@@ -1,0 +1,24 @@
+{
+	"name": "Defend Order",
+	"note": "",
+	"type": " Bug ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Defense and Special stat each by one stage.",
+	"viability": "Defense Order is the same thing as Cosmic Power, just exclusive to Vespiquen. She's riddled with a terrible defensive typing, which includes a 4x weakness to Stealth Rock, but there aren't many options out there. It's possible to run a Substitute+Defend Order set and make yourself into a mixed wall toxic staller, but it takes a lot of setting up to pull it off. Since there are limited choIces available for Vespiquen, though, one would be advised to run Defend Order on any Vespiquen set.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vespiquen"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

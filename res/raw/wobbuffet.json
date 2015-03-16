@@ -1,0 +1,86 @@
+{ 
+	 "name": "Wobbuffet",
+	"types": [
+		" Psychic "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Wynaut" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Wobbuffet" }
+   ],
+   "evolutionType":[
+   		"Level 15"
+   ],
+	"stats": [
+		190,
+		33,
+		58,
+		33,
+		58,
+		33
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Mirror Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Lake Verity, Lake Aculty, Lake Valor (Poké Radar)"},
+		{"Location": "Lake Verity, Lake Aculty, Lake Valor (Poké Radar)"},
+		{"Location": "Lake Verity, Lake Valor (Poké Radar)"},
+		{"Location": "Cerulean Cave, Dark Cave (Locationthorn Side), Safari Zone"},
+		{"Location": "Cerulean Cave, Dark Cave (Locationthorn Side), Safari Zone"},
+		{"Location": "Field"},
+		{"Location": "Evolve Wynaut"},
+		{"Location": "Evolve Wynaut"},
+		{"Location": "Trade with Curtis or Yancy in Nimbasa City"},
+		{"Location": "Trade with Curtis or Yancy in Nimbasa City"},
+		{"Location": "Reflection Cave, Friend Safari (Psychic)"},
+		{"Location": "Reflection Cave, Friend Safari (Psychic)"}
+	],
+	"abilities": [
+		"Shadow Tag",
+		"Telepathy"
+	],
+	"sets": [
+	]
+}

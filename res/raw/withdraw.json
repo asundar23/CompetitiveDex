@@ -1,0 +1,40 @@
+{
+	"name": "Withdraw",
+	"note": "",
+	"type":" Water ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Defense by one stage.",
+	"viability": "Raising any stat by one stage by itself is not a smart move. Iron Defense and Acid Armor easily outclass it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Wartortle" },
+		{ "pokemonName": "Blastoise" },
+		{ "pokemonName": "Slowbro" },
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Omastar" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Grotle" },
+		{ "pokemonName": "Torterra" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Crustle" },
+		{ "pokemonName": "Tirtouga" },
+		{ "pokemonName": "Carracosta" },
+		{ "pokemonName": "Binacle" },
+		{ "pokemonName": "Barbaracle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

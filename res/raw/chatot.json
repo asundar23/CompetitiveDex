@@ -1,0 +1,399 @@
+{ 
+	 "name": "Chatot",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		76,
+		85,
+		45,
+		92,
+		42,
+		91
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Chatter",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Confide",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 5,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Mirror Move",
+			"type": " Flying "
+		},
+		{
+			"level": 13,
+			"move": "Sing",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Chatter",
+			"type": " Flying "
+		},
+		{
+			"level": 25,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 29,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Mimic",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 45,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Synchronoise",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Feather Dance",
+			"type": " Flying "
+		},
+		{
+			"level": 57,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Air Cutter",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "GOlbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Unfezant"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Noivern"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Boomburst",
+			"pokemon": [
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Defog",
+			"pokemon": [
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Nasty Plot",
+			"pokemon": [
+				{"pokemonName": "Honchkrow"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Night Shade",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"},
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Supersonic",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Hyper Voice",
+		"Role Play",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Routes 222 and 224 (Morning and Day)"},
+		{"Location": "Routes 222 and 224 (Morning and Day)"},
+		{"Location": "Routes 222 and 224 (Morning and Day)"},
+		"Heart GOld: Sprout Tower, Bell Tower, Burned Tower (Sinnoh Sound)",
+		{"Location": "Sprout Tower, Bell Tower, Burned Tower (Sinnoh Sound)"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Route 18 (Hidden Grotto)"},
+		{"Location": "Route 18 (Hidden Grotto)"},
+		{"Location": "Route 12, Azure Bay"},
+		{"Location": "Route 12, Azure Bay"}
+	],
+	"abilities": [
+		"Keen Eye",
+		"Tangled Feet",
+		"Big Pecks"
+	],
+	"sets": [
+	]
+}

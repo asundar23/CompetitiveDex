@@ -1,0 +1,43 @@
+{
+	"name": "Grass Whistle",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "55",
+	"summary": "Puts the target to sleep.",
+	"viability": "55 accuracy; don't use it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Sunflora" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Leafeon" },
+		{ "pokemonName": "Shaymin" },
+		{ "pokemonName": "Swadloon" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Pansage" },
+		{ "pokemonName": "Cottonee" },
+		{ "pokemonName": "Petilil" },
+		{ "pokemonName": "Maratus" },
+		{ "pokemonName": "Deerling" }
+	],
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

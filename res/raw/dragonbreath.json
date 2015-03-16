@@ -1,0 +1,114 @@
+{
+	"name": "Dragon Breath",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance of paralyzing the target.",
+	"viability": "If the power was better, this would absolutely be a better move to use. Unfortunately, it simply doesn't hit hard enough to be usable, despite the good paralyzation chance.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Arhceops"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Gible"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

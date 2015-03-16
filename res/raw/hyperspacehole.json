@@ -1,0 +1,22 @@
+{
+	"name": "Hyperspace Hole",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "5",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and is unaffected by modifications to accuracy and evasion. It hits through Protect, Detect, Spiky Shield, King's Shield, or Mat Block.",
+	"viability": "Hyperspace Hole isn't great, but it's not terrible either. The underlying problem is the only okay power. Unlike its twin Hyperspace Fury, it simple does not hit hard enough. Psychic hits harder, and Psyshock can aim for Defense. It just depends on how you want to use Hoopa.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hoopa" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

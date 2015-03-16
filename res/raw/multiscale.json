@@ -1,0 +1,13 @@
+{
+	"name":"Multiscale",
+	"summary": "Halves moves taken when the user is at maximum HP. Doesn't half moves like Night Shade, which deal a fixed damage.",
+	"viability": "Multiscale is one of the many reasons Dragonite is such a threat, and why Lugia is such a great wall. Both have access to recovery moves such as Roost, and can easily set up while not having to worry about getting hit. This is important with Dragonite especially, being 4x weak to Ice. This turns into only a 2x hit, and can set up a Dragon Dance, on its way to sweep. As for Lugia, this allows it to take neutral damage from Dark, Ghost, Ice, Electric, and Rock moves and proceed to wall the opponent. Be careful, though, as both Dragonite and Lugia are both weak to Stealth Rock, which negate Multiscale.",
+	"pokemon":[
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Lugia"
+		}
+	]
+}

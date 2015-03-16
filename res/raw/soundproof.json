@@ -1,0 +1,43 @@
+{
+	"name":"Soundproof",
+	"summary": "The user is immune to all sound moves.",
+	"viability": "Since Hyper Voice, Boomburst, and Bug Buzz are much more relevant due to their ability to hit through Substitutes, Soundproof is even more useful. Being immune to such powerful and common moves really helps, and can stop a potential powerhouse from sweeping.",
+	"pokemon":[
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Loudred"
+		},
+		{
+			"pokemonName": "Exploud"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "Bastiodon"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Snover"
+		},
+		{
+			"pokemonName": "Abomasnow"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		}
+	]
+}

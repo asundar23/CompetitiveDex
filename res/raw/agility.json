@@ -1,0 +1,369 @@
+{
+	"name": "Agility",
+	"type": " Psychic ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's speed by two stages.",
+	"viability": "This is a very underrated boosting move. For one, it makes slower/middling-speed Pokémon such as Diggersby suddenly lightning-quick. For another, being able to Baton Pass a speed boost is quite helpful. Though preferrably you'd want an Attack/Special Attack boost, having a speed buff is great for those slower Pokémon with a sky high Attack/Special Attack stat.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Pikachu"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Jolteon"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Articuno"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Kingdra"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Surskit"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Gorebyss"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Metang"
+		},
+		{
+			"pokemonName": "Metagross"
+		},
+		{
+			"pokemonName": "Deoxys-Speed"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Zebstrika"
+		},
+		{
+			"pokemonName": "Venipede"
+		},
+		{
+			"pokemonName": "Whirlipede"
+		},
+		{
+			"pokemonName": "Scolipede"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Zoroark"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Accelgor"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		},
+		{
+			"pokemonName": "Fletchling"
+		},
+		{
+			"pokemonName": "Fletchinder"
+		},
+		{
+			"pokemonName": "Talonflame"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	],
+	"note":"",
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

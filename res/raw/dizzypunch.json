@@ -1,0 +1,51 @@
+{
+	"name": "Dizzy Punch",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 20% chance of confusing the target.",
+	"viability": "20% chance of confusion simply isn't enough to justify running this move. Return and Double-Edge are far better choices.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Regigigas"
+		},
+		{
+			"pokemonName": "Reuniclus"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Kecleon"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

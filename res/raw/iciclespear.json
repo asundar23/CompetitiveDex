@@ -1,0 +1,29 @@
+{
+	"name": "Icicle Spear",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "25",
+	"accuracy": "100",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "One of the better multi-hit moves out there, but it can only really be used with Cloyster with Skill Link. This ensures that it will hit 5 times, making it a whopping 125 base power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Vanillite" },
+		{ "pokemonName": "Vanillish" },
+		{ "pokemonName": "Vanilluxe" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Corsola" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

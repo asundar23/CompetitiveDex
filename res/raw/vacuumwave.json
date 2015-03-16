@@ -1,0 +1,26 @@
+{
+	"name": "Vacuum Wave",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Special",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage. Has a priority of +1.",
+	"viability": "Vacuum Wave is not a very good priority move. The only potential user is Special-variants Lucario and Toxicroak, but they have better things to be running.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Scyther" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Croagunk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

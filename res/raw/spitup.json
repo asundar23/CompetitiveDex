@@ -1,0 +1,48 @@
+{
+	"name": "Spit Up",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "If the user has used Stockpile, Spit Up deals damage depending on how many Stockpiles have been done. One is 100 base power, two is 200, and three is 300.",
+	"viability": "Spit Up is pretty interesting, but ultimately shouldn't be used. Though you get a fantastic damage output in the end, this means you have to have used Stockpile first. Furthermore, the defense gains with Stokpile are dropped, so you're better off using something else like Pain Split or Recover.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Lanturn" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swalot" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Cradily" },
+		{ "pokemonName": "Drifloon" },
+		{ "pokemonName": "Drifblim" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Hippopotas" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

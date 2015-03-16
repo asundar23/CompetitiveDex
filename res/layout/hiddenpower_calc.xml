@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black" >
+    
+    <TextView
+        android:id="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:text="Hidden Power Calculator"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:layout_marginTop="20dp" />
+    
+    <TextView
+        android:id="@+id/y"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+    <LinearLayout
+	        android:id="@+id/blah6"
+	        android:layout_above="@+id/y"
+	        android:layout_marginBottom="40dp"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+		    
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="    "
+	            android:layout_gravity="center_horizontal"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="HP"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="Att."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="center"
+	            android:text="Def."
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="center"
+	            android:layout_weight="1"
+	            android:text="SpA"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:gravity="center"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="SpD"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	        
+	        <TextView
+	            android:layout_width="0dp"
+	            android:gravity="center"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="Spe"
+	            android:textColor="@color/white"
+	            android:textSize="14sp" />
+	            	        
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:id="@+id/blah7"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_above="@+id/y"
+	        android:layout_marginBottom="15dp"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:text="IV's"
+	            android:id="@+id/statText"
+	            android:textColor="@color/white"
+	            android:textSize = "14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+				android:imeOptions="actionDone"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/hp_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/att_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:selectAllOnFocus="true"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/def_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:selectAllOnFocus="true"
+	            android:background="#EDEDED"
+	            android:id="@+id/spa_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:inputType="number"
+	            android:selectAllOnFocus="true"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#CCCCCC"
+	            android:id="@+id/spd_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	        
+	        <EditText
+	            android:layout_width="0dp"
+	            android:imeOptions="actionDone"
+	            android:selectAllOnFocus="true"
+	            android:inputType="number"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:padding="1dp"
+	            android:hint=" "
+	            android:background="#EDEDED"
+	            android:id="@+id/spe_edit3"
+	            android:textColor="@color/black"
+	            android:textSize="14sp" />
+	    </LinearLayout>
+	    
+	    <Button
+	        android:id="@+id/buttonHP"
+	        android:layout_width="match_parent"
+	        android:layout_below="@+id/y"
+	        android:layout_marginTop="10dp"
+	        android:layout_height="wrap_content"
+	        android:text="Calculate"
+	        android:textSize="25sp"
+	        android:textStyle="bold"
+	        android:textColor="@color/white" />
+	    
+	    <TextView
+        android:id="@+id/hiddenpower"
+        android:layout_below="@+id/buttonHP"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:text="Enter the IV Values to get your Hidden Power."
+        android:textColor="@color/white"
+        android:gravity="center_horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp" />
+
+</RelativeLayout>

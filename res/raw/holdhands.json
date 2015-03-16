@@ -1,0 +1,21 @@
+{
+	"name": "Hold Hands",
+	"note": "This is an event only move.",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "No effect in battle.",
+	"viability": "No competitive use.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

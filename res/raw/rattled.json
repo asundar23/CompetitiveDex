@@ -1,0 +1,40 @@
+{
+	"name":"Rattled",
+	"summary": "Raises the user's Speed when hit with a Dark, Ghost, or Bug move.",
+	"viability": "Rattled isn't bad, but it isn't particularly good. It's true that Dark, Ghost, and Bug are all common attacking moves, but that's also only 3/16 of the types available. This means that you'll have to get really lucky with the move that hits your Pokémon.",
+	"pokemon":[
+		{
+			"pokemonName": "Magikarp"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Granbull"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		}
+	]
+}

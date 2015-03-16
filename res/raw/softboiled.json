@@ -1,0 +1,24 @@
+
+{
+	"name": "Soft-Boiled",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Restores 50% of the user's current HP. Can be used outside of battle to transfer some of the user's HP to another party Pokemon.",
+	"viability": "Soft-Boiled is the same as Milk Drink, making it very good. It is highly recommended on Chansey and Blissey.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Blissey" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

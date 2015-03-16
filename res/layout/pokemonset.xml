@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/black" >
+
+	<RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@color/black" >
+	    
+	    <TextView
+	        android:id="@+id/set_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="28sp"
+	        android:textStyle="bold"
+	        android:layout_centerHorizontal="true"
+	        android:padding="20dp"
+	        android:text="Title of Set"
+	        android:textColor="@color/white" />
+	    
+	    <LinearLayout
+	        android:id="@+id/items_and_ability"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@+id/set_title"
+		    android:layout_marginTop="12dp" >
+		    
+		    <TextView
+		        android:id="@+id/item_choice"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:gravity="center"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:text="Items"/>
+		    
+		    <TextView
+		        android:id="@+id/ability"
+		        android:layout_width="0dp"
+		        android:gravity="center"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:text="Ability"/>
+		</LinearLayout>
+		
+	    <LinearLayout
+	        android:id="@+id/items_abilities_list"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@+id/items_and_ability"
+		    android:layout_marginTop="10dp" >
+		    
+		    <ListView
+		        android:id="@+id/itemList"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:divider="@null"
+					android:dividerHeight="0dp"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:text="Items"/>
+		    
+		    <TextView
+		        android:id="@+id/abilityTV"
+		        android:layout_width="0dp"
+		        android:gravity="center"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textColor="@color/white"
+		        android:text="Ability"/>
+		</LinearLayout>
+		
+	    <LinearLayout
+	        android:id="@+id/nature_and_ev"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@+id/items_abilities_list"
+		    android:layout_marginTop="12dp" >
+		
+		    <TextView
+		        android:id="@+id/nature"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:gravity="center"
+		        android:text="Nature" />
+		    
+		    <TextView
+		        android:id="@+id/ev"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:gravity="center"
+		        android:textStyle="bold"
+		        android:text="EV's" />
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:id="@+id/nature_evs_list"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@+id/nature_and_ev"
+		    android:layout_marginTop="10dp" >
+		    
+	        <ListView
+		        android:id="@+id/natureLV"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:divider="@null"
+					android:dividerHeight="0dp"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:textColor="@color/white"
+		        android:text="Natures"/>
+		    <ListView
+		        android:id="@+id/EVSpread"
+		        android:layout_width="0dp"
+		        android:layout_weight=".5"
+		        android:layout_height="wrap_content"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:divider="@null"
+					android:dividerHeight="0dp"
+		        android:textColor="@color/white"
+		        android:text="EVSpread"/>
+		</LinearLayout>
+		
+	    <TextView
+	        android:id="@+id/moves_list"
+	        android:text="Moves"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+		    android:textStyle="bold"
+	        android:layout_centerHorizontal="true"
+	        android:layout_below="@+id/nature_evs_list"
+	        android:layout_marginTop="12dp" />
+	    
+	    <LinearLayout
+	        android:id="@+id/moves_alternative"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_below="@+id/moves_list"
+		    android:layout_marginTop="20dp" >
+		    
+		    <ListView
+		        android:id="@+id/movesSpread"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight=".5"
+		        android:textSize="20sp"
+		        android:textStyle="bold"
+		        android:divider="@null"
+					android:dividerHeight="0dp"
+		        android:layout_marginTop="10dp"
+		        android:textColor="@color/white"
+		        android:text="EVSpread" />
+		    
+		    <Button
+		        android:id="@+id/alternativeButton"
+		        android:layout_width="0dp"
+		        android:layout_marginTop="50dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight=".5"
+		        android:textSize="25sp"
+		        android:textStyle="bold"
+		        android:textColor="@color/white"
+		        android:text=">" />
+
+	    </LinearLayout>
+		
+	    
+	    <Button
+	        android:id="@+id/setexplanation"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="Set Explanation"
+	        android:textColor="@color/white"
+	        android:layout_below="@+id/moves_alternative"
+	        android:layout_marginTop="18dp" />
+	    
+	    <Button
+	        android:id="@+id/checksandcounters"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:text="Checks &amp; Counters"
+	        android:layout_below="@+id/setexplanation"
+	        android:layout_marginTop="18dp" />
+	    
+	    <Button
+	        android:id="@+id/damagecalcs"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:text="Damage Calculations"
+	        android:layout_below="@+id/checksandcounters"
+	        android:layout_marginTop="18dp" />
+
+	</RelativeLayout>
+</ScrollView>

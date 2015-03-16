@@ -1,0 +1,42 @@
+{
+	"name": "Arm Thrust",
+	"type": " Fighting ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "15",
+	"accuracy": "100",
+	"summary": "Deals damage, and can hit 2-5 times in a turn. There is a 1/3 chance it will hit 2 or 3 times, and 1/6 4 or 5 times. Those with the ability Skill Link hit this move 5 times.",
+	"viability": "This is not a very good multi-hit move. The only Pokémon that can reasonably run it is Mega Heracross with Skill Link. Even then, you're only getting 75 total power. The chance to break subs and not having defense drops like with Close Combat is nIce, but it simply isn't enough.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Pignite"
+		},
+		{
+			"pokemonName": "Emboar"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"note":"",
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

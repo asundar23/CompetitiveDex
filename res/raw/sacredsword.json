@@ -1,0 +1,28 @@
+{
+	"name": "Sacred Sword",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Inflicts damage, ignoring the target's Defense and evasion boosts. Does not bypass Reflect.",
+	"viability": "Sacred Sword is a decent move due to the fact that it can bypass Defense and evasion, but it doesn't have the power that Close Combat has. For the Swords of Justice, that is a far more reliable option. However, for the Aegislash line, Sacred Sword is an often used move due to the added coverage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cobalion" },
+		{ "pokemonName": "Terrakion" },
+		{ "pokemonName": "Virizion" },
+		{ "pokemonName": "Keldeo" },
+		{ "pokemonName": "Honedge" },
+		{ "pokemonName": "Doublade" },
+		{ "pokemonName": "Aegislash" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

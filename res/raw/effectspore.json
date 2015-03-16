@@ -1,0 +1,28 @@
+{
+	"name":"Effect Spore",
+	"summary": "If the user is hit with a contact move, the opponent has a 30% chance of either getting paralyzed, asleep, or poisoned. To be specific, poisoning has a 9% chance, paralyzing has a 10% chance, and sleep has 11%.",
+	"viability": "Effect Spore is not too good. Any status is a good, but the issue lies in the fact that you're leaving the status up to chance. What if you wanted a specific status ailment on your opponent? All the Pokémon have Stun Spore, Sleep Powder, and Toxic. That alone makes Effect Spore redunant and, therefore, useless.",
+	"pokemon":[
+		{
+			"pokemonName": "Vileplume"
+		},
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Amoonguss"
+		}
+	]
+}

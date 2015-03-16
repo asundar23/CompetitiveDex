@@ -1,0 +1,40 @@
+{
+	"name": "Toxic",
+	"note": "All Pokémon who can learn TMs can learn Toxic except Unown, Wobbuffet, Wynaut, Kricketot, Burmy, Tynamo, and Spewpa.",
+	"type":" Poison ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "90",
+	"summary": "Badly poisons the target. As opposed to regular Poison status, this residual damage increases by 1/16 each turn the opponent is in. Toxic has infinite accuracy if the Pokemon is at least part Poison-type.",
+	"viability": "Toxic is one of the most popular status moves in general. It's a boon for defensive walls like Sylveon, who make their living off Toxic-stalling opponents. This means that the opponent will have a hard time getting a kill, and are forced to either faint or switch out.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Dustox" },
+		{ "pokemonName": "Shroomish" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Swaot" },
+		{ "pokemonName": "Vespiquen" },
+		{ "pokemonName": "Stunky" },
+		{ "pokemonName": "Skuntank" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Whirlipede" },
+		{ "pokemonName": "Scolipede" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" },
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Amoonguss" },
+		{ "pokemonName": "Skrelp" },
+		{ "pokemonName": "Dragalge" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

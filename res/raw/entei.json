@@ -1,0 +1,348 @@
+{ 
+	 "name": "Entei",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		115,
+		115,
+		85,
+		90,
+		75,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sacred Fire",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Eruption",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 15,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 29,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 43,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 57,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 64,
+			"move": "Extrasensory",
+			"type": " Psychic "
+		},
+		{
+			"level": 71,
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"level": 78,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 85,
+			"move": "Eruption",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM60",
+			"move": "Quash",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Iron Head",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Roaming Johto"},
+		{"Location": "Roaming Johto"},
+		{"Location": "Mountain"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Pressure",
+		"Flash Fire"
+	],
+	"sets": [
+	]
+}

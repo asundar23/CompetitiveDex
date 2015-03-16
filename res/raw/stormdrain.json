@@ -1,0 +1,34 @@
+{
+	"name":"Storm Drain",
+	"summary": "The user is immune to all Water-type attacks and raises the Pokémon's Special Attack by one stage. In Double and Triple Battles, Storm Drain will draw in all water moves.",
+	"viability": "Storm Drain is the Water-equivalent of Lightning Rod, and both are great abilities. Storm Drain adds an immunity, as well as an increase to Special Attack, which really help Pokémon like Gastrodon.",
+	"pokemon":[
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Maractus"
+		}
+	]
+}

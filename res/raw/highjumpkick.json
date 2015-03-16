@@ -1,0 +1,33 @@
+{
+	"name": "High Jump Kick",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "130",
+	"accuracy": "90",
+	"summary": "Deals damage. If the user misses, half of their maximum HP is deducted. This recoil damage also happens if the target uses Protect, Mat Block, Detect, or is a Ghost-type.",
+	"viability": "High Jump Kick is the definition of high risk, high reward. It delivers so much power, at the possible cost of HP. The good news is that this move stacks with Reckless, which increases its power by another 20% (going from 130 to 156 base power). It's almost always recommended to use this move if possible, only to possibly be replaced by Close Combat.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Blaziken" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Scraggy" },
+		{ "pokemonName": "Scrafty" },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Mienshao" },
+		{ "pokemonName": "Hawlucha" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Riolu" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,363 @@
+{ 
+	 "name": "Inkay",
+	"types": [
+		" Dark ",
+		" Psychic "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Inkay" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Malamar" }
+   	],
+   "evolutionType":[
+   		"Level 30 with 3DS Upside Down"
+   ],
+	"eggGroup": [
+		" Water 1 ",
+		" Water 2 "
+	],
+	"stats": [
+		53,
+		54,
+		53,
+		37,
+		46,
+		45
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Constrict",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"level": 7,
+			"move": "Foul Play",
+			"type": " Dark "
+		},
+		{
+			"level": 12,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Psywave",
+			"type": " Psychic "
+		},
+		{
+			"level": 15,
+			"move": "Topsy-Turvy",
+			"type": " Dark "
+		},
+		{
+			"level": 18,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 21,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 23,
+			"move": "Switcheroo",
+			"type": " Dark "
+		},
+		{
+			"level": 27,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Pluck",
+			"type": " Flying "
+		},
+		{
+			"level": 39,
+			"move": " Psycho Cut",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 48,
+			"move": "Superpower",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Camouflage",
+			"pokemon": [
+				{"pokemonName": "Stunfisk"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Qwilfish"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Flatter",
+			"pokemon": [
+				{"pokemonName": "Totodile"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Power Split",
+			"pokemon": [
+				{"pokemonName": "Surskit"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Simple Beam",
+			"pokemon": [
+				{"pokemonName": "Psyduck"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		"Route 8, Azure Bay, Friend Safari (Dark)",
+		"Route 8, Azure Bay, Friend Safari (Dark)"
+	],
+	"abilities": [
+		"Suction Cups",
+		"Contrary",
+		"Infiltrator"
+	],
+	"sets": [
+	]
+}

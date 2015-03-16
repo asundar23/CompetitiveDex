@@ -1,0 +1,44 @@
+{
+	"name": "Snore",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "15",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage only if the user is sleeping. Has a 30% chance to cause the target to flinch.",
+	"viability": "Snore is terrible. Use Sleep Talk instead, because you'll get a far better move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Snorlax" },
+		{ "pokemonName": "Teddiursa" },
+		{ "pokemonName": "Ursaring" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Grumpig" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Whiscash" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Sealeo" },
+		{ "pokemonName": "Walrein" },
+		{ "pokemonName": "Dedenne" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Dunsparce" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Remoraid" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Slakoth" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Piplup" },
+		{ "pokemonName": "Tympole" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "Crabhammer",
+	"note": "",
+	"type": " Water ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "90",
+	"summary": "Deals damage, and has an increased critical hit ratio.",
+	"viability": "The two viable users of this move are Kingler and Crawdaunt, with great Atack stats. The logical question that follows is whether or not to choose between Crabhammer or Waterfall. With Waterfall, you get 100% accuracy but only 80 power. While 90% is somewhat of a risk with Crabhammer, the great 100 base power more than makes up for it. On those two Pokémon, it definitely deserves a move slot.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Kingler"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Crawdaunt"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Clauncher"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

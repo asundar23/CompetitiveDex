@@ -1,0 +1,22 @@
+{
+	"name": "Searing Shot",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance to burn the target.",
+	"viability": "If you are unable to get a Victini with Blue Flare, Searing Shot is a great STAB alternative. It has great power, and a high chance to burn the target.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Victini" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

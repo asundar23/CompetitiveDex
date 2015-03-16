@@ -1,0 +1,31 @@
+{
+	"name":"Snow Cloak",
+	"summary": "If the weather is Hail, the user's evasion increases by 25%. For Pokémon whose type doesn't grant immunity to Hail, they become immune to damage.",
+	"viability": "If the ability isn't banned, use it. 25% is a lot when it comes to evasion; it turns 100% moves into an unreliable 75%, so there is no reason you shouldn't use it if it's allowed, unless there is a much more useful ability to run.",
+	"pokemon":[
+		{
+			"pokemonName": "Articuno"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Glaceon"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		},
+		{
+			"pokemonName": "Froslass"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Beartic"
+		}
+	]
+}

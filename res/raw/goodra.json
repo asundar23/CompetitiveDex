@@ -1,0 +1,358 @@
+{
+	"name":"Goodra",
+	"types": [
+		"Dragon"
+	],
+	"eggGroup": [
+		"Dragon"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Gooey" },
+   		{ "pokemonName":"Sliggoo" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Sliggoo" },
+   		{ "pokemonName":"Goodra" }
+   	],
+   "evolutionType":[
+   		"Level 40",
+   		"Level 50 (in rain)"
+   ],
+	"abilities": [
+		"Sap Sipper",
+		"Hydration",
+		"Gooey"
+	],
+	"locations": [
+		{"Location": "Evolve Sliggoo"},
+		{"Location": "Evolve Sliggoo"}
+	],
+	"stats": [
+		80,
+		100,
+		70,
+		110,
+		150,
+		80
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 5,
+			"move": "Absorb",
+			"type": " Grass "
+		},
+		{
+			"level": 9,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 25,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 28,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Muddy Water",
+			"type": " Water "
+		},
+		{
+			"level": 47,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 50,
+			"move": "Aqua Tail",
+			"type": " Water "
+		},
+		{
+			"level": 55,
+			"move": "Power Whip",
+			"type": " Grass "
+		},
+		{
+			"level": 63,
+			"move": "Outrage",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Armor",
+			"pokemon": [
+				{"pokemonName": "Skrelp"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Scraggy"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Tyrunt"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Axew"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Poison Tail",
+			"pokemon": [
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Poison "
+		}
+	],
+	"tutorMoveList": [
+		"Draco Meteor"
+	],
+	"sets": [
+	]
+}

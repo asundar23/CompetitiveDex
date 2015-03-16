@@ -1,0 +1,58 @@
+{
+	"name":"Sand Force",
+	"summary": "Raises the power of Rock, Ground, and Steel type moves by 30% if Sandstorm is in play.",
+	"viability": "Since weather isn't permanent, this ability isn't as viable; however, since Pokémon like Tyranitar and Hippowdon are so common, executing a sand-team isn't completely futile. Mega Garchomp is the best user of Sand Force, as it serves to be a very bulky wall breaker. It has access to Earthquake (130 base power after Sand Force) and Stone Edge (130 as well). Excadrill also benefits, but it is better off with either Sand Rush or Mold Breaker. Gastrodon needs Storm Drain, Hippowdon is better off setting up the actual sandstorm with Sand Stream, Gigalith needs Sturdy, and Landorus-Incarnate is better off with Sheer Force. Sand Force isn't bad, but it's not the best option out there.",
+	"pokemon":[
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Nosepass"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "East-Sea Gastrodon"
+		},
+		{
+			"pokemonName": "Mega Garchomp"
+		},
+		{
+			"pokemonName": "Hippopotas"
+		},
+		{
+			"pokemonName": "Hippowdon"
+		},
+		{
+			"pokemonName": "Probopass"
+		},
+		{
+			"pokemonName": "Roggenrola"
+		},
+		{
+			"pokemonName": "Boldore"
+		},
+		{
+			"pokemonName": "Gigalith"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "Night Shade",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Special",
+	"pp": "15",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage equal to the user's level.",
+	"viability": "Night Shade is good for bulkier or defensive Pokemon like Sableye. Night Shade rectifies its bad Special Attack and deals a consistent amount of damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Haunter" },
+		{ "pokemonName": "Gengar" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Shuppet" },
+		{ "pokemonName": "Banette" },
+		{ "pokemonName": "Duskull" },
+		{ "pokemonName": "Dusclops" },
+		{ "pokemonName": "Deoxys" },
+		{ "pokemonName": "Dusknoir" },
+		{ "pokemonName": "Darkrai" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Male Frillish" },
+		{ "pokemonName": "Female Frillish" },
+		{ "pokemonName": "Male Jellicent" },
+		{ "pokemonName": "Female Jellicent" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Golett" },
+		{ "pokemonName": "Golurk" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Hoothoot" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Solosis" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

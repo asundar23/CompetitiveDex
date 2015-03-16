@@ -1,0 +1,30 @@
+{
+	"name": "Mach Punch",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage. Has a priority of +1.",
+	"viability": "Mach Punch is a great priority move to use. It can get Technician and Iron Fist boosts as well, making it a force to be reckoned with. It's most commonly associated with good revenge killers like Breloom.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Ledyba" },
+		{ "pokemonName": "Ledian" },
+		{ "pokemonName": "Breloom" },
+		{ "pokemonName": "Monferno" },
+		{ "pokemonName": "Infernape" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Timburr" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

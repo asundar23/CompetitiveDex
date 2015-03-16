@@ -1,0 +1,26 @@
+{
+	"name": "Magnet Bomb",
+	"note": "",
+	"type":" Steel ",
+	"category": "Special",
+	"pp": "20",
+	"power": "60",
+	"accuracy": "--",
+	"summary": "Inflicts damage, and is unaffected by modifications to accuracy and evasion",
+	"viability": "Unlike Magical Leaf, there isn't a Pokemon that can take advantage of this move. Flash Cannon completely outclasses it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name":"Competitive",
+	"summary": "Raises the user's Special Attack by two stages for each stat lowered by an opponent. This includes the Special Attack stat.",
+	"viability": "This is the Special Attack equivalent of Defiant, and both are outstanding abilities to run. With Sticky Web being so common, you can bring your Pokémon out and become an instant threat. The only problem is that while this is nice, the reason Defiant is better is because of the Pokémon used. Bisharp does okay with Sticky Web because of Sucker Punch, and Braviary isn't affected by Sticky Web. Gothitelle is already very slow and suspectible to physical moves, Female Meowstic is fairly frail, and Wigglytuff simply doesn't have the power. Milotic has a better ability to take advantage of its bulk with Marvel Scale.
+	
+	That doesn't mean that Competitive is a bad ability by any means, though. It just means that you will have to try and work around it, especially with something like Sticky Web.",
+	"pokemon":[
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Gothorita"
+		},
+		{
+			"pokemonName": "Gothitelle"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		}
+	]
+}

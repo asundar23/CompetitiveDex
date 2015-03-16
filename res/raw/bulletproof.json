@@ -1,0 +1,38 @@
+{
+	"name":"Bulletproof",
+	"summary": "Makes the user immune to the following moves:
+	
+	• Acid Spray
+	• Aura Sphere
+	• Barrage
+	• Bullet Seed
+	• Egg Bomb
+	• Electro Ball
+	• Energy Ball
+	• Focus Blast
+	• Gyro Ball
+	• Ice Ball
+	• Magnet Bomb
+	• Mist Ball
+	• Mud Bomb
+	• Octazooka
+	• Rock Wrecker
+	• Searing Shot
+	• Seed Bomb
+	• Shadow Ball
+	• Sludge Bomb
+	• Weather Ball
+	• Zap Cannon",
+	"viability": "Bulletproof is one of the best abilities out there, especially on a Pokémon like Chesnaught. Aura Sphere, Bullet Seed, Energy Ball, Focus Blast, Gyro Ball, Searing Shot, Seed Bomb, Shadow Ball, Sludge Bomb, and Weather Ball are all pretty common moves, and Chesnaught is hit hard by a lot of them. In fact, Chesnaught is able to hard counter many Gengar sets for this reason. This makes Chesnaught one of the most unique Pokémon out there.",
+	"pokemon":[
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Quilladin"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		}
+	]
+}

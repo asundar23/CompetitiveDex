@@ -1,0 +1,15 @@
+{
+	"itemName": "Heal Ball",
+	"summary":"1x capture rate; heals the Pokemon you caught.",
+	"buy": "300",
+	"sell": "150",
+	"viability":"Unless you're really early in the same, this is essntially a gimmick Poke Ball. Don't use it.",
+	"wildlocation":[
+		{"Location": "Route 7"},
+		{"Location": "Dendemille Town"}
+	],
+	"shopLocation":[
+		{"Location": "Lumoise City"},
+		{"Location": "Snowbelle City"}
+	]
+}

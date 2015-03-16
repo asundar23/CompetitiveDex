@@ -1,0 +1,23 @@
+{
+	"name": "Transform",
+	"note": "",
+	"type": "Norma;",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Changes the user's current type, stats, mofications, moves, species, cry, shininess, Ability, and possible form. It will still hold its held item.",
+	"viability": "Ditto is far better with Imposter, which does the same thing as Transform, only on switch in.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ditto" },
+		{ "pokemonName": "Mew" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

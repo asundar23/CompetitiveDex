@@ -1,0 +1,22 @@
+{
+	"name":"Heavy Slam",
+	"summary": "The user's weight is doubled.",
+	"viability": "Though this makes Heavy Slam much more deadly, Aggron prefers Sturdy or Rock Head, and Bronzong prefers Levitate.",
+	"pokemon":[
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		}
+	]
+}

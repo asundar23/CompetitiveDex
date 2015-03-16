@@ -1,0 +1,92 @@
+{
+	"name":"Burmy-Plant",
+	"types": [
+		"Bug"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Burmy-Plant" },
+   		{ "pokemonName":"Burmy-Plant" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Wormadam-Plant" },
+   		{ "pokemonName":"Mothim" }
+   	],
+   "evolutionType":[
+   		"Level 20 (if female)",
+   		"Level 20 (if male)"
+   ],
+	"abilities": [
+		"Shed Skin",
+		"Overcoat"
+	],
+	"locations": [
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Headbutt trees (Route 38)"},
+		{"Location": "Headbutt trees (Route 38)"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Route 3 and Berry fields (Green Berry trees)"},
+		{"Location": "Route 3 and Berry fields (Green Berry trees)"}
+	],
+	"stats": [
+		40,
+		29,
+		45,
+		29,
+		45,
+		36
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 20,
+			"move": "Hidden Power",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Snore"
+	],
+	"sets": [
+	]
+}

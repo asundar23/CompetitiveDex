@@ -1,0 +1,22 @@
+{
+	"name": "Mega Kick",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "75",
+	"summary": "Deals damage and has no secondary effect.",
+	"viability": "Hitmonlee has far better things to use than Mega Kick. High Jump Kick, for example, is not only a STAB and is more powerful, it actually has a better accuracy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonlee" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

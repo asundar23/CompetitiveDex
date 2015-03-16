@@ -1,0 +1,29 @@
+{
+	"name": "Reflect Type",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Changes the user's type to match the types or types of the target.",
+	"viability": "Reflect Type is ridiculously gimmicky, and will only work in select situations. It can be pretty fun to mess with, though, especially against Pokemon that can deal out super effective damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Tentacruel" },
+		{ "pokemonName": "Staryu" },
+		{ "pokemonName": "Mew" },
+		{ "pokemonName": "Latias" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Stunfisk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

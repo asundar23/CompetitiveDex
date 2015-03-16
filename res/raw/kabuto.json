@@ -1,0 +1,463 @@
+{ 
+	 "name": "Kabuto",
+	"types": [
+		" Rock ",
+		" Water "
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Water 3 "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Kabuto" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kabutops" }
+   ],
+   "evolutionType":[
+   		"Level 40"
+   ],
+	"stats": [
+		30,
+		80,
+		90,
+		55,
+		45,
+		55
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Absorb",
+			"type": " Grass "
+		},
+		{
+			"level": 11,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 21,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 26,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Aqua Jet",
+			"type": " Water "
+		},
+		{
+			"level": 36,
+			"move": "Mega Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 41,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 46,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Wring Out",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Aurora Beam",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Shellder"},
+				{"pokemonName": "Cloyster"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Bubble Beam",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwrath"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Politoed"},
+				{"pokemonName": "Tentacool"},
+				{"pokemonName": "Tentacruel"},
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Lileep"},
+				{"pokemonName": "Cradily"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Feebas"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Giga Drain",
+			"pokemon": [
+				{"pokemonName": "Lotad"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Icy Wind",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Krabby"},
+				{"pokemonName": "Kingler"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Rapid Spin",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Tentacool"},
+				{"pokemonName": "Tentacruel"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Huntail"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Earth Power",
+		"Giga Drain",
+		"Icy Wind",
+		"Iron Defense",
+		"Knock Off",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+
+	],
+	"locations": [
+		{"Location": "Revive Dome Fossil at the Oreburgh Mining Museum"},
+		{"Location": "Revive Dome Fossil at the Oreburgh Mining Museum"},
+		{"Location": "Revive Dome Fossil at the Oreburgh Mining Museum"},
+		{"Location": "Trade"},
+		{"Location": "Revive Dome Fossil at the Pewter Museum of Science"},
+		{"Location": "Sea"},
+		{"Location": "Revive Dome Fossil at the Nacrene Museum"},
+		{"Location": "Revive Dome Fossil at the Nacrene Museum"},
+		{"Location": "Revive Dome Fossil at the Nacrene Museum"},
+		{"Location": "Revive Dome Fossil at the Nacrene Museum"},
+		{"Location": "Trade"},
+		{"Location": "Revive Dome Fossil at the Ambrette Town Fossil Lab"}
+	],
+	"abilities": [
+		"Swift Swim",
+		"Battle Armor",
+		"Weak Armor"
+	],
+	"sets": [
+	]
+}

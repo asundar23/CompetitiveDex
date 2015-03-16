@@ -1,0 +1,404 @@
+{ 
+	 "name": "Magcargo",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Slugma" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Magcargo" }
+   ],
+   "evolutionType":[
+   		"Level 38"
+   ],
+	"stats": [
+		40,
+		40,
+		40,
+		70,
+		40,
+		20
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 10,
+			"move": "Rock Throw",
+			"type": " Rock "
+		},
+		{
+			"level": 14,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Flame Burst",
+			"type": " Fire "
+		},
+		{
+			"level": 28,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 32,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 41,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 46,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 55,
+			"move": "Earth Power",
+			"type": " Ground "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Armor",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Guard Swap",
+			"pokemon": [
+				{"pokemonName": "Castform"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Inferno",
+			"pokemon": [
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Memento",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rollout",
+			"pokemon": [
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Smokescreen",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Spit Up",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Earth Power",
+		"Heat Wave",
+		"Iron Defense",
+		"Pain Split",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Stark Mountain"},
+		{ "Location": "Stark Mountain"},
+		{ "Location": "Stark Mountain"},
+		{ "Location": "Hatch Egg received from Primo, Routes (16, 17, and 18)"},
+		{ "Location": "Hatch Egg received from Primo, Routes (16, 17, and 18)"},
+		{ "Location": "Mountain"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Poké Transfer"},
+		{ "Location": "Route 13 (Rock Smash), Friend Safari (Fire)"},
+		{ "Location": "Route 13 (Rock Smash), Friend Safari (Fire)"}
+
+	],
+	"abilities": [
+		"Magma Armor",
+		"Flame Body",
+		"Weak Armor"
+	],
+	"sets": [
+	]
+}

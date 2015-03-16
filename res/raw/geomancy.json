@@ -1,0 +1,22 @@
+{
+	"name": "Geomancy",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "On the first turn, nothing happens. At the end of the second turn, the user's Special Attack, Special Defense, and Speed all increase by two stages each. This will happen in one turn with Power Herb.",
+	"viability": "Xerneas's signature move lends itself into its most popular set: Power Herb + Geomancy. It's definitely a pain to deal with considering Xerneas's outstanding coverage, and just shows how dangerous it really is.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

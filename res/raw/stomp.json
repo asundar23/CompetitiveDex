@@ -1,0 +1,56 @@
+{
+	"name": "Stomp",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance of causing the target to flinch. Doubles if the target has used Minimize.",
+	"viability": "Only if you know your opponent is going to use Minimize, use Stomp. Otherwise, Return and Double-Edge severely outclass it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Krabby" },
+		{ "pokemonName": "Kingler" },
+		{ "pokemonName": "Exeggutor" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Stantler" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Entei" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Loudred" },
+		{ "pokemonName": "Exploud" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Regirock" },
+		{ "pokemonName": "Regice" },
+		{ "pokemonName": "Registeel" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Zebstrika" },
+		{ "pokemonName": "Tyrunt" },
+		{ "pokemonName": "Tyrantrum" },
+		{ "pokemonName": "Volcanion" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Kangaskhan" },
+		{ "pokemonName": "Larvitar" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Cranidos" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Bouffalant" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name":"Zen Mode",
+	"summary": "When Darmanitan's HP drops to below half, it will turn into Darmanitan-Zen Mode.",
+	"viability": "Darmanitan is pretty frail, so chances are you won't be turning into Darmanitan-Zen before you faint. Also, since the HP is so low, Darmanitan-Zen doesn't have a good defensive typing, and as such will not be able to tank a hit before going for Rest. Stick to Sheer Force.",
+	"pokemon":[
+		{
+			"pokemonName": "Darmanitan"
+		},
+		{
+			"pokemonName": "Darmanitan-Zen"
+		}
+	]
+}

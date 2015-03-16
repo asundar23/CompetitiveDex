@@ -1,0 +1,49 @@
+{
+	"name": "Metal Sound",
+	"note": "",
+	"type":" Steel ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "85",
+	"summary": "Lowers the target's Special Defense by two staes.",
+	"viability": "This would be a bit better if the accuracy wasn't mediocre. Also, you are much better off boosting your Special Attack because the opponent can easily switch out and reset their stats.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Kabuto" },
+		{ "pokemonName": "Kabutops" },
+		{ "pokemonName": "Skarmory" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Lairon" },
+		{ "pokemonName": "Aggron" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Bastiodon" },
+		{ "pokemonName": "Wormadam-Trash" },
+		{ "pokemonName": "Bronzor" },
+		{ "pokemonName": "Bronzong" },
+		{ "pokemonName": "Lucario" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Heatran" },
+		{ "pokemonName": "Klink" },
+		{ "pokemonName": "Klang" },
+		{ "pokemonName": "Klinklang" },
+		{ "pokemonName": "Pawniard" },
+		{ "pokemonName": "Bisharp" },
+		{ "pokemonName": "Durant" },
+		{ "pokemonName": "Genesect" },
+		{ "pokemonName": "Honedge" },
+		{ "pokemonName": "Doublade" },
+		{ "pokemonName": "Klefki" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Drilbur" },
+		{ "pokemonName": "Honedge" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

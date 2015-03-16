@@ -1,0 +1,676 @@
+{ 
+	 "name": "Beedrill",
+	"types": [
+		" Bug ",
+		" Poison "
+	],
+	"hatchTime": "2805 - 3059 steps",
+	"height": "3'03\" (1.0 m)",
+	"weight": "65.0 lbs (29.5 kg)",
+	"evYield": [
+		"2 Attack",
+		"1 Special Defense"
+	],
+	"levelingRate": "Medium Fast",
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Weedle" },
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kakuna" },
+   		{ "pokemonName":"Beedrill" },
+   		{ "pokemonName":"Mega Beedrill" }
+   ],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 10",
+   		"Beedrillite"
+   ],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		65,
+		80,
+		40,
+		45,
+		80,
+		75
+	],
+	"pokedexNumber": "15",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Kakuna",
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Kakuna",
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Beedrillite -> Sea Mauville"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Kakuna",
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"Beedrillite -> Sea Mauville"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Kakuna",
+				"Trade"
+			]
+		}
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Twineedle",
+			"type": " Bug "
+		},
+		{
+			"level": 19,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 28,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 31,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 40,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Twineedle",
+			"type": " Bug "
+		},
+		{
+			"level": 19,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 28,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 31,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 37,
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"level": 40,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"ORASHMMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM06",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Drill Run",
+		"Electroweb",
+		"Endeavor",
+		"Giga Drain",
+		"Knock Off",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Kakuna"},
+		{ "Location": "Evolve Kakuna"},
+		{ "Location": "Evolve Kakuna"},
+		{ "Location": "Bug-Catching Contest"},
+		{ "Location": "Route 2, Bug-Catching Contest, Viridian Forest, Headbutt Trees"},
+		{ "Location": "Forest"},
+		{ "Location": "Route 12 (Rustling Grass)"},
+		{ "Location": "Trade"},
+		{ "Location": "Pinwheel Forest (Hidden Grotto)"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Kakuna"},
+		{ "Location": "Evolve Kakuna"}
+
+	],
+	"abilities": [
+		"Swarm",
+		"Sniper"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"name": "Acid Spray",
+	"type": " Poison ",
+	"note":"",
+	"category": "Special",
+	"pp": "20",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Does damage, and has a 100% chance of lowering the target's Special Defense by two stages.",
+	"viability": "This is an interesting move, especially towards Specially Defensive walls. Though uncommon for the most part, this is commonly seen on Eelektross, who can make use of Volt Switch and Flamethrower. If used, use this with discretion, as the Special Defense drops are gone after switching out.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Accelgor"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Ferroseed"
+		}
+	],
+	"pokemonByTM":[
+	],
+	"pokemonByHM":[
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,452 @@
+{ 
+	 "name": "Metagross",
+	"types": [
+		" Steel ",
+		" Psychic "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 23,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Bullet Punch",
+			"type": " Steel "
+		},
+		{
+			"level": 29,
+			"move": "Miracle Eye",
+			"type": " Psychic "
+		},
+		{
+			"level": 32,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 44,
+			"move": "Meteor Mash",
+			"type": " Steel "
+		},
+		{
+			"level": 45,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 52,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 60,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Beldum" },
+   		{ "pokemonName":"Metang" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Metang" },
+   		{ "pokemonName":"Metagross" }
+   	],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 45"
+   ],
+	"stats": [
+		80,
+		135,
+		130,
+		95,
+		90,
+		70
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 23,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Miracle Eye",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 32,
+			"move": "Bullet Punch",
+			"type": " Steel "
+		},
+		{
+			"level": 35,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 44,
+			"move": "Meteor Mash",
+			"type": " Steel "
+		},
+		{
+			"level": 45,
+			"move": "Hammer Arm",
+			"type": " Fighting "
+		},
+		{
+			"level": 53,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 62,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Block",
+		"Gravity",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Defense",
+		"Iron Head",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch",
+		"Trick",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Mountain"},
+		{ "Location": "Giant Chasm (rustling grass)"},
+		{ "Location": "Giant Chasm (rustling grass)"},
+		{ "Location": "Giant Chasm (rustling grass)"},
+		{ "Location": "Giant Chasm (rustling grass)"},
+		{ "Location": "Evolve Metang"},
+		{ "Location": "Evolve Metang"}
+
+	],
+	"abilities": [
+		"Clear Body",
+		"Light Metal"
+	],
+	"sets": [
+	]
+}

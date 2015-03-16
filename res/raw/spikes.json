@@ -1,0 +1,44 @@
+{
+	"name": "Spikes",
+	"note": "",
+	"type":" Ground ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "This is an entry-hazard that deals a set amount of damage. One layer of Spikes deals 1/8 damage, two layers deals 1/6, and three layers deal 1/4. Does not affect Pokemon with Levitate or are Flying types. Can be taken away if the opponent uses Rapid Spin, or if either side uses Defog.",
+	"viability": "Spikes is a really good entry-hazard because of the consistent damage it deals. While not as common as Stealth Rock, it can hit Ground, Fighting, and Steel-type Pokemon for more damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Skarmory" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Cacturne" },
+		{ "pokemonName": "Deoxys-Defense" },
+		{ "pokemonName": "Greninja" },
+		{ "pokemonName": "Flefki" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Shelmet" },
+		{ "pokemonName": "Chespin" },
+		{ "pokemonName": "Bunnelby" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

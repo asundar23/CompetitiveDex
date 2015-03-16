@@ -1,0 +1,551 @@
+{
+	"name":"Ninjask",
+	"types": [
+		"Bug",
+		"Flying"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"preEvolution":[
+   		{ "pokemonName":"Nincada" },
+   		{ "pokemonName":"Nincada" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Ninjask" },
+   		{ "pokemonName":"Shedinja" }
+   ],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 20, if there is an extra space in the user's party and they have an extra Poke Ball."
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 5,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 9,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 13,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 20,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Mind Reader",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Baton Pass",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "X-Scissor",
+			"type": " Bug "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Nincada" },
+   		{ "pokemonName":"Nincada" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Ninjask" },
+   		{ "pokemonName":"Shedinja" }
+   	],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 20 (extra space in party and the player has an extra Poké Ball)"
+   ],
+	"abilities": [
+		"Speed Boost",
+		"Infiltrator"
+	],
+	"locations": [
+		{"Location": "Evolve Nincada"},
+		{"Location": "Evolve Nincada"},
+		{"Location": "Evolve Nincada"},
+		{"Location": "Evolve Nincada"},
+		{"Location": "Evolve Nincada"},
+		{"Location": "Forest"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Evolve Nincada"},
+		{"Location": "Evolve Nincada"}
+	],
+	"stats": [
+		61,
+		90,
+		45,
+		50,
+		50,
+		160
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 1,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 5,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 9,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 14,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Mind Reader",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 20,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 38,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Baton Pass",
+			"type": " Normal "
+		},
+		{
+			"level": 52,
+			"move": "X-Scissor",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bug Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy-Plant"},
+				{"pokemonName": "Burmy-Sandy"},
+				{"pokemonName": "Burmy-Trash"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+		{
+			"move": "Bug Buzz",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yamega"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Shelmet"},
+				{"pokemonName": "Accelgor"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Volcarona"},
+				{"pokemonName": "Beautifly"}
+			],
+			"type": " Bug "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Final Gambit",
+			"pokemon": [
+				{"pokemonName": "Shelmet"},
+				{"pokemonName": "Accelgor"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Gust",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Volcarona"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Gliscor"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Silver Wind",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Volcarona"},
+				{"pokemonName": "Vivillon"}
+			],
+			"type": " Bug "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Giga Drain",
+		"Roost",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

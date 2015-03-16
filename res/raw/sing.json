@@ -1,0 +1,43 @@
+{
+	"name": "Sing",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "55",
+	"summary": "Makes the target fall asleep. Being a sound-based move, it can hit through Substitute.",
+	"viability": "Don't use it. Its accuracy is beyond terrible.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Clefable" },
+		{ "pokemonName": "Jigglypuff" },
+		{ "pokemonName": "Wigglytuff" },
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Iglybuff" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Blissey" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Delcatty" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Kricketune" },
+		{ "pokemonName": "Chatot" },
+		{ "pokemonName": "Minccino" },
+		{ "pokemonName": "Cinccino" },
+		{ "pokemonName": "Meloetta-Aria" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Azurill" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

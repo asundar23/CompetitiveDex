@@ -1,0 +1,13 @@
+{
+	"name":"Illusion",
+	"summary": "Changes the appearance of the user to that of the last active Pokémon in the player's party. This illusion is broken when the Pokémon is attacked.",
+	"viability": "Illusion fits in perfectly with the entire Zoroark canon. Not only that, it can completely fool opponents into a bad prediction. Have Zoroark act like a ghost-type, and then watch as the opponent uses not very effective moves. It takes a wild amount of prediction, but Illusion is the perfect signature ability for Zorua and Zoroark.",
+	"pokemon":[
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Zoroark"
+		}
+	]
+}

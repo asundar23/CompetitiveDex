@@ -1,0 +1,28 @@
+{
+	"name":"Volt Absorb",
+	"summary": "Restores the user by 1/4 of their maximum HP when hit by an Electric-type move.",
+	"viability": "Volt Switch is so common, that switching a Pokémon with Volt Absorb in is usually a good idea. Not only will it allow for it to gain HP, but it could allow for them to possibly set up.",
+	"pokemon":[
+		{
+			"pokemonName": "Jolteon"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Raikou"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		}
+	]
+}

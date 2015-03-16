@@ -1,0 +1,171 @@
+{
+	"name": "Bide",
+	"note": "",
+	"type": " Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "The user endures attacks for two turns (including the turn Bide is selected), and then will deal double the damage on the third. Bide hits Ghost types, as well as Pokémon in a semi-invulnerable state (Dive, Phantom Force, Fly). Sleep will interrupt Bide and will not continue after the user wakes up.",
+	"viability": "You will most likely have your Pokémon faint before you have a chance to attack. Besides, since this lasts for a few turns, the opponent can switch out and even set up on your Pokémon. Don't use Bide.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Marshtomp"
+		},
+		{
+			"pokemonName": "Swampert"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Prinplup"
+		},
+		{
+			"pokemonName": "Kricketot"
+		},
+		{
+			"pokemonName": "Kricketune"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Foongus"
+		},
+		{
+			"pokemonName": "Amoonguss"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Beartic"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Goomy"
+		},
+		{
+			"pokemonName": "Sliggoo"
+		},
+		{
+			"pokemonName": "Goodra"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

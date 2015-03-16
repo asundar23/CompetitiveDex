@@ -1,0 +1,110 @@
+{ 
+	 "name": "Smeargle",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		65,
+		20,
+		35,
+		20,
+		45,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 71,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 81,
+			"move": "Sketch",
+			"type": " Normal "
+		},
+		{
+			"level": 91,
+			"move": "Sketch",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Route 212 (north) (Poké Radar)"},
+		{ "Location": "Route 212 (north) (Poké Radar)"},
+		{ "Location": "Routes 208 and 212 (north) (Poké Radar)"},
+		{ "Location": "Ruins of Alph, Safari Zone (Morning, Day)"},
+		{ "Location": "Ruins of Alph, Safari Zone (Morning, Day)"},
+		{ "Location": "Field"},
+		{ "Location": "Route 5 (Swarm)"},
+		{ "Location": "Route 5 (Swarm)"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Route 7, Friend Safari (Normal)"},
+		{ "Location": "Route 7, Friend Safari (Normal)"}
+
+	],
+	"abilities": [
+		"Own Tempo",
+		"Technician",
+		"Moody"
+	],
+	"sets": [
+	]
+}

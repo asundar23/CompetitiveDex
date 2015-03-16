@@ -1,0 +1,102 @@
+{
+	"name": "Bullet Seed",
+	"note": "",
+	"type": " Grass ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "25",
+	"accuracy": "100",
+	"summary": "Hits 2-5 times in a turn. There is a 3/8 chance to hit 2 or 3 times, and 1/8 for 4 or 5 times. Will hit all 5 times if a Pokémon has Skill Link.",
+	"viability": "This isn't as bad as other multi-hit moves, primarily because at minimum, you'll get a 50 base power move. Of course, with Skill Link it's a lot better. Mega Heracross, Minccino, and Cinccino are the best users of Bullet Seed, since they all have Skill Link. It's a 125 base power move. That's an enormous amount for any move, and can turn the tide easily. Otherwise, Sceptile uses this move well, given the STAB on it. It performs better with Leaf Blade, but if you want to break Substitutes it's not a bad idea to run Bullet Seed.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Sunflora"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Octillery"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Cinccino"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		},
+		{
+			"pokemonName": "Gourgeist-Small"
+		},
+		{
+			"pokemonName": "Gourgeist-Average"
+		},
+		{
+			"pokemonName": "Gourgeist-Large"
+		},
+		{
+			"pokemonName": "Gourgeist-Super"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Snover"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Ferroseed"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

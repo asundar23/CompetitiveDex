@@ -1,0 +1,41 @@
+{
+	"name": "Hurricane",
+	"note": "",
+	"type":" Flying ",
+	"category": "Special",
+	"pp": "10",
+	"power": "110",
+	"accuracy": "70",
+	"summary": "Deals damage, and has a 30% chance of confusing the target. The move cannot miss in the rain and is 50% in sun. Deals double damage if the target is in the semi-invulnerable state of Fly, Bounce, and Sky Drop. Can hit non-adjacent opponents in Triple Battles.",
+	"viability": "Hurricane is a great Pokemon for Flying-types who are specially inclined, such as Mega Pidgeot. While the accuracy is a pain to deal with, its power is well worth the investment. Not surprisingly, Hurricane users shine on rain-based teams.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pidgey" },
+		{ "pokemonName": "Pidgeotto" },
+		{ "pokemonName": "Pidgeot" },
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Moltres" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Shiftry" },
+		{ "pokemonName": "Wingull" },
+		{ "pokemonName": "Pelipper" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Whimsicott" },
+		{ "pokemonName": "Ducklett" },
+		{ "pokemonName": "Swanna" },
+		{ "pokemonName": "Volcarona" },
+		{ "pokemonName": "Tornadus-Incarnate" },
+		{ "pokemonName": "Tornadus-Therian" },
+		{ "pokemonName": "Vivillon" },
+		{ "pokemonName": "Noibat" },
+		{ "pokemonName": "Noivern" },
+		{ "pokemonName": "Yveltal" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

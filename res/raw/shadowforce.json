@@ -1,0 +1,22 @@
+{
+	"name": "Shadow Force",
+	"note": "",
+	"type":" Ghost ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Causes the user to vanish instantly. Hits the target through Protect and Detect, as well as Spiky Shield. Lifts the effects of Quick Guard and Wide Guard when used on its allies. With Power Herb, it can be executed in one turn. Also removes Crafty Shield from the target's team.",
+	"viability": "Shadow Force, unlike most two-turn moves, is actually pretty viable on Giratina. Most moves cannot hit it, plus it hits through Protect and Detect.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Giratina" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

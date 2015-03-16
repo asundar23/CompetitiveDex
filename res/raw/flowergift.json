@@ -1,0 +1,10 @@
+{
+	"name":"Flower Gift",
+	"summary": "Raises all party Pokémon's Attack and Special Defense stats by 50% in the sun. Cherrim also changes forms, from Overcoat to Sunshine.",
+	"viability": "In singles, this is useless, as Grass-moves are better specially than physically, such as Solar Beam. In Doubles and Triple, though, this is an entirely different story. Especially if you have a Pokémon with good physical attack like Shiftry, with Chlorophyll, Flower Gift becomes an absolute must-have.",
+	"pokemon":[
+		{
+			"pokemonName": "Cherrim"
+		}
+	]
+}

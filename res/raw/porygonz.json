@@ -1,0 +1,353 @@
+{ 
+	 "name": "Porygon-Z",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Porygon" },
+   		{ "pokemonName":"Poryon2" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Porygon2" },
+   		{ "pokemonName":"Porygon-Z" }
+   ],
+   "evolutionType":[
+   		"Trade holding Up-Grade",
+   		"Trade holding Dubious Disc"
+   ],
+	"stats": [
+		85,
+		80,
+		70,
+		135,
+		75,
+		90
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Magic Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Conversion 2",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Conversion",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 7,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 12,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 18,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 29,
+			"move": "Signal Beam",
+			"type": " Bug "
+		},
+		{
+			"level": 34,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 40,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 45,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Tri Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 56,
+			"move": "Magic Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 62,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 67,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Electroweb",
+		"Foul Play",
+		"Gravity",
+		"Icy Wind",
+		"Iron Tail",
+		"Last Resort",
+		"Magic Coat",
+		"Magnet Rise",
+		"Pain Split",
+		"Recycle",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Trick",
+		"Uproar",
+		"Wonder Room",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Porygon2"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Poké Transporter"},
+		{ "Location": "Poké Transporter"}
+
+	],
+	"abilities": [
+		"Adaptability",
+		"Download",
+		"Analytic"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,179 @@
+{ 
+	 "name": "Caterpie",
+	"types": [
+		" Bug "
+	],
+	"hatchTime": "2805 - 3059 steps",
+	"height": "1'00\" (0.3 m)",
+	"weight": "6.4 lbs (2.9 kg)",
+	"evYield": [
+		"1 HP"
+	],
+	"levelingRate": "Medium Fast",
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Caterpie" },
+   		{ "pokemonName":"Metapod" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Metapod" },
+   		{ "pokemonName":"Butterfree" }
+   ],
+   "evolutionType":[
+   		"Level 7",
+   		"Level 10"
+   ],
+	"stats": [
+		45,
+		30,
+		35,
+		20,
+		20,
+		45
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "String Shot",
+			"type": " Bug "
+		},
+		{
+			"level": 15,
+			"move": "Bug Bite",
+			"type": " Bug "
+		}
+	],
+	"ORASMoveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "String Shot",
+			"type": " Bug "
+		},
+		{
+			"level": 15,
+			"move": "Bug Bite",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+	],
+	"hmMoveList": [
+
+	],
+	"ORASTMMoveList": [
+	],
+	"ORASHMMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Electroweb",
+		"Snore"
+
+	],
+	"pokedexNumber": "10",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"Santalune Forest",
+				"Route 2"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Trade"
+			]
+		}
+	],
+	"abilities": [
+		"Shield Dust",
+		"Run Away"
+	],
+	"sets": [
+	]
+}

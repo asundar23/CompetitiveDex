@@ -1,0 +1,762 @@
+{ 
+	 "name": "Infernape",
+	"types": [
+		" Fire ",
+		" Fighting "
+	],
+	"eggGroup": [
+		" Field ",
+		" Human-Like "
+	],
+	"setCheck": "1",
+   "preEvolution":[
+   		{ "pokemonName":"Chimchar" },
+   		{ "pokemonName":"Monferno" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Monferno" },
+   		{ "pokemonName":"Infernape" }
+   	],
+   "evolutionType":[
+   		"Level 14",
+   		"Level 36"
+   ],
+	"stats": [
+		76,
+		104,
+		71,
+		104,
+		71,
+		108
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Punishment",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 7,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 9,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 14,
+			"move": "Mach Punch",
+			"type": " Fighting "
+		},
+		{
+			"level": 19,
+			"move": "Flame Wheel",
+			"type": " Fire "
+		},
+		{
+			"level": 26,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Punishment",
+			"type": " Dark "
+		},
+		{
+			"level": 36,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 42,
+			"move": "Fire Spin",
+			"type": " Fure "
+		},
+		{
+			"level": 52,
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"level": 58,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 68,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assist",
+			"pokemon": [
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Blaze Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Blaziken"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Out",
+			"pokemon": [
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Nuzleaf"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Delcatty"},
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fire Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmar"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Throh"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Heat Wave",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Torkoal"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vapreon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Quick Guard",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Sawk"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Submission",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Thunder Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Blast Burn",
+		"Covet",
+		"Dual Chop",
+		"Endeavor",
+		"Fire Pledge",
+		"Fire Punch",
+		"Gunk Shot",
+		"Heat Wave",
+		"Helping Hand",
+		"Iron Tail",
+		"Low Kick",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{"Location": "Evolve Monferno"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Evolve Monferno"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Blaze",
+		"Iron Fist"
+	],
+	"sets": [
+			{
+		"name": "Mixed Attacker",
+		"item": [
+			"Life Orb"
+		],
+		"ability": "Iron Fist",
+		"nature": [
+			"Naive"
+		],
+		"evs": [
+			"212 Attack",
+			"252 Speed",
+			"44 Special Attack"
+		],
+		"moves": [
+			"Fire Blast",
+			"Close Combat",
+			"Hidden Power Ice",
+			"Mach Punch"
+		],
+		"alternativemoves": [
+			"Flare Blitz",
+			"Thunder Punch",
+			"U-Turn"
+		],
+		"setexplanation": "Infernape is a great mixed attacker, due to its Attack and Special Attack both being 104. In addition, it is a very fast Pokémon, with base 108 Speed. A mixed attacking Life Orb set is the most popular, and most efficient. There are also many options in which to run it.br /><br /> <font color='#FFB2B2'><strong>Close-Combat</strong></font> is the only obvious choIce in this entire set. It's Infernape's best move, and overall one of the best. It will hit hard, and the defense drops wouldn't matter due to Infernape's poor defenses to begin with.<br /><br /> <font color='#FFB2B2'><strong>Fire Blast</strong></font> or <font color='#FFB2B2'><strong>Flare-Blitz</strong></font>, it's your choIce. Both hit very hard, but have their risks. <font color='#FFB2B2'><strong>Fire Blast</strong></font> has a shaky accuracy, and <font color='#FFB2B2'><strong>Flare-Blitz</strong></font> has a significant recoil; this recoil when combined with Life Orb can be detrimental. <font color='#FFB2B2'><strong>Hidden Power</strong></font> Ice is very good when dealing with Ground or Flying types, which are common weaknesses of Infernape. <font color='#FFB2B2'><strong>Thunder-Punch</strong></font> can also be used, but Ground types are immune to it. <font color='#FFB2B2'><strong>Grass Knot</strong></font> can be used against bulky Water types such as <font color='#9999E6'><strong>Swampert</strong></font> or <font color='#9999E6'><strong>Alomomola<</strong>/font>.<br /><br /> <font color='#FFB2B2'><strong>Mach-Punch</strong></font>, when boosted under Iron Fist, really packs a punch. You can alternatively run <font color='#FFB2B2'><strong>U-Turn<</strong>/font> to gain momentum. No matter what you run, this set will almost always hit hard, due to Infernape's incredible movepool.",
+		"checksandcounters": "If Infernape isn't carrying font color='#FFB2B2'><strong>Thunder-Punch</strong></font> or <font color='#FFB2B2'><strong>U-Turn</, <font color='#9999E6'><strong>JellIcent</strong></font> can be considered a pretty hard counter. It resists <font color='#FFB2B2'><strong>Fire Blast</strong></font> and <font color='#FFB2B2'><strong>Flare-Blitz</strong></font>, resists U-Turn, and is immune to <font color='#FFB2B2'><strong>Close-Combat</strong></font> and <font color='#FFB2B2'><strong>Mach-Punch</strong></font>.<br /><br /> Bulky Water types, can deal just fine with <font color='#9999E6'><strong>Infernape</strong></font> without either <font color='#FFB2B2'><strong>Thunder-Punch</strong></font> or <font color='#FFB2B2'><strong>Grass Knot</strong></font>. <font color='#9999E6'><strong>Gastrodon</strong></font> and <font color='#9999E6'><strong>Swampert</strong></font> are such examples of this. In fact, both Pokémon can wall Infernape completely if it doesn't have <font color='#FFB2B2'><strong>Grass Knot</strong></font>.",
+
+		"damagecalc": "strong> 252 HP, 4 Special Defense, netual-natured <font color='#9999E6'>Mega-Aggron</strong></font> <br /><br /> * <font color='#FFB2B2'><strong>Fire Blast</strong></font> does 86.6 - 102.6%, which is an 18.8% chance to OHKO.<br /><br />* <font color='#FFB2B2'><strong>Close-Combat</strong></font> does 46.9 - 55.3%, which is a 72.7% chance to 2HKO. "
+		},
+		
+		{
+		"name": "Physical Attacker",
+		"item": [
+			"Life Orb",
+			"Leftovers"
+		],
+		"ability": "Iron Fist",
+		"nature": [
+			"Jolly"
+		],
+		"evs": [
+			"252 Attack",
+			"252 Speed",
+			"4 HP"
+		],
+		"moves": [
+			"Fire Punch",
+			"Close Combat",
+			"Thunder Punch",
+			"U-Turn"
+		],
+		"alternativemoves": [
+			"Swords Dance",
+			"Mach Punch",
+			"Flare Blitz"
+		],
+		"setexplanation": "Infernape has fantastic attacking prowess, so a pure physical sweeper set makes total sense. font color='#FFB2B2'><strong>Fire-Punch</strong></font> is a base power 90 move after Iron Fist, while <font color='#FFB2B2'><strong><font color='#FFB2B2'><strong>Flare-Blitz</strong></font></strong></font> is 120 but has a significant recoil. <font color='#FFB2B2'><strong>Fire Punch</strong></font> is preferred because <font color='#FFB2B2'><strong>Flare-Blitz</strong></font> with Life Orb takes out too much HP in just one turn.<br /><br /> <font color='#FFB2B2'><strong>Close-Combat</strong></font> is a good choIce for a Fighting STAB at the cost of Infernape's already below-average defenses. <font color='#FFB2B2'><strong>Thunder-Punch</strong></font> gets an Iron Fist boost to 90 (essentially a non-recoil version of <font color='#FFB2B2'><strong>Wild-Charge</strong></font>). It can hit Flying and Water types (two types which Infernape is weak to) for super-effective damage.<br /><br /> The last slot is up to you. In order to break speed ties or stop faster sweepers, <font color='#FFB2B2'><strong>Mach-Punch</strong></font> is good to have, especially against a <font color='#FFB2B2'><strong><font color='#FFB2B2'><strong>Dragon Dance</strong></font></strong></font> <font color='#9999E6'><strong>Mega-Gyarados</strong></font>, <font color='#FFB2B2'><strong>Dragon Dance</strong></font> <font color='#9999E6'><strong>Mega-Tyranitar</strong></font>, or <font color='#9999E6'><strong>Keldeo</strong></font>. <font color='#FFB2B2'><strong>Swords-Dance</strong></font> can make Infernape absolutely lethal if a switch is correctly predicted. <font color='#FFB2B2'><strong>U-Turn</strong></font> can create some momentum for you and get Infernape out of an unwinnable situation.",
+		"checksandcounters": "Bulky Water/Ground types, such as font color='#9999E6'><strong>Swampert</strong></font> or <font color='#9999E6'><strong>Gastrodon</strong></font>, can really deal with this set effectively. <font color='#9999E6'><strong>Hippowdon</strong></font> is another Pokémon that can switch in easily, and then strike back with an <font color='#FFB2B2'><strong>Earthquake</strong></font>.",
+
+		"damagecalc": "strong> 252 HP, 252 Defense, Impish <font color='#9999E6'>Mega-Aggron</strong></font> <br /><br /> * <font color='#FFB2B2'><strong>Close Combat</strong></font> at +2 Attack does 90.6 - 106.9%, which is a 43.8% chance to OHKO. <br /><br />* <font color='#FFB2B2'><strong>Fire-Punch</strong></font> at +2 Attack does 68 - 80.5%, which is a guaranteed 2HKO. <br /><br /><strong> 4 HP, 0 Defense <font color='#9999E6'>Latios</strong></font> <br /><br /> <font color='#FFB2B2'>U-Turn</strong></font> does 67.8 - 80.7%. <br /><br /><strong> 252 HP, 252 Defense, Bold <font color='#9999E6'>Reuniclus</strong></font> <br /><br /> * <font color='#FFB2B2'><strong>Fire  Punch</strong></font> at +2 Attack does 67.2 - 79%. <br /><br />* Unboosted <font color='#FFB2B2'><strong>U-Turn</strong></font> does 34.9 - 41.7%. "	
+		},
+		
+		{
+		"name": "Special Sweeper",
+		"item": [
+			"Life Orb",
+			"Leftovers"
+		],
+		"ability": "Blaze",
+		"nature": [
+			"Timid"
+		],
+		"evs": [
+			"252 Special Attack",
+			"252 Speed",
+			"4 HP"
+		],
+		"moves": [
+			"Fire Blast",
+			"Focus Blast",
+			"Hidden Power Ghost",
+			"Nasty Plot"
+		],
+		"alternativemoves": [
+			"Flamethrower",
+			"U-Turn",
+			"Grass Knot"
+		],
+		"setexplanation": "Infernape/font> is just as dangerous a special sweeper as he is a physical one, due to both having the exact same base stat total. The two main STAB moves can be a bit risky, but the reward is great. <font color='#FFB2B2'><strong>Focus Blast</strong></font> hits for an outstanding 120 base power, but has terrible 70% accuracy. <font color='#FFB2B2'><strong>Fire Blast</strong></font> is shaky at 85% accuracy, but can be replaced with the accurate but less powerful <font color='#FFB2B2'><strong>Flamethrower</strong></font>.<br /><br /> <font color='#FFB2B2'><strong>Hidden Power Ghost</strong></font> is meant to deal primarily with <font color='#9999E6'><strong>Victini</strong></font>, who's Psychic/Fire type would normally wall this set. <font color='#FFB2B2'><strong>Hidden Power Water</strong></font> is also an acceptable move to use. Other options are <font color='#FFB2B2'><strong>U-Turn</strong></font> to gain momentum and <font color='#FFB2B2'><strong>Grass Knot</strong></font> to deal with bulky waters. Last, <font color='#FFB2B2'><strong>Nasty Plot</strong></font> will boost Infernape's Special Attack by two stages, which should help it against some of its counters.",
+		"checksandcounters": "Bulky Water types are usually the best Pokémon to check, as font color='#FFB2B2'><strong>Grass Knot</strong></font> could be on the set. <font color='#FFB2B2'><strong>Focus Blast</strong></font>, in addition, hits pretty hard, so it's best to watch out. Even with <font color='#FFB2B2'><strong>Grass Knot</strong></font>, Specially-Defensive <font color='#9999E6'><strong>JellIcent</strong></font> deals with special Infernape</strong></font> pretty easily.",
+
+		"damagecalc": "strong> 4 HP, 0 Special Defense <font color='#9999E6'>Victini</strong></font> <br /><br /> * <font color='#FFB2B2'><strong>Hidden Power Ghost</strong></font> does 77.1 - 90.6% at +2 Special Attack, which is a clean 2HKO. <br /><br /><strong> 252 HP, 252 Special Defense, Calm <font color='#9999E6'>JellIcent</strong></font> <br /><br /> <font color='#FFB2B2'><strong>Grass Knot</strong></font> does 75.2 - 88.8%, which is a guaranteed 2HKO. "	
+		}
+	]
+}

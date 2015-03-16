@@ -1,0 +1,39 @@
+{
+	"name": "Ice Shard",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a priority of +1.",
+	"viability": "One of the best priority attacks out there. Ice is a fantastic offensive typing, and can give slower Pokemon like Mega Abomasnow an advantage over powerful Dragon-types like Salamence.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Dewgong" },
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Articuno" },
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Glalie" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Abomasnow" },
+		{ "pokemonName": "Glaceon" },
+		{ "pokemonName": "Froslass" },
+		{ "pokemonName": "Cryogonal" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Vanillite" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

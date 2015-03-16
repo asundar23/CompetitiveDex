@@ -1,0 +1,496 @@
+{
+	"name":"Xatu",
+	"types": [
+		"Psychic",
+		"Flying"
+	],
+	"eggGroup": [
+		"Flying"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Natu" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Xatu" }
+   ],
+   "evolutionType":[
+   		"Level 25"
+   ],
+	"abilities": [
+		"Synchronize",
+		"Early Bird",
+		"Magic Bounce"
+	],
+	"locations": [
+		{"Location": "Route 224 (Swarm)"},
+		{"Location": "Route 224 (Swarm)"},
+		{"Location": "Route 224 (Swarm)"},
+		{"Location": "Ruins of Alph, Route 28, Mt. Silver (Headbutt)"},
+		{"Location": "Ruins of Alph, Route 28, Mt. Silver (Headbutt)"},
+		{"Location": "Forest"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Route 5 (Swarm)"},
+		{"Location": "Route 5 (Swarm)"},
+		{"Location": "Breed Xatu"},
+		{"Location": "Breed Xatu"}
+	],
+	"stats": [
+		40,
+		50,
+		45,
+		70,
+		45,
+		70
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 9,
+			"move": "Teleport",
+			"type": " Psychic "
+		},
+		{
+			"level": 12,
+			"move": "Lucky Chant",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Miracle Eye",
+			"type": " Psychic "
+		},
+		{
+			"level": 20,
+			"move": "Me First",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 28,
+			"move": "Wish",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Psycho Shift",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 39,
+			"move": "Stored Power",
+			"type": " Psychic "
+		},
+		{
+			"level": 44,
+			"move": "Ominous Wind",
+			"type": " Ghost "
+		},
+		{
+			"level": 47,
+			"move": "Power Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 47,
+			"move": "Guard Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Psychic",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ally Switch",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Drill Peck",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Feather Dance",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"}
+			],
+			"type": " Ice "
+		},
+		{
+			"move": "Quick Attack",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Refresh",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Roost",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Simple Beam",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Skill Swap",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Steel Wing",
+			"pokemon": [
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Sucker Punch",
+			"pokemon": [
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Synchronoise",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Zen Headbutt",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Giga Drain",
+		"Heat Wave",
+		"Magic Coat",
+		"Magic Room",
+		"Pain Split",
+		"Roost",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Trick",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

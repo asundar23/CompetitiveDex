@@ -1,0 +1,18 @@
+{
+	"name":"Truant",
+	"summary": "The user is unable to attack ever other turn.",
+	"viability": "Truant is the problem with Slaking. It's literally the only thing holding it back from being one of the best Pokémon in the entire game. With amazing stats, especially Attack, Truant will make it only Attack once every two turns.
+	
+	A somewhat popular strategy is to have Durant with Truant, then use Entrainment on an opponent, and give them Truant, making them relatively useless.",
+	"pokemon":[
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Slaking"
+		},
+		{
+			"pokemonName": "Durant"
+		}
+	]
+}

@@ -1,0 +1,419 @@
+{ 
+	 "name": "Garbodor",
+	"types": [
+		" Poison "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Trubbish" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Garbodor" }
+   	],
+   "evolutionType":[
+   		"Level 36"
+   ],
+	"stats": [
+		80,
+		95,
+		82,
+		60,
+		82,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Gas",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Recycle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 3,
+			"move": "Recycle",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Toxic Spikes",
+			"type": " Poison "
+		},
+		{
+			"level": 12,
+			"move": "Acid Spray",
+			"type": " Poison "
+		},
+		{
+			"level": 14,
+			"move": "Double Slap",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Sludge",
+			"type": " Poison "
+		},
+		{
+			"level": 23,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"level": 34,
+			"move": "Clear Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 39,
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"level": 46,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 54,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		},
+		{
+			"level": 59,
+			"move": "Explosion",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Rock Blast",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Nosepass"},
+				{"pokemonName": "Probopass"},
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Boldore"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Rollout",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Sand-Attack",
+			"pokemon": [
+				{"pokemonName": "Boldore"},
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Self-Destruct",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Spikes",
+			"pokemon": [
+				{"pokemonName": "Klefki"}
+			],
+			"type": " Ground "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Drain Punch",
+		"Giga Drain",
+		"Gunk Shot",
+		"Pain Split",
+		"Recycle",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Spite"
+
+	],
+	"locations": [
+		{"Location": "Route 9"},
+		{"Location": "Route 9"},
+		{"Location": "Route 9, Route 9 (Hidden Grotto)"},
+		{"Location": "Route 9, Route 9 (Hidden Grotto)"},
+		{"Location": "Lost Hotel, Pokémon Village (Trash Cans), Friend Safari (Poison)"},
+		{"Location": "Lost Hotel, Pokémon Village (Trash Cans), Friend Safari (Poison)"}
+	],
+	"abilities": [
+		"Stench",
+		"Weak Armor",
+		"Aftermath"
+	],
+	"sets": [
+	]
+}

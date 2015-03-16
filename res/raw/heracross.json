@@ -1,0 +1,480 @@
+{ 
+	 "name": "Heracross",
+	"types": [
+		" Bug ",
+		" Fighting "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"stats": [
+		80,
+		125,
+		75,
+		40,
+		95,
+		85
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Arm Thrust",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Bullet Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Night Slash",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Horn Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"level": 16,
+			"move": "Chip Away",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 25,
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"level": 28,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Pin Missile",
+			"type": " Bug "
+		},
+		{
+			"level": 34,
+			"move": "Close COmbat",
+			"type": " Fighting "
+		},
+		{
+			"level": 37,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Reversal",
+			"type": " Fighting "
+		},
+		{
+			"level": 46,
+			"move": "Megahorn",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bide",
+			"pokemon": [
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Shelmet"},
+				{"pokemonName": "Accelgor"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"},
+				{"pokemonName": "Larvesta"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Pinsir"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Volbeat"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Harden",
+			"pokemon": [
+				{"pokemonName": "Metapod"},
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Kakuna"},
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Pinsir"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Silcoon"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Cascoon"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Ninjask"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Megahorn",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Revenge",
+			"pokemon": [
+				{"pokemonName": "Pinsir"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Rock Blast",
+			"pokemon": [
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Seismic Toss",
+			"pokemon": [
+				{"pokemonName": "Pinsir"}
+			],
+			"type": " Fighting "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Helping Hand",
+		"Iron Defense",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Honey trees"},
+		{ "Location": "Honey trees"},
+		{ "Location": "Honey trees"},
+		{ "Location": "Headbutt trees"},
+		{ "Location": "Headbutt trees"},
+		{ "Location": "Forest"},
+		{ "Location": "Route 12"},
+		{ "Location": "Route 12"},
+		{ "Location": "Route 12, Lostlorn Forest, Lostlorn Forest (Hidden Grotto)"},
+		{ "Location": "Lostlorn Forest (Hidden Grotto)"},
+		{ "Location": "Friend Safari (Bug)"},
+		{ "Location": "Route 12, Friend Safari (Bug)"}
+
+	],
+	"abilities": [
+		"Swarm",
+		"Guts",
+		"Moxie"
+	],
+	"sets": [
+	]
+}

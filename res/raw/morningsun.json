@@ -1,0 +1,32 @@
+{
+	"name": "Morning Sun",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Restores the user's current HP based on weather conditions. In normal conditions, the user restores 1/2 of their HP back. In sun it's 2/3, and all weather conditions is 1/4.",
+	"viability": "This is exactly like Moonlight, and has the same viability. It's great on sun-based teams, and is very good in normal conditions.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Espeon" },
+		{ "pokemonName": "Beautifly" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Cherrim" },
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Sunkern" },
+		{ "pokemonName": "Pidove" },
+		{ "pokemonName": "Larvesta" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

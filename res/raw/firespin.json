@@ -1,0 +1,52 @@
+{
+	"name": "Fire Spin",
+	"note": "",
+	"type":" Fire ",
+	"category": "Special",
+	"pp": "15",
+	"power": "35",
+	"accuracy": "85",
+	"summary": "Deals damage, and traps the Pokemon for four to five turns. It also makes the target lose 1/8 of their maximum HP each turn (1/6 with Binding Band). Ghost-types cannot be trapped. If the user is holding Grip Claw, the duration is five turns. If Rapid Spin is used, the target will be freed. Additionally, if the user is fainted or switches out, the target will be freed.",
+	"viability": "Fire Spin, like all trapping moves, have their upsides and downsides. For starters, trapping a potential sweeper can be dangerous. On the other hand, if you trap the right Pokemon, you will be able to switch in a Pokemon that will do you well.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Charmander" },
+		{ "pokemonName": "Charmeleon" },
+		{ "pokemonName": "Charizard" },
+		{ "pokemonName": "Vulpix" },
+		{ "pokemonName": "Ninetales" },
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Rapidash" },
+		{ "pokemonName": "Magmar" },
+		{ "pokemonName": "Flareon" },
+		{ "pokemonName": "Moltres" },
+		{ "pokemonName": "Magby" },
+		{ "pokemonName": "Entei" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Solrock" },
+		{ "pokemonName": "Chimchar" },
+		{ "pokemonName": "Monferno" },
+		{ "pokemonName": "Infernape" },
+		{ "pokemonName": "Magmortar" },
+		{ "pokemonName": "Heatran" },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Lampent" },
+		{ "pokemonName": "Heatmor" },
+		{ "pokemonName": "Volcarona" },
+		{ "pokemonName": "Fennekin" },
+		{ "pokemonName": "Braixen" },
+		{ "pokemonName": "Delphox" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Pansear" },
+		{ "pokemonName": "Litleo" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"name":"Sand Veil",
+	"summary": "If the weather is sand, the user's evasion increases by 25%. For Pokémon whose type doesn't grant immunity to Sandstorm, they become immune to damage.",
+	"viability": "If the ability isn't banned, use it. 25% is a lot when it comes to evasion; it turns 100% moves into an unreliable 75%, so there is no reason you shouldn't use it if it's allowed, unless there is a much more useful ability to run.",
+	"pokemon":[
+		{
+			"pokemonName": "Sandshrew"
+		},
+		{
+			"pokemonName": "Sandslash"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Graveler"
+		},
+		{
+			"pokemonName": "Golem"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Donphan"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Gliscor"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		}
+	]
+}

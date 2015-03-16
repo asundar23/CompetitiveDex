@@ -1,0 +1,56 @@
+{
+	"name": "Hammer Arm",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "90",
+	"summary": "Deals damage, and lowers the user's Speed by one stage.",
+	"viability": "A very underrated move. Most pokemon that have access to it are slower Physical wallbreakers anyway, like Conkeldurr. Definitely worth a shot.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Sudowoodo" },
+		{ "pokemonName": "Ursaring" },
+		{ "pokemonName": "Swampert" },
+		{ "pokemonName": "Slaking" },
+		{ "pokemonName": "Metagross" },
+		{ "pokemonName": "Regirock" },
+		{ "pokemonName": "Regice" },
+		{ "pokemonName": "Registeel" },
+		{ "pokemonName": "Groudon" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Gurdurr" },
+		{ "pokemonName": "Conkeldurr" },
+		{ "pokemonName": "Darmanitan" },
+		{ "pokemonName": "Golett" },
+		{ "pokemonName": "Golurk" },
+		{ "pokemonName": "Tornadus-Incarnate" },
+		{ "pokemonName": "Tornadus-Therian" },
+		{ "pokemonName": "Thundurus-Incarnate" },
+		{ "pokemonName": "Thundurus-Therian" },
+		{ "pokemonName": "Landorus-Incarnate" },
+		{ "pokemonName": "Landorus-Therian" },
+		{ "pokemonName": "Diggersby" },
+		{ "pokemonName": "Pangoro" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Kangaskhan" },
+		{ "pokemonName": "Elekid" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Slakoth" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Cranidos" },
+		{ "pokemonName": "Darumaka" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

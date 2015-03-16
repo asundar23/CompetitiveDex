@@ -1,0 +1,58 @@
+{
+	"name": "Ice Fang",
+	"note": "",
+	"type":" Ice ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "65",
+	"accuracy": "95",
+	"summary": "Deals damage; has a 10% chance to flinch and freeze each.",
+	"viability": "While not too powerful, Ice Fang can be a good coverage move due to superior offensive typing. It also can work with Strong Jaw users such as Tyrantrum.",
+	"pokemonByLevel": [
+	{"pokemonName": "Arbok" },
+{"pokemonName": "Gyarados" },
+{"pokemonName": "Aerodactyl" },
+{"pokemonName": "Totodile" },
+{"pokemonName": "Croconaw" },
+{"pokemonName": "Feraligatr" },
+{"pokemonName": "Steelix" },
+{"pokemonName": "Snubbull" },
+{"pokemonName": "Granbull" },
+{"pokemonName": "Piloswine" },
+{"pokemonName": "Suicune" },
+{"pokemonName": "Tyranitar" },
+{"pokemonName": "Exploud" },
+{"pokemonName": "Carvanha" },
+{"pokemonName": "Sharpedo" },
+{"pokemonName": "Snorunt" },
+{"pokemonName": "Glalie" },
+{"pokemonName": "Walrein" },
+{"pokemonName": "Huntail" },
+{"pokemonName": "Floatzel" },
+{"pokemonName": "Hippowdon" },
+{"pokemonName": "Drapion" },
+{"pokemonName": "Glaceon" },
+{"pokemonName": "Gliscor" },
+{"pokemonName": "Mamoswine" },
+{"pokemonName": "Stoutland" },
+{"pokemonName": "Bergmite" },
+{"pokemonName": "Avalugg" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Deino" },
+		{ "pokemonName": "Tyrunt" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

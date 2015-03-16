@@ -1,0 +1,531 @@
+{
+	"name": "Charge Beam",
+	"note": "",
+	"type": " Electric ",
+	"category": "Special",
+	"pp": "10",
+	"power": "50",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 70% of raising the user's Special Attack one stage.",
+	"viability": "Dealing damage while having a really high chance to make yourself more powerful is always welcome. While Charge Beam theoretically doesn't do much, many Pokémon don't have the ability to boost their Special Attack quickly. Charge Beam allows this, while also doing a decent amount.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Regirock"
+		},
+		{
+			"pokemonName": "Regice"
+		},
+		{
+			"pokemonName": "Registeel"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		},
+		{
+			"pokemonName": "Tynamo"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	{
+	"pokemonName":"Rattata"
+},
+{
+	"pokemonName":"Raticate"
+},
+{
+	"pokemonName":"Pikachu"
+},
+{
+	"pokemonName":"Raichu"
+},
+{
+	"pokemonName":"Clefairy"
+},
+{
+	"pokemonName":"Clefable"
+},
+{
+	"pokemonName":"Jigglypuff"
+},
+{
+	"pokemonName":"Wigglytuff"
+},
+{
+	"pokemonName":"Abra"
+},
+{
+	"pokemonName":"Kadabra"
+},
+{
+	"pokemonName":"Alakazam"
+},
+{
+	"pokemonName":"Magnemite"
+},
+{
+	"pokemonName":"Magneton"
+},
+{
+	"pokemonName":"Voltorb"
+},
+{
+	"pokemonName":"Electrode"
+},
+{
+	"pokemonName":"Chansey"
+},
+{
+	"pokemonName":"Mr. Mime"
+},
+{
+	"pokemonName":"Electabuzz"
+},
+{
+	"pokemonName":"Jolteon"
+},
+{
+	"pokemonName":"Porygon"
+},
+{
+	"pokemonName":"Zapdos"
+},
+{
+	"pokemonName":"Mewtwo"
+},
+{
+	"pokemonName":"Mew"
+},
+{
+	"pokemonName":"Sentret"
+},
+{
+	"pokemonName":"Furret"
+},
+{
+	"pokemonName":"Chinchou"
+},
+{
+	"pokemonName":"Lanturn"
+},
+{
+	"pokemonName":"Pichu"
+},
+{
+	"pokemonName":"Mareep"
+},
+{
+	"pokemonName":"Flaaffy"
+},
+{
+	"pokemonName":"Ampharos"
+},
+{
+	"pokemonName":"Misdreavus"
+},
+{
+	"pokemonName":"Girafarig"
+},
+{
+	"pokemonName":"Dunsparce"
+},
+{
+	"pokemonName":"Remoraid"
+},
+{
+	"pokemonName":"Octillery"
+},
+{
+	"pokemonName":"Porygon2"
+},
+{
+	"pokemonName": "Stantler"
+},
+{
+	"pokemonName":"Elekid"
+},
+{
+	"pokemonName":"Blissey"
+},
+{
+	"pokemonName":"Raikou"
+},
+{
+	"pokemonName":"Lugia"
+},
+{
+	"pokemonName":"Ho-Oh"
+},
+{
+	"pokemonName":"Celebi"
+},
+{
+	"pokemonName":"Zigzagoon"
+},
+{
+	"pokemonName":"Linoone"
+},
+{
+	"pokemonName":"Ralts"
+},
+{
+	"pokemonName":"Kirlia"
+},
+{
+	"pokemonName":"Gardevoir"
+},
+{
+	"pokemonName":"Skitty"
+},
+{
+	"pokemonName":"Delcatty"
+},
+{
+	"pokemonName":"Mawile"
+},
+{
+	"pokemonName":"Electrike"
+},
+{
+	"pokemonName":"Manectric"
+},
+{
+	"pokemonName":"Plusle"
+},
+{
+	"pokemonName":"Minun"
+},
+{
+	"pokemonName":"Volbeat"
+},
+{
+	"pokemonName":"Illumise"
+},
+{
+	"pokemonName":"Spoink"
+},
+{
+	"pokemonName":"Grumpig"
+},
+{
+	"pokemonName":"Lunatone"
+},
+{
+	"pokemonName":"Solrock"
+},
+{
+	"pokemonName":"Baltoy"
+},
+{
+	"pokemonName":"Claydol"
+},
+{
+	"pokemonName":"Kecleon"
+},
+{
+	"pokemonName":"Shuppet"
+},
+{
+	"pokemonName":"Banette"
+},
+{
+	"pokemonName":"Duskull"
+},
+{
+	"pokemonName":"Dusclops"
+},
+{
+	"pokemonName":"Chimecho"
+},
+{
+	"pokemonName":"Absol"
+},
+{
+	"pokemonName":"Regirock"
+},
+{
+	"pokemonName":"Regice"
+},
+{
+	"pokemonName":"Registeel"
+},
+{
+	"pokemonName":"Latias"
+},
+{
+	"pokemonName":"Latios"
+},
+{
+	"pokemonName":"Jirachi"
+},
+{
+	"pokemonName":"Deoxys"
+},
+{
+	"pokemonName":"Bidoof"
+},
+{
+	"pokemonName":"Bibarel"
+},
+{
+	"pokemonName":"Shinx"
+},
+{
+	"pokemonName":"Luxio"
+},
+{
+	"pokemonName":"Luxray"
+},
+{
+	"pokemonName":"Pachirisu"
+},
+{
+	"pokemonName":"Drifloon"
+},
+{
+	"pokemonName":"Drifblim"
+},
+{
+	"pokemonName":"Buneary"
+},
+{
+	"pokemonName":"Lopunny"
+},
+{
+	"pokemonName":"Mismagius"
+},
+{
+	"pokemonName":"Chingling"
+},
+{
+	"pokemonName":"Bronzor"
+},
+{
+	"pokemonName":"Bronzong"
+},
+{
+	"pokemonName":"Mime Jr."
+},
+{
+	"pokemonName":"Magnezone"
+},
+{
+	"pokemonName":"Electivire"
+},
+{
+	"pokemonName":"Porygon-Z"
+},
+{
+	"pokemonName":"Gallade"
+},
+{
+	"pokemonName":"Dusknoir"
+},
+{
+	"pokemonName":"Rotom"
+},
+{
+	"pokemonName":"Uxie"
+},
+{
+	"pokemonName":"Mesprit"
+},
+{
+	"pokemonName":"Azelf"
+},
+{
+	"pokemonName":"Giratina"
+},
+{
+	"pokemonName":"Cresselia"
+},
+{
+	"pokemonName":"Darkrai"
+},
+{
+	"pokemonName":"Arceus"
+},
+{
+	"pokemonName":"Victini"
+},
+{
+	"pokemonName":"Munna"
+},
+{
+	"pokemonName":"Musharna"
+},
+{
+	"pokemonName":"Blitzle"
+},
+{
+	"pokemonName":"Zebstrika"
+},
+{
+	"pokemonName":"Woobat"
+},
+{
+	"pokemonName":"Swoobat"
+},
+{
+	"pokemonName":"Audino"
+},
+{
+	"pokemonName":"Sigilyph"
+},
+{
+	"pokemonName":"Gothita"
+},
+{
+	"pokemonName":"Gothorita"
+},
+{
+	"pokemonName":"Gothitelle"
+},
+{
+	"pokemonName":"Emolga"
+},
+{
+	"pokemonName":"Joltik"
+},
+{
+	"pokemonName":"Galvantula"
+},
+{
+	"pokemonName":"Klink"
+},
+{
+	"pokemonName":"Klang"
+},
+{
+	"pokemonName":"Klinklang"
+},
+{
+	"pokemonName":"Tynamo"
+},
+{
+	"pokemonName":"Eelektrik"
+},
+{
+	"pokemonName":"Eelektross"
+},
+{
+	"pokemonName":"Elgyem"
+},
+{
+	"pokemonName":"Beheeyem"
+},
+{
+	"pokemonName":"Druddigon"
+},
+{
+	"pokemonName":"Golurk"
+},
+{
+	"pokemonName":"Hydreigon"
+},
+{
+	"pokemonName":"Thundurus-Incarnate"
+},
+{
+	"pokemonName":"Thundurus-Therian"
+},
+{
+	"pokemonName":"Zekrom"
+},
+{
+	"pokemonName":"Meloetta-Aria"
+},
+{
+	"pokemonName":"Meloetta-Pirouette"
+},
+{
+	"pokemonName":"Genesect"
+},
+{
+	"pokemonName":"Furfrou"
+},
+{
+	"pokemonName":"Espurr"
+},
+{
+	"pokemonName":"Male Meowstic"
+},
+{
+	"pokemonName":"Female Meowstic"
+},
+{
+	"pokemonName":"Spritzee"
+},
+{
+	"pokemonName":"Aromatisse"
+},
+{
+	"pokemonName":"Helioptile"
+},
+{
+	"pokemonName":"Heliolisk"
+},
+{
+	"pokemonName":"Amaura"
+},
+{
+	"pokemonName":"Aurorus"
+},
+{
+	"pokemonName":"Dedenne"
+},
+{
+	"pokemonName":"Pumpkaboo-Small"
+},
+{
+	"pokemonName":"Pumpkaboo-Average"
+},
+{
+	"pokemonName":"Pumpkaboo-Large"
+},
+{
+	"pokemonName":"Pumpkaboo-Super"
+},
+{
+	"pokemonName":"Gourgeist-Small"
+},
+{
+	"pokemonName":"Gourgeist-Average"
+},
+{
+	"pokemonName":"Gourgeist-Large"
+},
+{
+	"pokemonName":"Gourgeist-Super"
+}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

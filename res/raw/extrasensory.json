@@ -1,0 +1,123 @@
+{
+	"name": "Extrasensory",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "20",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 10% chance to cause the target to flinch.",
+	"viability": "As a main STAB move, this pales in comparison to Psyshock or Psychic. As a coverage move for Pokemon like Greninja or Shiftry, this works great. Psychic is a decent coverage type, and Extrasensory has acceptable power to pull it off.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Raikou"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Suicune"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Nuzleaf"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		},
+		{
+			"pokemonName": "Uxie"
+		},
+		{
+			"pokemonName": "Mesprit"
+		},
+		{
+			"pokemonName": "Azelf"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		},
+		{
+			"pokemonName": "Greninja"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Stantler"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Budew"
+		},
+		{
+			"pokemonName": "Zorua"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

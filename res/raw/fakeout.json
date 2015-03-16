@@ -1,0 +1,129 @@
+{
+	"name": "Fake Out",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "If the user hasn't used any moves upon switching in, this move deals damage at a priority of +3. It will always make the target flinch unless they have Inner Focus or Shield Dust.",
+	"viability": "Fake Out has many uses. First, it checks if the opponent is carrying Leftovers. Next, by damage output you can tell if they have any defensive investment. In Doubles, Fake Out is used a lot to allow a teammate to set up. It also adds an extra turn of damage with no real represcussions. Fake Out is highly reccommended on Pokemon with a high Attack stat like Mienshao.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Nuzleaf"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Croagunk"
+		},
+		{
+			"pokemonName": "Scraggy"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

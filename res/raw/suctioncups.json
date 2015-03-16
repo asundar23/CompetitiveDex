@@ -1,0 +1,24 @@
+{
+	"name":"Suction Cups",
+	"summary": "The user cannot be phased out - moves like Roar, Whirlwind, Dragon Tail,a nd Circle Throw will not switch them out.
+	
+	Outside battle, if a Pokémon with Suction Cups leads the party, bites will always occur while fishing.",
+	"viability": "Suction Cups is decent when having to deal with a stall-like Pokémon such as Steelix. It's important to know, however, that the Pokémon that have Suction Cups have far better abilities. Octillery has Sniper, Cradily has Storm Drain, and Malamar has Contrary and Infiltrator.",
+	"pokemon":[
+		{
+			"pokemonName": "Octillery"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Malamar"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name":"Turboblaze",
+	"summary": "Negates abilities that weaken or negate moves or their side effects.",
+	"viability": "Similar to Mold Breaker, negating another Pokémon's ability is very valuable, especially those that have Sturdy, Contrary, or Levitate.",
+	"pokemon":[
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "White Kyurem"
+		}
+	]
+}

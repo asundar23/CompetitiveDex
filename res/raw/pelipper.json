@@ -1,0 +1,665 @@
+{ 
+	 "name": "Pelipper",
+	"types": [
+		" Water ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Flying "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Hurricane",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Soak",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 5,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 12,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 15,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 19,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 22,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 25,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 33,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 44,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 50,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 55,
+			"move": "Hurricane",
+			"type": " Flying "
+		}
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Wingull" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Pelipper" }
+   	],
+   "evolutionType":[
+   		"Level 25"
+   ],
+	"stats": [
+		60,
+		50,
+		100,
+		85,
+		70,
+		65
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Soak",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Water Sport",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 6,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 14,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 17,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 22,
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 34,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 39,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 52,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 58,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 63,
+			"move": "Hurricane",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Aqua Ring",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Pelipeer"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Gust",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Female Unfezant"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Fatfetch'd"},
+				{"pokemonName": "Corphish"},
+				{"pokemonName": "Crawdaunt"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Mist",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Soak",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Twister",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Water Sport",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Wide Guard",
+			"pokemon": [
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Rock "
+		}
+	],
+	"tutorMoveList": [
+		"Gunk Shot",
+		"Icy Wind",
+		"Knock Off",
+		"Roost",
+		"Seed Bomb",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Routes (213, 218, 219, 220, 221, 222, 223, 224, 226, 229, and 230), Canalave City, Fuego Ironworks, Iron Island, Pastoria City, Pokémon League, Sunyshore City, Valley Windworks (Surfing)"},
+		{ "Location": "Routes (213, 218, 219, 220, 221, 222, 223, 224, 226, 229, and 230), Canalave City, Fuego Ironworks, Iron Island, Pastoria City, Pokémon League, Sunyshore City, Valley Windworks (Surfing)"},
+		{ "Location": "Routes (219, 220, 221, 223, and 226), Iron Island, Pokémon League, Sunyshore City (Surfing), Routes (222, 224, and 230, Grass or Surfing)"},
+		{ "Location": "Evolve Wingull"},
+		{ "Location": "Evolve Wingull"},
+		{ "Location": "Sea"},
+		{ "Location": "Route 13, Undella Town, Undella Bay (Surfing)"},
+		{ "Location": "Route 13, Undella Town, Undella Bay (Surfing)"},
+		{ "Location": "Routes 13 and 22, Giant Chasm, Route 22 (Hidden Grotto)"},
+		{ "Location": "Routes 13 and 22, Giant Chasm, Route 22 (Hidden Grotto)"},
+		{ "Location": "Evolve Wingull"},
+		{ "Location": "Evolve Wingull"}
+
+	],
+	"abilities": [
+		"Keen Eye",
+		"Rain Dish"
+	],
+	"sets": [
+	]
+}

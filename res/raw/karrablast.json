@@ -1,0 +1,386 @@
+{ 
+	 "name": "Karrablast",
+	"types": [
+		" Bug "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Karrablast" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Escavalier" }
+   	],
+   "evolutionType":[
+   		"Trade for Shelmet"
+   ],
+	"stats": [
+		50,
+		75,
+		45,
+		40,
+		45,
+		60
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 4,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Twineedle",
+			"type": " Bug "
+		},
+		{
+			"level": 16,
+			"move": "Fury Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 32,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 40,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 44,
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"level": 49,
+			"move": "Reversal",
+			"type": " Fighting "
+		},
+		{
+			"level": 52,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 56,
+			"move": "Fell Stinger",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bug Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Heracross"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Drill Run",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Foretress"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Horn Attack",
+			"pokemon": [
+				{"pokemonName": "Heracross"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Knock Off",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Megahorn",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Giga Drain",
+		"Iron Defense",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Routes 6 and 11"},
+		{ "Location": "Routes 6 and 11"},
+		{ "Location": "Routes (6, 8 and 11), Icirrus City, Moor of Icirrus (Spring, Summer, and Autumn)"},
+		{ "Location": "Routes 6, 8 and 11, Icirrus City, Moor of Icirrus (Spring, Summer, and Autumn)"},
+		{ "Location": "Routes 14 and 19"},
+		{ "Location": "Routes 14 and 19"}
+
+	],
+	"abilities": [
+		"Swarm",
+		"Shed Skin",
+		"No Guard"
+	],
+	"sets": [
+	]
+}

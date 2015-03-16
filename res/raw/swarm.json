@@ -1,0 +1,76 @@
+{
+	"name":"Swarm",
+	"summary": "Bug moves are increased by 1.5x power if the user's HP is at 1/3 or below.",
+	"viability": "For bulkier attackers like Escavalier, or those with Focus Sash like Ariados or Leavanny, this works wonderfully. Getting to below 1/3 HP is tough, but these Pokémon are able to easily. In addition, Volcarona can get there easily due to its 4x weakness to Stealth Rock, then have more power to fire Bug Buzz. Escavalier's Megahorn goes from 120 before STAB to 180. Swarm is a great ability and should be run wherever possible.",
+	"pokemon":[
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Spinarak"
+		},
+		{
+			"pokemonName": "Ariados"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Kricketune"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Sewaddle"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Venipede"
+		},
+		{
+			"pokemonName": "Whirlipede"
+		},
+		{
+			"pokemonName": "Scolipede"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Joltik"
+		},
+		{
+			"pokemonName": "Galvantula"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Larvesta"
+		},
+		{
+			"pokemonName": "Volcarona"
+		}
+	]
+}

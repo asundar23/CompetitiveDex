@@ -1,0 +1,483 @@
+{ 
+	 "name": "Seadra",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 1 ",
+		" Dragon "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Horsea" },
+   		{ "pokemonName":"Seadra" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Seadra" },
+   		{ "pokemonName":"Kingdra" }
+   ],
+   "evolutionType":[
+   		"Level 32",
+   		"Trade holding Dragon Scale"
+   ],
+	"stats": [
+		55,
+		65,
+		95,
+		95,
+		45,
+		85
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 4,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 14,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Bubble Beam",
+			"type": " Water "
+		},
+		{
+			"level": 23,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 26,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 30,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 40,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 48,
+			"move": "Dradon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 57,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Aurora Beam",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Clear Smog",
+			"pokemon": [
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Dragon Breath",
+			"pokemon": [
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Dragon Rage",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Magikarp"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Feebas"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Muddy Water",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Octazooka",
+			"pokemon": [
+				{"pokemonName": "Octillery"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Outrage",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Razor Wind",
+			"pokemon": [
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Helioptile"},
+				{"pokemonName": "Heliolisk"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Signal Beam",
+			"pokemon": [
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Splash",
+			"pokemon": [
+				{"pokemonName": "Magikarp"},
+				{"pokemonName": "Feebas"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Octillery"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Froakie"},
+				{"pokemonName": "Frogadier"},
+				{"pokemonName": "Greninja"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Dragon Pulse",
+		"Icy Wind",
+		"Outrage",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Route 226 (Super Rod)"},
+		{ "Location": "Route 226 (Super Rod)"},
+		{ "Location": "Route 226 (Super Rod)"},
+		{ "Location": "Whirl Islands, Seafoam Islands (Super Rod)"},
+		{ "Location": "Whirl Islands, Seafoam Islands (Super Rod)"},
+		{ "Location": "Sea"},
+		{ "Location": "Routes 17, 18 and P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Routes 17, 18 and P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Routes 17, 18 and P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Routes 17, 18 and P2 Laboratory (Fishing in rippling water)"},
+		{ "Location": "Ambrette Town, Cyllage City (Super Rod)"},
+		{ "Location": "Ambrette Town, Cyllage City (Super Rod)"}
+
+	],
+	"abilities": [
+		"Swift Swim",
+		"Sniper",
+		"Damp"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"name": "Drill Run",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "95",
+	"summary": "Deals damage and has an increased critical hit ratio.",
+	"viability": "For Pokemon that don't have Earthquake, Drill Run provides a good coverage move, especially for Escavalier.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Rhydon"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Karrablast"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidorino"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Pineco"
+		},
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Rhyperior"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		}
+	]
+}

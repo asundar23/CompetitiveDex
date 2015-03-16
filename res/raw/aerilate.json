@@ -1,0 +1,12 @@
+{
+	"name":"Aerilate",
+	"summary": "Turns all Normal-type moves into Flying-type moves. These moves also receive a 30% boost in power.",
+	"viability": "This is Mega Pinsir's aignature ability. It can be very useful for a powerful STAB Quick Attack and Return. All Normal-type moves will become a STAB move, plus enjoy a boost. This makes Quick Attack a total power of 88 before type calculations. That is a great amount of power for a priority move.
+	
+				This also turns Return from a 102 Base Power move (max happiness), to a whopping 199 total power before type calculations. No recoil like with Brave Bird, plus a bit more power. That makes this ability an instant attraction, and the main reason as to why Mega Pinsir is so great. Its sky-high attack stat, as well, really use this ability to its full potential.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Pinsir"
+		}
+	]
+}

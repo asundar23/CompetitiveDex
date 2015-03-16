@@ -1,0 +1,49 @@
+{
+	"name": "Leaf Storm",
+	"note": "",
+	"type":" Grass ",
+	"category": "Special",
+	"pp": "5",
+	"power": "130",
+	"accuracy": "90",
+	"summary": "Deals damage, and lowers the user's Special Attack by two stages.",
+	"viability": "Leaf Storm, despite the Special Attack drop, is still a fantastic move. It can be used to force switches due to the sheer power of it. The most deadly form of this move is Serperior's version. With Contrary, its Speed is actually doubled, making it a terrifying sweeper.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Exeggutor" },
+		{ "pokemonName": "Bellossom" },
+		{ "pokemonName": "Sunflora" },
+		{ "pokemonName": "Celebi" },
+		{ "pokemonName": "Grovyle" },
+		{ "pokemonName": "Sceptile" },
+		{ "pokemonName": "Shiftry" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Turtwig" },
+		{ "pokemonName": "Grotle" },
+		{ "pokemonName": "Torterra" },
+		{ "pokemonName": "Wormadam-Plant" },
+		{ "pokemonName": "Shaymin-Sky" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" },
+		{ "pokemonName": "Leavanny" },
+		{ "pokemonName": "Petilil" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Treecko" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Pansage" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

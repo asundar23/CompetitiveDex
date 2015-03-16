@@ -1,0 +1,46 @@
+{
+	"name":"Big Pecks",
+	"summary": "Prevents the user's Defense from dropping, except through Guard Swap, Heart Swap, or Guard Split.",
+	"viability": "Big Pecks is a pretty useless ability. Besides Screech, which isn't really used ever, there aren't many moves that are going to lower your Defense. Each Pokémon that has Big Pecks has a far better ability, anyway.",
+	"pokemon":[
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		},
+		{
+			"pokemonName": "Fletchling"
+		}
+	]
+}

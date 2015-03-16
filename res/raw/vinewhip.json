@@ -1,0 +1,42 @@
+{
+	"name": "Vine Whip",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "25",
+	"power": "45",
+	"accuracy": "100",
+	"summary": "Deals damage.",
+	"viability": "Another early game move. Don't use it in competitive play.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Ivysaur" },
+		{ "pokemonName": "Venusaur" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Weepinbell" },
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" },
+		{ "pokemonName": "Pansage" },
+		{ "pokemonName": "Chespin" },
+		{ "pokemonName": "Quilladin" },
+		{ "pokemonName": "Chesnaught" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Skiddo" },
+		{ "pokemonName": "Gogoat" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chikorita" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

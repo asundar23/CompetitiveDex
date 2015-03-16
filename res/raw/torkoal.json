@@ -1,0 +1,543 @@
+{
+	"name":"Torkoal",
+	"types": [
+		"Fire"
+	],
+	"eggGroup": [
+		"Field"
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 4,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 7,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 10,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 15,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Flame Wheel",
+			"type": " Fire "
+		},
+		{
+			"level": 22,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 25,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 27,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 34,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 38,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 40,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 42,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 47,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Inferno",
+			"type": " Fire "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"White Smoke",
+		"Shell Armor"
+	],
+	"locations": [
+		{"Location": "Route 227, Stark Mountain (Poké Radar)"},
+		{"Location": "Route 227, Stark Mountain (Poké Radar)"},
+		{"Location": "Route 227, Stark Mountain (Poké Radar)"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Mountain"},
+		{"Location": "Poké Transfer or Pokémon Dream World"},
+		{"Location": "Poké Transfer or Pokémon Dream World"},
+		{"Location": "Poké Transfer or Pokémon Dream World"},
+		{"Location": "Poké Transfer or Pokémon Dream World"},
+		{"Location": "Route 18"},
+		{"Location": "Route 18"}
+	],
+	"stats": [
+		70,
+		85,
+		140,
+		85,
+		70,
+		20
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Inferno",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 4,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 7,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 12,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 17,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 20,
+			"move": "Smokescreen",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Flame Wheel",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Rapid Spin",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 33,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 44,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 49,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 52,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 60,
+			"move": "Inferno",
+			"type": " Fire "
+		},
+		{
+			"level": 65,
+			"move": "Shell Smash",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		},
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Clear Smog",
+			"pokemon": [
+				{"pokemonName": "Psyduck"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Eruption",
+			"pokemon": [
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Camerupt"}
+			],
+			"type": " Fire "
+		},
+		{
+			"move": "Fissure",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Flame Burst",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Simisear"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Fire "
+		},
+		{
+			"move": "Skull Bash",
+			"pokemon": [
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Bidoof"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Superpower",
+			"pokemon": [
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Earth Power",
+		"Heat Wave",
+		"Iron Defense",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+	],
+	"sets": [
+	]
+}

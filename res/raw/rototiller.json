@@ -1,0 +1,34 @@
+{
+	"name": "Rototiller",
+	"note": "",
+	"type":" Ground ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the Attack and Special Attack stats of all Grass-type Pokemon by one stage. Does not affect Flying-type Pokemon, those with Levitate, holding an Air Balloon, or Pokemon under the effects of Magnet Rise or Telekinesis.",
+	"viability": "Rototiller is best used in Doubles/Tripes with Grassy Terrain, and with a Grass Pokemon as a partner. The problem is that it simply takes too long to set up, and can ultimately end up harming you before it helps. Use a different boosting move for your Grass-Pokemon instead",
+	"pokemonByLevel": [
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Linoone" },
+		{ "pokemonName": "Bibarel" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Watchog" },
+		{ "pokemonName": "Excadrill" },
+		{ "pokemonName": "Diggersby" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Dwebble" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

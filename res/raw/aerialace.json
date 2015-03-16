@@ -1,0 +1,850 @@
+{
+	"name": "Aerial Ace",
+	"type": " Flying ",
+	"category": "Physical",
+	"pp": "20",
+	"note":"",
+	"power": "60",
+	"accuracy": "--",
+	"summary": "Deals damage. Always hits regardless of accuracy drops/evasion boosts. In Doubles/Tripples this move can hit non-adjacent foes.",
+	"viability": "The base power of Aerial Ace is 60, which is the magic number for Technician Boosts, made famous by Scyther and Scizor. Whlle this move isn't too powerful, it's a good option on Pokémon that don't have a better option but would appreciate the STAB, such as Aerodactyl. Otherwise, stick to using it on Scyther and use a better option such as Brave Bird. The coverage can be nIce (such as on Krookodile to deal with Heracross), but generally is too weak to deal a significant amount of damage otherwise.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Gogoat"
+		},
+		{
+			"pokemonName": "Honedge"
+		},
+		{
+			"pokemonName": "Aegislash-Shield"
+		},
+		{
+			"pokemonName": "Aegislash-Blade"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByBreeding": [
+		
+	],
+	"pokemonByTM": [
+	{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Charmeleon"
+		},
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Beedrill"
+		},
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Pidgeotto"
+		},
+		{
+			"pokemonName": "Pidgeot"
+		},
+		{
+			"pokemonName": "Spearow"
+		},
+		{
+			"pokemonName": "Fearow"
+		},
+		{
+			"pokemonName": "Sandshrew"
+		},
+		{
+			"pokemonName": "Sandslash"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Dugtrio"
+		},
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Psyduck"
+		},
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Marowak"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Articuno"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Cyndaquil"
+		},
+		{
+			"pokemonName": "Quilava"
+		},
+		{
+			"pokemonName": "Typhlosion"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Ledyba"
+		},
+		{
+			"pokemonName": "Ledian"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Yanma"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Gligar"
+		},
+		{
+			"pokemonName": "Scizor"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Ursaring"
+		},
+		{
+			"pokemonName": "Delibird"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Celebi"
+		},
+		{
+			"pokemonName": "Treecko"
+		},
+		{
+			"pokemonName": "Grovyle"
+		},
+		{
+			"pokemonName": "Sceptile"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Combusken"
+		},
+		{
+			"pokemonName": "Blaziken"
+		},
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Dustox"
+		},
+		{
+			"pokemonName": "Shiftry"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Pelipper"
+		},
+		{
+			"pokemonName": "Masquerain"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Vigoroth"
+		},
+		{
+			"pokemonName": "Slaking"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Shedinja"
+		},
+		{
+			"pokemonName": "Sableye"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Volbeat"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Swablu"
+		},
+		{
+			"pokemonName": "Altaria"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Crawdaunt"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Armaldo"
+		},
+		{
+			"pokemonName": "Kecleon"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Shelgon"
+		},
+		{
+			"pokemonName": "Salamence"
+		},
+		{
+			"pokemonName": "Metang"
+		},
+		{
+			"pokemonName": "Metagross"
+		},
+		{
+			"pokemonName": "Registeel"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Groudon"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Jirachi"
+		},
+		{
+			"pokemonName": "Deoxys"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Prinplup"
+		},
+		{
+			"pokemonName": "Empoleon"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Staravia"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Kricketune"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Vespiquen"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Mismagius"
+		},
+		{
+			"pokemonName": "Honchkrow"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Tangrowth"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Leafeon"
+		},
+		{
+			"pokemonName": "Gliscor"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Regigigas"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Snivy"
+		},
+		{
+			"pokemonName": "Servine"
+		},
+		{
+			"pokemonName": "Serperior"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Herdier"
+		},
+		{
+			"pokemonName": "Stoutland"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Krookodile"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Crustle"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		},
+		{
+			"pokemonName": "Archen"
+		},
+		{
+			"pokemonName": "Archeops"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Zoroark"
+		},
+		{
+			"pokemonName": "Ducklett"
+		},
+		{
+			"pokemonName": "Swanna"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Escavalier"
+		},
+		{
+			"pokemonName": "Ferrothorn"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Cubchoo"
+		},
+		{
+			"pokemonName": "Beartic"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		},
+		{
+			"pokemonName": "Bouffalant"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		},
+		{
+			"pokemonName": "Heatmor"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Volcarona"
+		},
+		{
+			"pokemonName": "Cobalion"
+		},
+		{
+			"pokemonName": "Terrakion"
+		},
+		{
+			"pokemonName": "Virizion"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Genesect"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Quilladin"
+		},
+		{
+			"pokemonName": "Chesnaught"
+		},
+		{
+			"pokemonName": "Froakie"
+		},
+		{
+			"pokemonName": "Frogadier"
+		},
+		{
+			"pokemonName": "Greninja"
+		},
+		{
+			"pokemonName": "Fletchling"
+		},
+		{
+			"pokemonName": "Fletchinder"
+		},
+		{
+			"pokemonName": "Talonflame"
+		},
+		{
+			"pokemonName": "Vivillon"
+		},
+		{
+			"pokemonName": "Gogoat"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Malamar"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Tyrantrum"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		},
+		{
+			"pokemonName": "Dedenne"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

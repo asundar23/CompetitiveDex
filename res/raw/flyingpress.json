@@ -1,0 +1,22 @@
+{
+	"name": "Flying Press",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "80",
+	"accuracy": "95",
+	"summary": "Deals damage. The actual offensive typing is a combination of Fighting and Flying types. If the target has used Minimize, the power is doubled and will never miss. Hita non-adjacent opponents in Triple Battles.",
+	"viability": "Flying press is very interesting, but simply isn't powerful enough.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hawlucha" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

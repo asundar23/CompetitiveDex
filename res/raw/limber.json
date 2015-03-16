@@ -1,0 +1,37 @@
+{
+	"name":"Limber",
+	"summary": "Prevents paralysis on the user. If the user is already paralyzed, being granted this ability (through means like Skill Swap), will instantly cure it.",
+	"viability": "Limber is great for Pokémon like Lopunny and Persian, who rely so heavily on Speed. The only realistic use is on Lopunny, though, since Persian has a far better ability in Technician. Lopunny is pretty fast with decent Attack, but to be paralyzed will render it useless. Limber alone takes care of that. Otherwise, all Pokémon with Limber have better abilities.",
+	"pokemon":[
+		{
+			"pokemonName": "Persian"
+		},
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Ditto"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	]
+}

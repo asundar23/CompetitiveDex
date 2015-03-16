@@ -1,0 +1,10 @@
+{
+	"name":"Toxic Boost",
+	"summary": "Increases the user's Attack stat by one stage when poisoned or badly poisoned.",
+	"viability": "Since Zangoose has a sky-high Attack stat and access to Facade, putting a Toxic Orb on it makes it deadly. In addition, Zangoose has access to Close Combat and Night Slash, which are powered up significantly under Toxic Boost. This is the ability that you should ber unning on Zangoose.",
+	"pokemon":[
+		{
+			"pokemonName": "Zangoose"
+		}
+	]
+}

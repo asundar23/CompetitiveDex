@@ -1,0 +1,22 @@
+{
+	"name": "Judgment",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "100",
+	"summary": "Deals damage. Type depends on the plate Arceus is holding.",
+	"viability": "If you decide to run a specially inclined Arceus, Judgment is likely the move you'll be running. It's power, accurate, and can adjust to any type. Judgment is a great STAB move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Arceus" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

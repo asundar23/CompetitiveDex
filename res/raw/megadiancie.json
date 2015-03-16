@@ -1,0 +1,736 @@
+{
+	"name":"Mega Diancie",
+	"types": [
+		" Rock ",
+		" Fairy "
+	],
+	"pokedexNumber":"719",
+	"setCheck": "1",
+	"preEvolution":[
+		{ "pokemonName":"Diancie" }
+   ],
+   "hatchTime": "6630 - 6884 steps",
+	"height": "3'07\" (1.1 m)",
+	"weight": "61.3 lbs (27.8 kg)",
+	"evYield": [
+		"1 Defense",
+		"2 Special Defense"
+	],
+	"levelingRate": "Slow",
+   "evolutionPokémon":[
+   		{ "pokemonName":"Mega Diancie" }
+   	],
+   "evolutionType":[
+   		"Diancite"
+   ],
+	"eggGroup": [
+		"Undiscovered"
+	],
+	"abilities": [
+		"Magic Bounce"
+	],
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location":[
+				"None"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location":[
+				"None"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"• Received in Pokemon Center after transferring Diancie to game"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype":"Route",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype":"City",
+			"location":[
+				"None"
+			]
+		},
+		{
+			"locationtype":"Other",
+			"location":[
+				"• Received in Pokemon Center after transferring Diancie to game"
+			]
+		}
+	],
+	"stats": [
+		50,
+		160,
+		110,
+		160,
+		110,
+		110
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Rock Throw",
+			"type": " Rock "
+		},
+		{
+			"level": 12,
+			"move": "Sharpen",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"level": 27,
+			"move": "Stealth Rock",
+			"type": " Rock "
+		},
+		{
+			"level": 31,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 40,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Skill Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Moonblast",
+			"type": " Fairy "
+		},
+		{
+			"level": 60,
+			"move": "Diamond Storm",
+			"type": " Rock "
+		},
+		{
+			"level": 70,
+			"move": "Light Screen",
+			"type": " Psychic "
+		}
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Rock Throw",
+			"type": " Rock "
+		},
+		{
+			"level": 12,
+			"move": "Sharpen",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"level": 27,
+			"move": "Stealth Rock",
+			"type": " Rock "
+		},
+		{
+			"level": 31,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 40,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Skill Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 49,
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Moonblast",
+			"type": " Fairy "
+		},
+		{
+			"level": 60,
+			"move": "Diamond Storm",
+			"type": " null "
+		},
+		{
+			"level": 70,
+			"move": "Light Screen",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"ORASTMMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM94",
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"ORASHMMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"After You",
+		"Covet",
+		"Earth Power",
+		"Endeavor",
+		"Gravity",
+		"Heal Bell",
+		"Helping Hand",
+		"Iron Defense",
+		"Last Resort",
+		"Magnet Rise",
+		"Skill Swap",
+		"Snore",
+		"Stealth Rock",
+		"Wonder Room"
+	],
+	"sets": [
+		{
+			"name": "Rock Polish",
+			"items": [
+				"Diancite"
+			],
+			"nature": [
+				"Rash",
+				"Mild"
+			],
+			"ability": "Magic Bounce",
+			"evs": [
+				"252 Special Attack",
+				"252 Speed",
+				"4 Attack"
+			],
+			"moves": [
+				"Rock Polish",
+				"Diamond Storm",
+				"Moonblast",
+				"Hidden Power Fire"
+			],
+		"alternativemoves": [
+				"Earth Power",
+				"Psyshock"
+			],
+			"setexplanation": "Mega Diancie is so good because of its incredible diversity. This Rock Polish set is good because it takes advantage of its already extremely high Attack and Special Attack and boosts Speed. By doing that, it will be able to outspeed almost any Pokemon, including those that typically use Choice Scarf.<br /><br />Diamond Storm is a fantastic move, as it has a great 95% accuracy with 100 base power. This is essentially a really good Stone Edge with the added bonus of a possible Defense boost. Moonblast takes advantage of the invested Special Attack, and serves to OHKO most Pokemon weak to Fairy. Hidden Power Fire is used for Ferrothorn and Scizor, which would otherwise serve as borderline counters.<br /><br />Earth Power and Psyshock are good alternatives because of their power. Ground is generally a very good offensive type, and can take out Steel types such as Excadrill, so Earth Power is a good option. Psyshock is good for taking care of Fighting and Poison types, though the former is already dealt with by Moonblast.",
+			"checksandcounters": "It depends on the moves you run. If you do not run HP fire, Skarmory and Specially Defensive Ferrothorn can become counters. Scarf Excadrill can OHKO an unboosted Mega Diancie in one hit with Iron Head, making it an effective check. Scizor's Bullet Punch, boosted with Technician, can go a great deal of damage, possibly knocking Mega Diancie out in one hit if it is Mild nature.",
+			"damagecalc": "<b><i>(vs. ) 252 HP, 252 Special Defense, Bold Mega Latias</b></i><br /><br />• Moonblast does 64.8% - 77.4%, making it a guaranteed 2HKO.<br /><br /><b><i>(vs. ) 252 HP, 0 Defense, 212 Special Defense Rotom-Wash</b></i><br /><br />• Diamond storm does 50.3 - 59.5%, which is an 80.9% chance to 2HKO after Leftovers.<br /><br />• Moonblast does 46.7% - 55.2%, or a 11.7% chance to 2HKO after Leftovers"
+		},
+		{
+			"name": "Calm Mind Sweeper",
+			"items": [
+				"Diancite"
+			],
+			"nature":[
+				"Hasty",
+				"Timid"
+			],
+			"ability": "Magic Bounce",
+			"evs": [
+				"252 Special Attack",
+				"252 Speed",
+				"4 Attack"
+			],
+			"moves": [
+				"Calm Mind",
+				"Moonblast",
+				"Earth Power",
+				"Hidden Power Fire"
+			],
+		"alternativemoves": [
+				"Diamond Storm",
+				"Psyshock",
+				"Substitute"
+			],
+			"setexplanation": "Mega Diancie is a strong candidate for a Calm Mind Sweeper. It has great Speed, one of the highest Special Attack stats, and good Special Defense. Moonblast is your best move here, and Earth Power can take care of Steel types. Hidden Power Fire, like the Rock Polish set, is used mainly for Ferrothorn and Scizor.<br /><br />Diamond Storm can be used, but the nature must be Naive instead of Timid in that case. The problem with Diamond Storm is that although it provides good coverage against Talonflame and Ho-Oh, it doesn't fully optimize Calm Mind. It already serves as a very good counter to Talonflame, and can 2HKO it with Moonblast. Psyshock is also an option here, but not necessary because Earth Power and Moonblast take care of Psychic's strengths.",
+			"checksandcounters": "Scarf Excadrill is a fantastic check to this set, as it can OHKO it with Iron Head. In addition, Specially Defensive Rotom-Wash can switch in on unboosted Moonblast, while resisting HP Fire and being immune to Earth Power. If HP Fire isn't being run, Ferrothorn is a good check, but not counter due to Earth Power. ",
+			"damagecalc": "<b><i>252 HP, 212 Special Defense Calm Rotom-Wash</b></i><br /><br />• Moonblast, after one Calm Mind, does 63.4 - 75%, a guaranteed 2HKO.<br /><br /><b><i>248 HP, 252 Special Defense Careful Talonflame</b></i><br /><br />• Psyshock, after 2 Calm Minds, does 75.2 - 88.5%, a guaranteed 2HKO.<br /><br />• Moonblast has about a 50% chance at an OHKO after Stealth Rock Damage to Talonflame after 2 Calm Minds."
+		}
+	]
+}

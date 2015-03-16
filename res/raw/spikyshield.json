@@ -1,0 +1,24 @@
+{
+	"name": "Spiky Shield",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects the user from all effets of moves that the target uses. If the target tries to use a contact move, 1/8 of their maximum HP is dealt to them. Does not stack with Rocky Helmet.",
+	"viability": "Spiky Shield is a better version of Protect, and thus must always be used on Chesnaught. Defensive variants of it are very appreciative due to the fact that it can protect itself from damage and potentially deal damage.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Cacturne" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Chesnaught" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

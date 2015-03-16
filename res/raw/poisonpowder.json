@@ -1,0 +1,50 @@
+{
+	"name": "Poison Powder",
+	"note": "",
+	"type":" Poison ",
+	"category": "Status",
+	"pp": "35",
+	"power": "--",
+	"accuracy": "75",
+	"summary": "Poisons the target.",
+	"viability": "Poison Powder is awful in comparison to Toxic. Use that instead.",
+	"pokemonByLevel": [
+	{"pokemonName": "Bulbasaur" },
+{"pokemonName": "Ivysaur" },
+{"pokemonName": "Venusaur" },
+{"pokemonName": "Butterfree" },
+{"pokemonName": "Oddish" },
+{"pokemonName": "Gloom" },
+{"pokemonName": "Vileplume" },
+{"pokemonName": "Paras" },
+{"pokemonName": "Parasect" },
+{"pokemonName": "Venonat" },
+{"pokemonName": "Venomoth" },
+{"pokemonName": "Bellsprout" },
+{"pokemonName": "Weepinbell" },
+{"pokemonName": "Exeggcute" },
+{"pokemonName": "Tangela" },
+{"pokemonName": "Chikorita" },
+{"pokemonName": "Bayleef" },
+{"pokemonName": "Meganium" },
+{"pokemonName": "Hoppip" },
+{"pokemonName": "Skiploom" },
+{"pokemonName": "Jumpluff" },
+{"pokemonName": "Dustox" },
+{"pokemonName": "Shroomish" },
+{"pokemonName": "Mothim" },
+{"pokemonName": "Tangrowth" },
+{"pokemonName": "Cottonee" },
+{"pokemonName": "Vivillon" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Scatterbug" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"name": "Air Cutter",
+	"type": " Flying ",
+	"category": "Special",
+	"pp": "25",
+	"power": "60",
+	"accuracy": "95",
+	"summary": "Deals damage, and has a high critical ratio. In Doubles and Triples, this move hits all adjacent foes.",
+	"viability": "Air Cutter is a poor choIce of move. The increased crit ratio isn't worth it, especially since it's such a low power move to begin with. Air Slash, in every respect, is a far better move to use.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Pidgey"
+		},
+		{
+			"pokemonName": "Chatot"
+		},
+		{
+			"pokemonName": "Ducklett"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

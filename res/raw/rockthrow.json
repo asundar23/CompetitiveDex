@@ -1,0 +1,48 @@
+{
+	"name": "Rock Throw",
+	"note": "",
+	"type":" Rock ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "50",
+	"accuracy": "90",
+	"summary": "Deals damage.",
+	"viability": "Rock Throw is a terrible move. Use Rock Slide, Rock Blast, or Stone Edge instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Graveler" },
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Onix" },
+		{ "pokemonName": "Soduwoodo" },
+		{ "pokemonName": "Steelix" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Slugma" },
+		{ "pokemonName": "Magcargo" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Lunatone" },
+		{ "pokemonName": "Solrock" },
+		{ "pokemonName": "Regirock" },
+		{ "pokemonName": "Bonsly" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Gurdurr" },
+		{ "pokemonName": "Conkeldurr" },
+		{ "pokemonName": "Archen" },
+		{ "pokemonName": "Archeops" },
+		{ "pokemonName": "Landorus-Incarnate" },
+		{ "pokemonName": "Landorus-Therian" },
+		{ "pokemonName": "Amaura" },
+		{ "pokemonName": "Aurorous" },
+		{ "pokemonName": "Carbink" },
+		{ "pokemonName": "Diancie" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Tirtouga" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

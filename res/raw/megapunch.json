@@ -1,0 +1,29 @@
+{
+	"name": "Mega Punch",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "80",
+	"accuracy": "85",
+	"summary": "Deals damage.",
+	"viability": "Mega Punch isn't viable at all. It has a low base power and poor accuracy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonchan" },
+		{ "pokemonName": "Kangaskhan" },
+		{ "pokemonName": "Mew" },
+		{ "pokemonName": "Regigigas" },
+		{ "pokemonName": "Golett" },
+		{ "pokemonName": "Golurk" },
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Magby" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

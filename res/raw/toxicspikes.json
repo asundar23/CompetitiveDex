@@ -1,0 +1,45 @@
+{
+	"name": "Toxic Spikes",
+	"note": "",
+	"type":" Poison ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Does entry-hazard damage, in the form of poisoning the opponent. One layer of Toxic Spikes will poison the opponent, and two will badly poison them. Can be eliminated with Rapid Spin or Defog. This only affects Grounded Pokemon.",
+	"viability": "Toxic Spikes is an underappreciated entry hazards. Not having to spend time having Toxic on your team can help you in the long run. It can even put a timer on your opponent, who will have to switch out eventually. This can open up the door for many possiblities.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Beedrill" },
+		{ "pokemonName": "Nidoran♀" },
+		{ "pokemonName": "Nidorina" },
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Nidorino" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Tentacruel" },
+		{ "pokemonName": "Cloyster" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Qwilfish" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Skorupi" },
+		{ "pokemonName": "Drapion" },
+		{ "pokemonName": "Trubbish" },
+		{ "pokemonName": "Garbodor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Omanyte" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Froakie" },
+		{ "pokemonName": "Skrelp" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

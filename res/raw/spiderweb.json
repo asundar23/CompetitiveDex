@@ -1,0 +1,25 @@
+{
+	"name": "Spider Web",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents the target from switching out or fleeing. This will stop if the Pokemon that used it switches out. Can also be stopped with Baton Pass, Volt Switch, U-Turn, or Parting Shot. Doesn't affect Ghost-type Pokemon.",
+	"viability": "Spider Web can be decent, but has the same problems as Mean Look; it's pretty easy to get out of.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Joltik" },
+		{ "pokemonName": "Galvantula" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

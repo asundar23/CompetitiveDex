@@ -1,0 +1,67 @@
+{
+	"name":"Oblivious",
+	"summary": "Prevents the user from being afflicted with infatuation or Taunt.",
+	"viability": "Oblivious is good for Pokémon that need to set up, like Stealth Rock on Mamoswine. Whiscash can additionally set up Dragon Dance without having to worry about Taunt. Otherwise, every Pokémon gets a better ability, so Oblivious isn't a wise ability to run.",
+	"pokemon":[
+		{
+			"pokemonName": "Slowpoke"
+		},
+		{
+			"pokemonName": "Slowbro"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Slowking"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Numel"
+		},
+		{
+			"pokemonName": "Barboach"
+		},
+		{
+			"pokemonName": "Whiscash"
+		},
+		{
+			"pokemonName": "Feebas"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Sealeo"
+		},
+		{
+			"pokemonName": "Walrein"
+		},
+		{
+			"pokemonName": "Lickilicky"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		}
+	]
+}

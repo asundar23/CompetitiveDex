@@ -1,0 +1,30 @@
+{
+	"name": "Conversion",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Changes the user's type to the type of the user's first move slot.",
+	"viability": "While interesting in theory, the fact that you have to ironically use a move slot on this makes it not too good. You could change to a Ghost-type to trick Fighting-type opponents, but even then the opponent can bring something else to counter you.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

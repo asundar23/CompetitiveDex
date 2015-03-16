@@ -1,0 +1,49 @@
+{
+	"name":"Analytic",
+	"summary": "If the user is moving after the target this turn, the power is increased by 30%.",
+	"viability": "This is a good idea for an ability, but suffers from a strange distribution.
+	
+	Starmie is very fast, and Porygon-Z won't make the top of any speed tiers, but it's still solid. The only viable users would be Magnezone and Beheeyem. Both have low speed and will more than likely be slower than the opponent.
+	
+	Both Pokémon have very good Special Attack, which will enable them to fully utilize this ability; however, Magnezone is better off with Magnet Pull in higher tiers. The ability to trap mainstays Ferrothorn and Scizor is well worth not having Analytic.
+	
+	If you choose to run it, understand the risks of it. You're going to be slower, which could cost you a team member if you are not careful. If you play it smart, you can hit the opponent hard, especially with a Life Orb or ChoIce item attached.",
+	"pokemon":[
+		{
+			"pokemonName": "Magnemite"
+		},
+		{
+			"pokemonName": "Magneton"
+		},
+		{
+			"pokemonName": "Staryu"
+		},
+		{
+			"pokemonName": "Starmie"
+		},
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Magnezone"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Watchog"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Beheeyem"
+		}
+	]
+}

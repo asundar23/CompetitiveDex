@@ -1,0 +1,25 @@
+{
+	"name":"Minus",
+	"summary": "Increases the user's Special Attack stat by 50% if they enter a Double Battle with a Pokémon with the ability Plus",
+	"viability": "In singles, this is useless. In Doubles and Triples, however, this can serve for some fun gimmicks, especially for Manectric. Manectric has a great Special Attack stat, and for it to be raised by one stage can and will make all the difference.",
+	"pokemon":[
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		}
+	]
+}

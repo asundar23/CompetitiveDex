@@ -1,0 +1,47 @@
+{
+	"name": "Spark",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance of paralyzing the target.",
+	"viability": "Spark is not very good. For a while, it was the only physical electric move out there, but Wild Charge completely outclasses it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pikachu" },
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Voltorb" },
+		{ "pokemonName": "Electrode" },
+		{ "pokemonName": "Chinchou" },
+		{ "pokemonName": "Lanturn" },
+		{ "pokemonName": "Raikou" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Manectric" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Shinx" },
+		{ "pokemonName": "Luxio" },
+		{ "pokemonName": "Luxray" },
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Zebstrika" },
+		{ "pokemonName": "Emolga" },
+		{ "pokemonName": "Tynamo" },
+		{ "pokemonName": "Eelektrik" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Stunfisk" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

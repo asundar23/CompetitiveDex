@@ -1,0 +1,55 @@
+{
+	"name":"Poison Point",
+	"summary": "If the user is hit by a contact move, there is a 30% chance the opponent will be poisoned.",
+	"viability": "While badly poisoned is arguable better than regular poisoned, Poison Point is still a decent ability. Especially with the Roselia line, being able to inflict the poison status on another Pokémon, then use the very powerful Venoshock should serve some great purpose. Otherwise, it's a bit luck-based, so use at your own discretion.",
+	"pokemon":[
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Nidorina"
+		},
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidorino"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Seadra"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Budew"
+		},
+		{
+			"pokemonName": "Roserade"
+		},
+		{
+			"pokemonName": "Vanipede"
+		},
+		{
+			"pokemonName": "Whirlipede"
+		},
+		{
+			"pokemonName": "Scolipede"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		}
+	]
+}

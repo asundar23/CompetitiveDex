@@ -1,0 +1,69 @@
+{
+	"name": "Disarming Voice",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Special",
+	"pp": "15",
+	"power": "40",
+	"accuracy": "--",
+	"summary": "Deals damage, and is unaffected my changes to evasion and accuracy stats. It's a sound-based move, so it hits through Substitutes and can't hit Pokémon with Soundproof.",
+	"viability": "This is not a very good move, primarily due to its low base power. All the Pokémon that get it either have Dazzling Gleam or Moonblast (Hyper Voice in Sylveon's case), which are much greater in power.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Florges"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		},
+		{
+			"pokemonName": "Sylveon"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Whismur"
+		},
+		{
+			"pokemonName": "Pansage"
+		},
+		{
+			"pokemonName": "Pansear"
+		},
+		{
+			"pokemonName": "Panpour"
+		},
+		{
+			"pokemonName": ""
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

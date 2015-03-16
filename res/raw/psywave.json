@@ -1,0 +1,43 @@
+{
+	"name": "Psywave",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "15",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage depending on the user's level and a random value. The formula is (X + 0.5) × User's level, where X is a random number between 0 and 1.",
+	"viability": "This can be used for walls such as Bronzong, but you have to keep in mind the variability in power. It can be anywhere from 50 to 150.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Staryu" },
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Grumpig" },
+		{ "pokemonName": "Lunatone" },
+		{ "pokemonName": "Solrock" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Mismagius" },
+		{ "pokemonName": "Bronzor" },
+		{ "pokemonName": "Bronzong" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Sigilyph" },
+		{ "pokemonName": "Solosis" },
+		{ "pokemonName": "Duosion" },
+		{ "pokemonName": "Reuniclus" },
+		{ "pokemonName": "Inkay" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Gastly" },
+		{ "pokemonName": "Koffing" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name":"Liquid Ooze",
+	"summary": "Causes HP-draining moves to deal damage on the opponent. The amount of HP that would be recovered by the opponent will be dealt as damage instead. This does not, however, prevent damage to the user.",
+	"viability": "Giga Drain, Drain Punch, Leech Seed, and Oblivion Wing are very common moves, so activating Liquid Ooze in that situation is helpful in taking away some HP. This is especially the case with Leech Seed, which can take valuable HP away from a bulky Pokémon.",
+	"pokemon":[
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Swalot"
+		}
+	]
+}

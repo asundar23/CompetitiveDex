@@ -1,0 +1,537 @@
+{ 
+	 "name": "Flareon",
+	"types": [
+		" Fire "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "1",
+   "preEvolution":[
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vaporeon" },
+   		{ "pokemonName":"Jolteon" },
+   		{ "pokemonName":"Flareon" },
+   		{ "pokemonName":"Espeon" },
+   		{ "pokemonName":"Umbreon" },
+   		{ "pokemonName":"Leafeon" },
+   		{ "pokemonName":"Glaceon" },
+   		{ "pokemonName":"Sylveon" }
+   ],
+   "evolutionType":[
+   		"Water Stone",
+   		"Thunder Stone",
+   		"Fire Sotne",
+   		"Friendship (Day)",
+   		"Friendship (Night)",
+   		"Level up near Moss Rock",
+   		"Level up near Ice Rock",
+   		"Level up after having two Affection Hearts in Pokémon Amie, while knowing a Fairy-type move"
+   ],
+	"stats": [
+		65,
+		130,
+		60,
+		95,
+		110,
+		65
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 13,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 29,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Smog",
+			"type": " Poison "
+		},
+		{
+			"level": 37,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 41,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Flare Blitz",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "light Screen",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Minccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Charm",
+			"pokemon": [
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Cubchoo"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Covet",
+			"pokemon": [
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Detect",
+			"pokemon": [
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Zorua"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stored Power",
+			"pokemon": [
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Synchronoise",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Heat Wave",
+		"Heal Bell",
+		"Helping Hand",
+		"Hyper Voice",
+		"Iron Tail",
+		"Last Resort",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Field"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"},
+		{"Location": "Evolve Eevee"}
+	],
+	"abilities": [
+		"Volt Absorb",
+		"Quick Feet"
+	],
+	"sets": [
+	
+		{
+		"name": "Flareon's Guts",
+		"item": [
+			"Toxic Orb"
+		],
+		"ability": "Guts",
+		"nature": [
+			"Jolly"
+		],
+		"evs": [
+			"252 Attack",
+			"252 Speed",
+			"4 HP"
+		],
+		"moves": [
+			"Flame Charge",
+			"Flare Blitz",
+			"Facade",
+			"Superpower"
+		],
+		"alternativemoves": [
+			"Quick Attack"
+		],
+		"setexplanation": "Something fans have been pining for years is Flareon getting font color='#FFB2B2'><strong>Flare-Blitz</font>. Now that this flaming Eeveelution finally has it, does he drastically change? Not really; Flareon is still the same Pokémon it has been since its inception.<br /><br /> Guts, Flareon's main (and best) ability, increases its attack when inflicted with a status. Toxic Orb is the item of choIce for this ability on Flareon, due to him not being able to get burned with Flame Orb. Toxic will gradually wear down Flareon, so it's important to constantly switch moves and keep it healthy.<br /><br /> <font color='#FFB2B2'><strong>Flame-Charge</font> won't do much damage, but it's great for a revenge kill and increasing Speed. Jolly-natured Flareon, with +1 Speed from <font color='#FFB2B2'><strong>Flame-Charge</font>, reaches 376, which is good enough to outspeed Jolly-natured 120 base Speed Pokémon.<br /><br /> Flare Blitz is the main STAB, although it will incur a lot recoil damage. <font color='#FFB2B2'><strong>Facade</font> and <font color='#FFB2B2'><strong>Superpower</font> are incredible coverage moves as well; Superpower will hit the Rock types that normally wall Flareon, and <font color='#FFB2B2'><strong>Facade</font> will hit for 140 base power under Guts.",
+		"checksandcounters": "Physically defensive font color='#9999E6'><strong>Seismitoad</font> or <font color='#9999E6'><strong>Alomomola</font> is one of the best counters to Flareon. Both can tank hits and deal back super effective damage, with the latter's <font color='#FFB2B2'><strong>Wish</font> / <font color='#FFB2B2'><strong>Protect</font> strategy.<br /><br /> Flareon doesn't have good physical defense, so anytime you can get a decent scarfer or anyone above 125 base speed in, Flareon's as good as done. One <font color='#FFB2B2'><strong>Earthquake</font> or <font color='#FFB2B2'><strong>Waterfall</font> is usually good enough to defeat it.",
+
+		"damagecalc": "strong> 252 HP, 252 Defense, Impish <font color='#9999E6'>Sandslash</font> <br /><br /> * <font color='#FFB2B2'><strong>Flare-Blitz</font> does 55.9 - 66.1%, which is a guaranteed 2HKO after Leftovers recovery. <br /><br />* If 1 layer of <font color='#FFB2B2'><strong>Spikes</font> and <font color='#FFB2B2'><strong>Stealth-Rock</font> are in play, <font color='#FFB2B2'><strong>Facade</font> has a 99.6% chance of getting a 2HKO. <br /><br /><strong> 252 HP, 252 Defense, Impish <font color='#9999E6'>Skarmory</font> <br /><br /> <font color='#FFB2B2'><strong>Flare-Blitz</font> does 101.1 - 119.1%, which is a guaranteed OHKO if Sturdy isn't intact. <br /><br /><strong> 0 HP, 0 Def, Intimidate <font color='#9999E6'>Luxray</font> <br /><br /> -1 <font color='#FFB2B2'><strong>Facade</font> does 61.7 - 72.7%, which is a guaranteed 2HKO. "	}
+
+	]
+}

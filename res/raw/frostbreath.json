@@ -1,0 +1,51 @@
+{
+	"name": "Frost Breath",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "10",
+	"power": "60",
+	"accuracy": "90",
+	"summary": "Deals damage, and always lands in a critical hit unless the target has Battle Armor, Shell Armor, or is under Lucky Chant.",
+	"viability": "Frost Breath can be useful in that it will bypass Calm Mind users, which is the main niche of this move. Ice Beam is generally a better move, but Frost Breath isn't so bad in and of itself.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Glalie" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	{"pokemonName": "Dewgong"},
+{"pokemonName": "Cloyster"},
+{"pokemonName": "Jynx"},
+{"pokemonName": "Lapras"},
+{"pokemonName": "Articuno"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Delibird"},
+{"pokemonName": "Smoochum"},
+{"pokemonName": "Snorunt"},
+{"pokemonName": "Glalie"},
+{"pokemonName": "Spheal"},
+{"pokemonName": "Sealeo"},
+{"pokemonName": "Walrein"},
+{"pokemonName": "Regice"},
+{"pokemonName": "Snover"},
+{"pokemonName": "Abomasnow"},
+{"pokemonName": "Glaceon"},
+{"pokemonName": "Froslass"},
+{"pokemonName": "Vanillite"},
+{"pokemonName": "Vanillish"},
+{"pokemonName": "Vanilluxe"},
+{"pokemonName": "Cubchoo"},
+{"pokemonName": "Beartic"},
+{"pokemonName": "Cryogonal"},
+{"pokemonName": "Amaura"},
+{"pokemonName": "Aurorus"},
+{"pokemonName": "Bergmite"},
+{"pokemonName": "Avalugg"}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

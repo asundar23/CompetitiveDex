@@ -1,0 +1,78 @@
+{
+	"name": "Acid",
+	"type": " Poison ",
+	"note":"",
+	"category": "Special",
+	"pp": "30",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Does damage, and has a 10% chance of lowering the target's Special Defense by one stage. In Double/Triple Battles, this move affects all adjacent foes.",
+	"viability": "Even in doubles and triples, this is a poor choIce of move. The added effect of Special Defense drop has a low chance, and there are generally better moves to use. Sludge Wave affects all foes, and has a base power of 95. Sludge Bomb has a base power of 90 and has a 30% chance to burn.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Arbok"
+		},
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Gloom"
+		},
+		{
+			"pokemonName": "Bellsprout"
+		},
+		{
+			"pokemonName": "Weepinbell"
+		},
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Cradily"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Shelmet"
+		},
+		{
+			"pokemonName": "Skrelp"
+		},
+		{
+			"pokemonName": "Dragalge"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Litwick"
+		}
+	],
+	"pokemonByTM":[
+	],
+	"pokemonByHM":[
+	],
+	"pokemonByTutor": [
+	]
+}

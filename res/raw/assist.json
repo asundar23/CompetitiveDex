@@ -1,0 +1,99 @@
+{
+	"name": "Assist",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "This move randomly selects one of the moves known by a user's party Pokémon.
+	
+	Certain moves fail if called by Assist. These are:
+
+ -Belch,
+ -Chatter
+ -Circle Throw
+ -Copycat
+ -Counter
+ -Covet
+ -Destiny Bond
+ -Detect
+ -Dragon Tail
+ -Endure
+ -Feint
+ -Focus Punch
+ -Follow Me
+ -Helping Hand
+ -King's Shield
+ -Mat Block
+ -Me First
+ -Metronome
+ -Mimic
+ -Mirror Coat
+ -Mirror Move
+ -Nature Power
+ -Phantom Force
+ -Protect
+ -Roar
+ -Sketch
+ -Sleep Talk
+ -Snatch
+ -Spiky Shield
+ -Sticky Web
+ -Struggle
+ -Switcheroo
+ -Thief
+ -Transform
+ -Trick
+ -Whirlwind
+",
+	"viability": "There is a famous battle on Pokémon Showdown where the only non-Assist move in the user's party was V-Create. They then strapped it on a ChoIce-Scarf Contrary Spinda, and proceeded to sweep due to the Defense, Special Defense, and Speed increase. 
+	
+	Basically, this is unbelievably gimmicky and has a very small chance of working.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Liepard"
+		}
+	],
+	"note":"",
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Chimchar"
+		},
+		{
+			"pokemonName": "Espurr"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

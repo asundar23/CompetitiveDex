@@ -1,0 +1,22 @@
+{
+	"name": "Ice Burn",
+	"note": "",
+	"type":" Ice ",
+	"category": "Special",
+	"pp": "5",
+	"power": "140",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 30% chance to burn the target. he usTer has to charge on the next turn, making it not attack. This charge turn can be bypassed with Power Herb.",
+	"viability": "These charging moves, like Hyper Beam, are generally terrible because of the charge turn. Even with Power Herb, you can really only use it once. In reality, with the two turns, you're only having a 70 BP move on average.",
+	"pokemonByLevel": [
+		{ "pokemonName": "White Kyurem" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

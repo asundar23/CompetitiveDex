@@ -1,0 +1,70 @@
+{
+	"name":"Infiltrator",
+	"summary": "Bypasses Reflect, Light Screen, Safeguard, Mist, and Substitute.",
+	"viability": "Infiltrator is important because of the ability to hit through Substitutes. This means that Pokémon can't Sub-stall others, nor can it set up when in one. Also, hitting past Reflect and Light Screen prevents an opponent from setting up due to increased defenses.",
+	"pokemon":[
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Skiploom"
+		},
+		{
+			"pokemonName": "Jumpluff"
+		},
+		{
+			"pokemonName": "Ninjask"
+		},
+		{
+			"pokemonName": "Seviper"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Whimsicott"
+		},
+		{
+			"pokemonName": "Litwick"
+		},
+		{
+			"pokemonName": "Lampent"
+		},
+		{
+			"pokemonName": "Chandelure"
+		},
+		{
+			"pokemonName": "Espurr"
+		},
+		{
+			"pokemonName": "Male Meowstic"
+		},
+		{
+			"pokemonName": "Female Meowstic"
+		},
+		{
+			"pokemonName": "Inkay"
+		},
+		{
+			"pokemonName": "Malamar"
+		},
+		{
+			"pokemonName": "Noibat"
+		},
+		{
+			"pokemonName": "Noivern"
+		}
+	]
+}

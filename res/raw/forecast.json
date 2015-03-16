@@ -1,0 +1,19 @@
+{
+	"name":"Forecast",
+	"summary": "Changes the type and form of Castform depending on if the weather is sunny (Castform becomes Fire-type), rainy (Water-type), or snowy (Ice-type).",
+	"viability": "Since this is the only ability of Castform, there is no other option but to run it. Castform isn't particularly good, but the combination of this ability plus Weather Ball gives Castform some use.",
+	"pokemon":[
+		{
+			"pokemonName": "Castform"
+		},
+		{
+			"pokemonName": "Castform-Sunny"
+		},
+		{
+			"pokemonName": "Castform-Rainy"
+		},
+		{
+			"pokemonName": "Castform-Snowy"
+		}
+	]
+}

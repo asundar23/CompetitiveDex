@@ -1,0 +1,30 @@
+{
+	"name": "Egg Bomb",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "100",
+	"accuracy": "75",
+	"summary": "Deals damage.",
+	"viability": "This is a terrible move, due to its distribution to Pokemon who aren't going to utilize their physical attack. In addition, it has a less BP than Return with horrible accuracy.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Exeggutor"
+		},
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Blissey"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

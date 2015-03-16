@@ -1,0 +1,24 @@
+{
+	"name": "Chatter",
+	"note": "",
+	"type": " Flying ",
+	"category": "Special",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage, and always confuses the target. Is a sound-based move.",
+	"viability": "Inflicting damage, 100% chance confuse rate, AND hitting through Substitutes? Chatot has one great signature move, even if it isn't very powerful. While Chatot itself isn't too good, Chatter is one of the moves that are a must-run on it. There are just too many good things about it to pass up on.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Chatot"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

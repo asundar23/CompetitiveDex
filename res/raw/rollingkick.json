@@ -1,0 +1,25 @@
+{
+	"name": "Rolling Kick",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "60",
+	"accuracy": "85",
+	"summary": "Deals damage and has a 30% chance of causing the target to flinch.",
+	"viability": "Hitmonlee and Hitmontop greatly prefer Close Combat or Mach Punch. Machamp loves Dynamic Punch, and Electivire uses Cross Chop. Use those instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Hitmonlee" },
+		{ "pokemonName": "Hitmontop" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Elekid" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

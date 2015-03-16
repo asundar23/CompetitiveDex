@@ -1,0 +1,66 @@
+{
+	"name": "Beat Up",
+	"note": "",
+	"type": " Dark ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Each Pokémon that hasn't fainted will attack the other Pokémon. The original user's Attack stat will be used, but the power of the move is determined  by each party member's Attack stat.",
+	"viability": "This isn't a very good move, mostly because in order to fully utilize this move, your entire team would need only competent Physical Attackers. This can lead to a very predictable team, and can be easily countered.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Houndoom"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Ekans"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Nidoran♀"
+		},
+		{
+			"pokemonName": "Diglett"
+		},
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Houndour"
+		},
+		{
+			"pokemonName": "Seedot"
+		},
+		{
+			"pokemonName": "Cottonee"
+		},
+		{
+			"pokemonName": "Sandile"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

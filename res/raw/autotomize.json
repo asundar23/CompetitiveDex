@@ -1,0 +1,66 @@
+{
+	"name": "Autotomize",
+	"type": " Steel ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Speed by two stages, and decreases their weight by 100kg. The speed, but not the weight reduction, are transferred by Baton Pass",
+	"viability": "Just treat this like Agility. A lightened weight doesn't change too much in the long run, especially since moves like Heat Crash, Heavy Slam, Low Kick, and Grass Knot are extremely situational. This move works great on Aegislash, who can go from a slow, bulky hitter to a very fast sweeper in one turn. Vanilluxe is another viable user of Autotomize; since it has middling speed, it can set up and use that great Special Attack stat to do some terrifying damage.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Forretress"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Lairon"
+		},
+		{
+			"pokemonName": "Aggron"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		},
+		{
+			"pokemonName": "Honedge"
+		},
+		{
+			"pokemonName": "Doublade"
+		},
+		{
+			"pokemonName": "Aegislash-Shield"
+		}
+	],
+	"note":"",
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Roggenrola"
+		},
+		{
+			"pokemonName": "Vanillite"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Steamroller",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "65",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 30% chance of causing the target to flinch. If the target has used Minimize, Steamroller does double damage.",
+	"viability": "If you know that your opponent has Minimize, Steamroller is a good option. Fortunately, most people don't actually use that move, so Steamroller is virtually useless otherwise.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Venipede" },
+		{ "pokemonName": "Whirlipede" },
+		{ "pokemonName": "Scolipede" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

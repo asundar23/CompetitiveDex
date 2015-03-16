@@ -1,0 +1,70 @@
+{
+	"name":"Pickup",
+	"summary": "If the Pokémon uses a one-time use item (like Sitrus Berry), at the end of the term the user will collect the item if they aren't holding anything.",
+	"viability": "The only reason you should ever have Pickup is to collect rare items outside of battle. This has no point in battle though, so avoid at all costs.",
+	"pokemon":[
+		{
+			"pokemonName": "Meowth"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Phanpy"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Linoone"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Ambipom"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Bunnelby"
+		},
+		{
+			"pokemonName": "Diggersby"
+		},
+		{
+			"pokemonName": "Dedenne"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Small"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Average"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Large"
+		},
+		{
+			"pokemonName": "Pumpkaboo-Super"
+		},
+		{
+			"pokemonName": "Gourgeist-Small"
+		},
+		{
+			"pokemonName": "Gourgeist-Average"
+		},
+		{
+			"pokemonName": "Gourgeist-Large"
+		},
+		{
+			"pokemonName": "Gourgeist-Super"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Dark Void",
+	"note": "",
+	"type": " Dark ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "80",
+	"summary": "Puts the foe to sleep. Hits all adjacent opponents in Double and Triple Battles.",
+	"viability": "This is the best sleep inducing move outside of Spore. With Spore, though, you can't induce sleep in Grass types or those with Overcoat. Dark Void can hit anyone, and hits multiple Pokémon in Doubles/Triples, which makes this miles better than Spore in those battles.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Darkrai"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

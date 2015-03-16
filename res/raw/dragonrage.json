@@ -1,0 +1,87 @@
+{
+	"name": "Dragon Rage",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Always deals 40 HP damage.",
+	"viability": "In standard Wi-Fi battles at level 50, this is useless since most Pokemon will have at least 100 HP, making this at least a 3HKO.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Charmander"
+		},
+		{
+			"pokemonName": "Charmeleon"
+		},
+		{
+			"pokemonName": "Charizard"
+		},
+		{
+			"pokemonName": "Gyarados"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Gabite"
+		},
+		{
+			"pokemonName": "Gible"
+		},
+		{
+			"pokemonName": "Garchomp"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Deino"
+		},
+		{
+			"pokemonName": "Zweilous"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		},
+		{
+			"pokemonName": "Reshiram"
+		},
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Kyurem"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Horsea"
+		},
+		{
+			"pokemonName": "Bagon"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

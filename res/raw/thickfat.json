@@ -1,0 +1,73 @@
+{
+	"name":"Thick Fat",
+	"summary": "Halves damage from Fire and Ice-type moves.",
+	"viability": "This is what allows Mega Venusaur to be such a great bulky Pokémon. It loses two weaknesses, leaving it only with Flying and Psychic-type weakness. In addition, not having to take as much damage from Ice-type moves, which are very common, is helpful when it comes to being a defensive stalwart. Snorlax is one of the best Specially Defensive walls for that reason.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Venusaur"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Azumarill"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Piloswine"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Spoink"
+		},
+		{
+			"pokemonName": "Grumpig"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Sealeo"
+		},
+		{
+			"pokemonName": "Walrein"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Mamoswine"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Pignite"
+		}
+	]
+}

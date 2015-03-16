@@ -1,0 +1,528 @@
+{
+	"name":"Murkrow",
+	"types": [
+		"Dark",
+		"Flying"
+	],
+	"eggGroup": [
+		"Flying"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Murkrow" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Honchkrow" }
+   ],
+   "evolutionType":[
+   		"Dusk Stone"
+   ],
+	"abilities": [
+		"Insomnia",
+		"Super Luck",
+		"Prankster"
+	],
+	"locations": [
+		{"Location": "Eterna Forest and Lost Tower (Night)"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Routes 7 and 16 (Night), Safari Zone"},
+		{"Location": "Routes 7 and 16 (Night), Safari Zone"},
+		{"Location": "Abundant Shrine"},
+		{"Location": "Trade"},
+		{"Location": "Pinwheel Forest (Hidden Grotto)"},
+		{"Location": "Pinwheel Forest (Hidden Grotto)"},
+		{"Location": "Routes 15 and 16 (Horde Encounter)"},
+		{"Location": "Routes 15 and 16 (Horde Encounter)"}
+	],
+	"stats": [
+		60,
+		85,
+		42,
+		85,
+		42,
+		91
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 5,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 11,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 15,
+			"move": "Wing Attack",
+			"type": " Flying "
+		},
+		{
+			"level": 21,
+			"move": "Night Shade",
+			"type": " Ghost "
+		},
+		{
+			"level": 25,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 35,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 41,
+			"move": "Mean Look",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Foul Play",
+			"type": " Dark "
+		},
+		{
+			"level": 50,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 55,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 61,
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"level": 65,
+			"move": "Quash",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM60",
+			"move": "Quash",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Brave Bird",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Talonflame"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Confuse Ray",
+			"pokemon": [
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Drill Peck",
+			"pokemon": [
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Doduo"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Feather Dance",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Female Unfezant"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Murkrow"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Flatter",
+			"pokemon": [
+				{"pokemonName": "Woobat"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Mirror Move",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Perish Song",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Psycho Shift",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Roost",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Spearow"},
+				{"pokemonName": "Fearow"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Chatot"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Female Unfezant"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Fletchling"},
+				{"pokemonName": "Fletchinder"},
+				{"pokemonName": "Talonflame"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sky Attack",
+			"pokemon": [
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Pidove"},
+				{"pokemonName": "Tranquill"},
+				{"pokemonName": "Female Unfezant"},
+				{"pokemonName": "Male Unfezant"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Flying "
+		},
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Sigilyph"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Wing Attack",
+			"pokemon": [
+				{"pokemonName": "Pidgey"},
+				{"pokemonName": "Pidgeotto"},
+				{"pokemonName": "Pidgeot"},
+				{"pokemonName": "Zubat"},
+				{"pokemonName": "Golbat"},
+				{"pokemonName": "Crobat"},
+				{"pokemonName": "Aerodactyl"},
+				{"pokemonName": "Murkrow"},
+				{"pokemonName": "Honchkrow"},
+				{"pokemonName": "Taillow"},
+				{"pokemonName": "Swellow"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Starly"},
+				{"pokemonName": "Staravia"},
+				{"pokemonName": "Staraptor"},
+				{"pokemonName": "Archen"},
+				{"pokemonName": "Archeops"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Rufflet"},
+				{"pokemonName": "Braviary"},
+				{"pokemonName": "Noibat"},
+				{"pokemonName": "Noivern"}
+			],
+			"type": " Flying "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Foul Play",
+		"Heat Wave",
+		"Icy Wind",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snatch",
+		"Spite",
+		"Tailwind",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

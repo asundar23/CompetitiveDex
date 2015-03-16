@@ -1,0 +1,122 @@
+{
+	"name":"Levitate",
+	"summary": "Makes the user immune to all Ground type moves except Sand Attack. They are also immune to spikes, Toxic Spikes, Misty Terrain, Grassy Terrain, Electric Terrain, Arena Trap, damage from Sky Drop, and Sticky Web. This ability is lost if they are holding an Iron Ball, get hit by Smack Down, Gravity or Ingrain, or if the opponent has the abilities Mold Breaker, Teravolt, or Turbo Blaze.
+	
+	Pokémon with Levitate are eligible to take part in Sky Battles unless they make contact with the ground when entering battle (like Gengar).",
+	"viability": "Levitate is the most common, and one of the most useful, abilities. Earthquake is one of the most common moves in all of Pokémon, so having an immunity to that is very valuable, especially when the user is weak like Bronzong or Weezing. Ground type immunities are incredibly valuable.
+	
+	Plus, immunity to Spikes, Toxic Spikes, and Sticky Web help sustain longevity as well. Entry hazards tend to gradually break down HP, so being immune to most of them keeps them on the field.",
+	"pokemon":[
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Weezing"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Unown"
+		},
+		{
+			"pokemonName": "Vibrava"
+		},
+		{
+			"pokemonName": "Flygon"
+		},
+		{
+			"pokemonName": "Lunatone"
+		},
+		{
+			"pokemonName": "Solrock"
+		},
+		{
+			"pokemonName": "Baltoy"
+		},
+		{
+			"pokemonName": "Claydol"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Latias"
+		},
+		{
+			"pokemonName": "Latios"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		},
+		{
+			"pokemonName": "Carnivine"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Rotom-Heat"
+		},
+		{
+			"pokemonName": "Rotom-Mow"
+		},
+		{
+			"pokemonName": "Rotom-Fan"
+		},
+		{
+			"pokemonName": "Rotom-Frost"
+		},
+		{
+			"pokemonName": "Rotom-Wash"
+		},
+		{
+			"pokemonName": "Uxie"
+		},
+		{
+			"pokemonName": "Mesprit"
+		},
+		{
+			"pokemonName": "Azelf"
+		},
+		{
+			"pokemonName": "Giratina-Origin"
+		},
+		{
+			"pokemonName": "Cresselia"
+		},
+		{
+			"pokemonName": "Tynamo"
+		},
+		{
+			"pokemonName": "Eelektrik"
+		},
+		{
+			"pokemonName": "Eelektross"
+		},
+		{
+			"pokemonName": "Cryogonal"
+		},
+		{
+			"pokemonName": "Hydreigon"
+		}
+	]
+}

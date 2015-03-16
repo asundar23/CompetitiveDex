@@ -1,0 +1,24 @@
+{
+	"name": "Flower Shield",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the Defense of all Grass-type Pokemon in battle by one stage.",
+	"viability": "Even in Doubles and Triples, this is best to avoid. There are better moves that can be used as support.",
+	"pokemonByLevel": [
+		{"pokemonName": "Sunflora"},
+		{"pokemonName": "Florges"}
+	],
+	"pokemonByBreeding": [
+		{"pokemonName": "Cherubi"},
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

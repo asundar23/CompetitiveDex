@@ -1,0 +1,61 @@
+{
+	"name":"Mold Breaker",
+	"summary": "Ignores the effects of Abilities that could weaken or negate moves that the user uses.",
+	"viability": "Mold Breaker is important, mostly for the fact that it negates a Pokémon with Magic Bounce and Levitate. This allows the user to either set up or start going for Earthquake. Excadrill is the best Mold Breaker user, as it makes Rotom-Wash from a counter to an easy kill.",
+	"pokemon":[
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Mega Gyarados"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Drilbur"
+		},
+		{
+			"pokemonName": "Excadrill"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Axew"
+		},
+		{
+			"pokemonName": "Fraxure"
+		},
+		{
+			"pokemonName": "Haxorus"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	]
+}

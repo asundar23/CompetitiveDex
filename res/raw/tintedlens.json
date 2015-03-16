@@ -1,0 +1,34 @@
+{
+	"name":"Tinted Lens",
+	"summary": "Doubles the power of moves that are \"not very effective.\"",
+	"viability": "Tintend Lens is useful for Bug Pokémon because Bug has seven resistances. This causes them to hit for neutral damage. It's also what allows Pokémon like Venomoth and Yanmega to be effective sweepers, especially the former with Quiver Dance.",
+	"pokemon":[
+		{
+			"pokemonName": "Butterfree"
+		},
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Venomoth"
+		},
+		{
+			"pokemonName": "Hoothoot"
+		},
+		{
+			"pokemonName": "Noctowl"
+		},
+		{
+			"pokemonName": "Illumise"
+		},
+		{
+			"pokemonName": "Mothim"
+		},
+		{
+			"pokemonName": "Yanmega"
+		},
+		{
+			"pokemonName": "Sigilyph"
+		}
+	]
+}

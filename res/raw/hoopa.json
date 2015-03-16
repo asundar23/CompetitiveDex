@@ -1,0 +1,469 @@
+{
+	"name":"Hoopa",
+	"types": [
+		"Psychic",
+		"Ghost"
+	],
+	"eggGroup": [
+		"Undiscovered"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Magician"
+	],
+	"locations": [
+		{"Location": "Event"},
+		{"Location": "Event"},
+		{"Location": "Event"},
+		{"Location": "Event"}
+	],
+	"stats": [
+		80,
+		110,
+		60,
+		150,
+		130,
+		70
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Ally Switch",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Hyperspace Hole",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 6,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Magic Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 15,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Skill Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 46,
+			"move": "Phantom Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 50,
+			"move": "Wonder Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 68,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 75,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 85,
+			"move": "Hyperspace Hole",
+			"type": " Psychic "
+		}
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Trick",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Destiny Bond",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Ally Switch",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Hyperspace Hole",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 6,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Magic Coat",
+			"type": " Psychic "
+		},
+		{
+			"level": 15,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Skill Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Power Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Guard Split",
+			"type": " Psychic "
+		},
+		{
+			"level": 46,
+			"move": "Phantom Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 50,
+			"move": "Wonder Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"level": 68,
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"level": 75,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 85,
+			"move": "Hyperspace Hole",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM60",
+			"move": "Quash",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Drain Punch",
+		"Dual Chop",
+		"Fire Punch",
+		"Focus Punch",
+		"Foul Play",
+		"Gravity",
+		"Gunk Shot",
+		"Ice Punch",
+		"Knock Off",
+		"Last Resort",
+		"Magic Coat",
+		"Magic Room",
+		"Recycle",
+		"Role Play",
+		"Shock Wave",
+		"Signal Beam",
+		"Skill Swap",
+		"Snatch",
+		"Snore",
+		"Thunder Punch",
+		"Trick",
+		"Uproar",
+		"Wonder Room",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

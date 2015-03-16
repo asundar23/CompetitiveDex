@@ -1,0 +1,487 @@
+{
+	"name":"Gible",
+	"types": [
+		"Dragon",
+		"Ground"
+	],
+	"eggGroup": [
+		"Monster",
+		"Dragon"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Gible" },
+   		{ "pokemonName":"Gabite" },
+   		{ "pokemonName":"Garchomp" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Gabite" },
+   		{ "pokemonName":"Garchompite" },
+   		{ "pokemonName":"Mega Garchomp" }
+   	],
+   "evolutionType":[
+   		"Level 24",
+   		"Level 28",
+   		"Garchompite"
+   ],
+	"abilities": [
+		"Sand Veil",
+		"Rough Skin"
+	],
+	"locations": [
+		{"Location": "Wayward Cave (secret area under Cycling Road)"},
+		{"Location": "Wayward Cave (secret area under Cycling Road)"},
+		{"Location": "Wayward Cave (secret area under Cycling Road)"},
+		{"Location": "Safari Zone"},
+		{"Location": "Safari Zone"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Gift in Floccesy Town (Shiny)"},
+		{"Location": "Trade"},
+		{"Location": "Route 13"},
+		{"Location": "Route 13"}
+	],
+	"stats": [
+		58,
+		70,
+		45,
+		40,
+		45,
+		42
+	],
+	"moveList": [
+		
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 7,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 13,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 15,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Sand Tomb",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 31,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 37,
+			"move": "Dragon Rush",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Snorlax"},
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Bayleef"},
+				{"pokemonName": "Meganium"},
+				{"pokemonName": "Tropius"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Dragon Breath",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+		{
+			"move": "Iron Head",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Shieldon"},
+				{"pokemonName": "Bastiodon"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Outrage",
+			"pokemon": [
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+		{
+			"move": "Rock Climb",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sand Tomb",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Larvitar"},
+				{"pokemonName": "Pupitar"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Larvitar"},
+				{"pokemonName": "Pupitar"},
+				{"pokemonName": "Tyranitar"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Twister",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Dragon "
+		}
+	],
+	"tutorMoveList": [
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Iron Head",
+		"Iron Tail",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock"
+	],
+	"sets": [
+	]
+}

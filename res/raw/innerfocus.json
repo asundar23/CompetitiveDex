@@ -1,0 +1,85 @@
+{
+	"name":"Inner Focus",
+	"summary": "Prevents Pokémon from flinching.",
+	"viability": "This prevents something like Fake Out from occurring, which is very valuable. In addition, it completely stops irritating strategies like para-flinch Jirachi/Togekiss. The Pokémon that get Inner Focus usually have better abilities, but it's still solid in terms of usage.",
+	"pokemon":[
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Golbat"
+		},
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Drowzee"
+		},
+		{
+			"pokemonName": "Hypno"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Dragonite"
+		},
+		{
+			"pokemonName": "Crobat"
+		},
+		{
+			"pokemonName": "Umbreon"
+		},
+		{
+			"pokemonName": "Girafarig"
+		},
+		{
+			"pokemonName": "Sneasel"
+		},
+		{
+			"pokemonName": "Snorunt"
+		},
+		{
+			"pokemonName": "Glalie"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Throh"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Darumaka"
+		},
+		{
+			"pokemonName": "Mienfoo"
+		},
+		{
+			"pokemonName": "Mienshao"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		}
+	]
+}

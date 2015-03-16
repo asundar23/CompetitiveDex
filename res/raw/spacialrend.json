@@ -1,0 +1,22 @@
+{
+	"name": "Spacial Rend",
+	"note": "",
+	"type":" Dragon ",
+	"category": "Special",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "95",
+	"summary": "Deals damage and has an increased critical hit ratio.",
+	"viability": "Spacial Rend is a good signature move for Palkia. It's powerful and accurate. It's up to you whether or not you decide to run this, Outrage, or Draco Meteor. All have their advantages and disadvantages, but for the most consistency use Spacial Rend.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Palkia" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

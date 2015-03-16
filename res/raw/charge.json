@@ -1,0 +1,112 @@
+{
+	"name": "Charge",
+	"note": "",
+	"type": " Electric ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Special Defense by one stage; doubles the power of the next move if it is an attacking Electric-move.",
+	"viability": "This seems useless, but it can be interesting. Lanturn, especially, can use it to increase its special bulk, and then hit hard with Discharge or Thunderbolt. It's gimmicky, but if you really want to run this, use it on a bulkier Pokémon.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Voltorb"
+		},
+		{
+			"pokemonName": "Electrode"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Flaaffy"
+		},
+		{
+			"pokemonName": "Ampharos"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Manectric"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Luxio"
+		},
+		{
+			"pokemonName": "Luxray"
+		},
+		{
+			"pokemonName": "Rotom"
+		},
+		{
+			"pokemonName": "Blitzle"
+		},
+		{
+			"pokemonName": "Zebstrika"
+		},
+		{
+			"pokemonName": "Emolga"
+		},
+		{
+			"pokemonName": "Klink"
+		},
+		{
+			"pokemonName": "Klang"
+		},
+		{
+			"pokemonName": "Klinklang"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+		
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolist"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Pichu"
+		},
+		{
+			"pokemonName": "Mareep"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

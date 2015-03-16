@@ -1,0 +1,235 @@
+{
+	"name": "Curse",
+	"note": "",
+	"type": " Ghost ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the user is a Ghost-type, half of its HP will be drained. The target then will lose 25% of their HP on every consecutive turn until it switches out. 
+	
+	If the user is not a Ghost-type, their Attack and Defense stats will raise while its Speed drops.",
+	"viability": "Depending on your type, this move has two very different uses. 
+	
+	For Ghost-types, especially those with the ability to trap the other Pokémon, Curse-sets usually work well. Trevenant is one of the most common Cursers, with the Harvest/Sitrus Berry combination. 
+	
+	As for non-Ghost types, Pokémon like Snorlax or Steelix can really turn into a great Physical wall, as well as a great Physical wallbreaker. This should be used on already slow Pokémon, though, not on fast sweepers.",
+	"pokemonByLevel": [
+	{"pokemonName": "Slowpoke"},
+{"pokemonName": "Slowbro"},
+{"pokemonName": "Gastly"},
+{"pokemonName": "Haunter"},
+{"pokemonName": "Gengar"},
+{"pokemonName": "Onix"},
+{"pokemonName": "Slowking"},
+{"pokemonName": "Steelix"},
+{"pokemonName": "Numel"},
+{"pokemonName": "Camerupt"},
+{"pokemonName": "Torkoal"},
+{"pokemonName": "Shuppet"},
+{"pokemonName": "Banette"},
+{"pokemonName": "Duskull"},
+{"pokemonName": "Dusclops"},
+{"pokemonName": "Regirock"},
+{"pokemonName": "Regice"},
+{"pokemonName": "Registeel"},
+{"pokemonName": "Turtwig"},
+{"pokemonName": "Grotle"},
+{"pokemonName": "Torterra"},
+{"pokemonName": "Bidoof"},
+{"pokemonName": "Bibarel"},
+{"pokemonName": "Spiritomb"},
+{"pokemonName": "Dusknoir"},
+{"pokemonName": "Yamask"},
+{"pokemonName": "Cofagrigus"},
+{"pokemonName": "Tirtouga"},
+{"pokemonName": "Carracosta"},
+{"pokemonName": "Ferroseed"},
+{"pokemonName": "Ferrothorn"},
+{"pokemonName": "Litwick"},
+{"pokemonName": "Lampent"},
+{"pokemonName": "Shelmet"},
+{"pokemonName": "Golett"},
+{"pokemonName": "Golurk"},
+{"pokemonName": "Phantump"},
+{"pokemonName": "Trevenant"},
+{"pokemonName": "Bergmite"},
+{"pokemonName": "Avalugg"}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Bulbasaur"
+		},
+		{
+			"pokemonName": "Zubat"
+		},
+		{
+			"pokemonName": "Geodude"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Lickitung"
+		},
+		{
+			"pokemonName": "Koffing"
+		},
+		{
+			"pokemonName": "Rhyhorn"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Snorlax"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Sunkern"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Misdreavus"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Swinub"
+		},
+		{
+			"pokemonName": "Corsola"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Torchic"
+		},
+		{
+			"pokemonName": "Mudkip"
+		},
+		{
+			"pokemonName": "Slakoth"
+		},
+		{
+			"pokemonName": "Aron"
+		},
+		{
+			"pokemonName": "Electrike"
+		},
+		{
+			"pokemonName": "Gulpin"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Lileep"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Tropiu"
+		},
+		{
+			"pokemonName": "Chimecho"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Spheal"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Shieldon"
+		},
+		{
+			"pokemonName": "East-Sea Shellos"
+		},
+		{
+			"pokemonName": "West-Sea Shellos"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Munchlax"
+		},
+		{
+			"pokemonName": "Hippopotas"
+		},
+		{
+			"pokemonName": "Tepig"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Roggenrola"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Stunfisk"
+		},
+		{
+			"pokemonName": "Heatmor"
+		},
+		{
+			"pokemonName": "Chespin"
+		},
+		{
+			"pokemonName": "Tyrunt"
+		},
+		{
+			"pokemonName": "Goomy"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

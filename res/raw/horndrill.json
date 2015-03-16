@@ -1,0 +1,34 @@
+{
+	"name": "Horn Drill",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Will OHKO the target. Has an accuracy has the formula (level of user - level of target) + 30.",
+	"viability": "OHKO moves are banned in many competitive sites, but even if it wasn't Guillotine isn't worth it. On WiFi competitions, the levels are mostly auto-set to 50, so the accuracy will be only 30.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Nidorino" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Rhydon" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Seaking" },
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Excadrill" },
+		{ "pokemonName": "Tyrunt" },
+		{ "pokemonName": "Tyrantrum" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Ponyta" },
+		{ "pokemonName": "Seel" },
+		{ "pokemonName": "Lapras" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

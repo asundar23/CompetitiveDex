@@ -1,0 +1,501 @@
+{ 
+	 "name": "Grimer",
+	"types": [
+		" Poison "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Grimer" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Muk" }
+   ],
+   "evolutionType":[
+   		"Level 38"
+   ],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"stats": [
+		80,
+		80,
+		50,
+		40,
+		50,
+		25
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Poison Gas",
+			"type": " Poison "
+		},
+		{
+			"level": 4,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 12,
+			"move": "Disable",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Sludge",
+			"type": " Poison "
+		},
+		{
+			"level": 18,
+			"move": "Minimize",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 26,
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"level": 29,
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"level": 32,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"level": 40,
+			"move": "Acid Armor",
+			"type": " Poison "
+		},
+		{
+			"level": 43,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		},
+		{
+			"level": 46,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 48,
+			"move": "Memento",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Spray",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Eelektrik"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Haze",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Imprison",
+			"pokemon": [
+				{"pokemonName": "Ralts"},
+				{"pokemonName": "Kirlia"},
+				{"pokemonName": "Gardevoir"},
+				{"pokemonName": "Gallade"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Lick",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Mean Look",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Scary Face",
+			"pokemon": [
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Shadow Punch",
+			"pokemon": [
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Shadow Sneak",
+			"pokemon": [
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Spit Up",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"},
+				{"pokemonName": "Drifloon"},
+				{"pokemonName": "Drifblim"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Fire Punch",
+		"Giga Drain",
+		"Gunk Shot",
+		"Ice Punch",
+		"Pain Split",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{ "Location": "Route 212 (Poké Radar)"},
+		{ "Location": "Route 212 (Poké Radar)"},
+		{ "Location": "Route 212 (Poké Radar)"},
+		{ "Location": "Routes (16, 17, and 18), Celadon City"},
+		{ "Location": "Routes (16, 17, and 18), Celadon City"},
+		{ "Location": "Field"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Castelia Sewers (walking, surfing/fishing in Spring and Summer)"},
+		{ "Location": "Castelia Sewers (walking, surfing/fishing in Spring and Summer)"},
+		{ "Location": "Breed Muk"},
+		{ "Location": "Breed Muk"}
+
+	],
+	"abilities": [
+		"Stench",
+		"Sticky Hold",
+		"Poison Touch"
+	],
+	"sets": [
+	]
+}

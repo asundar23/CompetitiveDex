@@ -1,0 +1,21 @@
+{
+	"name": "Hold Back",
+	"note": "This is an event only move.",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "40",
+	"power": "40",
+	"accuracy": "100",
+	"summary": "Deals damage, but leaves the target with 1 HP remaining.",
+	"viability": "No competitive use.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

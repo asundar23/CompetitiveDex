@@ -1,0 +1,284 @@
+{ 
+	 "name": "Shellder",
+	"types": [
+		" Water "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Shellder" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Cloyster" }
+   ],
+   "evolutionType":[
+   		"Water Stone"
+   ],
+	"eggGroup": [
+		" Water 3 "
+	],
+	"stats": [
+		30,
+		65,
+		100,
+		45,
+		25,
+		40
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Withdraw",
+			"type": " Water "
+		},
+		{
+			"level": 8,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Icicle Spear",
+			"type": " Ice "
+		},
+		{
+			"level": 16,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Clamp",
+			"type": " Water "
+		},
+		{
+			"level": 28,
+			"move": "Ice Shard",
+			"type": " Ice "
+		},
+		{
+			"level": 32,
+			"move": "Razor Shell",
+			"type": " Water "
+		},
+		{
+			"level": 37,
+			"move": "Aurora Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 40,
+			"move": "Whirlpool",
+			"type": " Water "
+		},
+		{
+			"level": 44,
+			"move": "Brine",
+			"type": " Water "
+		},
+		{
+			"level": 49,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 52,
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"level": 56,
+			"move": "Shell Smash",
+			"type": " Normal "
+		},
+		{
+			"level": 61,
+			"move": "Hydro Pump",
+			"type": " Water "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Icicle Spear",
+			"pokemon": [
+				{"pokemonName": "Shellder"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Rock Blast",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Anorith"},
+				{"pokemonName": "Armaldo"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Kabuto"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Twineedle",
+			"pokemon": [
+				{"pokemonName": "Skorupi"}
+			],
+			"type": " Bug "
+		}
+	],
+	"tutorMoveList": [
+		"Icy Wind",
+		"Iron Defense",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Route 205 (Floaroma Town side), Valley Windworks, Fuego Ironworks (Super Rod)"},
+		{ "Location": "Route 205 (Floaroma Town side), Valley Windworks, Fuego Ironworks (Super Rod)"},
+		{ "Location": "Route 205 (Floaroma Town side), Valley Windworks, Fuego Ironworks (Super Rod)"},
+		{ "Location": "Routes (20, 21, 26, 27, 41, and 47), Vermilion City, Cinnabar Island, Pallet Town, and New Bark Town (Good/Super Rod)"},
+		{ "Location": "Routes (20, 21, 26, 27, 41, and 47), Vermilion City, Cinnabar Island, Pallet Town, and New Bark Town (Good/Super Rod)"},
+		{ "Location": "Sea"},
+		{ "Location": "Route 13, Undella Town, Undella Bay (Fishing)"},
+		{ "Location": "Route 13, Undella Town, Undella Bay (Fishing)"},
+		{ "Location": "Route 13, Undella Town, Seaside Cave, Humilau City (Fishing)"},
+		{ "Location": "Route 13, Undella Town, Seaside Cave, Humilau City (Fishing)"},
+		{ "Location": "Breed Cloyster"},
+		{ "Location": "Route 8 (Good Rod)"}
+
+	],
+	"abilities": [
+		"Shell Armor",
+		"Skill Link",
+		"Overcoat"
+	],
+	"sets": [
+	]
+}

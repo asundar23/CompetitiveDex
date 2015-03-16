@@ -1,0 +1,89 @@
+{
+	"name":"Kricketune",
+	"types": [
+		"Bug"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Kricketot" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Kricketune" }
+   	],
+   "evolutionType":[
+   		"Level 10"
+   ],
+	"eggGroup": [
+		"Bug"
+	],
+	"abilities": [
+		"Shed Skin",
+		"Run Away"
+	],
+	"locations": [
+		{"Location": "Routes (202, 203, 204, and 207 during Morning and Night)"},
+		{"Location": "Routes (202, 203, 204, and 207 during Morning and Night"},
+		{"Location": "Routes (202, 203, 204, 205, and 207 during Morning and Night)"},
+		{"Location": "National Park (Bug-Catching Contest on Thursday and Saturday), Viridian Forest (Swarm)"},
+		{"Location": "Breed Kricketune"},
+		{"Location": "Breed Kricketune"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"stats": [
+		37,
+		25,
+		41,
+		25,
+		41,
+		25
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 6,
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"level": 16,
+			"move": "Bug Bite",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Endeavor",
+		"Snore",
+		"Uproar"
+	],
+	"sets": [
+	]
+}

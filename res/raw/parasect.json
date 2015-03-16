@@ -1,0 +1,605 @@
+{ 
+	 "name": "Parasect",
+	"types": [
+		" Bug ",
+		" Grass "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Paras" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Parasect" }
+   ],
+   "evolutionType":[
+   		"Level 24"
+   ],
+	"eggGroup": [
+		" Bug ",
+		" Grass "
+	],
+	"stats": [
+		60,
+		95,
+		80,
+		60,
+		80,
+		30
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Cross Poison",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Stun Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 1,
+			"move": "Poison Powder",
+			"type": " Poison "
+		},
+		{
+			"level": 1,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 6,
+			"move": "Stun Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 6,
+			"move": "Poison Powder",
+			"type": " Poison "
+		},
+		{
+			"level": 11,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 17,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 22,
+			"move": "Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 29,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Growth",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Giga Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 51,
+			"move": "Aromatherapy",
+			"type": " Grass "
+		},
+		{
+			"level": 59,
+			"move": "Rage Powder",
+			"type": " Bug "
+		},
+		{
+			"level": 66,
+			"move": "X-Scissor",
+			"type": " Bug "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Spinarak"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Accelgor"},
+				{"pokemonName": "Durant"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Bug Bite",
+			"pokemon": [
+				{"pokemonName": "Caterpie"},
+				{"pokemonName": "Weedle"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Wurmple"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Kricketot"},
+				{"pokemonName": "Burmy-Plant"},
+				{"pokemonName": "Burmy-Sandy"},
+				{"pokemonName": "Burmy-Trash"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Yamnega"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Durant"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Scatterbug"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Breloom"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Cross Poison",
+			"pokemon": [
+				{"pokemonName": "Parasect"},
+				{"pokemonName": "Spinarak"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Ariados"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fell Stinger",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Ariados"},
+				{"pokemonName": "Skorupi"},
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Escavalier"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Leech",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Sunkern"},
+				{"pokemonName": "Sunflora"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Breloom"},
+				{"pokemonName": "Roselia"},
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"},
+				{"pokemonName": "Snivy"},
+				{"pokemonName": "Servine"},
+				{"pokemonName": "Serperior"},
+				{"pokemonName": "Cottonee"},
+				{"pokemonName": "Whimsicott"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Metal Claw",
+			"pokemon": [
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"},
+				{"pokemonName": "Durant"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Oddish"},
+				{"pokemonName": "Gloom"},
+				{"pokemonName": "Exeggcute"},
+				{"pokemonName": "Tangela"},
+				{"pokemonName": "Tangrowth"},
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Bayleef"},
+				{"pokemonName": "Meganium"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Foretress"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Tropius"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Psybeam",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venonat"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Vivillon"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rototiller",
+			"pokemon": [
+				{"pokemonName": "Cacnea"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Sweet Scent",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Oddish"},
+				{"pokemonName": "Gloom"},
+				{"pokemonName": "Bellossom"},
+				{"pokemonName": "Bellsprout"},
+				{"pokemonName": "Weepinbell"},
+				{"pokemonName": "Victreebel"},
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Bayleef"},
+				{"pokemonName": "Meganium"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Roselia"},
+				{"pokemonName": "Roserade"},
+				{"pokemonName": "Tropius"},
+				{"pokemonName": "Combee"},
+				{"pokemonName": "Carnivine"},
+				{"pokemonName": "Maractus"},
+				{"pokemonName": "Foongus"},
+				{"pokemonName": "Amoonguss"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Wide Guard",
+			"pokemon": [
+				{"pokemonName": "Turtwig"}
+			],
+			"type": " Rock "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Bug Bite",
+		"Giga Drain",
+		"Knock Off",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Synthesis",
+		"Worry Seed"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Paras"},
+		{ "Location": "Evolve Paras"},
+		{ "Location": "Evolve Paras"},
+		{ "Location": "Cerulean Cave, Safari Zone"},
+		{ "Location": "Cerulean Cave, Safari Zone"},
+		{ "Location": "Forest"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Paras"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Paras"},
+		{ "Location": "Evolve Paras"}
+
+	],
+	"abilities": [
+		"Effect Spore",
+		"Dry Skin",
+		"Damp"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,227 @@
+{
+	"name": "Dark Pulse",
+	"note": "",
+	"type":"Dark ",
+	"category": "Special",
+	"pp": "15",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, with a 20% chance to flinch the opponent. Its power is boosted by 50% if the user has the ability Mega Launcher; can hit non-adjacent opponents in Triple Battles.",
+	"viability": "This is a great move for Special Attackers. Dark provides super effective coverage against Psychic and Ghost types.
+	
+	In addition, it has a reliable power and accuracy, as well as a decent chance to flinch the opponent. It's the best situation you'll have for a special Dark move.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Gastly"
+		},
+		{
+			"pokemonName": "Haunter"
+		},
+		{
+			"pokemonName": "Gengar"
+		},
+		{
+			"pokemonName": "Larvitar"
+		},
+		{
+			"pokemonName": "Pupitar"
+		},
+		{
+			"pokemonName": "Tyranitar"
+		},
+		{
+			"pokemonName": "Honchkrow"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Darkrai"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		},
+		{
+			"pokemonName": "Yveltal"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Duskull"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Gothita"
+		},
+		{
+			"pokemonName": "Deino"
+		}
+	],
+	"pokemonByTM": [
+	{"pokemonName": "Blastoise"},
+{"pokemonName": "Ekans"},
+{"pokemonName": "Arbok"},
+{"pokemonName": "Vulpix"},
+{"pokemonName": "Ninetales"},
+{"pokemonName": "Meowth"},
+{"pokemonName": "Persian"},
+{"pokemonName": "Muk"},
+{"pokemonName": "Gastly"},
+{"pokemonName": "Haunter"},
+{"pokemonName": "Gengar"},
+{"pokemonName": "Koffing"},
+{"pokemonName": "Weezing"},
+{"pokemonName": "Gyarados"},
+{"pokemonName": "Mew"},
+{"pokemonName": "Crobat"},
+{"pokemonName": "Umbreon"},
+{"pokemonName": "Murkrow"},
+{"pokemonName": "Misdreavus"},
+{"pokemonName": "Gligar"},
+{"pokemonName": "Steelix"},
+{"pokemonName": "Sneasel"},
+{"pokemonName": "Skarmory"},
+{"pokemonName": "Houndour"},
+{"pokemonName": "Houndoom"},
+{"pokemonName": "Larvitar"},
+{"pokemonName": "Pupitar"},
+{"pokemonName": "Tyranitar"},
+{"pokemonName": "Poochyena"},
+{"pokemonName": "Mightyena"},
+{"pokemonName": "Nuzleaf"},
+{"pokemonName": "Shiftry"},
+{"pokemonName": "Sableye"},
+{"pokemonName": "Mawile"},
+{"pokemonName": "Aggron"},
+{"pokemonName": "Carvanha"},
+{"pokemonName": "Sharpedo"},
+{"pokemonName": "Cacnea"},
+{"pokemonName": "Cacturne"},
+{"pokemonName": "Seviper"},
+{"pokemonName": "Crawdaunt"},
+{"pokemonName": "Shuppet"},
+{"pokemonName": "Banette"},
+{"pokemonName": "Duskull"},
+{"pokemonName": "Dusclops"},
+{"pokemonName": "Absol"},
+{"pokemonName": "Glalie"},
+{"pokemonName": "Deoxys"},
+{"pokemonName": "Mismagius"},
+{"pokemonName": "Honchkrow"},
+{"pokemonName": "Stunky"},
+{"pokemonName": "Skuntank"},
+{"pokemonName": "Spiritomb"},
+{"pokemonName": "Lucario"},
+{"pokemonName": "Skorupi"},
+{"pokemonName": "Drapion"},
+{"pokemonName": "Croagunk"},
+{"pokemonName": "Toxicroak"},
+{"pokemonName": "Weavile"},
+{"pokemonName": "Gliscor"},
+{"pokemonName": "Porygon-Z"},
+{"pokemonName": "Dusknoir"},
+{"pokemonName": "Rotom"},
+{"pokemonName": "Heatran"},
+{"pokemonName": "Giratina"},
+{"pokemonName": "Darkrai"},
+{"pokemonName": "Arceus"},
+{"pokemonName": "Purrloin"},
+{"pokemonName": "Liepard"},
+{"pokemonName": "Sandile"},
+{"pokemonName": "Krokorok"},
+{"pokemonName": "Krookodile"},
+{"pokemonName": "Scraggy"},
+{"pokemonName": "Scrafty"},
+{"pokemonName": "Sigilyph"},
+{"pokemonName": "Yamask"},
+{"pokemonName": "Cofagrigus"},
+{"pokemonName": "Trubbish"},
+{"pokemonName": "Garbodor"},
+{"pokemonName": "Zorua"},
+{"pokemonName": "Zoroark"},
+{"pokemonName": "Frillish"},
+{"pokemonName": "JellIcent"},
+{"pokemonName": "Elgyem"},
+{"pokemonName": "Beheeyem"},
+{"pokemonName": "Litwick"},
+{"pokemonName": "Lampent"},
+{"pokemonName": "Chandelure"},
+{"pokemonName": "Druddigon"},
+{"pokemonName": "Pawniard"},
+{"pokemonName": "Bisharp"},
+{"pokemonName": "Vullaby"},
+{"pokemonName": "Mandibuzz"},
+{"pokemonName": "Deino"},
+{"pokemonName": "Zweilous"},
+{"pokemonName": "Hydreigon"},
+{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Tornadus-Therian"
+		},
+{
+			"pokemonName": "Thundurus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Therian"
+		},
+{"pokemonName": "Genesect"},
+{"pokemonName": "Frogadier"},
+{"pokemonName": "Greninja"},
+{"pokemonName": "Litleo"},
+{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+{"pokemonName": "Pancham"},
+{"pokemonName": "Pangoro"},
+{"pokemonName": "Furfrou"},
+{"pokemonName": "Espurr"},
+{"pokemonName": "Meowstic"},
+{"pokemonName": "Inkay"},
+{"pokemonName": "Malamar"},
+{"pokemonName": "Clawitzer"},
+{"pokemonName": "Helioptile"},
+{"pokemonName": "Heliolisk"},
+{"pokemonName": "Tyrunt"},
+{"pokemonName": "Tyrantrum"},
+{"pokemonName": "Amaura"},
+{"pokemonName": "Aurorus"},
+{"pokemonName": "Phantump"},
+{"pokemonName": "Trevenant"},
+{"pokemonName": "Pumpkaboo"},
+{"pokemonName": "Gourgeist"},
+{"pokemonName": "Noibat"},
+{"pokemonName": "Noivern"},
+{"pokemonName": "Yveltal"}
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

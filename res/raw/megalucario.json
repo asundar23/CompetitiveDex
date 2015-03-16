@@ -1,0 +1,662 @@
+{
+	"name":"Mega Lucario",
+	"types": [
+		" Fighting ",
+		" Steel "
+	],
+	"eggGroup": [
+		"Field",
+		"Human-Like"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Riolu" },
+   		{ "pokemonName":"Lucario" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Lucario" },
+   		{ "pokemonName":"Mega Lucario" }
+   	],
+   "evolutionType":[
+   		"Friendship (Day)",
+   		"Lucarionite"
+   ],
+	"abilities": [
+		"Adaptability"
+	],
+	"locations": [
+		{"Location": "Lucarionite is received from Korrina in the Tower of Mastery, being held by the Lucario she gives you."},
+		{"Location": "Lucarionite is received from Korrina in the Tower of Mastery, being held by the Lucario she gives you."}
+	],
+	"stats": [
+		70,
+		145,
+		88,
+		140,
+		70,
+		112
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Extreme Speed",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Aura Sphere",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Foresight",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Detect",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 6,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 11,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"level": 19,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 24,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 29,
+			"move": "Bone Rush",
+			"type": " Ground "
+		},
+		{
+			"level": 33,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 37,
+			"move": "Me First",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Aura Sphere",
+			"type": " Fighting "
+		},
+		{
+			"level": 47,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 51,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 55,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 60,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 65,
+			"move": "Extreme Speed",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Bite",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vaporeon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Blaze Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Blaziken"}
+			],
+			"type": " Fire "
+		},
+		{
+			"move": "Bullet Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Circle Throw",
+			"pokemon": [
+				{"pokemonName": "Throh"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Cross Chop",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Crunch",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Detect",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Follow Me",
+			"pokemon": [
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "High Jump Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Mienfoo"},
+				{"pokemonName": "Mienshao"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " null "
+		},
+		{
+			"move": "Iron Defense",
+			"pokemon": [
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Pawniard"},
+				{"pokemonName": "Bisharp"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Low Kick",
+			"pokemon": [
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Timburr"},
+				{"pokemonName": "Gurdurr"},
+				{"pokemonName": "Conkeldurr"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Mind Reader",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sky Uppercut",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Vacuum Wave",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Fighting "
+		}
+	],
+	"tutorMoveList": [
+		"Dark Pulse",
+		"Dragon Pulse",
+		"Drain Punch",
+		"Dual Chop",
+		"Helping Hand",
+		"Ice Punch",
+		"Iron Defense",
+		"Iron Tail",
+		"Low Kick",
+		"Magnet Rise",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

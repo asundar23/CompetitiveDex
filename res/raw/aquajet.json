@@ -1,0 +1,114 @@
+{
+	"name": "Aqua Jet",
+	"type": " Water ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "40",
+	"note":"",
+	"accuracy": "100",
+	"summary": "Deals damage. This move has a priority of +1. If a move of equal priority is used, the move will proceed as with normal order.",
+	"viability": "This, along with Mach Punch and Sucker Punch, are the three best priority moves in the game. Water is only resisted by Grass and Dragon, and can be paired well with many Pokémon. Azumarill can use this with its amazing Attack stat, and combined with Belly Drum makes it one of the most deadly sweepers. Crawdaunt, with Adaptability, is another scary user. In lower tiers, Kabutops and Feraligatr can utilize this move greatly with low speed but great attacking prowess. Any team would love to have this move at its disposable, especially revenge killing.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Golduck"
+		},
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Dewgong"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Carvanha"
+		},
+		{
+			"pokemonName": "Sharpedo"
+		},
+		{
+			"pokemonName": "Empoleon"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Dewott"
+		},
+		{
+			"pokemonName": "Samurott"
+		},
+		{
+			"pokemonName": "Red-Striped Basculin"
+		},
+		{
+			"pokemonName": "Blue-Striped Basculin"
+		},
+		{
+			"pokemonName": "Tirtouga"
+		},
+		{
+			"pokemonName": "Carracosta"
+		},
+		{
+			"pokemonName": "Alomomola"
+		},
+		{
+			"pokemonName": "Beartic"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Clawitzer"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Marill"
+		},
+		{
+			"pokemonName": "Qwilfish"
+		},
+		{
+			"pokemonName": "Surskit"
+		},
+		{
+			"pokemonName": "Corphish"
+		},
+		{
+			"pokemonName": "Anorith"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

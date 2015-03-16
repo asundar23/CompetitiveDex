@@ -1,0 +1,31 @@
+{
+	"name": "Weather Ball",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "10",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage. Its power and type depend on the weather condition. If a weather is up, its base power is 100. Sun (Fire), Rain (Water), Hail (Ice), Sandstorm (Rock), and Normal consitions (Normal) affect the type.",
+	"viability": "Weather Ball can be useful for Pokemon like Castform and Victreebel. The former can get an automatic STAB move that's powerful and accurate depending on the weather condition. Victreebel, in the sun, gets a great Fire-type converage move to complement its great Speed",
+	"pokemonByLevel": [
+		{ "pokemonName": "Lugia" },
+		{ "pokemonName": "Ho-Oh" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Roserade" },
+		{ "pokemonName": "Vanilluxe" },
+		{ "pokemonName": "Volcanion" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Drifloon" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

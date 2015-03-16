@@ -1,0 +1,73 @@
+{
+	"name": "Attract",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the target is the opposite gender as the user, the target becomes infatuated. It then has a 50% chance of not moving that turn due to infatuation.",
+	"viability": "Anyone who has played Gold, Silver, Crystal, or the remakes knows how irritating this move is because of one Pokémon: Whitney's Miltank. As annoying and seemingly overpowered as it seemed back then, Confusion is a far better status. It has the same chance of making the target not move, only the target actually hits itself. If you want to drive your opponent mad, run this move all you want. There are just better options.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Beautifly"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Wormadam-Plant"
+		},
+		{
+			"pokemonName": "Wormadam-Sandy"
+		},
+		{
+			"pokemonName": "Wormadam-Trash"
+		},
+		{
+			"pokemonName": "Glameow"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Woobat"
+		},
+		{
+			"pokemonName": "Swoobat"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+		
+	],
+	"note": "All Pokémon that can learn TM's and aren't genderless can learn this move, except for Nincada, Ferroseed, Ferrothorn, Larvesta, and Volcarona. Mew, Staryu, and Cryogonal can learn this move despite being genderless.",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

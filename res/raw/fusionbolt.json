@@ -1,0 +1,23 @@
+{
+	"name": "Fusion Bolt",
+	"note": "",
+	"type":" Electric ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "100",
+	"summary": "Deals damage; the power doubles if another Pokemon uses Fusion Flare or Blue Flare immediately before, and vice versa.",
+	"viability": "Fusion Bolt, even outside Doubles, is an extremely good move. Fantastic power and fantastic accuracy.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Zekrom" },
+		{ "pokemonName": "Black Kyurem" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "Acupressure",
+	"type": " Normal ",
+	"category": "Status",
+	"note":"",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "This move raises by two stages one of the following: Attack, Defense, Special Attack, Special Defense, Speed, Evasion, or Accuracy. In doubles and triples, the user can use this move on an ally.",
+	"viability": "As with most gimmicks, this can either end up horribly or game-changing. The issue is that you'll be relying on luck to get the boost you want. Having the evasion boost is probably the best situation, but that is a less than 20% chance. This is commonly seen on Shuckle sets aimed to stall the opponent to death, and with its shallow movepool it can't really hurt to try.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Meditite"
+		},
+		{
+			"pokemonName": "Medicham"
+		},
+		{
+			"pokemonName": "Skorupi"
+		},
+		{
+			"pokemonName": "Drapion"
+		},
+		{
+			"pokemonName": "Maractus"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Shuckle"
+		},
+		{
+			"pokemonName": "Croagunk"
+		}
+	],
+	"pokemonByTM":[
+	],
+	"pokemonByHM":[
+	],
+	"pokemonByTutor": [
+	]
+}

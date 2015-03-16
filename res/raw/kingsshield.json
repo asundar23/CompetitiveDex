@@ -1,0 +1,22 @@
+{
+	"name": "King's Shield",
+	"note": "",
+	"type":" Steel ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects the user from any damage, but not status, move. If the opponent uses a contact move when King's Shield is in play, their attack will be lowered by two stages. King's Shield does not defend against Doom Desire, Feint, Future Sight, Phantom Force, and Shadow Force.",
+	"viability": "Aegislash needs to use King's Shield to switch between Blade and Shield-formes. It also boosts Aegislash's Defense and Special Defense significantly, turning it into a wall of sorts. Be careful, though, as it can be worked around through status ailments and setting up.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Aegislash" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

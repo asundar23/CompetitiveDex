@@ -1,0 +1,35 @@
+{
+	"name": "Smelling Salts",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage, and the power is doubled if against a paralyzed target.",
+	"viability": "Smelling Salts can be run to mess with in Doubles and Triples. Have a partner capable of paralyzing the foe(s), then hit them with a fantastic 140 base power move. In Singles, it's a little trickier to pull off, but still doable. It's not the best strategy out there, but it's by no means terrible.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Makuhita" },
+		{ "pokemonName": "Hariyama" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Machop" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Torchic" },
+		{ "pokemonName": "Whismur" },
+		{ "pokemonName": "Aron" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "Croagunk" },
+		{ "pokemonName": "Timburr" },
+		{ "pokemonName": "Mienfoo" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

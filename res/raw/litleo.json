@@ -1,0 +1,361 @@
+{
+	"name":"Litleo",
+	"types": [
+		"Fire",
+		"Normal"
+	],
+	"eggGroup": [
+		"Field"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Litleo" },
+   		{ "pokemonName":"Litleo" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Male Pyroar" },
+   		{ "pokemonName":"Female Pyroar" }
+   	],
+   "evolutionType":[
+   		"Level 35 (if Male)",
+   		"Level 35 (if Female)"
+   ],
+	"abilities": [
+		"Rivalry",
+		"Unnerve",
+		"Moxie"
+	],
+	"locations": [
+		{"Location": "Route 22"},
+		{"Location": "Route 22"}
+	],
+	"stats": [
+		62,
+		50,
+		58,
+		73,
+		54,
+		72
+	],
+	"moveList": [
+		
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Ember",
+			"type": " Fire "
+		},
+		{
+			"level": 8,
+			"move": "Work Up",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Noble Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 28,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"level": 39,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"level": 50,
+			"move": "Overheat",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Entrainment",
+			"pokemon": [
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Fire Spin",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Torchic"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Heatmor"},
+				{"pokemonName": "Fennekin"},
+				{"pokemonName": "Braixen"},
+				{"pokemonName": "Delphox"}
+			],
+			"type": " Fire "
+		},
+		{
+			"move": "Snatch",
+			"pokemon": [
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Wuagsire"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+	],
+	"sets": [
+	]
+}

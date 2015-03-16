@@ -1,0 +1,64 @@
+{ 
+	 "name": "Ditto",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Ditto "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		48,
+		48,
+		48,
+		48,
+		48,
+		48
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Transform",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Route 218 (Poké Radar)"},
+		{ "Location": "Route 218 (Poké Radar)"},
+		{ "Location": "Trophy Garden"},
+		{ "Location": "Routes 34, 35, and 47, Cerulean Cave, Safari Zone, Route 47 (Swarm)"},
+		{ "Location": "Routes 34, 35, and 47, Cerulean Cave, Safari Zone, Route 47 (Swarm)"},
+		{ "Location": "Field"},
+		{ "Location": "Giant Chasm (Crater Forest)"},
+		{ "Location": "Giant Chasm (Crater Forest)"},
+		{ "Location": "Giant Chasm (Crater Forest, Hidden Grotto)"},
+		{ "Location": "Giant Chasm (Crater Forest, Hidden Grotto)"},
+		{ "Location": "Pokémon Village, Friend Safari (Normal)"},
+		{ "Location": "Pokémon Village, Friend Safari (Normal)"}
+
+	],
+	"abilities": [
+		"Limber",
+		"Imposter"
+	],
+	"sets": [
+	]
+}

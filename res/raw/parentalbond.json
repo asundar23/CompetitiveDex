@@ -1,0 +1,14 @@
+{
+	"name":"Parental Bond",
+	"summary": "Causes most damaging moves to be two strike moves, with the second move being half as strong as the first. Multi-hit moves are not affected. Moves that hit multiple targets will not hit twice in Doubles and Triples.
+	
+	An attack with a secondary ability has the same secondary effect on both strikes. Each strike has an independent chance of landing a critical hit, and ablities that trigger upon hit like Cursed Body, or contact like Rocky Helmet, will activate both strikes. Spiky Shield and King's Shield only activate once.
+	
+	Circle Throw and Dragon Tail strike switch, but only force the opponent to switch out after the second strike. Knock Off does not remove the target's item until the second turn. Counter, Mirror Coat, and Metal Burst deal the total amount of damage taken.",
+	"viability": "Mega Kangaskhan has been granted an amazing ability. Parental Bond essentially gives Kangaskhan a +1 Attack, which considered its already high Attack, makes it dangerous. Fake Out is very dangerous, and Power-Up Punch will allow it to get to +2 Attack in only one turn, while attacking the opponent. Given Kangaskhan's wide movepool, there are a number of options she can run, including Earthquake, Sucker Punch, Return, Double-Edge, Fire Punch, Fake Out, and Power-Up Punch. She can also run Night Shade and hit twice every turn, 2HKO'ing most Pokémon.",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Kangaskhan"
+		}
+	]
+}

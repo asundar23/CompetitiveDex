@@ -1,0 +1,35 @@
+{
+	"name": "Petal Blzzard",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage, and hits all adjacent Pokemon.",
+	"viability": "Petal Blizzard won't be seen much, because the Pokemon that learn it are specially inclined.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Venusaur" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Vileplume" },
+		{ "pokemonName": "Meganium" },
+		{ "pokemonName": "Bellossom" },
+		{ "pokemonName": "Sunflora" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Cherrim" },
+		{ "pokemonName": "Lilligant" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "Florges" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

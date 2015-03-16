@@ -1,0 +1,38 @@
+{
+	"name": "Sweet Kiss",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "75",
+	"summary": "Causes the target to become confused.",
+	"viability": "Sweet Kiss is decent for the Pokemon that learn it, since some don't learn Confuse Ray. Overall, though, Sweet Kiss doesn't have the accuracy to warrant a real use.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Togetic" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Luvdisc" },
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Happiny" },
+		{ "pokemonName": "Shaymin" },
+		{ "pokemonName": "Spritzee" },
+		{ "pokemonName": "Aromatisse" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Finneon" },
+		{ "pokemonName": "Audino" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

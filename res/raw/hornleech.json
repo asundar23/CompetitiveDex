@@ -1,0 +1,27 @@
+{
+	"name": "Horn Leech",
+	"note": "",
+	"type":" Grass ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "75",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user recovers 1/2 HP (65% if holding a Big Root) of the damage dealt.",
+	"viability": "As a physical type Giga Drain, Pokemon like Gogoat and Sawsbuck can really benefit",
+	"pokemonByLevel": [
+		{ "pokemonName": "Sawsbuck" },
+		{ "pokemonName": "Skiddo" },
+		{ "pokemonName": "Gogoat" },
+		{ "pokemonName": "Phantump" },
+		{ "pokemonName": "Trevenant" },
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

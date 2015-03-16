@@ -1,0 +1,31 @@
+{
+	"name":"No Guard",
+	"summary": "All moves used or used against the Pokémon with this ability will never miss.",
+	"viability": "Dynamic Punch is the main focus as to why No Guard is one of the better abilities. Machamp and Golurk have amazing Attack stats, and to be able to hit the normally unreliable Dynamic Punch freely is advantageous, considering the 100% rate of confusion. This also allows for moves like Stone Edge to hit perfectly, making Flying types not an easy switch against Machamp or Golurk.",
+	"pokemon":[
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Karrablast"
+		},
+		{
+			"pokemonName": "Golett"
+		},
+		{
+			"pokemonName": "Golurk"
+		},
+		{
+			"pokemonName": "Honedge"
+		},
+		{
+			"pokemonName": "Doublade"
+		}
+	]
+}

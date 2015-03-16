@@ -1,0 +1,45 @@
+{
+	"name": "Heal Pulse",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Restores up to 50% (75% with ability Mega Launcher) of the target's HP.",
+	"viability": "Obviously, don't use this in Singles, but in Doubles or Triples, this is a gold mine. Clawitzer can even turn into great support Pokemon instead of the usual offensive stud. Audino (as well as its Mega) has another weapon in its arsenal to be one of the best Doubles supporters.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Slowbro" },
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Slowking" },
+		{ "pokemonName": "Blissey" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Kirlia" },
+		{ "pokemonName": "Gardevoir" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Lucario" },
+		{ "pokemonName": "Gallade" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Aromatisse" },
+		{ "pokemonName": "Clawitzer" },
+		{ "pokemonName": "Xerneas" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Chikorita" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Luvdisc" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Gothita" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

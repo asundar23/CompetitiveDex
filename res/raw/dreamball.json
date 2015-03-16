@@ -1,0 +1,13 @@
+{
+	"itemName": "Dream Ball",
+	"summary":"Can only be used in Entree Forest to capture Pokemon.",
+	"buy": "N/A",
+	"sell": "0",
+	"viability":"This isn't a useful Poke Ball outside of Entree Forest in Black, White, Black 2, and White 2.",
+	"wildlocation":[
+		{"Location": "Can only be found in Generation 5 games."}
+	],
+	"shopLocation":[
+		{"Location": "N/A"}
+	]
+}

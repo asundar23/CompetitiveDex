@@ -1,0 +1,16 @@
+{
+	"name":"Gale Wings",
+	"summary": "Increases the priority of Flying moves by one. Attacking Flying moves can then be blocked by Quick Guard. Hidden Power Flying does not get this priority increase.",
+	"viability": "Gale Wings is the entire reason Talonflame is one of the best revenge killers. Given Talonflame's great Speed and decent Attack, Gale Wings Brave Bird is a nightmare to deal with if not resisted. Strap a Choice Band on Talonflame and you have a terrifying threat.",
+	"pokemon":[
+		{
+			"pokemonName": "Fletchling"
+		},
+		{
+			"pokemonName": "Fletchinder"
+		},
+		{
+			"pokemonName": "Talonflame"
+		}
+	]
+}

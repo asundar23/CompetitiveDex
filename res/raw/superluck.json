@@ -1,0 +1,37 @@
+{
+	"name":"Super Luck",
+	"summary": "Increases the critical hit ratio by 1 stage.",
+	"viability": "With Scope Lens, all moves will have at least 50% chance to cause a critical hit. With a move like Night Slash, this becomes a perfect 100%. Super Luck is recommended, but not necessary unless the Pokémon is Unfezant.",
+	"pokemon":[
+		{
+			"pokemonName": "Togepi"
+		},
+		{
+			"pokemonName": "Togetic"
+		},
+		{
+			"pokemonName": "Murkrow"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Honchkrow"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Pidove"
+		},
+		{
+			"pokemonName": "Tranquill"
+		},
+		{
+			"pokemonName": "Female Unfezant"
+		},
+		{
+			"pokemonName": "Male Unfezant"
+		}
+	]
+}

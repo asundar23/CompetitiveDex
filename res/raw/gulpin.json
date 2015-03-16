@@ -1,0 +1,527 @@
+{ 
+	 "name": "Gulpin",
+	"types": [
+		" Poison "
+	],
+	"eggGroup": [
+		" Amorphous "
+	],
+	"ORASMoveList": [
+		
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Poison Gas",
+			"type": " Poison "
+		},
+		{
+			"level": 10,
+			"move": "Sludge",
+			"type": " Poison "
+		},
+		{
+			"level": 12,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 17,
+			"move": "Acid Spray",
+			"type": " Poison "
+		},
+		{
+			"level": 20,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"level": 28,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"level": 36,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 41,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 44,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Gulpin" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Swalot" }
+   	],
+   "evolutionType":[
+   		"Level 26"
+   ],
+	"stats": [
+		70,
+		43,
+		53,
+		43,
+		53,
+		40
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Poison Gas",
+			"type": " Poison "
+		},
+		{
+			"level": 14,
+			"move": "Sludge",
+			"type": " Poison "
+		},
+		{
+			"level": 17,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 23,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"level": 34,
+			"move": "Acid Spray",
+			"type": " Poison "
+		},
+		{
+			"level": 39,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Spit Up",
+			"type": " Normal "
+		},
+		{
+			"level": 39,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Belch",
+			"type": " Poison "
+		},
+		{
+			"level": 44,
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"level": 49,
+			"move": "Gastro Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 54,
+			"move": "Wring Out",
+			"type": " Normal "
+		},
+		{
+			"level": 59,
+			"move": "Gunk Shot",
+			"type": " Poison "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Armor",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Shuppet"},
+				{"pokemonName": "Banette"},
+				{"pokemonName": "Duskull"},
+				{"pokemonName": "Dusclops"},
+				{"pokemonName": "Dusknoir"},
+				{"pokemonName": "Spiritomb"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelue"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Destiny Bond",
+			"pokemon": [
+				{"pokemonName": "Gastly"},
+				{"pokemonName": "Haunter"},
+				{"pokemonName": "Gengar"},
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Wobbuffet"},
+				{"pokemonName": "Yamask"},
+				{"pokemonName": "Cofagrigus"},
+				{"pokemonName": "Phantump"},
+				{"pokemonName": "Trevenant"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Gunk Shot",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "Gulpin"},
+				{"pokemonName": "Swalot"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Grimer"},
+				{"pokemonName": "Muk"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Pain Split",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Pain Split",
+			"pokemon": [
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Misdreavus"},
+				{"pokemonName": "Solosis"},
+				{"pokemonName": "Duosion"},
+				{"pokemonName": "Reuniclus"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"},
+				{"pokemonName": "Pumpkaboo-Small"},
+				{"pokemonName": "Pumpkaboo-Average"},
+				{"pokemonName": "Pumpkaboo-Large"},
+				{"pokemonName": "Pumpkaboo-Super"},
+				{"pokemonName": "Gourgeist-Small"},
+				{"pokemonName": "Gourgeist-Average"},
+				{"pokemonName": "Gourgeist-Large"},
+				{"pokemonName": "Gourgeist-Super"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Smog",
+			"pokemon": [
+				{"pokemonName": "Koffing"},
+				{"pokemonName": "Weezing"},
+				{"pokemonName": "Slugma"},
+				{"pokemonName": "Magcargo"},
+				{"pokemonName": "Litwick"},
+				{"pokemonName": "Lampent"},
+				{"pokemonName": "Chandelure"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Venom Drench",
+			"pokemon": [
+				{"pokemonName": "Phantump"}
+			],
+			"type": " Poison "
+		}
+	],
+	"tutorMoveList": [
+		"Fire Punch",
+		"Gastro Acid",
+		"Giga Drain",
+		"Gunk Shot",
+		"Ice Punch",
+		"Pain Split",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Thunder Punch"
+
+	],
+	"locations": [
+		{ "Location": "Great Marsh"},
+		{ "Location": "Great Marsh"},
+		{ "Location": "Great Marsh (After obtaining National Pokédex)"},
+		{ "Location": "Trade"},
+		{ "Location": "Route 3 (Swarm)"},
+		{ "Location": "Forest"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Breed Swalot"},
+		{ "Location": "Breed Swalot"},
+		{ "Location": "Route 5, Route 5 (Horde)"},
+		{ "Location": "Route 5, Route 5 (Horde)"}
+
+	],
+	"abilities": [
+		"Liquid Ooze",
+		"Sticky Hold",
+		"Gluttony"
+	],
+	"sets": [
+	]
+}

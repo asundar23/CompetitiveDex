@@ -1,0 +1,544 @@
+{ 
+	 "name": "{,
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   ],
+   "evolutionPokémon":[
+   ],
+   "evolutionType":[
+   ],
+	"stats": [
+		73,
+		95,
+		62,
+		85,
+		65,
+		85
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Me First",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "leer",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 10,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 13,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 21,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 27,
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"level": 33,
+			"move": "Role Play",
+			"type": " Psychic "
+		},
+		{
+			"level": 38,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Jump Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 49,
+			"move": "Imprison",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Me First",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Bite",
+			"pokemon": [
+				{"pokemonName": "Rattata" },
+{"pokemonName": "Raticate" },
+{"pokemonName": "Ekans" },
+{"pokemonName": "Arbok" },
+{"pokemonName": "Meowth" },
+{"pokemonName": "Persian" },
+{"pokemonName": "Growlithe" },
+{"pokemonName": "Arcanine" },
+{"pokemonName": "Eevee" },
+{"pokemonName": "Flareon" },
+{"pokemonName": "Snubbull" },
+{"pokemonName": "Granbull" },
+{"pokemonName": "Houndour" },
+{"pokemonName": "Houndoom" },
+{"pokemonName": "Poochyena" },
+{"pokemonName": "Mightyena" },
+{"pokemonName": "Loudred" },
+{"pokemonName": "Exploud" },
+{"pokemonName": "Mawile" },
+{"pokemonName": "Electrike" },
+{"pokemonName": "Manectric" },
+{"pokemonName": "Seviper" },
+{"pokemonName": "Absol" },
+{"pokemonName": "Shinx" },
+{"pokemonName": "Luxio" },
+{"pokemonName": "Luxray" },
+{"pokemonName": "Hippopotas" },
+{"pokemonName": "Hippowdon" },
+{"pokemonName": "Glaceon" },
+{"pokemonName": "Patrat" },
+{"pokemonName": "Watchog" },
+{"pokemonName": "Lillipup" },
+{"pokemonName": "Herdier" },
+{"pokemonName": "Stoutland" },
+{"pokemonName": "Pansage" },
+{"pokemonName": "Pansear" },
+{"pokemonName": "Panpour" },
+{"pokemonName": "Sandile" },
+{"pokemonName": "Krokorok" },
+{"pokemonName": "Krookodile" },
+{"pokemonName": "Chespin" },
+{"pokemonName": "Quilladin" },
+{"pokemonName": "Chesnaught" }
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Extrasensory",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Nuzleaf"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Megahorn",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Me First",
+			"pokemon": [
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Rage",
+			"pokemon": [
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Spite",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Thrash",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Darumaka"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Zen Headbutt",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Miltank"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Munna"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Gravity",
+		"Iron Tail",
+		"Last Resort",
+		"Magic Room",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Uproar",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{ "Location": "Trade"},
+		{ "Location": "Route 207 (Poké Radar)"},
+		{ "Location": "Route 207 (Poké Radar)"},
+		{ "Location": "Routes 36, 37"},
+		{ "Location": "Routes 36, 37"},
+		{ "Location": "Field"},
+		{ "Location": "Abundant Shrine"},
+		{ "Location": "Abundant Shrine"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"},
+		{ "Location": "Trade"}
+
+	],
+	"abilities": [
+		"Intimidate",
+		"Frisk",
+		"Sap Sipper"
+	],
+	"sets": [
+	]
+}

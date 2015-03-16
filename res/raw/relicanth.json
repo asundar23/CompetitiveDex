@@ -1,0 +1,626 @@
+{
+	"name":"Relicanth",
+	"types": [
+		"Water",
+		"Rock"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Head Smash",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 6,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 10,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 15,
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"level": 21,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 26,
+			"move": "Dive",
+			"type": " Water "
+		},
+		{
+			"level": 31,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 46,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 50,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 56,
+			"move": "Head Smash",
+			"type": " Rock "
+		}
+	],
+	"eggGroup": [
+		"Water 1",
+		"Water 2"
+	],
+	"abilities": [
+		"Swift Swim",
+		"Rock Head",
+		"Sturdy"
+	],
+	"locations": [
+		{"Location": "Route 226 (Super Rod)"},
+		{"Location": "Route 226 (Super Rod)"},
+		{"Location": "Route 226 (Super Rod)"},
+		{"Location": "Route 12 (Super Rod during a swarm)"},
+		{"Location": "Route 12 (Super Rod during a swarm)"},
+		{"Location": "Sea"},
+		{"Location": "Route 4 (Fishing in rippling water)"},
+		{"Location": "Route 4 (Fishing in rippling water)"},
+		{"Location": "Route 4 (Fishing in rippling water)"},
+		{"Location": "Route 4 (Fishing in rippling water)"},
+		{"Location": "Ambrette Town, Cyllage City (Super Rod)"},
+		{"Location": "Ambrette Town, Cyllage City (Super Rod)"}
+	],
+	"stats": [
+		100,
+		90,
+		130,
+		45,
+		65,
+		55
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Head Smash",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Harden",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 15,
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"level": 22,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 43,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 57,
+			"move": "Dive",
+			"type": " Water "
+		},
+		{
+			"level": 64,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 71,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 78,
+			"move": "Head Smash",
+			"type": " Rock "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Amnesia",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Aqua Tail",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Dratini"},
+				{"pokemonName": "Dragonair"},
+				{"pokemonName": "Dragonite"},
+				{"pokemonName": "Totodile"},
+				{"pokemonName": "Croconaw"},
+				{"pokemonName": "Feraligatr"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Magnitude",
+			"pokemon": [
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Muddy Water",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Tympole"},
+				{"pokemonName": "Palpitoad"},
+				{"pokemonName": "Seismitoad"},
+				{"pokemonName": "Stunfisk"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Skull Bash",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Sharpedo"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Bidoof"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Snore",
+			"pokemon": [
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Water Sport",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		},
+		{
+			"move": "Zen Headbutt",
+			"pokemon": [
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Lombre"},
+				{"pokemonName": "Whiscash"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bounce",
+		"Earth Power",
+		"Icy Wind",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,514 @@
+{
+	"name":"Audino",
+	"types": [
+		"Normal"
+	],
+	"eggGroup": [
+		"Fairy"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Healer",
+		"Regenerator",
+		"Klutz"
+	],
+	"locations": [
+		{"Location": "Routes (1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, and 18), P2 Laboratory, Dreamyard, Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine (All Rustling Grass)"},
+		{"Location": "Routes (1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, and 18), P2 Laboratory, Dreamyard, Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine (All Rustling Grass)"},
+		{"Location": "Routes (1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 18, 20, 22, and 23), Floccesy Ranch, Virbank Complex, Pinwheel Forest, Dreamyard, P2 Laboratory, Castelia City, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Victory Road, Reversal Mountain (All Rustling Grass)"},
+		{"Location": "Routes (1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 18, 20, 22, and 23), Floccesy Ranch, Virbank Complex, Pinwheel Forest, Dreamyard, P2 Laboratory, Castelia City, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Victory Road, Reversal Mountain (All Rustling Grass)"},
+		{"Location": "Route 6 (Rustling Bush), Friend Safari (Normal)"},
+		{"Location": "Route 6 (Rustling Bush), Friend Safari (Normal)"}
+	],
+	"stats": [
+		103,
+		60,
+		86,
+		60,
+		86,
+		50
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Play Nice",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Refresh",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Double Slap",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Secret Power",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Entrainment",
+			"type": " Normal "
+		},
+		{
+			"level": 30,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Heal Pulse",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "After You",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Simple Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Last Resort",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Amnesia",
+			"pokemon": [
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Castform"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Bestow",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Draining Kiss",
+			"pokemon": [
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Aromatisse"}
+			],
+			"type": " Fairy "
+		},
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Heal Bell",
+			"pokemon": [
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Healing Wish",
+			"pokemon": [
+				{"pokemonName": "Clefairy"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Lucky Chant",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Raichu"},
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Clefable"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Wigglytuff"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Marill"},
+				{"pokemonName": "Azumarill"},
+				{"pokemonName": "Hoppip"},
+				{"pokemonName": "Skiploom"},
+				{"pokemonName": "Jumpluff"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Shroomish"},
+				{"pokemonName": "Breloom"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Delcatty"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"},
+				{"pokemonName": "Roselia"},
+				{"pokemonName": "Roserade"},
+				{"pokemonName": "Castform"},
+				{"pokemonName": "Snorunt"},
+				{"pokemonName": "Glalie"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Cheubi"},
+				{"pokemonName": "Cherrim"},
+				{"pokemonName": "Audino"},
+				{"pokemonName": "Cottonee"},
+				{"pokemonName": "Whimsicott"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Slurpuff"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Sweet Kiss",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"}
+			],
+			"type": " Fairy "
+		},
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Slurpuff"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Covet",
+		"Drain Punch",
+		"Fire Punch",
+		"Gravity",
+		"Heal Bell",
+		"Helping Hand",
+		"Hyper Voice",
+		"Ice Punch",
+		"Iron Tail",
+		"Knock Off",
+		"Last Resort",
+		"Low Kick",
+		"Magic Coat",
+		"Pain Split",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Thunder Punch",
+		"Uproar",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

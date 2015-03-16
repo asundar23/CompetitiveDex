@@ -1,0 +1,93 @@
+{
+	"name":"Pressure",
+	"summary": "One additional PP is deducted when the opponent uses a move.
+	
+	Outside of battle, if a Pokémon with Pressure leads the party, the chances of finding a higher-level wild Pokémon is increased by 50%.",
+	"viability": "Since so many powerful moves only have 5 PP (8 if you have used PP Max or 3 PPUp's), that shortens their lifespan by even longer. Pressure is good in that regards, especially if you have a defensively orientated Pokémon like Spiritomb.",
+	"pokemon":[
+		{
+			"pokemonName": "Aerodactyl"
+		},
+		{
+			"pokemonName": "Articuno"
+		},
+		{
+			"pokemonName": "Zapdos"
+		},
+		{
+			"pokemonName": "Moltres"
+		},
+		{
+			"pokemonName": "Mewtwo"
+		},
+		{
+			"pokemonName": "Raikou"
+		},
+		{
+			"pokemonName": "Entei"
+		},
+		{
+			"pokemonName": "Suicune"
+		},
+		{
+			"pokemonName": "Lugia"
+		},
+		{
+			"pokemonName": "Ho-Oh"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Dusclops"
+		},
+		{
+			"pokemonName": "Absol"
+		},
+		{
+			"pokemonName": "Deoxys"
+		},
+		{
+			"pokemonName": "Deoxys-Attack"
+		},
+		{
+			"pokemonName": "Deoxys-Defense"
+		},
+		{
+			"pokemonName": "Deoxys-Speed"
+		},
+		{
+			"pokemonName": "Vespiquen"
+		},
+		{
+			"pokemonName": "Spiritomb"
+		},
+		{
+			"pokemonName": "Weavile"
+		},
+		{
+			"pokemonName": "Dusknoir"
+		},
+		{
+			"pokemonName": "Dialga"
+		},
+		{
+			"pokemonName": "Palkia"
+		},
+		{
+			"pokemonName": "Giratina"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		},
+		{
+			"pokemonName": "Kyurem"
+		}
+	]
+}

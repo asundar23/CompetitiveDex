@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bug_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>95%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="dark_status_accuracy">
+		<item>80%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+    </string-array>
+    
+    
+    <string-array name="dragon_status_accuracy">
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="electric_status_accuracy">
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+    </string-array>
+    
+    
+    <string-array name="fairy_status_accuracy">
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>75%</item>
+    </string-array>
+    
+    
+    <string-array name="fighting_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="fire_status_accuracy">
+		<item>--%</item>
+		<item>85%</item>
+    </string-array>
+    
+    
+    <string-array name="flying_status_accuracy">
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="ghost_status_accuracy">
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>100%</item>
+    </string-array>
+    
+    
+    <string-array name="grass_status_accuracy">
+ 		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>55%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>90%</item>
+		<item>75%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>75%</item>
+		<item>--%</item>
+		<item>100%</item>
+    </string-array>
+    
+    
+    <string-array name="ground_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="ice_status_accuracy">
+		<item>100%</item>
+		<item>100%</item>
+		<item>100%</item>
+    </string-array>
+    
+    
+    <string-array name="normal_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>90%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>75%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>85%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>55%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>55%</item>
+		<item>90%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="poison_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>80%</item>
+		<item>75%</item>
+		<item>90%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="psychic_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>60%</item>
+		<item>--%</item>
+		<item>80%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>90%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="rock_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="steel_status_accuracy">
+		<item>--%</item>
+		<item>--%</item>
+		<item>--%</item>
+		<item>85%</item>
+		<item>--%</item>
+    </string-array>
+    
+    
+    <string-array name="water_status_accuracy">
+        <item>--%</item>
+		<item>--%</item>
+		<item>100%</item>
+		<item>--%</item>
+		<item>--%</item>
+    </string-array>
+    
+</resources>

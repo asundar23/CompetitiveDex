@@ -1,0 +1,342 @@
+{ 
+	 "name": "Unfezant",
+	"types": [
+		" Normal ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Flying "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Pidove" },
+   		{ "pokemonName":"Tranquill" },
+   		{ "pokemonName":"Tranquill" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Tranquill" },
+   		{ "pokemonName":"Male Unfezant" },
+   		{ "pokemonName":"Female Unfezant" },
+   ],
+   "evolutionType":[
+   		"Level 21",
+   		"Level 32 (if Male)",
+   		"Level 32 (if Female)"
+   ],
+	"stats": [
+		62,
+		77,
+		62,
+		50,
+		42,
+		65
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Gust",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Air Cutter",
+			"type": " Flying "
+		},
+		{
+			"level": 18,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 23,
+			"move": "Detect",
+			"type": " Fighting "
+		},
+		{
+			"level": 27,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 33,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 36,
+			"move": "Razor Wind",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Feather Dance",
+			"type": " Flying "
+		},
+		{
+			"level": 45,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"level": 54,
+			"move": "Tailwind",
+			"type": " Flying "
+		},
+		{
+			"level": 59,
+			"move": "Sky Attack",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bestow",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hypnosis",
+			"pokemon": [
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Sigilyph"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Lucky Chant",
+			"pokemon": [
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Morning Sun",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Skarmory"},
+				{"pokemonName": "Honchkrow"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Uproar",
+			"pokemon": [
+				{"pokemonName": "Doduo"},
+				{"pokemonName": "Dodrio"},
+				{"pokemonName": "Hoothoot"},
+				{"pokemonName": "Noctowl"},
+				{"pokemonName": "Chatot"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Natu"},
+				{"pokemonName": "Xatu"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Heat Wave",
+		"Roost",
+		"Sky Attack",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Routes (6, 7, and 12), Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower (Spring, Summer, Autumn)"},
+		{ "Location": "Routes (6, 7, and 12), Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower (Spring, Summer, Autumn)"},
+		{ "Location": "Routes (3, 6, 7, and 12), Victory Road, Dragonspiral Tower (Spring, Summer, and Autumn)"},
+		{ "Location": "Routes (3, 6, 7, and 12), Victory Road, Dragonspiral Tower (Spring, Summer, and Autumn)"},
+		{ "Location": "Friend Safari (Flying)"},
+		{ "Location": "Friend Safari (Flying)"}
+
+	],
+	"abilities": [
+		"Big Pecks",
+		"Super Luck",
+		"Rivalry"
+	],
+	"sets": [
+	]
+}

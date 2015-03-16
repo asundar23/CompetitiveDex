@@ -1,0 +1,34 @@
+{
+	"name": "Power Split",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Aveages the user's Attack and Special Attack stat with those of the target.",
+	"viability": "Power Split is amazing on Shuckle, who boasts pathetic offense. It can instantly make the opponent have bad attacking prowess.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Latios" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" },
+		{ "pokemonName": "Hoopa" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Surskit" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Litwick" },
+		{ "pokemonName": "Inkay" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Tail Glow",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Special Attack by three stages.",
+	"viability": "Tail Glow is a ridiculously good move. Two Pokemon have entirely different uses for it; Volbeat uses it to Baton Pass is and Manaphy uses it to potentially sweep. Either way, Tail Glow is an amazing boosting move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Volbeat" },
+		{ "pokemonName": "Manaphy" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

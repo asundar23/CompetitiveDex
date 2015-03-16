@@ -1,0 +1,621 @@
+{ 
+	 "name": "Loudred",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Monster ",
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Whismur" },
+   		{ "pokemonName":"Loudred" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Loudred" },
+   		{ "pokemonName":"Exploud" }
+   	],
+   "evolutionType":[
+   		"Level 20",
+   		"Level 40"
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Echoed Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 11,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 23,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"level": 45,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Synchronoise",
+			"type": " Psychic "
+		}
+	],
+	"stats": [
+		84,
+		71,
+		43,
+		71,
+		43,
+		48
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Astonish",
+			"type": " Ghost "
+		},
+		{
+			"level": 15,
+			"move": "Howl",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 23,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Stomp",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "Synchronoise",
+			"type": " Psychic "
+		},
+		{
+			"level": 57,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 57,
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"level": 65,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Circle Throw",
+			"pokemon": [
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Disarming VoIce",
+			"pokemon": [
+				{"pokemonName": "Espurr"},
+				{"pokemonName": "Sylveon"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Endeavor",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Rampardos"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Extrasensory",
+			"pokemon": [
+				{"pokemonName": "Vulpix"},
+				{"pokemonName": "Nuzleaf"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Zorua0"},
+				{"pokemonName": "Hammer Arm"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Darmanitan"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Smelling Salts",
+			"pokemon": [
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Mienfoo"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Smokescreen",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Snore",
+			"pokemon": [
+				{"pokemonName": "Snorlax"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Grabull"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"},
+				{"pokemonName": "Shieldon"},
+				{"pokemonName": "Bastiodon"},
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Furfrou"},
+				{"pokemonName": "Amaura"},
+				{"pokemonName": "Aurorus"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Endeavor",
+		"Fire Punch",
+		"Hyper Voice",
+		"Ice Punch",
+		"Low Kick",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch",
+		"Uproar",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Mt. Coronet (Poké Radar)"},
+		{"Location": "Mt. Coronet (Poké Radar)"},
+		{"Location": "Mt. Coronet (Poké Radar)"},
+		{"Location": "Evolve Whismur"},
+		{"Location": "Evolve Whismur"},
+		{"Location": "Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Whismur"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Friend Safari (Normal)"},
+		{"Location": "Friend Safari (Normal)"}
+	],
+	"abilities": [
+		"Soundproof",
+		"Scrappy"
+	],
+	"sets": [
+	]
+}

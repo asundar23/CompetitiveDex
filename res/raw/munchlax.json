@@ -1,0 +1,459 @@
+{ 
+	 "name": "Munxhlax",
+	"types": [
+		" Normal "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Munchlax" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Snorlax" }
+   ],
+   "evolutionType":[
+   		"Friendship"
+   ],
+	"eggGroup": [
+		" Monster "
+	],
+	"stats": [
+		135,
+		85,
+		40,
+		40,
+		85,
+		5
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Snatch",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 1,
+			"move": "Metronome",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Defense Curl",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 12,
+			"move": "Lick",
+			"type": " Ghost "
+		},
+		{
+			"level": 17,
+			"move": "Chip Away",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Stockpile",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Swallow",
+			"type": " Normal "
+		},
+		{
+			"level": 36,
+			"move": "Rollout",
+			"type": " Rock "
+		},
+		{
+			"level": 41,
+			"move": "Block",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Belly Drum",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Natural Gift",
+			"type": " Normal "
+		},
+		{
+			"level": 52,
+			"move": "Snatch",
+			"type": " Dark "
+		},
+		{
+			"level": 57,
+			"move": "Last Resort",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "After You",
+			"pokemon": [
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Belch",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"}
+			],
+			"type": " Poison "
+		},
+
+		{
+			"move": "Charm",
+			"pokemon": [
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Ryhorn"},
+				{"pokemonName": "Chikorita"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Turtwig"},
+				{"pokemonName": "Grotle"},
+				{"pokemonName": "Torterra"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fissure",
+			"pokemon": [
+				{"pokemonName": "Lapras"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Lick",
+			"pokemon": [
+				{"pokemonName": "Lickitung"},
+				{"pokemonName": "Lickilicky"},
+				{"pokemonName": "Snorlax"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Bayleef"},
+				{"pokemonName": "Meganium"},
+				{"pokemonName": "Tropius"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Self-Destruct",
+			"pokemon": [
+				{"pokemonName": "Snorlax"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Whirlwind",
+			"pokemon": [
+				{"pokemonName": "Tropius"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Zen Headbutt",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Covet",
+		"Fire Punch",
+		"Gunk Shot",
+		"Hyper Voice",
+		"Ice Punch",
+		"Icy Wind",
+		"Last Resort",
+		"Recycle",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snatch"
+		"Snore",
+		"Superpower",
+		"Thunder Punch",
+		"Uproar"
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Honey trees"},
+		{"Location": "Breed Snorlax holding a Full Incense"},
+		{"Location": "Breed Snorlax holding a Full Incense"},
+		{"Location": "Field"},
+		{"Location": "Trade Cinccino in Undella Town (Summer)"},
+		{"Location": "Trade Cinccino in Undella Town (Summer)"},
+		{"Location": "Breed Snorlax holding a Full Incense"},
+		{"Location": "Breed Snorlax holding a Full Incense"},
+		{"Location": "Breed Snorlax holding a Full Incense"},
+		{"Location": "Breed Snorlax holding a Full Incense"}
+	],
+	"abilities": [
+		"Pickup",
+		"Thick Fat",
+		"Gluttony"
+	],
+	"sets": [
+	]
+}

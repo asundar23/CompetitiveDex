@@ -1,0 +1,45 @@
+{
+	"name": "Extreme Speed",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a priority of +2.",
+	"viability": "Extreme Speed is one of the best priority moves out there, because of the higher priority and increased power. It's a great move that is primarily used for revenge killing.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Arcanine"
+		},
+		{
+			"pokemonName": "Rayquaza"
+		},
+		{
+			"pokemonName": "Deoxys-Speed"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Togekiss"
+		},
+		{
+			"pokemonName": "Arceus"
+		},
+		{
+			"pokemonName": "Zygarde"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Dratini"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

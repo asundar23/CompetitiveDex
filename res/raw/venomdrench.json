@@ -1,0 +1,34 @@
+{
+	"name": "Venom Drench",
+	"note": "",
+	"type":" Poison ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Lowers the Atatck, Special Attack, and Speed of all poisoned targets by one stage.",
+	"viability": "You can set up Toxic Spikes and use this move, or use something like Poison Gas and watch the magic.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Muk" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Roserade" },
+		{ "pokemonName": "Whirlipede" },
+		{ "pokemonName": "Scolipede" },
+		{ "pokemonName": "Nidoran♀" },
+		{ "pokemonName": "Nidoran♂" },
+		{ "pokemonName": "Zubat" },
+		{ "pokemonName": "Gulpin" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Srkrelp" },
+		{ "pokemonName": "Phantump" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

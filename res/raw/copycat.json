@@ -1,0 +1,84 @@
+{
+	"name": "Copycat",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Causes the user to use the last move that was used in battle. Does not receive the Prankster boost in priority.",
+	"viability": "In Generation V, this move was popular on Prankster users due to the move Roar. Copycat would cause Roar, and could keep switching out the opponent into entry hazards, rendering the battle done. In Generation VI, this strategy is no longer viable due to its loss in priority. Even so, there are some interesting strategies revolving around this move, and can incidentally "teach" Pokémon moves it can't learn, such as Liepard using V-Create. It's purely situational, though, but worth a shot if supported correctly.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mr. Mime"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Sudowoodo"
+		},
+		{
+			"pokemonName": "Smoochum"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Spinda"
+		},
+		{
+			"pokemonName": "Bonsly"
+		},
+		{
+			"pokemonName": "Mime Jr."
+		},
+		{
+			"pokemonName": "Happiny"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Mesprit"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Azurill"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Purrloin"
+		},
+		{
+			"pokemonName": "Zorua"
+		},
+		{
+			"pokemonName": "Flabébé"
+		},
+		{
+			"pokemonName": "Swirlix"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

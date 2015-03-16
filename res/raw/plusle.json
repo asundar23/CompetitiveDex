@@ -1,0 +1,469 @@
+{ 
+	 "name": "Plusle",
+	"types": [
+		" Electric "
+	],
+	"eggGroup": [
+		" Fairy "
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Nuzzle",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Play Nice",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 10,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Bestow",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 22,
+			"move": "Copycat",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 28,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 31,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 34,
+			"move": "Baton Pass",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 40,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"level": 46,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 49,
+			"move": "Entrainment",
+			"type": " Normal "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		60,
+		50,
+		40,
+		85,
+		75,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Nuzzle",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Entrainment",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 7,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 17,
+			"move": "Encore",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 24,
+			"move": "Copycat",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 31,
+			"move": "Swift",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 38,
+			"move": "Charge",
+			"type": " Electric "
+		},
+		{
+			"level": 42,
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"level": 44,
+			"move": "Baton Pass",
+			"type": " Normal "
+		},
+		{
+			"level": 48,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Last Resort",
+			"type": " Normal "
+		},
+		{
+			"level": 56,
+			"move": "Nasty Plot",
+			"type": " Dark "
+		},
+		{
+			"level": 63,
+			"move": "Entrainment",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Discharge",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Pachirisu"}
+			],
+			"type": " Electric "
+		},
+
+		{
+			"move": "Lucky Chant",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Cherubi"},
+				{"pokemonName": "Cherrim"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Sing",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Clefable"},
+				{"pokemonName": "Jigglypuff"},
+				{"pokemonName": "Wigglytuff"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Delcatty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Sweet Kiss",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Clefable"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Spritzee"},
+				{"pokemonName": "Aromatisse"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Wish",
+			"pokemon": [
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Swirlix"},
+				{"pokemonName": "Slurpuff"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Helping Hand",
+		"Iron Tail",
+		"Last Resort",
+		"Magnet Rise",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Trophy Garden"},
+		{"Location": "Trophy Garden"},
+		{"Location": "Trophy Garden"},
+		{"Location": "Routes (1, 2, 3, 4, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46, and 48), National Park (Hoenn Sound)"},
+		{"Location": "Routes (1, 2, 3, 4, 5, 7, 8, 11, 14, 15, 16, 17, 18, 29, 33, 36, 37, 38, 39, 46, and 48), National Park (Hoenn Sound)"},
+		{"Location": "Field"},
+		{"Location": "Route 6 (Swarm)"},
+		{"Location": "Trade"},
+		{"Location": "Route 6 (Swarm)"},
+		{"Location": "Yrade"},
+		{"Location": "Route 5"},
+		{"Location": "Route 5"}
+	],
+	"abilities": [
+		"Plus",
+		"Lightning Rod"
+	],
+	"sets": [
+	]
+}

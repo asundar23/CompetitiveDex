@@ -1,0 +1,32 @@
+{
+	"name": "Cotton Guard",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the user's Defense stat by three stages.",
+	"viability": "Raising any stat by that much is amazing and worth to run.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mareep" },
+		{ "pokemonName": "Flaaffy" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Swablu" },
+		{ "pokemonName": "Altaria" },
+		{ "pokemonName": "Cottonee" },
+		{ "pokemonName": "Maractus" },
+		{ "pokemonName": "Furfrou" },
+		{ "pokemonName": "Swirlix" },
+		{ "pokemonName": "Slurpuff" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Hoppip" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

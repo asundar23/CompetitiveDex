@@ -1,0 +1,381 @@
+{ 
+	 "name": "Slurpuff",
+	"types": [
+		" Fairy "
+	],
+	"eggGroup": [
+		" Fairy "
+	],
+	"setCheck":10,
+	"preEvolution":[
+   		{ "pokemonName":"Swirlix" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Slurpuff" }
+   	],
+   "evolutionType":[
+   		"Trade holding Whipped Dream"
+   ],
+	"stats": [
+		92,
+		80,
+		86,
+		85,
+		75,
+		72
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Sweet Scent",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Fairy Wind",
+			"type": " Fairy "
+		},
+		{
+			"level": 8,
+			"move": "Play NIce",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 13,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Cotton Spore",
+			"type": " Grass "
+		},
+		{
+			"level": 21,
+			"move": "Endeavor",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Aromatherapy",
+			"type": " Grass "
+		},
+		{
+			"level": 31,
+			"move": "Draining Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 36,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 41,
+			"move": "Cotton Guard",
+			"type": " Grass "
+		},
+		{
+			"level": 45,
+			"move": "Wish",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Play Rough",
+			"type": " Fairy "
+		},
+		{
+			"level": 58,
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"level": 67,
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "After You",
+			"pokemon": [
+				{"pokemonName": "Clefairy"},
+				{"pokemonName": "Togetic"},
+				{"pokemonName": "Togekiss"},
+				{"pokemonName": "Audino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Belly Drum",
+			"pokemon": [
+				{"pokemonName": "Marill"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Copycat",
+			"pokemon": [
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Plusle"},
+				{"pokemonName": "Minun"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Yawn",
+			"pokemon": [
+				{"pokemonName": "Togetic"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{ "Location": "Evolve Swirlix"},
+		{ "Location": "Evolve Swirlix"}
+
+	],
+	"abilities": [
+		"Sweet Veil",
+		"Unburden"
+	],
+	"sets": [
+		{
+			"name": "Cupcake for the Belly",
+			"item":[
+				 "Sitrus Berry",
+				 "Leftovers"
+			],
+			"ability": "Unburden",
+			"nature":[
+				 "Lonely",
+				 "Naughty"
+			],
+			"evs":[
+				"252 Attack",
+				"252 Speed",
+				"4 Special Attack"
+			],
+			"moves":[
+				"Belly Drum",
+				"Play Rough",
+				"Return",
+				"Flamethrower"
+			],
+			"alternativemoves":[
+				"Energy Ball"
+			],
+			"setexplanation": "As unlikely as this set ever was considering the Pokémon, it works surprisingly well. Slurpuff has decent bulk, which enables it to take any non-super effective hit, then use Belly Drum. Sitrus Berry will activate upon using Belly Drum, which then maximizes the attack, restred 25% of HP, and doubles the speed due to Unburden. From there, few can really deal with this set.br /><br />Play Rough is the obvious STAB move, having a base power of 90. Return is the next best option for those that resist Play Rough. Last, Flamethrower is meant to be coverage for Steel types. Energy Ball is good for Gastrodon and Swampert, but in almost all situations Flamethrower is better. Belly Drum gets it Attack stat to an amazing 1136, while the Unburden boost will elevate Slurpuff's Speed to 486, easily outspeeding all unboosted Pokémon.",
+			"checksandcounters": "Under Belly Drum, almost every move is a 2HKO, so the best idea is to switch in a Pokémon that will definitely resist Play Rough or Return. Empoleon is the bet bet here, because it resists both moves as well as neutral damage to Flamethrower. Physically bulky steel types will have to deal with Flamethrower, but Slurpuff doesn't really have the Special prowess in this set.",
+			"damagecalc": "<strong>4 HP, 0 Defense Delphox<br /><br />Despite resisting Play Rough, it is a clean OHKO after Belly Drum.<br /><br /><strong>252 HP, 252 Defense, Impish Swampert<br /><br />Play Rough after Belly Drum does 70.9 - 83.8%, which is a guaranteed 2HKO after Leftovers recovery."
+		},
+		
+		{
+			"name": "Calm Mind",
+			"item":[
+			 	"Sitrus Berry",
+			 	"Petaya Berry"
+			 ],
+			"ability": "Unburden",
+			"nature":[
+			 	"Modest"
+			],
+			"evs":[
+				"252 Special Attack",
+				"110 HP",
+				"144 Speed"
+			],
+			"moves":[
+				"Calm Mind",
+				"Dazzling Gleam",
+				"Thunderbolt",
+				"Flamethrower"
+			],
+			"alternativemoves":[
+				"Energy Ball"
+			],
+			"setexplanation": "This is similar to the Belly Drum set, only this is a Special Defense booster as well. Slurpuff will need some HP investment in order to take some hits, and the choIce of item depends on how hard you want Slurpuff to hit. Sitrus Berry will restore HP, and Petaya Berry will increase Special Attack. Both will activate Unburden, making Slurpuff a fast special sweeper after a few Calm Minds.",
+			"checksandcounters": "Poison types that carry some bulk can easily switch in, especially Nidoqueen, Swalot, and Muk. Dazzling Gleam is resisted, and Thunderbolt/Flamethrower don't really carry the punch necessary to do good damage.",
+			"damagecalc": "<strong>(vs.) 252 HP, 4 Special Defense, Assault Vest Hitmonchan<br /><br />+2 Dazzling Gleam does 86.8 - 102.6%, which is a 12.5% chance to OHKO.<br /><br /><strong>252 Special Attack, Life Orb Nidoking<br /><br />Sludge Wave does 64.7 - 77.4% with Slurpuff at +3 Special Defense (from Calm Mind), which is a guaranteed 2HKO, but so is Flamethrower. In fact, Flamethrower is a OHKO after Spikes/Stealth Rock damage."
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"name":"Water Absorb",
+	"summary": "Restores the user by 1/4 of their maximum HP when hit by an Water-type move.",
+	"viability": "Hydro Pump, Surf, and Scald is so common, that switching the Pokémon with Water Absorb in is usually a good idea. Not only will it allow for it to gain HP, but it could allow for them to possibly set up.",
+	"pokemon":[
+		{
+			"pokemonName": "Poliwag"
+		},
+		{
+			"pokemonName": "Poliwhirl"
+		},
+		{
+			"pokemonName": "Poliwrath"
+		},
+		{
+			"pokemonName": "Lapras"
+		},
+		{
+			"pokemonName": "Vaporeon"
+		},
+		{
+			"pokemonName": "Chinchou"
+		},
+		{
+			"pokemonName": "Lanturn"
+		},
+		{
+			"pokemonName": "Politoed"
+		},
+		{
+			"pokemonName": "Wooper"
+		},
+		{
+			"pokemonName": "Quagsire"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Suicune"
+		},
+		{
+			"pokemonName": "Cacnea"
+		},
+		{
+			"pokemonName": "Cacturne"
+		},
+		{
+			"pokemonName": "Mantyke"
+		},
+		{
+			"pokemonName": "Tympole"
+		},
+		{
+			"pokemonName": "Palpitoad"
+		},
+		{
+			"pokemonName": "Seismitoad"
+		},
+		{
+			"pokemonName": "Maractus"
+		},
+		{
+			"pokemonName": "Male Frillish"
+		},
+		{
+			"pokemonName": "Female Frillish"
+		},
+		{
+			"pokemonName": "Male Jellicent"
+		},
+		{
+			"pokemonName": "Female Jellicent"
+		}
+	]
+}

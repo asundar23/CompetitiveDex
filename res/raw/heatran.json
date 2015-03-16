@@ -1,0 +1,359 @@
+{ 
+	 "name": "Heatran",
+	"types": [
+		" Fire ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		91,
+		90,
+		106,
+		130,
+		106,
+		77
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Magma Storm",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 1,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 9,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Fire Fang",
+			"type": " Fire "
+		},
+		{
+			"level": 25,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 33,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 41,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Lava Plume",
+			"type": " Fire "
+		},
+		{
+			"level": 57,
+			"move": "Fire Spin",
+			"type": " Fire "
+		},
+		{
+			"level": 65,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 73,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 81,
+			"move": "Heat Wave",
+			"type": " Fire "
+		},
+		{
+			"level": 88,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 96,
+			"move": "Magma Storm",
+			"type": " Fire "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM43",
+			"move": "Flame Charge",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM61",
+			"move": "Will-O-Wisp",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Dark Pulse",
+		"Dragon Pulse",
+		"Earth Power",
+		"Heat Wave",
+		"Iron Defense",
+		"Iron Head",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Stark Mountain"},
+		{"Location": "Stark Mountain"},
+		{"Location": "Stark Mountain"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Reversal Mountain"},
+		{"Location": "Reversal Mountain"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Flash Fire",
+		"Flame Body (Unreleased)"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,1080 @@
+{
+   "name":"Sylveon",
+   "types":[
+      " Fairy "
+   ],
+   "eggGroup":[
+      " Field "
+   ],
+   "pokedexNumber": "700",
+	"XLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Eevee"
+			]
+		}
+	],
+	"YLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Eevee"
+			]
+		}
+	],
+	"ORLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "Other",
+			"location": [
+				"Evolve Eevee"
+			]
+		}
+	],
+	"ASLocations": [
+		{
+			"locationtype": "Route",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "City",
+			"location": [
+				"None"
+			]
+		},
+		{
+			"locationtype": "other",
+			"location": [
+				"Evolve Eevee"
+			]
+		}
+	],
+   "setCheck":1,
+   "preEvolution":[
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" },
+   		{ "pokemonName":"Eevee" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Vaporeon" },
+   		{ "pokemonName":"Jolteon" },
+   		{ "pokemonName":"Flareon" },
+   		{ "pokemonName":"Espeon" },
+   		{ "pokemonName":"Umbreon" },
+   		{ "pokemonName":"Leafeon" },
+   		{ "pokemonName":"Glaceon" },
+   		{ "pokemonName":"Sylveon" }
+   ],
+   "evolutionType":[
+   		"Water Stone",
+   		"Thunder Stone",
+   		"Fire Sotne",
+   		"Friendship (Day)",
+   		"Friendship (Night)",
+   		"Level up near Moss Rock",
+   		"Level up near Ice Rock",
+   		"Level up after having two Affection Hearts in Pokémon Amie, while knowing a Fairy-type move"
+   ],
+   "stats":[
+      95,
+      65,
+      65,
+      110,
+      130,
+      60
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Disarming VoIce",
+         "type":" Fairy "
+      },
+      {
+         "level":1,
+         "move":"Tail Whip",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Tackle",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Helping Hand",
+         "type":" Normal "
+      },
+      {
+         "level":5,
+         "move":"Sand Attack",
+         "type":" Ground "
+      },
+      {
+         "level":9,
+         "move":"Fairy Wind",
+         "type":" Fairy "
+      },
+      {
+         "level":13,
+         "move":"Quick Attack",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Swift",
+         "type":" Normal "
+      },
+      {
+         "level":20,
+         "move":"Draining Kiss",
+         "type":" Fairy "
+      },
+      {
+         "level":25,
+         "move":"Skill Swap",
+         "type":" Psychic "
+      },
+      {
+         "level":29,
+         "move":"Misty Terrain",
+         "type":" Fairy "
+      },
+      {
+         "level":33,
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "level":37,
+         "move":"Moonblast",
+         "type":" Fairy "
+      },
+      {
+         "level":41,
+         "move":"Last Resort",
+         "type":" Normal "
+      },
+      {
+         "level":45,
+         "move":"Psych Up",
+         "type":" Normal "
+      }
+   ],
+   "ORASMoveList":[
+      {
+         "level":1,
+         "move":"Disarming VoIce",
+         "type":" Fairy "
+      },
+      {
+         "level":1,
+         "move":"Tail Whip",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Tackle",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Helping Hand",
+         "type":" Normal "
+      },
+      {
+         "level":5,
+         "move":"Sand Attack",
+         "type":" Ground "
+      },
+      {
+         "level":9,
+         "move":"Fairy Wind",
+         "type":" Fairy "
+      },
+      {
+         "level":13,
+         "move":"Quick Attack",
+         "type":" Normal "
+      },
+      {
+         "level":17,
+         "move":"Swift",
+         "type":" Normal "
+      },
+      {
+         "level":20,
+         "move":"Draining Kiss",
+         "type":" Fairy "
+      },
+      {
+         "level":25,
+         "move":"Skill Swap",
+         "type":" Psychic "
+      },
+      {
+         "level":29,
+         "move":"Misty Terrain",
+         "type":" Fairy "
+      },
+      {
+         "level":33,
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "level":37,
+         "move":"Moonblast",
+         "type":" Fairy "
+      },
+      {
+         "level":41,
+         "move":"Last Resort",
+         "type":" Normal "
+      },
+      {
+         "level":45,
+         "move":"Psych Up",
+         "type":" Normal "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM03",
+         "move":"Psyshock",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM04",
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM20",
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM30",
+         "move":"Shadow Ball",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM49",
+         "move":"Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM67",
+         "move":"Retaliate",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM99",
+         "move":"Dazzling Gleam",
+         "type":" Fairy "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "ORASTMMoveList":[
+      {
+         "tm":"TM03",
+         "move":"Psyshock",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM04",
+         "move":"Calm Mind",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM11",
+         "move":"Sunny Day",
+         "type":" Fire "
+      },
+      {
+         "tm":"TM15",
+         "move":"Hyper Beam",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM16",
+         "move":"Light Screen",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM20",
+         "move":"Safeguard",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM30",
+         "move":"Shadow Ball",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM33",
+         "move":"Reflect",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM49",
+         "move":"Echoed VoIce",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM67",
+         "move":"Retaliate",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM68",
+         "move":"Giga Impact",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM70",
+         "move":"Flash",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM77",
+         "move":"Psych Up",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM94",
+         "move":"Secret Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM99",
+         "move":"Dazzling Gleam",
+         "type":" Fairy "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      }
+   ],
+   "ORASHMMoveList":[
+      {
+         "hm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Captivate",
+         "pokemon":[
+            {
+               "pokemonName":"Nidoran-♂"
+            },
+            {
+               "pokemonName":"Nidorino"
+            },
+            {
+               "pokemonName":"Vulpix"
+            },
+            {
+               "pokemonName":"Skitty"
+            },
+            {
+               "pokemonName":"Purrloin"
+            },
+            {
+               "pokemonName":"Minccino"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Charm",
+         "pokemon":[
+            {
+               "pokemonName":"Eevee"
+            },
+            {
+               "pokemonName":"Snubbull"
+            },
+            {
+               "pokemonName":"Granbull"
+            },
+            {
+               "pokemonName":"Teddiursa"
+            },
+            {
+               "pokemonName":"Phanpy"
+            },
+            {
+               "pokemonName":"Skitty"
+            },
+            {
+               "pokemonName":"Pachirisu"
+            },
+            {
+               "pokemonName":"Buneary"
+            },
+            {
+               "pokemonName":"Lopunny"
+            },
+            {
+               "pokemonName":"Glameow"
+            },
+            {
+               "pokemonName":"Purugly"
+            },
+            {
+               "pokemonName":"Minccino"
+            },
+            {
+               "pokemonName":"Deerling"
+            },
+            {
+               "pokemonName":"Sawsbuck"
+            },
+            {
+               "pokemonName":"Cubchoo"
+            }
+         ],
+         "type":" Fairy "
+      },
+      {
+         "move":"Covet",
+         "pokemon":[
+            {
+               "pokemonName":"Mankey"
+            },
+            {
+               "pokemonName":"Eevee"
+            },
+            {
+               "pokemonName":"Teddiursa"
+            },
+            {
+               "pokemonName":"Ursaring"
+            },
+            {
+               "pokemonName":"Zigzagoon"
+            },
+            {
+               "pokemonName":"Linoone"
+            },
+            {
+               "pokemonName":"Slakoth"
+            },
+            {
+               "pokemonName":"Slaking"
+            },
+            {
+               "pokemonName":"Skitty"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Curse",
+         "pokemon":[
+            {
+               "pokemonName":"Numel"
+            },
+            {
+               "pokemonName":"Camerupt"
+            },
+            {
+               "pokemonName":"Torkoal"
+            },
+            {
+               "pokemonName":"Bidoof"
+            },
+            {
+               "pokemonName":"Bibarel"
+            }
+         ],
+         "type":" Ghost "
+      },
+      {
+         "move":"Detect",
+         "pokemon":[
+            {
+               "pokemonName":"Zangoose"
+            },
+            {
+               "pokemonName":"Absol"
+            },
+            {
+               "pokemonName":"Lucario"
+            },
+            {
+               "pokemonName":"Patrat"
+            },
+            {
+               "pokemonName":"Watchog"
+            },
+            {
+               "pokemonName":"Mienfoo"
+            },
+            {
+               "pokemonName":"Mienshao"
+            }
+         ],
+         "type":" Fighting "
+      },
+      {
+         "move":"Endure",
+         "pokemon":[
+            {
+               "pokemonName":"Swinub"
+            },
+            {
+               "pokemonName":"Piloswine"
+            },
+            {
+               "pokemonName":"Mamoswine"
+            },
+            {
+               "pokemonName":"Phanpy"
+            },
+            {
+               "pokemonName":"Vigoroth"
+            },
+            {
+               "pokemonName":"Pachirisu"
+            },
+            {
+               "pokemonName":"Buneary"
+            },
+            {
+               "pokemonName":"Lopunny"
+            },
+            {
+               "pokemonName":"Cubchoo"
+            },
+            {
+               "pokemonName":"Beartic"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Fake Tears",
+         "pokemon":[
+            {
+               "pokemonName":"Teddiursa"
+            },
+            {
+               "pokemonName":"Ursaring"
+            },
+            {
+               "pokemonName":"Mawile"
+            },
+            {
+               "pokemonName":"Zorua"
+            }
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Flail",
+         "pokemon":[
+            {
+               "pokemonName":"Dunsparce"
+            },
+            {
+               "pokemonName":"Swinub"
+            },
+            {
+               "pokemonName":"Phanpy"
+            },
+            {
+               "pokemonName":"Zigzagoon"
+            },
+            {
+               "pokemonName":"Slakoth"
+            },
+            {
+               "pokemonName":"Slaking"
+            },
+            {
+               "pokemonName":"Torkoal"
+            },
+            {
+               "pokemonName":"Spinda"
+            },
+            {
+               "pokemonName":"Cubchoo"
+            },
+            {
+               "pokemonName":"Beartic"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Natural Gift",
+         "pokemon":[
+            {
+               "pokemonName":"Phanpy"
+            },
+            {
+               "pokemonName":"Pansage"
+            },
+            {
+               "pokemonName":"Pansear"
+            },
+            {
+               "pokemonName":"Panpour"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Stored Power",
+         "pokemon":[
+            {
+               "pokemonName":"Munna"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Synchronoise",
+         "pokemon":[
+            {
+               "pokemonName":"Whismur"
+            },
+            {
+               "pokemonName":"Loudred"
+            },
+            {
+               "pokemonName":"Exploud"
+            },
+            {
+               "pokemonName":"Kecleon"
+            },
+            {
+               "pokemonName":"Munna"
+            }
+         ],
+         "type":" Psychic "
+      },
+      {
+         "move":"Tickle",
+         "pokemon":[
+            {
+               "pokemonName":"Aipom"
+            },
+            {
+               "pokemonName":"Ambipom"
+            },
+            {
+               "pokemonName":"Minccino"
+            },
+            {
+               "pokemonName":"Cinccino"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Wish",
+         "pokemon":[
+            {
+               "pokemonName":"Pikachu"
+            },
+            {
+               "pokemonName":"Skitty"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Yawn",
+         "pokemon":[
+            {
+               "pokemonName":"Wooper"
+            },
+            {
+               "pokemonName":"Quagsire"
+            },
+            {
+               "pokemonName":"Dunsparce"
+            },
+            {
+               "pokemonName":"Slakoth"
+            },
+            {
+               "pokemonName":"Slaking"
+            },
+            {
+               "pokemonName":"Numel"
+            },
+            {
+               "pokemonName":"Camerupt"
+            },
+            {
+               "pokemonName":"Bidoof"
+            },
+            {
+               "pokemonName":"Bibarel"
+            },
+            {
+               "pokemonName":"Hippopotas"
+            },
+            {
+               "pokemonName":"Hippowdon"
+            },
+            {
+               "pokemonName":"Pansear"
+            },
+            {
+               "pokemonName":"Munna"
+            }
+         ],
+         "type":" Normal "
+      }
+   ],
+   "tutorMoveList":[
+		"Covet",
+		"Heal Bell",
+		"Helping Band",
+		"Hyper Voice",
+		"Iron Tail",
+		"Last Resort",
+		"Magic Coat",
+		"Skill Swap",
+		"Snore"
+   ],
+   "abilities":[
+      "Cute Charm",
+      "Pixilate"
+   ],
+   "sets":[
+   	{
+		"name": "Wish Support",
+		"items":[
+			 "Leftovers"
+		],
+		"ability": "Pixilate",
+		"nature":[
+			 "Calm"
+		],
+		"evs":[
+			"252 HP",
+			"4 Special Attack",
+			"252 Special Defense"
+		],
+		"moves":[
+			"Hyper Voice",
+			"Wish",
+			"Protect",
+			"Heal Bell"
+		],
+		"alternativemoves":[
+			"Toxic"
+		],
+		
+		"setexplanation":"Sylveon is one of the game’s best wish-passers, along with Florges and Blissey. What makes her so good is that she can pack a punch with her offense just as much as she can tank. Although her physical defense is lacking, she fares a lot better than Blissey in that department. Hyper Voice with Pixilate reaches a total power of 175, which is only slightly less than a STAB Close Combat. Add to that the ability for Hyper Voice, being a sound move, to hit through subs and you have yourself an obvious choIce for STAB move. <br /><br />Wish and Protect is the main idea behind this set. Since Sylveon can tank most, if not all unboosted hits, this strategy is perfect for her. Use Wish on an incoming opponent, and Protect to scout them. Wish heals back 50% of Sylveon’s HP on the turn after Wish is used, so it’s perfect to use Protect afterwards. In addition, passing it off to a teammate that can withstand, or preferrably wall, the opponents’ move, will receive a significant amount of HP back. Due to Sylveon’s high HP stat, this makes Wish-passing a lot easier for her. <br /><br />The last moveslot is a toss up between Toxic and Heal Bell, and there’s no real wrong answer. Toxic can really slow down Pokémon like Multiscale Dragonite or Physically/Speciall Defensive walls. You can play the Toxic, Wish, Protect game and eventually stall out your opponent. Heal Bell is more on the support side, and can be useful for getting rid of that burn on your physical sweeper. It’s all up to preference.",
+
+		"checksandcounters": "Heatran is the most obvious counter. It quad-resists Hyper Voice and can’t be inflicted with a toxic status. Bisharp is another Pokémon that deals with Sylveon easily, although it is more of a check. Bisharp has mediocre Special Defense, so it will not appreciate a Hyper Voice. One Libe Orb Iron Head is a clean OHKO. Skarmory also deals with Sylveon just fine, and can set up entry hazards in her face. Last, Aegislash, being Steel/Ghost, has nothing to worry about with this set.",
+		
+		"damagecalc": "<br /><br /><b><i>252 SpA Timid Gengar</b></i><br /><br /> Sludge Bomb does 44.6% - 53.2%, which is less than a 1% chance for a 2HKO after Leftovers recovery.<br /><br /><b><i>252 SpA Mega Venusaur</b></i><br /><br /> Sludge Bomb does 47.2% - 56.3%, which is about a 25% chance to 2HKO after Leftovers recovery.<br /><br /><b><i>252 SpA Landorus-Incarnate with Life Orb</b></i><br /><br />• Earth Power does 35% - 41.6%, which is a 74.7% chance to 3HKO after Leftovers recovery. <br /><br />• Sudge Wave does 48.7% - 58.1%, which is a 58.6% chance to 2HKO after Leftovers recovery."
+	},
+	{
+		"name": "Defensive Calm Mind",
+		"items":[
+			 "Leftovers"
+		],
+		"ability": "Pixilate",
+		"nature":[
+			 "Bold"
+		],
+		"evs":[
+			"252 HP",
+			"252 Defense",
+			"4 Speed"
+		],
+		"moves":[
+			"Hyper Voice",
+			"Calm Mind",
+			"Psyshock",
+			"Substitute"
+		],
+		"alternativemoves":[
+			"Baton Pass"
+		],
+		"setexplanation": "On paper, this doesnt look too threatening. Why boost the physical defense of Sylveon when she’s meant to be better specially? This is to compensate for the fact that her physical defense is lacking, while her Special Attack and Defense are much better. One boost of both, which is achieved through Calm Mind, and she becomes dangerous instantly. Hyper Voice is the main STAB move here, going well with Pixilate, and Psyshock takes care of pesky Poison types. <br /><br />Sub-CM is an often popular strategy, especially a bulky Pokémon like Sylveon. Substitute can really turn the tide of a match if you’re able to get it up on a switch-in or right before a status move.  If not, then Baton Passing the effects to another Pokémon will serve you well. This should be done if a steel type switches in, since you won’t be getting anything productive out of staying in.",
+		"checksandcounters": "Any and almost all steel types resist this set. Heatran, Skarmory,  and Excadrill can easily handle this set and deal back a great amount of damage.  Aegislash is another good counter, due to its great defensive typing. Poison types such as Scolipede or Roserade are good checks, but bad counters due to Psyshock being a staple in this set.",
+		"damagecalc":"<b><i>252 Attack, Adamant Nature Bisharp</b></i><br /><br /> Iron Head does 87% - 103% damage, which is about a 12.5% chance to OHKO. Significantly better than with other sets, and Sylveon can hit back hard with Hyper Voice.<br /><br /><b><i>(vs.) 0 SpD Bisharp</b></i><br /><br /> Hyper Voice, with a +1 boost from Calm Mind, is a clean OHKO on Bisharp<br /><br /><b><i>(vs.) 0 Def Venusaur</b></i><br /><br /> Psyshock, after a +1 Calm Mind Boost, has a 6% chance to 2HKO, while a +2 CM boost is a guaranteed 2HKO."
+	},
+	{
+		"name": "Offensive Calm Mind",
+		"items":[
+			 "Life Orb",
+			 "Leftovers"
+		],
+		"ability": "Pixilate",
+		"nature":[
+			 "Modest"
+		],
+		"evs":[
+			"200 HP",
+			"252 Special Attack",
+			"56 Speed"
+		],
+		"moves":[
+			"Hyper Voice",
+			"Calm Mind",
+			"Hidden Power Ground",
+			"Shadow Ball"
+		],
+		"alternativemoves":[
+			"Stored Power",
+			"Psyshock"
+		],
+		"setexplanation": "This set is meant to hit, and hit hard. With 110 base Special Attack, Sylveon’s offensive presence is nothing to be taken lightly. Unlike the Defensive Calm Mind set, this doesn’t go half way or try to compensate for anything Sylveon is lacking. Offensive Calm Mind Sylveon is made to wreck the opposing team. Hyper Voice is the obvious choIce for STAB move, as one Calm Mind boosts its power up incredibly. Hidden Power Ground is used mainly for Heatran and other steel types. <br /><br />Shadow Ball and Stored Power depends on how long you’re willing to stay in. Stored Power takes care of the Poison weakness, and one Calm Mind boosts its power from 20 to 60. Two CMs raise it to 100,three to 140, and so on. Trouble is, getting it to an acceptable power takes a bit of time, and Sylveon won’t be able to last too long. Shadow Ball, on the other hand, deals more damage in the short term and can really help against Aegislash. Leftovers can help sustain Sylveon's longevity, but sometimes won't be able to hit that hard, even after one CM boost. Life Orb ensures 2HKO's (at the very least), but you are sacrificing her health with every attack.",
+		"checksandcounters": "Skarmory is a decent check to this set. You can Roar Sylveon out, as it resists Hyper Voice and is immune to Hidden Power Ground. Problem is that Skarmory has a lackluster Special Defense and shouldn’t be switched in carelessly. Bisharp is another good Pokémon to deal with Sylveon; since it is naturally faster, one Life Orb Iron head is a OHKO and will end Sylveon. Again, the problem is switching into a STAB and probably Calm Mind-boosted Hyper Voice, so be careful when doing so. Specially Defensive Heatran holding an Air Balloon walls this set until it is hit, but it will be a perfect opportunity to Roar Sylveon out.",
+		"damagecalc":"<br /><br /><b><i>(vs.) 252 Def. Mega Venusaur</b></i><br /><br />• Psyshock, after a +1 CM Boost and Leftovers, does 48.3% - 57.1%, which is about a 92% chance to 2HKO.<br /><br />• With Life Orb, that becomes a guaranteed 2HKO after Stealth Rock.<br /><br /><b><i>(vs.) 0 SpD Mega Lucario</b></i><br /><br /> Hyper Voice, unboosted, has a 31.3% chance to OHKO (with Leftovers). With just 1 layer of Spikes, this becomes a guaranteed OHKO.<br /><br />• With Life Orb, it's a guaranteed OHKO<br /><br /><b><i>(vs.) 252 SpD Calm Aegislash-Shield</b></i><br /><br />• Shadow Ball is a guaranteed 3HKO after 1 Calm Mind (holding Leftovers).<br /><br />• Shadow Ball is a guaranteed 2HKO if Sylveon is holding a Life Orb.<br /><br /><b><i>(vs.) 0 SpD, Neutral-natured Aegislash-Shield</b></i><br /><br /> Shadow Ball, after 1 Calm Mind, is a guaranteed 2HKO regardless of whether Sylveon is holding Leftovers or Life Orb.<br /><br /><b><i>(vs.) 252 SpD Heatran</b></i><br /><br />Hidden Power Ground, after 1 Calm Mind, is a guaranteed 2HKO. With three layers of Spikes, it’s a 50% chance to OHKO.<br /><br />• Life Orb guarantees unboosted Hidden Power Ground a 2KHKO after Leftovers and Stealth Rock. +1 CM boosted gives that a guaranteed OHKO after Stealth Rock damage."
+	}
+   ]
+}

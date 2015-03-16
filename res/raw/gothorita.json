@@ -1,0 +1,457 @@
+{
+	"name":"Gothorita",
+	"types": [
+		"Psychic"
+	],
+	"eggGroup": [
+		"Human-Like"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Gothita" },
+   		{ "pokemonName":"Gothorita" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Gothorita" },
+   		{ "pokemonName":"Gothitelle" }
+   ],
+   "evolutionType":[
+   		"Level 32",
+   		"Level 41"
+   ],
+	"abilities": [
+		"Frisk",
+		"Competitive",
+		"Shadow Tag"
+	],
+	"locations": [
+		{"Location": "Route 9"},
+		{"Location": "Trade"},
+		{"Location": "Route 9, Strange House"},
+		{"Location": "Trade"},
+		{"Location": "Route 20, Pokémon Village, Friend Safari (Psychic)"},
+		{"Location": "Route 20, Pokémon Village, Friend Safari (Psychic)"}
+	],
+	"stats": [
+		60,
+		45,
+		70,
+		75,
+		85,
+		55
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Pound",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Tickle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Play Nice",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Confusion",
+			"type": " Psychic "
+		},
+		{
+			"level": 7,
+			"move": "Tickle",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Fake Tears",
+			"type": " Dark "
+		},
+		{
+			"level": 14,
+			"move": "Double Slap",
+			"type": " Normal "
+		},
+		{
+			"level": 16,
+			"move": "Psybeam",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"level": 24,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 25,
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"level": 28,
+			"move": "Flatter",
+			"type": " Dark "
+		},
+		{
+			"level": 31,
+			"move": "Future Sight",
+			"type": " Psychic "
+		},
+		{
+			"level": 34,
+			"move": "Heal Block",
+			"type": " Psychic "
+		},
+		{
+			"level": 39,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Telekinesis",
+			"type": " Psychic "
+		},
+		{
+			"level": 50,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 53,
+			"move": "Magic Room",
+			"type": " Psychic "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM03",
+			"move": "Psyshock",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM04",
+			"move": "Calm Mind",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM92",
+			"move": "Trick Room",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Abra"},
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"},
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Drowzee"},
+				{"pokemonName": "Hypno"},
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Electabuzz"},
+				{"pokemonName": "Electivire"},
+				{"pokemonName": "Magmar"},
+				{"pokemonName": "Magmortar"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Meditite"},
+				{"pokemonName": "Medicham"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Dark Pulse",
+			"pokemon": [
+				{"pokemonName": "Sableye"},
+				{"pokemonName": "Cacnea"},
+				{"pokemonName": "Cacturne"},
+				{"pokemonName": "Lucario"},
+				{"pokemonName": "Croagunk"},
+				{"pokemonName": "Toxicroak"},
+				{"pokemonName": "Elgyem"},
+				{"pokemonName": "Beheeyem"},
+				{"pokemonName": "Pawniard"},
+				{"pokemonName": "Bisharp"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Heal Pulse",
+			"pokemon": [
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Mean Look",
+			"pokemon": [
+				{"pokemonName": "Sableye"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Miracle Eye",
+			"pokemon": [
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"},
+				{"pokemonName": "Elgyem"},
+				{"pokemonName": "Beheeyem"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Mirror Coat",
+			"pokemon": [
+				{"pokemonName": "Lopunny"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Uproar",
+			"pokemon": [
+				{"pokemonName": "Spinda"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Foul Play",
+		"Gravity",
+		"Heal Bell",
+		"Helping Hand",
+		"Magic Coat",
+		"Magic Room",
+		"Recycle",
+		"Role Play",
+		"Signal Beam",
+		"Skill Swap",
+		"Sleep Talk",
+		"Snatch",
+		"Snore",
+		"Trick",
+		"Uproar",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

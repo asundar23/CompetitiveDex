@@ -1,0 +1,41 @@
+{
+	"name": "Hidden Power",
+	"note": "All Pokémon who can learn TMs can learn Hidden Power except Wobbuffet, Wynaut, Kricketot, Tynamo, and Spewpa.",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "15",
+	"power": "60",
+	"accuracy": "100",
+	"summary": "Deals damage. Type is determined depending on the user's IV spread. For a Hidden Power calculator section, visit the Tools section in the sidebar. For a generic Hidden Power table, see the Tutorials section.",
+	"viability": "Hidden Power is what Pokemon use when they are in dire need of a coverage move of that type. For example, Gorebyss doesn't have any good Grass moves, so it needs to run Hidden Power Grass. Roserade needs a Fire move so it runs Hidden power Fire. Roserade, actually, makes great use of it due to its Technician ability, boosting it to a respectable 90 base power. Hidden Power is a good move to have, but should only be used as a last resort.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Slowking" },
+		{ "pokemonName": "Unown" },
+		{ "pokemonName": "Meditite" },
+		{ "pokemonName": "Medicham" },
+		{ "pokemonName": "Burmy-Plant" },
+		{ "pokemonName": "Burmy-Sandy" },
+		{ "pokemonName": "Burmy-Trash" },
+		{ "pokemonName": "Wormadam-Plant" },
+		{ "pokemonName": "Wormadam-Sandy" },
+		{ "pokemonName": "Wormadam-Trash" },
+		{ "pokemonName": "Mothim" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "East-Sea Gastrodon" },
+		{ "pokemonName": "West-Sea Gastrodon" },
+		{ "pokemonName": "Solosis" },
+		{ "pokemonName": "Duosion" },
+		{ "pokemonName": "Reuniclus" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

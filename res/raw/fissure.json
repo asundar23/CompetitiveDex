@@ -1,0 +1,50 @@
+{
+	"name": "Fissure",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "OHKO",
+	"accuracy": "Varies",
+	"summary": "Will OHKO the target. Has an accuracy has the formula (level of user - level of target) + 30.",
+	"viability": "OHKO moves are banned in many competitive sites, but even if it wasn't Fissure isn't worth it. On WiFi competitions, the levels are mostly auto-set to 50, so the accuracy will be only 30.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Camerupt" },
+		{ "pokemonName": "Trapinch" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Whiscash" },
+		{ "pokemonName": "Groudon" },
+		{ "pokemonName": "Wormadam-Sandy" },
+		{ "pokemonName": "Hippopotas" },
+		{ "pokemonName": "Hippowdon" },
+		{ "pokemonName": "Drilbur" },
+		{ "pokemonName": "Excadrill" },
+		{ "pokemonName": "Stunfisk" },
+		{
+			"pokemonName": "Landorus-Incarnate"
+		},
+		{
+			"pokemonName": "Landorus-Therian"
+		}
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Lapras" },
+		{ "pokemonName": "Snowlax" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Spheal" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Shellos" },
+		{ "pokemonName": "Munchlax" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

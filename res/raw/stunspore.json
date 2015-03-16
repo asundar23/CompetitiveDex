@@ -1,0 +1,51 @@
+{
+	"name": "Stun Spore",
+	"note": "",
+	"type":" Grass ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "75",
+	"summary": "Paralyzes the foe.",
+	"viability": "Thunder Wave is far better than Stun Spore, due to the better accuracy. Stun Spore can still be used, but isn't recommended.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Butterfree" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Vileplume" },
+		{ "pokemonName": "Paras" },
+		{ "pokemonName": "Parasect" },
+		{ "pokemonName": "Venonat" },
+		{ "pokemonName": "Venomoth" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Weepinbell" },
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Tangela" },
+		{ "pokemonName": "Bellossom" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Skiploom" },
+		{ "pokemonName": "Jumpluff" },
+		{ "pokemonName": "Beautifly" },
+		{ "pokemonName": "Masquerain" },
+		{ "pokemonName": "Shroomish" },
+		{ "pokemonName": "Breloom" },
+		{ "pokemonName": "Roselia" },
+		{ "pokemonName": "Budew" },
+		{ "pokemonName": "Tangrowth" },
+		{ "pokemonName": "Cottonee" },
+		{ "pokemonName": "Petilil" },
+		{ "pokemonName": "Scatterbug" },
+		{ "pokemonName": "Vivillon" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Foongus" },
+		{ "pokemonName": "Scatterbug" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

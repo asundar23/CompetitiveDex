@@ -1,0 +1,39 @@
+{
+	"name": "Self-Destruct",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "200",
+	"accuracy": "100",
+	"summary": "Deals damage, and causes the user to faint.",
+	"viability": "While a decent alternative to Explosion (if the Pokemon doesn't learn it), Self-Destruct simply isn't used much anymore. In previous generations, it had a power of 400 by causing the opponent's Defense to be cut in half. This could still see use in Doubles and Triples by affecting everyone adjacent. Just make sure your ally isn't hit.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Geodude" },
+		{ "pokemonName": "Graveler" },
+		{ "pokemonName": "Golem" },
+		{ "pokemonName": "Voltorb" },
+		{ "pokemonName": "Electrode" },
+		{ "pokemonName": "Koffing" },
+		{ "pokemonName": "Weezing" },
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Ferroseed" },
+		{ "pokemonName": "Ferrothorn" },
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sudowoodo" },
+		{ "pokemonName": "Bonsly" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Trubbish" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

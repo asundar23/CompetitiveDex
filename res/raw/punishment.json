@@ -1,0 +1,45 @@
+{
+	"name": "Punishment",
+	"note": "",
+	"type":" Dark ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage depending on the positive stat changes of the foe.",
+	"viability": "Punishment is a good idea in theory, but is entirely dependent on the opponent. If they have set up multiple Calm Minds, this can potentially be a OHKO. It's good on a Pokemon like Primeape, who don't have a Dark-type coverage move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Primeape" },
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Lugia" },
+		{ "pokemonName": "Ho=oh" },
+		{ "pokemonName": "Slaking" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Infernape" },
+		{ "pokemonName": "Weavile" },
+		{ "pokemonName": "Arcues" },
+		{ "pokemonName": "Zorua" },
+		{ "pokemonName": "Zoroark" },
+		{ "pokemonName": "Vullaby" },
+		{ "pokemonName": "Mandibuzz" },
+		{ "pokemonName": "Landorus" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Meowth" },
+		{ "pokemonName": "Igglybuff" },
+		{ "pokemonName": "Sneasel" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Miltank" },
+		{ "pokemonName": "Mawile" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Stunky" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

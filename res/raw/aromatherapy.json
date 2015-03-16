@@ -1,0 +1,99 @@
+{
+	"name": "Aromatherapy",
+	"type": " Grass ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "When this move is used, all non-fainted Pokémon in the user's party will be cured of any status ailment.",
+	"viability": "This is exactly like Heal Bell. Both are great moves to use for support Pokémon. Getting rid of that burn on your physical sweeper can ressurect a basically useless Pokémon, and can let a possibly Toxic'd wall stay in longer.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vileplume"
+		},
+		{
+			"pokemonName": "Paras"
+		},
+		{
+			"pokemonName": "Parasect"
+		},
+		{
+			"pokemonName": "Chikorita"
+		},
+		{
+			"pokemonName": "Bayleef"
+		},
+		{
+			"pokemonName": "Meganium"
+		},
+		{
+			"pokemonName": "Roselia"
+		},
+		{
+			"pokemonName": "Shaymin"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Deerling"
+		},
+		{
+			"pokemonName": "Sawsbuck"
+		},
+		{
+			"pokemonName": "Vivillon"
+		},
+		{
+			"pokemonName": "Flabébé"
+		},
+		{
+			"pokemonName": "Floette"
+		},
+		{
+			"pokemonName": "Florges"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Xerneas"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Chansey"
+		},
+		{
+			"pokemonName": "Chikorita"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Hoppip"
+		},
+		{
+			"pokemonName": "Cherubi"
+		},
+		{
+			"pokemonName": "Happiny"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"note":"",
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

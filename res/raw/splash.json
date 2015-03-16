@@ -1,0 +1,44 @@
+{
+	"name": "Splash",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Does nothing.",
+	"viability": "No.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magikarp" },
+		{ "pokemonName": "Hoppip" },
+		{ "pokemonName": "Skiploom" },
+		{ "pokemonName": "Jumpluff" },
+		{ "pokemonName": "Azurill" },
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Wailord" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Grumpig" },
+		{ "pokemonName": "Feebas" },
+		{ "pokemonName": "Wynaut" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Clauncher" },
+		{ "pokemonName": "Clawitzer" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Horsea" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Luvdisc" },
+		{ "pokemonName": "Finneon" },
+		{ "pokemonName": "Mantyke" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

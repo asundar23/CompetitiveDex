@@ -1,0 +1,21 @@
+{
+	"name": "Thousand Arrows",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "90",
+	"accuracy": "100",
+	"summary": "Deals damage. It can hit Flying-type Pokemon, Pokemon with Levitate, holding an Air Balloon, and Pokemon affected by Magnet Rise or Telekinesis. Hits all adjacent foes.",
+	"viability": "Thousand Arrows, when it is eventually released, will be a force to reckon with due to its perfect coverage.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

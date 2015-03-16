@@ -1,0 +1,27 @@
+{
+	"name": "Electrify",
+	"note": "",
+	"type":" Electric ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the target hasn't used a move, their move will become Electric-type for that turn, even statusmoves.",
+	"viability": "This can be used in a Doubles match to help out a Pokemon with Lightning Rod or Motor Drive. Heliolisk is fairly quick, so it should be able to do work with it. In singles, this is next to useless.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Helioptile"
+		},
+		{
+			"pokemonName": "Heliolisk"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

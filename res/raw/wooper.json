@@ -1,0 +1,503 @@
+{
+	"name":"Wooper",
+	"types": [
+		"Water",
+		"Ground"
+	],
+	"eggGroup": [
+		"Water 1",
+		"Field"
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Wooper" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Quagsire" }
+   ],
+   "evolutionType":[
+   		"Level 20"
+   ],
+	"abilities": [
+		"Damp",
+		"Water Absorb",
+		"Unaware"
+	],
+	"locations": [
+		{"Location": "Route 212, Great Marsh"},
+		{"Location": "Route 212, Great Marsh"},
+		{"Location": "Great Marsh"},
+		{"Location": "Hatch Egg received from Primo, Route 32, Cliff Edge Gate, Safari Zone (Surfing), Ruins of Alph, Union Cave, Cliff Cave (Morning and Day), Safari Zone (Night)"},
+		{"Location": "Hatch Egg received from Primo, Route 32, Cliff Edge Gate, Safari Zone (Surfing), Ruins of Alph, Union Cave, Cliff Cave (Morning and Day), Safari Zone (Night)"},
+		{"Location": "Cliff Cave (Morning and Day), Routes (10, 13, 14, 15, 26, and 27), Safari Zone (Night), Routes 12, 13, and 32, Ruins of Alph, Union Cave, Cliff Edge Gate (Surfing), Safari Zone (Surfing)"},
+		{"Location": "Pond"},
+		{"Location": "Trade"},
+		{"Location": "White Forest (Surfing)"},
+		{"Location": "Breed Quagsire"},
+		{"Location": "Breed Quagsire"},
+		{"Location": "Friend Safari (Ground)"},
+		{"Location": "Friend Safari (Ground)"}
+	],
+	"stats": [
+		55,
+		45,
+		45,
+		25,
+		25,
+		15
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 9,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 15,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 19,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 23,
+			"move": "Amnesia",
+			"type": " Psychic "
+		},
+		{
+			"level": 29,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 37,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 43,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 43,
+			"move": "Haze",
+			"type": " Ice "
+		},
+		{
+			"level": 47,
+			"move": "Muddy Water",
+			"type": " Water "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Acid Spray",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"}
+			],
+			"type": " Poison "
+		},
+		{
+			"move": "After You",
+			"pokemon": [
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Minccino"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Ancient Power",
+			"pokemon": [
+				{"pokemonName": "Omanyte"},
+				{"pokemonName": "Omastar"},
+				{"pokemonName": "Kabuto"},
+				{"pokemonName": "Kabutops"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Corsola"},
+				{"pokemonName": ""},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Tirtouga"},
+				{"pokemonName": "Carracosta"}
+			],
+			"type": " Ghost "
+		},
+		{
+			"move": "Double Kick",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Combusken"},
+				{"pokemonName": "Blaziken"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Eerie Impulse",
+			"pokemon": [
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Electric "
+		},
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Vigoroth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Emolga"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Guard Swap",
+			"pokemon": [
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Girafarig"}
+			],
+			"type": " Psychic "
+		},
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Sleep Talk",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Recover",
+			"pokemon": [
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Spit Up",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Stockpile",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Swallow",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Heatmor"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Aqua Tail",
+		"Eath Power",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Tail",
+		"Sleep Talk",
+		"Snore"
+	],
+	"sets": [
+	]
+}

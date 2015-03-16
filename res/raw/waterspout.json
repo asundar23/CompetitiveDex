@@ -1,0 +1,30 @@
+{
+	"name": "Water Spout",
+	"note": "",
+	"type":" Water ",
+	"category": "Special",
+	"pp": "5",
+	"power": "Varies",
+	"accuracy": "100",
+	"summary": "Deals damage based on how much HP the user has. Its power is calculated by the formula 150 * (current HP/maximum HP). It has a max power of 150 at full health.",
+	"viability": "Water Spout can be terrifying, especially if the user is holding a Choice Scarf. It can be especially devastating in Doubles/Triples, as it hits both targets.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Wailmer" },
+		{ "pokemonName": "Wailord" },
+		{ "pokemonName": "Kyogre" },
+		{"pokemonName": "Female Frillish" },
+{"pokemonName": "Male Frillish" },
+{"pokemonName": "Female Jellicent" },
+{"pokemonName": "Male Jellicent" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Remoraid" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

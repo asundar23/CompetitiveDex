@@ -1,0 +1,433 @@
+{ 
+	 "name": "Hitmonchan",
+	"types": [
+		" Fighting "
+	],
+	"eggGroup": [
+		" Human-Like "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Tyrogue" },
+   		{ "pokemonName":"Tyrogue" },
+   		{ "pokemonName":"Tyrogue" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Hitmonlee" },
+   		{ "pokemonName":"Hitmonchan" },
+   		{ "pokemonName":"Hitmontop" }
+   ],
+   "evolutionType":[
+   		"Level 20 (Attack > Defense)",
+   		"Level 20 (Attack < Defense)",
+   		"Level 20 (Attack = Defense)"
+   ],
+	"stats": [
+		50,
+		105,
+		79,
+		35,
+		110,
+		75
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Close Combat",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Focus Punch",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Revenge",
+			"type": " Fighting "
+		},
+		{
+			"level": 1,
+			"move": "Comet Punch",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 11,
+			"move": "Pursuit",
+			"type": " Dark "
+		},
+		{
+			"level": 16,
+			"move": "Mach Punch",
+			"type": " Fighting "
+		},
+		{
+			"level": 16,
+			"move": "Bullet Punch",
+			"type": " Steel "
+		},
+		{
+			"level": 21,
+			"move": "Feint",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Vacuum Wave",
+			"type": " Fighting "
+		},
+		{
+			"level": 31,
+			"move": "Quick Guard",
+			"type": " Fighting "
+		},
+		{
+			"level": 36,
+			"move": "Thunder Punch",
+			"type": " Electric "
+		},
+		{
+			"level": 36,
+			"move": "Ice Punch",
+			"type": " Ice "
+		},
+		{
+			"level": 36,
+			"move": "Fire Punch",
+			"type": " Fire "
+		},
+		{
+			"level": 41,
+			"move": "Sky Uppercut",
+			"type": " Fighting "
+		},
+		{
+			"level": 46,
+			"move": "Mega Punch",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Detect",
+			"type": " Fighting "
+		},
+		{
+			"level": 56,
+			"move": "Focus Punch",
+			"type": " Fighting "
+		},
+		{
+			"level": 61,
+			"move": "Counter",
+			"type": " Fighting "
+		},
+		{
+			"level": 66,
+			"move": "Close Combat",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM47",
+			"move": "Low Sweep",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Bullet Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " fighting "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Feint",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"},
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "High Jump Kick",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Mach Punch",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Mind Reader",
+			"pokemon": [
+				{"pokemonName": "Hitmonlee"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"},
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rapid Spin",
+			"pokemon": [
+				{"pokemonName": "Hitmontop"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Vacuum Wave",
+			"pokemon": [
+				{"pokemonName": "Hitmonchan"}
+			],
+			"type": " Fighting "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Drain Punch",
+		"Fire Punch",
+		"Helping Hand",
+		"Ice Punch",
+		"Low Kick",
+		"Role Play",
+		"Sleep Talk",
+		"Snore",
+		"Thunder Punch"
+
+	],
+	"locations": [
+	
+	{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Mountain"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Tyrogue"},
+		{"Location": "Evolve Tyrogue"}
+
+	],
+	"abilities": [
+		"Keen Eye",
+		"Iron Fist",
+		"Inner Focus"
+	],
+	"sets": [
+	]
+}

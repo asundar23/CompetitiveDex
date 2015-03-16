@@ -1,0 +1,13 @@
+{
+	"name":"Pixilate",
+	"summary": "Turns all Normal-type moves into Fairy-type moves, with an additional 30% boost.",
+	"viability": "Pixilate with Hyper Voice. Enough said. 90 Base Power * 1.5 STAB * 1.3 from Pixilate = 176 total power. That's about as powerful as a Fire Blast, but with 100% accuracy and can hit through Substitutes. That alone is a selling point as to what makes this ability so great..",
+	"pokemon":[
+		{
+			"pokemonName": "Mega Gardevoir"
+		},
+		{
+			"pokemonName": "Sylveon"
+		}
+	]
+}

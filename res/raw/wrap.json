@@ -1,0 +1,41 @@
+{
+	"name": "Wrap",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "15",
+	"accuracy": "90",
+	"summary": "Deals damage, and traps the target. 1/8 (1/6 with Binding Band) is taken from the target each turn that it is used. Lasts four to five turns.",
+	"viability": "Don't use Wrap. There are far better trapping moves out there.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Bellsprout" },
+		{ "pokemonName": "Weepinbell" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Tentacruel" },
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Dratini" },
+		{ "pokemonName": "Dragonair" },
+		{ "pokemonName": "Dragonite" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Seviper" },
+		{ "pokemonName": "Milotic" },
+		{ "pokemonName": "Chimecho" },
+		{ "pokemonName": "Seoxys" },
+		{ "pokemonName": "Chingling" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Heatmor" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

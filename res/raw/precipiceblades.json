@@ -1,0 +1,22 @@
+{
+	"name": "Precipice Blades",
+	"note": "",
+	"type":" Ground ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "120",
+	"accuracy": "85",
+	"summary": "Deals damage. Hits all adjacent opponents.",
+	"viability": "Precipice Blades is better than Earthquake in terms of damage, but not accuracy. If you're okay with that, by all means use it. It's also recommended that you use this over Earthquake in Doubles/Triples.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Groudon" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name":"Magma Armor",
+	"summary": "Prevents the Pokémon from being frozen. If the ability is given to the Pokémon through Skill Swap, and they are frozen, they will immediately thaw out.",
+	"viability": "Although the freeze status is arguably the worst of all, the chances of that happening are simply negligible. It's not necessary to use Magma Armor.",
+	"pokemon":[
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Camerupt"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name":"Rain Dish",
+	"summary": "The user recovers 1/16 of their maximum HP when the weather is rainy.",
+	"viability": "Rain Dish isn't as useful before, due to the elimination of permanent weather; however, for a few turns getting back 1/8 of HP (with Leftovers being the other half) can really help a wall out. Ludicolo, especially, can really recover HP with Leech Seed. Blastoise and Tentacruel can slowly take down the opponent with Toxic stalling while gaining back HP each turn.",
+	"pokemon":[
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Wartortle"
+		},
+		{
+			"pokemonName": "Blastoise"
+		},
+		{
+			"pokemonName": "Tentacool"
+		},
+		{
+			"pokemonName": "Tentacruel"
+		},
+		{
+			"pokemonName": "Lotad"
+		},
+		{
+			"pokemonName": "Lombre"
+		},
+		{
+			"pokemonName": "Ludicolo"
+		},
+		{
+			"pokemonName": "Wingull"
+		},
+		{
+			"pokemonName": "Pelipper"
+		},
+		{
+			"pokemonName": "Surskit"
+		}
+	]
+}

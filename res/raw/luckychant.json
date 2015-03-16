@@ -1,0 +1,53 @@
+{
+	"name": "Lucky Chant",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Prevents opponents from landing critical hits on the user's party for five turns.",
+	"viability": "Critical hits are so rare, even if they are so devastating. It's a lot more productive to invest your time in a move used for a different type of support.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Clefairy" },
+		{ "pokemonName": "Oddish" },
+		{ "pokemonName": "Gloom" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Smoochum" },
+		{ "pokemonName": "Ralts" },
+		{ "pokemonName": "Kirlia" },
+		{ "pokemonName": "Luvdisc" },
+		{ "pokemonName": "Cherubi" },
+		{ "pokemonName": "Cherrim" },
+		{ "pokemonName": "Mismagius" },
+		{ "pokemonName": "Mesprit" },
+		{ "pokemonName": "Munna" },
+		{ "pokemonName": "Mursharna" },
+		{ "pokemonName": "Fennekin" },
+		{ "pokemonName": "Braixen" },
+		{ "pokemonName": "Delphox" },
+		{ "pokemonName": "Flabébé" },
+		{ "pokemonName": "Floette" },
+		{ "pokemonName": "FLorges" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Exeggcute" },
+		{ "pokemonName": "Pichu" },
+		{ "pokemonName": "Togepi" },
+		{ "pokemonName": "Plusle" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Castform" },
+		{ "pokemonName": "Pidove" },
+		{ "pokemonName": "Audino" },
+		{ "pokemonName": "Ducklett" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

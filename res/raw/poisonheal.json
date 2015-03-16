@@ -1,0 +1,18 @@
+{
+	"name":"Poison Heal",
+	"summary": "If the user is poisoned or badly poisoned, it will gain 1/8 of its max HP at the end of each turn, rather than taking damaged. If the user loses their ability, the amount of HP they lose will be the same amount as the amount of turns they've been on the field. For example, if they've been on the first for 4 turns, they will lose HP starting at 4/16 of their HP instead of 1/16.",
+	"viability": "Poison Heal is a much better version of Leftovers recovery. You get twice as much HP back, which is crucial for a physical wall like Gliscor. In fact, a really popular Gliscor set is to set up Substitutes, which take away 1/4 of its HP. Poison Heal gives half of that back.
+	
+	As for Breloom, Poison Heal with Substitute and Focus Punch used to be a very popular strategy. By the time it is done using Focus Punch it will have lost no HP from setting up that Substitute, and can continue attacking the opponent.",
+	"pokemon":[
+		{
+			"pokemonName": "Shroomish"
+		},
+		{
+			"pokemonName": "Breloom"
+		},
+		{
+			"pokemonName": "Gliscor"
+		}
+	]
+}

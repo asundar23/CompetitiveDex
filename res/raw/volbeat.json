@@ -1,0 +1,496 @@
+{ 
+	 "name": "Volbeat",
+	"types": [
+		" Bug "
+	],
+	"eggGroup": [
+		" Bug ",
+		" Human-Like "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 12,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"level": 19,
+			"move": "Moonlight",
+			"type": " Fairy "
+		},
+		{
+			"level": 22,
+			"move": "Tail Glow",
+			"type": " Bug "
+		},
+		{
+			"level": 26,
+			"move": "Signal Beam",
+			"type": " Bug "
+		},
+		{
+			"level": 29,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 36,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 43,
+			"move": "Play Rough",
+			"type": " Fairy "
+		},
+		{
+			"level": 47,
+			"move": "Double-Edge",
+			"type": " Normal "
+		}
+	],
+	"stats": [
+		65,
+		73,
+		55,
+		47,
+		75,
+		85
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Confuse Ray",
+			"type": " Ghost "
+		},
+		{
+			"level": 13,
+			"move": "Moonlight",
+			"type": " Fairy "
+		},
+		{
+			"level": 17,
+			"move": "Quick Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Tail Glow",
+			"type": " Bug "
+		},
+		{
+			"level": 25,
+			"move": "Signal Beam",
+			"type": " Bug "
+		},
+		{
+			"level": 29,
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Helping Hand",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Zen Headbutt",
+			"type": " Psychic "
+		},
+		{
+			"level": 41,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 45,
+			"move": "Double-Edge",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Bug Buzz",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Beautifly"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Swadloon"},
+				{"pokemonName": "Leavanny"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"},
+				{"pokemonName": "Shelmet"},
+				{"pokemonName": "Accelgor"},
+				{"pokemonName": "Larvesta"},
+				{"pokemonName": "Volcarona"},
+				{"pokemonName": "Vivillon"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Dizzy Punch",
+			"pokemon": [
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Shuckle"},
+				{"pokemonName": "Mr. Mime"},
+				{"pokemonName": "Hawlucha"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Seismic Toss",
+			"pokemon": [
+				{"pokemonName": "Machop"},
+				{"pokemonName": "Machoke"},
+				{"pokemonName": "Machamp"},
+				{"pokemonName": "Makuhita"},
+				{"pokemonName": "Hariyama"},
+				{"pokemonName": "Throh"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Silver Wind",
+			"pokemon": [
+				{"pokemonName": "Butterfree"},
+				{"pokemonName": "Venomoth"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Dustox"},
+				{"pokemonName": "Masquerain"},
+				{"pokemonName": "Mothim"},
+				{"pokemonName": "Volcarona"}
+			],
+			"type": " Bug "
+		},
+
+		{
+			"move": "Trick",
+			"pokemon": [
+				{"pokemonName": "Kadabra"},
+				{"pokemonName": "Alakazam"},
+				{"pokemonName": "Mr. Mime"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Giga Drain",
+		"Helping Hand",
+		"Ice Punch",
+		"Roost",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Thunder Punch",
+		"Trick",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": " Route 229"},
+		{"Location": "Route 229"},
+		"Location Route 229",
+		"",
+		{"Location": "National Park (Bug-Catching Contest), Safari Zone"},
+		"",
+		{"Location": "National Park (Bug-Catching Contest), Safari Zone"},
+		{"Location": "Mountain"},
+		{"Location": "Route 3 (Swarm)"},
+		{"Location": "Breed Illumise"},
+		{"Location": "Route 3 (Swarm)"},
+		{"Location": "Breed Illumise"},
+		{"Location": "Route 7, Friend Safari (Bug)"},
+		{"Location": "Route 7, Friend Safari (Bug)"}
+	],
+	"abilities": [
+		"Illuminate",
+		"Swarm",
+		"Prankster"
+	],
+	"sets": [
+	]
+}

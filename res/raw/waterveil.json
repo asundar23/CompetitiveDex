@@ -1,0 +1,40 @@
+{
+	"name":"Water Veil",
+	"summary": "Prevents the user from being burned. If the ability is Skill Swapped onto another Pokémon, if they are burned it will be instantly cured.",
+	"viability": "Since Floatzel and Seaking are primarily Physical attackers, not being burned is useful. Floatzel can continue to set up Bulk Up without worrying about its Attack stat dropping. The problem is that both Pokémon also get Swift Swim, so it depends on whether or not you feel that the burn is worth it for higher Speed or not.",
+	"pokemon":[
+		{
+			"pokemonName": "Goldeen"
+		},
+		{
+			"pokemonName": "Seaking"
+		},
+		{
+			"pokemonName": "Mantine"
+		},
+		{
+			"pokemonName": "Wailmer"
+		},
+		{
+			"pokemonName": "Wailord"
+		},
+		{
+			"pokemonName": "Huntail"
+		},
+		{
+			"pokemonName": "Buizel"
+		},
+		{
+			"pokemonName": "Floatzel"
+		},
+		{
+			"pokemonName": "Finneon"
+		},
+		{
+			"pokemonName": "Lumineon"
+		},
+		{
+			"pokemonName": "Mantyke"
+		}
+	]
+}

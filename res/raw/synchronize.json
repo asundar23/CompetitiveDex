@@ -1,0 +1,52 @@
+{
+	"name":"Synchronize",
+	"summary": "When the user is burned, paralyzed, or poisoned the opponent will also gain that status.",
+	"viability": "Synchronize allows potential walls like Mew, Umbreon, and Musharna to get the opponent status'd along with itself. The latter two, especially, can use Heal Bell to rid themselves of the status, leaving the opponent in a bad situation.",
+	"pokemon":[
+		{
+			"pokemonName": "Abra"
+		},
+		{
+			"pokemonName": "Kadabra"
+		},
+		{
+			"pokemonName": "Alakazam"
+		},
+		{
+			"pokemonName": "Mew"
+		},
+		{
+			"pokemonName": "Natu"
+		},
+		{
+			"pokemonName": "Xatu"
+		},
+		{
+			"pokemonName": "Espeon"
+		},
+		{
+			"pokemonName": "Umbreon"
+		},
+		{
+			"pokemonName": "Ralts"
+		},
+		{
+			"pokemonName": "Kirlia"
+		},
+		{
+			"pokemonName": "Gardevoir"
+		},
+		{
+			"pokemonName": "Munna"
+		},
+		{
+			"pokemonName": "Musharna"
+		},
+		{
+			"pokemonName": "Elgyem"
+		},
+		{
+			"pokemonName": "Beheeyem"
+		}
+	]
+}

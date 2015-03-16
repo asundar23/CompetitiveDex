@@ -1,0 +1,324 @@
+{ 
+	 "name": "Magneton",
+	"types": [
+		" Electric ",
+		" Steel "
+	],
+	"eggGroup": [
+		" Mineral "
+	],
+	"stats": [
+		50,
+		60,
+		95,
+		120,
+		70,
+		70
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Tri Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Sonic Boom",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Thunder Shock",
+			"type": " Electric "
+		},
+		{
+			"level": 11,
+			"move": "Electric Terrain",
+			"type": " Electric "
+		},
+		{
+			"level": 15,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 18,
+			"move": "Magnet Bomb",
+			"type": " Steel "
+		},
+		{
+			"level": 21,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 25,
+			"move": "Mirror Shot",
+			"type": " Steel "
+		},
+		{
+			"level": 29,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 34,
+			"move": "Electro Ball",
+			"type": " Electric "
+		},
+		{
+			"level": 39,
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"level": 45,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 56,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 62,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 67,
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"level": 73,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Electroweb",
+		"Gravity",
+		"Iron Defense",
+		"Iron Head",
+		"Magic Coat",
+		"Magnetic Rise",
+		"Recycle",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Magnemite"},
+		{ "Location": "Evolve Magnemite"},
+		{ "Location": "Route 222, Victory Road"},
+		{ "Location": "Cerulean Cave, Safari Zone, Trade Dugtrio in Power Plant"},
+		{ "Location": "Cerulean Cave, Safari Zone, Trade Dugtrio in Power Plant"},
+		{ "Location": "Mountain"},
+		{ "Location": "Trade"},
+		{ "Location": "Evolve Magnemite"},
+		{ "Location": "P2 Laboratory"},
+		{ "Location": "P2 Laboratory"},
+		{ "Location": "Lost Hotel, Friend Safari (Steel)"},
+		{ "Location": "Lost Hotel, Friend Safari (Steel)"}
+
+	],
+	"abilities": [
+		"Magnet Pull",
+		"Sturdy",
+		"Analytic"
+	],
+	"sets": [
+	]
+}

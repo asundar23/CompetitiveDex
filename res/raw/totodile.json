@@ -1,0 +1,583 @@
+{
+   "name":"Totodile",
+   "types":[
+      " Water "
+   ],
+   "eggGroup":[
+   		"Water 1",
+   		"Monster"
+   ],
+    "setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Totodile" },
+   		{ "pokemonName":"Croconaw" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Croronaw" },
+   		{ "pokemonName":"Feraligatr" }
+   ],
+   "evolutionType":[
+   		"Level 18",
+   		"Level 30"
+   ],
+   "stats":[
+      50,
+      65,
+      64,
+      44,
+      48,
+      43
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Scratch",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Leer",
+         	"type":" Normal "
+      },
+      {
+         "level":6,
+         "move":"Water Gun",
+         	"type":" Water "
+      },
+      {
+         "level":8,
+         "move":"Rage",
+         	"type":" Normal "
+      },
+      {
+         "level":13,
+         "move":"Bite",
+         "type":" Dark "
+      },
+      {
+         "level":15,
+         "move":"Scary Face",
+         "type":" Normal "
+      },
+      {
+         "level":20,
+         "move":"Ice Fang",
+         "type":" Ice "
+      },
+      {
+         "level":22,
+         "move":"Flail",
+         "type":" Normal "
+      },
+      {
+         "level":27,
+         "move":"Crunch",
+         "type":" Dark "
+      },
+      {
+         "level":29,
+         "move":"Chip Away",
+         "type":" Normal "
+      },
+      {
+         "level":34,
+         "move":"Slash",
+         "type":" Normal "
+      },
+      {
+         "level":36,
+         "move":"Screech",
+         "type":" Normal "
+      },
+      {
+         "level":41,
+         "move":"Thrash",
+         "type":" Normal "
+      },
+      {
+         "level":43,
+         "move":"Aqua Tail",
+         "type":" Water "
+      },
+      {
+         "level":48,
+         "move":"Superpower",
+         "type":" Fighting "
+      },
+      {
+         "level":50,
+         "move":"Hydro Pump",
+         "type":" Water "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM01",
+         "move":"Hone Claws",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM02",
+         "move":"Dragon Claw",
+         "type":" Dragon "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM07",
+         "move":"Hail",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM13",
+         "move":"Ice Beam",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM14",
+         "move":"Blizzzard",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM28",
+         "move":"Dig",
+         "type":" Ground "
+      },
+      {
+         "tm":"TM31",
+         "move":"Brick Break",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM39",
+         "move":"Rock Tomb",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM40",
+         "move":"Aerial Ace",
+         "type":" Flying "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM55",
+         "move":"Scald",
+         "type":" Water "
+      },
+      {
+         "tm":"TM56",
+         "move":"Fling",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM65",
+         "move":"Shadow Claw",
+         "type":" Ghost "
+      },
+      {
+         "tm":"TM75",
+         "move":"Swords Dance",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM80",
+         "move":"Rock Slide",
+         "type":" Rock "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM98",
+         "move":"Power-Up Punch",
+         "type":" Fighting "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+      ],
+      
+      "hmMoveList":[
+      {
+         "tm":"HM01",
+         "move":"Cut",
+         "type":" Normal "
+      },
+      {
+         "tm":"HM03",
+         "move":"Surf",
+         "type":" Water "
+      },
+      {
+         "tm":"HM05",
+         "move":"Waterfall",
+         "type":" Water "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Ancient Power",
+         "pokemon":[
+            {"pokemonName":"Omanyte"},
+            {"pokemonName":"Omastar"},
+            {"pokemonName":"Kabuto"},
+            {"pokemonName":"Kabutops"},
+            {"pokemonName":"Corsola"},
+            {"pokemonName":"Relicanth"},
+            {"pokemonName":"Cranidos"},
+            {"pokemonName":"Rampardos"},
+            {"pokemonName":"Shieldon"},
+            {"pokemonName":"Bastiodon"},
+            {"pokemonName":"Tirtouga"},
+            {"pokemonName":"Carracosta"},
+            {"pokemonName":"Tyrunt"},
+            {"pokemonName":"Tyrantrum"},
+            {"pokemonName":"Amaura"},
+            {"pokemonName":"Aurorus"}
+         ],
+         "type":" Rock "
+      },
+      {
+         "move":"Aqua Jet",
+         "pokemon":[
+            {"pokemonName":"Golduck"},
+            {"pokemonName":"Seel"},
+            {"pokemonName":"Dewgong"},
+            {"pokemonName":"Kabuto"},
+            {"pokemonName":"Kabutops"},
+            {"pokemonName":"Empoleon"},
+            {"pokemonName":"Buizel"},
+            {"pokemonName":"Floatzel"},
+            {"pokemonName":"Tirtouga"},
+            {"pokemonName":"Carracosta"},
+            {"pokemonName":"Alomomola"},
+            {"pokemonName":"Clauncher"},
+            {"pokemonName":"Clawitzer"}
+         ],
+         "type":" Water "
+      },
+      {
+         "move":"Block",
+         "pokemon":[
+            {"pokemonName":"Snoelax"},
+            {"pokemonName":"Bastiodon"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Crunch",
+         "pokemon":[
+            {"pokemonName":"Snorlax"},
+            {"pokemonName":"Totodile"},
+            {"pokemonName":"Croconaw"},
+            {"pokemonName":"Feraligatr"},
+            {"pokemonName":"Larvitar"},
+            {"pokemonName":"Pupitar"},
+            {"pokemonName":"Tyranitar"},
+            {"pokemonName":"Exploud"},
+            {"pokemonName":"Corphish"},
+            {"pokemonName":"Crawdaunt"},
+            {"pokemonName":"Wallrein"},
+            {"pokemonName":"Huntain"},
+            {"pokemonName":"Turtwig"},
+            {"pokemonName":"Grotle"},
+            {"pokemonName":"Torterra"},
+            {"pokemonName":"Floatzel"},
+            {"pokemonName":"Garchomp"},
+            {"pokemonName":"Tirtouga"},
+            {"pokemonName":"Carracosta"},
+            {"pokemonName":"Druddigon"},
+            {"pokemonName":"Tyrunt"},
+            {"pokemonName":"Tyrantrum"},
+            {"pokemonName":"Avalugg"}
+         ],
+         "type":" Dark "
+      },
+      {
+         "move":"Dragon Dance",
+         "pokemon":[
+            {"pokemonName":"Horsea"},
+            {"pokemonName":"Seadra"},
+            {"pokemonName":"Kingdra"},
+            {"pokemonName":"Dratini"},
+            {"pokemonName":"Dragonair"},
+            {"pokemonName":"Dragonite"},
+            {"pokemonName":"Axew"},
+            {"pokemonName":"Fraxure"},
+            {"pokemonName":"Haxorus"}
+         ],
+         "type":" Dragon "
+      },
+      {
+         "move":"Flatter",
+         "pokemon":[
+            {"pokemonName":"Nidoran♂"},
+            {"pokemonName":"Nidorino"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Hydro Pump",
+         "pokemon":[
+            {"pokemonName":"Squirtle"},
+            {"pokemonName":"Wartortle"},
+            {"pokemonName":"Blastoise"},
+            {"pokemonName":"Psyduck"},
+            {"pokemonName":"Golduck"},
+            {"pokemonName":"Poliwag"},
+            {"pokemonName":"Poliwhirl"},
+            {"pokemonName":"Horsea"},
+            {"pokemonName":"Seadra"},
+            {"pokemonName":"Kingdra"},
+            {"pokemonName":"Lapras"},
+            {"pokemonName":"Omanyte"},
+            {"pokemonName":"Omastar"},
+            {"pokemonName":"Totodile"},
+            {"pokemonName":"Croconaw"},
+            {"pokemonName":"Feraligatr"},
+            {"pokemonName":"Marill"},
+            {"pokemonName":"Azumarill"},
+            {"pokemonName":"Remoraid"},
+            {"pokemonName":"Octillery"},
+            {"pokemonName":"Mantine"},
+            {"pokemonName":"Mudkip"},
+            {"pokemonName":"Lombre"},
+            {"pokemonName":"Pelipper"},
+            {"pokemonName":"Milotic"},
+            {"pokemonName":"Huntail"},
+            {"pokemonName":"Gorebyss"},
+            {"pokemonName":"Relicanth"},
+            {"pokemonName":"Piplup"},
+            {"pokemonName":"Prinplup"},
+            {"pokemonName":"Empoleon"},
+            {"pokemonName":"Buizel"},
+            {"pokemonName":"Floatzel"},
+            {"pokemonName":"Tympole"},
+            {"pokemonName":"Palpitoad"},
+            {"pokemonName":"Seismitoad"},
+            {"pokemonName":"Tirtouga"},
+            {"pokemonName":"Carracosta"},
+            {"pokemonName":"Alomomola"},
+            {"pokemonName":"Froakie"},
+            {"pokemonName":"Frogadier"},
+            {"pokemonName":"Greninja"},
+            {"pokemonName":"Skrelp"},
+            {"pokemonName":"Dragalge"}
+         ],
+         "type":" Water "
+      },
+      {
+         "move":"Ice Punch",
+         "pokemon":[
+            {"pokemonName":"Abomasnow"}
+         ],
+         "type":" Ice "
+      },
+      {
+         "move":"Metal Claw",
+         "pokemon":[
+            {"pokemonName":"Aron"},
+            {"pokemonName":"Lairon"},
+            {"pokemonName":"Aggron"},
+            {"pokemonName":"Prinplup"},
+            {"pokemonName":"Empoleon"}
+         ],
+         "type":" Steel "
+      },
+      {
+         "move":"Mud Sport",
+         "pokemon":[
+            {"pokemonName":"Wooper"},
+            {"pokemonName":"Quagsire"},
+            {"pokemonName":"Mudkip"},
+            {"pokemonName":"Marshtomo"},
+            {"pokemonName":"Swampert"},
+            {"pokemonName":"Relicanth"},
+            {"pokemonName":"Shellos"},
+            {"pokemonName":"Gastrodon"},
+            {"pokemonName":"Stunfisk"}
+         ],
+         "type":" Ground "
+      },
+      {
+         "move":"Thrash",
+         "pokemon":[
+            {"pokemonName":"Nidoking"},
+            {"pokemonName":"Cubone"},
+            {"pokemonName":"Marowak"},
+            {"pokemonName":"Totodile"},
+            {"pokemonName":"Croconaw"},
+            {"pokemonName":"Feraligatr"},
+            {"pokemonName":"Larvitar"},
+            {"pokemonName":"Pupitar"},
+            {"pokemonName":"Tyranitar"},
+            {"pokemonName":"Tyrunt"},
+            {"pokemonName":"Tyrantrum"}
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Water Pulse",
+         "pokemon":[
+            {"pokemonName":"Squirtle"},
+            {"pokemonName":"Wartortle"},
+            {"pokemonName":"Blastoise"},
+            {"pokemonName":"Psyduck"},
+            {"pokemonName":"Golduck"},
+            {"pokemonName":"Slowpoke"},
+            {"pokemonName":"Slowbro"},
+            {"pokemonName":"Slowking"},
+            {"pokemonName":"Lapras"},
+            {"pokemonName":"Remoraid"},
+            {"pokemonName":"Mantine"},
+            {"pokemonName":"Wingull"},
+            {"pokemonName":"Pelipper"},
+            {"pokemonName":"Milotic"},
+            {"pokemonName":"Huntail"},
+            {"pokemonName":"Gorebyss"},
+            {"pokemonName":"Shellos"},
+            {"pokemonName":"Gastrodon"},
+            {"pokemonName":"Ducklett"},
+            {"pokemonName":"Swanna"},
+            {"pokemonName":"Alomomola"},
+            {"pokemonName":"Froakie"},
+            {"pokemonName":"Frogadier"},
+            {"pokemonName":"Greninja"},
+            {"pokemonName":"Skrelp"},
+            {"pokemonName":"Dragalge"},
+            {"pokemonName":"Clauncher"},
+            {"pokemonName":"Clawitzer"}
+         ],
+         "type":" Water "
+      },
+      {
+         "move":"Water Sport",
+         "pokemon":[
+            {"pokemonName":"Psyduck"},
+            {"pokemonName":"Golduck"},
+            {"pokemonName":"Poliwag"},
+            {"pokemonName":"Poliwhirl"},
+            {"pokemonName":"Poliwrath"},
+            {"pokemonName":"Politoed"},
+            {"pokemonName":"Seel"},
+            {"pokemonName":"Marril"},
+            {"pokemonName":"Azumarill"},
+            {"pokemonName":"Lombre"},
+            {"pokemonName":"Pelipper"},
+            {"pokemonName":"Surskit"},
+            {"pokemonName":"Masquerain"},
+            {"pokemonName":"Milotic"},
+            {"pokemonName":"Piplup"},
+            {"pokemonName":"Prinplup"},
+            {"pokemonName":"Buizel"},
+            {"pokemonName":"Floatzel"},
+            {"pokemonName":"Duckett"},
+            {"pokemonName":"Swanna"},
+            {"pokemonName":"Alomomola"},
+            {"pokemonName":"Clauncher"},
+            {"pokemonName":"Clawitzer"}
+         ],
+         "type":" Water "
+      }
+   ],
+   "tutorMoveList":[
+      "Aqua Tail",
+      "Block",
+      "Ice Punch",
+      "Icy Wind",
+      "Iron Tail",
+      "Low Kick",
+      "Sleep Talk",
+      "Snore",
+      "Spite",
+      "Superpower",
+      "Uproar",
+      "Water Pledge"
+   ],
+   "locations":[
+   	  {"Location": "Trade"},
+   	  {"Location": "Trade"},
+   	  {"Location": "Trade"},
+      {"Location": "Starter"},
+      {"Location": "Starter"},
+      {"Location": "Poké Transfer"},
+      {"Location": "Poké Transfer"},
+      {"Location": "Poké Transfer"},
+      {"Location": "Poké Transfer"},
+      {"Location": "Poké Transporter"},
+      {"Location": "Poké Transporter"}
+   ],
+   "abilities":[
+      "Torrent",
+      "Sheer Force (Unreleased)"
+   ],
+   "sets":[
+
+   ]
+}

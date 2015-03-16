@@ -1,0 +1,24 @@
+{
+	"name": "Parabolic Charge",
+	"note": "",
+	"type":" Electric ",
+	"category": "Special",
+	"pp": "20",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage, and restores the user's HP equal to half the damage dealt. This recovery is added by 30% with Big Root.",
+	"viability": "All the Pokemon who get it are fragile anyways, so having a recovery move like this won't do anyone wonders.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Helioptile" },
+		{ "pokemonName": "Heliolisk" },
+		{ "pokemonName": "Dedenne" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Twineedle",
+	"note": "",
+	"type":" Bug ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "25",
+	"accuracy": "100",
+	"summary": "Deals damage, each hitting the target twice per use. Each strike has a 20% chance of poisoning the target.",
+	"viability": "Twineedle is pretty terrible. X-Scissor or Megahorn should be used instead.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Beedrill" },
+		{ "pokemonName": "Esavalier" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Skorupi" },
+		{ "pokemonName": "Venipede" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

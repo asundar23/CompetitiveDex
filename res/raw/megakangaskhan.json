@@ -1,0 +1,527 @@
+{ 
+	 "name": "Mega Kangaskhan",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Monster "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Kangaskhan" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Mega Kangaskhan" }
+   ],
+   "evolutionType":[
+   		"Kangaskhanite"
+   ],
+	"stats": [
+		105,
+		125,
+		100,
+		60,
+		100,
+		100
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Comet Punch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Fake Out",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 19,
+			"move": "Double Hit",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Mega Punch",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Chip Away",
+			"type": " Normal "
+		},
+		{
+			"level": 34,
+			"move": "Dizzy Punch",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 43,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 49,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 50,
+			"move": "Reversal",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM98",
+			"move": "Power-Up Punch",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Circle Throw",
+			"pokemon": [
+				{"pokemonName": "Whismur"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Chikorita"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Crush Claw",
+			"pokemon": [
+				{"pokemonName": "Rhyhorn"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Disable",
+			"pokemon": [
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lickitung"},
+				{"pokemonName": "Lickilicky"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Bulbasaur"},
+				{"pokemonName": "Ivysaur"},
+				{"pokemonName": "Venusaur"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endeavor",
+			"pokemon": [
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Punch",
+			"pokemon": [
+				{"pokemonName": "Charmander"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Hammer Arm",
+			"pokemon": [
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Swampert"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Stomp",
+			"pokemon": [
+				{"pokemonName": "Lickitung"},
+				{"pokemonName": "Lickilicky"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Tropius"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Trump Card",
+			"pokemon": [
+				{"pokemonName": "Slowking"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Uproar",
+			"pokemon": [
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Covet",
+		"Drain Punch",
+		"Endeavor",
+		"Fire Punch",
+		"Helping Hand",
+		"Ice Punch",
+		"Icy Wind",
+		"Iron Tail",
+		"Low Kick",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Thunder Punch",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Kangaskhanite can be found in the Glittering Cave between 8-9 PM, after you have upgraded your Mega Ring."},
+		{ "Location": "Kangaskhanite can be found in the Glittering Cave between 8-9 PM, after you have upgraded your Mega Ring."}
+
+	],
+	"abilities": [
+		"Parental Bond"
+	],
+	"sets": [
+	]
+}

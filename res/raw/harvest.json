@@ -1,0 +1,24 @@
+{
+	"name":"Harvest",
+	"summary": "If the Pokémon has used a Berry, there is a 50% chance of it being restored at the end of each turn. Always activates in sunlight. Berries taken out by Knock Off, Incinerate, or Bug Bite will not activate Harvest.",
+	"viability": "Harvest is a great ability, particularly because the Pokémon that have access are pretty bulky. Trevenant can run a great Curse-Harvest set with Sitrus Berry, and Exeggutor and Tropius can both run defensive Harvest-Sitrus sets. The only thing to watch out for is that since Knock Off is so common, and 2 or the 3 main users are weak to Dark, you most likely will have trouble running Harvest.
+	
+	In addition to Sitrus Berry, you can also use Lum Berry or a type-weakening Berry in order to minimize damage and status conditions.",
+	"pokemon":[
+		{
+			"pokemonName": "Exeggcute"
+		},
+		{
+			"pokemonName": "Exeggutor"
+		},
+		{
+			"pokemonName": "Tropius"
+		},
+		{
+			"pokemonName": "Phantump"
+		},
+		{
+			"pokemonName": "Trevenant"
+		}
+	]
+}

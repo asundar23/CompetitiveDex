@@ -1,0 +1,71 @@
+{
+	"name": "Detect",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Status",
+	"pp": "5",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Protects the user from status or attacking moves that turn. Its chances of failing increase by half with each consecutive successful use.",
+	"viability": "All Pokémon that get Detect get Protect. Protect and Detect are the same thing. Protect has more PP. Use Protect.",
+	"pokemonByLevel": [
+	{"pokemonName": "Hitmonchan" },
+{"pokemonName": "Zapdos" },
+{"pokemonName": "Yanma" },
+{"pokemonName": "Hitmontop" },
+{"pokemonName": "Treecko" },
+{"pokemonName": "Grovyle" },
+{"pokemonName": "Sceptile" },
+{"pokemonName": "Sableye" },
+{"pokemonName": "Meditite" },
+{"pokemonName": "Medicham" },
+{"pokemonName": "Zangoose" },
+{"pokemonName": "Absol" },
+{"pokemonName": "Lucario" },
+{"pokemonName": "Yanmega" },
+{"pokemonName": "Azelf" },
+{"pokemonName": "Patrat" },
+{"pokemonName": "Watchog" },
+{"pokemonName": "Pidove" },
+{"pokemonName": "Tranquill" },
+{"pokemonName": "Unfezant" },
+{"pokemonName": "Mienfoo" },
+{"pokemonName": "Mienshao" },
+{"pokemonName": "Hawlucha" }
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Cubone"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Starly"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Oshawott"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Scraggy"
+		},
+		{
+			"pokemonName": "Zorua"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

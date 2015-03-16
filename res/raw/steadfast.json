@@ -1,0 +1,37 @@
+{
+	"name":"Steadfast",
+	"summary": "Increases the user's Speed by one stage when flinched.",
+	"viability": "Steadfast is quite good, due to the popularity of moves like Fake Out and Iron Head. This prevents opponents like Ambipom from using its great Speed to make your Pokémon faint.",
+	"pokemon":[
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Machoke"
+		},
+		{
+			"pokemonName": "Machamp"
+		},
+		{
+			"pokemonName": "Scyther"
+		},
+		{
+			"pokemonName": "Mega Mewtwo X"
+		},
+		{
+			"pokemonName": "Tyrogue"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Riolu"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Gallade"
+		}
+	]
+}

@@ -1,0 +1,411 @@
+{ 
+	 "name": "Sawsbuck",
+	"types": [
+		" Normal ",
+		" Grass "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Deerling" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Sawsbuck" }
+   	],
+   "evolutionType":[
+   		"Level 34"
+   ],
+	"stats": [
+		60,
+		60,
+		50,
+		40,
+		50,
+		75
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Camouflage",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Sand-Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 10,
+			"move": "Double Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Leech Seed",
+			"type": " Grass "
+		},
+		{
+			"level": 16,
+			"move": "Feint Attack",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 24,
+			"move": "Jump Kick",
+			"type": " Fighting "
+		},
+		{
+			"level": 28,
+			"move": "Aromatherapy",
+			"type": " Grass "
+		},
+		{
+			"level": 32,
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"level": 36,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 41,
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Double-Edge",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "Solar Beam",
+			"type": " Grass "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM93",
+			"move": "Wild Charge",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM96",
+			"move": "Nature Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+	],
+	"breedMoveList": [
+		{
+			"move": "Agility",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Farfetch'd"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fake Tears",
+			"pokemon": [
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Zorua"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Grass Whistle",
+			"pokemon": [
+				{"pokemonName": "Leafeon"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Natural Gift",
+			"pokemon": [
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Odor Sleuth",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Houndoom"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Linoone"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Spoink"},
+				{"pokemonName": "Grumpig"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Heatmor"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Synthesis",
+			"pokemon": [
+				{"pokemonName": "Seedot"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Grass "
+		},
+
+		{
+			"move": "Worry Seed",
+			"pokemon": [
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Grass "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Giga Drain",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Synthesis",
+		"Worry Seed"
+
+	],
+	"locations": [
+		{ "Location": "Routes 6 and 7, Dragonspiral Tower"},
+		{ "Location": "Routes 6 and 7, Dragonspiral Tower"},
+		{ "Location": "Routes 6 and 7"},
+		{ "Location": "Routes 6 and 7"},
+		{ "Location": "Breed Sawsbuck"},
+		{ "Location": "Breed Sawsbuck"}
+
+	],
+	"abilities": [
+		"Chlorophyll",
+		"Sap Sipper",
+		"Serene Grace"
+	],
+	"sets": [
+	]
+}

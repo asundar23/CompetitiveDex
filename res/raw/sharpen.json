@@ -1,0 +1,27 @@
+{
+	"name": "Sharpen",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Increases the user's Attack by one stage.",
+	"viability": "No Pokemon that learns Sharpen are going to be using their Attack stat, rendering this move useless.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Porygon" },
+		{ "pokemonName": "Cryogonal" },
+		{ "pokemonName": "Carbink" },
+		{ "pokemonName": "Bergmite" },
+		{ "pokemonName": "Avalugg" },
+		{ "pokemonName": "Diancie" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

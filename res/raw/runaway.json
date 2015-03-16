@@ -1,0 +1,79 @@
+{
+	"name":"Run Away",
+	"summary": "Allows the user to flee any wild Pokémon battle, but not switch out otherwise.",
+	"viability": "Since you can't flee Trainer battles (without forfeiting), and you can't switch out, Run Away is useless.",
+	"pokemon":[
+		{
+			"pokemonName": "Caterpie"
+		},
+		{
+			"pokemonName": "Weedle"
+		},
+		{
+			"pokemonName": "Rattata"
+		},
+		{
+			"pokemonName": "Raticate"
+		},
+		{
+			"pokemonName": "Oddish"
+		},
+		{
+			"pokemonName": "Venonat"
+		},
+		{
+			"pokemonName": "Ponyta"
+		},
+		{
+			"pokemonName": "Rapidash"
+		},
+		{
+			"pokemonName": "Doduo"
+		},
+		{
+			"pokemonName": "Dodrio"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Sentret"
+		},
+		{
+			"pokemonName": "Furret"
+		},
+		{
+			"pokemonName": "Aipom"
+		},
+		{
+			"pokemonName": "Dunsparce"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Poochyena"
+		},
+		{
+			"pokemonName": "Wurmple"
+		},
+		{
+			"pokemonName": "Nincada"
+		},
+		{
+			"pokemonName": "Kricketot"
+		},
+		{
+			"pokemonName": "Pachirisu"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Patrat"
+		},
+		{
+			"pokemonName": "Lillipup"
+		}
+	]
+}

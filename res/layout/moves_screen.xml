@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@color/black" >
+        
+	<RelativeLayout
+	    
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical"
+	    android:background="@color/black" >
+	
+		<TextView
+	        android:id="@+id/moveTextView"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="24dp"
+	        android:textColor="@color/white"
+	        android:textSize="25sp" />
+	    
+	    <TextView
+	        android:id="@+id/moveTypeTextView"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/moveTextView"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="24dp"
+	        android:text="text"
+	        android:textColor="@color/white"
+	        android:textSize="20sp" />
+	
+	    <TextView
+	        android:id="@+id/movePowerNumber"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/movePower"
+	        android:layout_alignBottom="@+id/movePower"
+	        android:layout_marginLeft="16dp"
+	        android:layout_toRightOf="@+id/movePower"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/movePower"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_below="@+id/moveTypeTextView"
+	        android:layout_marginTop="37dp"
+	        android:layout_marginLeft="20dp"
+	        android:textColor="#CC0000"
+	        android:text="Power"
+	        android:textSize="18sp" />
+	    
+	    <TextView 
+	       android:id="@+id/moveCategory"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_alignLeft="@+id/movePower"
+	       android:layout_below="@+id/movePower"
+	       android:layout_marginTop="17dp"
+	       android:text="Category"
+	       android:textColor="#CC0000"
+	       android:textSize="18sp" />
+	    
+	    <TextView
+	        android:id="@+id/moveCategoryNumber"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/moveCategory"
+	        android:layout_alignBottom="@+id/moveCategory"
+	        android:layout_marginLeft="16dp"
+	        android:layout_toRightOf="@+id/moveCategory"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/moveAccuracyNumber"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/moveAccuracy"
+	        android:layout_alignBottom="@+id/moveAccuracy"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginRight="20dp"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/moveAccuracy"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_toLeftOf="@+id/moveAccuracyNumber"
+	        android:layout_marginRight="10dp"
+	        android:layout_alignBaseline="@+id/movePowerNumber"
+	        android:layout_alignBottom="@+id/movePowerNumber"
+	        android:textColor="#CC0000"
+	        android:text="Accuracy"
+	        android:textSize="18sp" />
+	    
+	    <TextView
+	        android:id="@+id/movePP"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/moveCategoryNumber"
+	        android:layout_alignBottom="@+id/moveCategoryNumber"
+	        android:layout_toLeftOf="@+id/movePPNumber"
+	        android:layout_marginRight="10dp"
+	        android:textColor="#CC0000"
+	        android:text="PP"
+	        android:textSize="18sp" />
+	    
+	    <TextView
+	        android:id="@+id/movePPNumber"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/movePP"
+	        android:layout_alignBottom="@+id/movePP"
+	        android:layout_marginRight="20dp"
+	        android:layout_alignParentRight="true"
+	        android:textColor="@color/white"
+	        android:textSize="18sp" />
+	
+	    <TextView
+	        android:id="@+id/moveSummary"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/movePP"
+	        android:layout_marginTop="17dp"
+	        android:layout_centerHorizontal="true"
+	        android:gravity="center_horizontal"
+	        android:layout_marginBottom="10dp"
+	        android:textColor="#CC0000"
+	        android:text="Summary"
+	        android:textSize="20sp" />
+	
+	    <TextView
+	        android:id="@+id/viability"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/moveSummaryDesc"
+	        android:layout_centerHorizontal="true"
+	        android:gravity="center_horizontal"
+	        android:layout_marginTop="46dp"
+	        android:textColor="#CC0000"
+	        android:text="Viability"
+	        android:textSize="20sp" />
+	
+	    <TextView
+	        android:id="@+id/moveSummaryDesc"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="fill"
+	        android:gravity="center_horizontal"
+	        android:layout_centerHorizontal="true"
+	        android:layout_below="@+id/moveSummary"
+	        android:layout_marginTop="5dp"
+	        android:textColor="@color/white"
+	        android:textSize="20sp" />
+	
+	    <TextView
+	        android:id="@+id/viabilitySummary"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_horizontal"
+	        android:layout_gravity="fill"
+	        android:layout_below="@+id/viability"
+	        android:layout_marginTop="30dp"
+	        android:textColor="@color/white"
+	        android:textSize="20sp" />
+
+	    
+	
+	</RelativeLayout>
+	
+</ScrollView>

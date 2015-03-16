@@ -1,0 +1,13 @@
+{
+	"name":"Heatproof",
+	"summary": "Halves the damage done by Fire-type attacks and burn status.",
+	"viability": "Bronzor and Bronzong have access to Levitate, which is a much better ability. Yes, with Heatproof you lose the fire weakness, but with Levitate you lose the Ground weakness AND make it an immunity.",
+	"pokemon":[
+		{
+			"pokemonName": "Bronzor"
+		},
+		{
+			"pokemonName": "Bronzong"
+		}
+	]
+}

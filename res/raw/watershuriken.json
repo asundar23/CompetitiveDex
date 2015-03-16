@@ -1,0 +1,23 @@
+{
+	"name": "Water Shuriken",
+	"note": "",
+	"type":" Water ",
+	"category": "Physical",
+	"pp": "20",
+	"power": "15",
+	"accuracy": "100",
+	"summary": "Deals damage; is a multi-turn attack. 33.3% it will hit twice, 33.3% it hits 3 times, and 16.7% chance it will hit four or five times.",
+	"viability": "Even with the priority, its base power is simply too low to make any difference. If you want to run physical Greninja, stick to Waterfall.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Accelgor" },
+		{ "pokemonName": "Greninja" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

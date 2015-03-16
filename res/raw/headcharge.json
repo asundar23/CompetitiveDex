@@ -1,0 +1,22 @@
+{
+	"name": "Head Charge",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "15",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and the user receives a recoil damage of 1/4 done to the target.",
+	"viability": "As Bouffalant's signature move, Head Charge does its job beautifully in conjunction with Reckless. It reaches a total power of 216 after Reckless and STAB, which is insane. When running Bouffalant, it is a must to use this move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Bouffalant" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

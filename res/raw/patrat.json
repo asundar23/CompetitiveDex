@@ -1,0 +1,393 @@
+{
+	"name":"Patrat",
+	"types": [
+		"Normal"
+	],
+	"eggGroup": [
+		"FIeld"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Patrat" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Watchog" }
+   	],
+   "evolutionType":[
+   		"Level 20"
+   ],
+	"abilities": [
+		"Run Away",
+		"Keen Eye",
+		"Analytic"
+	],
+	"locations": [
+		{"Location": "Routes (1, 2, and 3), Dreamyard"},
+		{"Location": "Routes (1, 2, and 3), Dreamyard"},
+		{"Location": "Routes 19 and 20, Floccesy Ranch and Virbank Complex"},
+		{"Location": "Routes 19 and 20, Floccesy Ranch and Virbank Complex"},
+		{"Location": "Breed Watchog"},
+		{"Location": "v"}
+	],
+	"stats": [
+		45,
+		55,
+		39,
+		35,
+		39,
+		42
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 3,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 6,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 8,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Detect",
+			"type": " Fighting "
+		},
+		{
+			"level": 13,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 16,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 18,
+			"move": "Hypnosis",
+			"type": " Psychic "
+		},
+		{
+			"level": 21,
+			"move": "Super Fang",
+			"type": " Normal "
+		},
+		{
+			"level": 23,
+			"move": "After You",
+			"type": " Normal "
+		},
+		{
+			"level": 26,
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Hyper Fang",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Mean Look",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Baton Pass",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Slam",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Girafarig"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Woobat"},
+				{"pokemonName": "Swoobat"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Foresight",
+			"pokemon": [
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Lucario"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Flail",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Zigzagoon"},
+				{"pokemonName": "Slakoth"},
+				{"pokemonName": "Slaking"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Mareep"}
+			],
+			"type": " Steel "
+		},
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Revenge",
+			"pokemon": [
+				{"pokemonName": "Zangoose"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Oshawott"},
+				{"pokemonName": "Dewott"},
+				{"pokemonName": "Samurott"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Fighting "
+		},
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Mankey"},
+				{"pokemonName": "Primeape"},
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Whismur"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Stunky"},
+				{"pokemonName": "Skuntank"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"After You",
+		"Aqua Tail",
+		"Covet",
+		"Endeavor",
+		"Gunk Shot",
+		"Helping Hand",
+		"Ice Punch",
+		"Iron Tail",
+		"Last Resort",
+		"Low Kick",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Super Fang",
+		"Zen Headbutt"
+	],
+	"sets": [
+	]
+}

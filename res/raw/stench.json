@@ -1,0 +1,30 @@
+{
+	"name":"Stench",
+	"summary": "Gives the user a 10% chance of making the target flinch when using an attacking move. Does not stack with King's Rock or Razor Fang.
+	
+	Outside battle, if a Pokémon with Stench leads the party it reduces the chances of running into a wild Pokémon by 50%.",
+	"viability": "Stench isn't very good; 10% is barely anything, and the fact that it doesn't stack with King's Rock or Razor Fang is even worse.",
+	"pokemon":[
+		{
+			"pokemonName": "Gloom"
+		},
+		{
+			"pokemonName": "Grimer"
+		},
+		{
+			"pokemonName": "Muk"
+		},
+		{
+			"pokemonName": "Stunky"
+		},
+		{
+			"pokemonName": "Skuntank"
+		},
+		{
+			"pokemonName": "Trubbish"
+		},
+		{
+			"pokemonName": "Garbodor"
+		}
+	]
+}

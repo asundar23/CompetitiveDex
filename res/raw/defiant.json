@@ -1,0 +1,43 @@
+{
+	"name":"Defiant",
+	"summary": "Raises the user's Attack by two stages for each stat that is lowered, including Attack.",
+	"viability": "Bisharp became one of the biggest threats in the entire game because of this ability. Due to the use of Sticky Web, Bisharp will automatically get a +2 Attack, at the cost of Speed. In addition, Defiant completely reverses Intimidate, giving it +1 Attack instead of -1. For any Pokémon with Phyiscal prowess, this is the ability to use.",
+	"pokemon":[
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Farfetch'd"
+		},
+		{
+			"pokemonName": "Piplup"
+		},
+		{
+			"pokemonName": "Primplup"
+		},
+		{
+			"pokemonName": "Empoleon"
+		},
+		{
+			"pokemonName": "Purugly"
+		},
+		{
+			"pokemonName": "Pawniard"
+		},
+		{
+			"pokemonName": "Bisharp"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Tornadus-Incarnate"
+		},
+		{
+			"pokemonName": "Thundurus-Incarnate"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "Power Gem",
+	"note": "",
+	"type":" Rock ",
+	"category": "Special",
+	"pp": "20",
+	"power": "80",
+	"accuracy": "100",
+	"summary": "Deals damage.",
+	"viability": "Special Rock-type moves are few and far between. Power Gem can be a decent STAB move for those that need it, but otherwise isn't really recommended.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Persian" },
+		{ "pokemonName": "Staryu" },
+		{ "pokemonName": "Mareep" },
+		{ "pokemonName": "Flaaffy" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Slowking" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Nosepass" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Grumpig" },
+		{ "pokemonName": "Vespiquen" },
+		{ "pokemonName": "Mismagius" },
+		{ "pokemonName": "Probopass" },
+		{ "pokemonName": "Dialga" },
+		{ "pokemonName": "Palkia" },
+		{ "pokemonName": "Boldor" },
+		{ "pokemonName": "Gigalith" },
+		{ "pokemonName": "Carbink" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

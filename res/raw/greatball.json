@@ -1,0 +1,28 @@
+{
+	"itemName": "Great Ball",
+	"summary":"Has a 1.5x capture rate for all Pokemon.",
+	"buy": "600",
+	"sell": "300",
+	"viability":"While decent, it's not too good for catching Pokemon later on in the game, especially legendaries at a high level.",
+	"wildlocation":[
+		{"Location": "Route 4"},
+		{"Location": "Route 5"},
+		{"Location": "Santalune City"}
+	],
+	"shopLocation":[
+		{"Location": "Santalune City"},
+		{"Location": "Lumoise City"},
+		{"Location": "Camphrier Town"},
+		{"Location": "Cyllage City"},
+		{"Location": "Ambrette Town"},
+		{"Location": "Geosenge Town"},
+		{"Location": "Shalour City"},
+		{"Location": "Coumarine City"},
+		{"Location": "Laverre City"},
+		{"Location": "Dendemille Town"},
+		{"Location": "Anistar City"},
+		{"Location": "Couriway Town"},
+		{"Location": "Snowbelle Town"},
+		{"Location": "Kilouide City"}
+	]
+}

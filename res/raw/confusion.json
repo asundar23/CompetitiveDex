@@ -1,0 +1,219 @@
+{
+	"name": "Confusion",
+	"note": "",
+	"type": " Psychic ",
+	"category": "Special",
+	"pp": "25",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage, and has a 10% chance to confuse the target.",
+	"viability": "When Psyshock and Psychic exist, there's no reason to run Confusion. Its base power is too low, and the chance of confusing the target is too low to make it relevant.",
+	"pokemonByLevel": [
+	{
+	"pokemonName":"Butterfree"
+},
+{
+	"pokemonName":"Venonat"
+},
+{
+	"pokemonName":"Venomoth"
+},
+{
+	"pokemonName":"Psyduck"
+},
+{
+	"pokemonName":"Golduck"
+},
+{
+	"pokemonName":"Kadabra"
+},
+{
+	"pokemonName":"Alakazam"
+},
+{
+	"pokemonName":"Slowpoke"
+},
+{
+	"pokemonName":"Slowbro"
+},
+{
+	"pokemonName":"Drowzee"
+},
+{
+	"pokemonName":"Hypno"
+},
+{
+	"pokemonName":"Exeggcute"
+},
+{
+	"pokemonName":"Exeggutor"
+},
+{
+	"pokemonName":"Mr. Mime"
+},
+{
+	"pokemonName":"Mewtwo"
+},
+{
+	"pokemonName":"Hoothoot"
+},
+{
+	"pokemonName":"Noctowl"
+},
+{
+	"pokemonName":"Espeon"
+},
+{
+	"pokemonName":"Slowking"
+},
+{
+	"pokemonName":"Girafarig"
+},
+{
+	"pokemonName":"Smoochum"
+},
+{
+	"pokemonName":"Celebi"
+},
+{
+	"pokemonName":"Dustox"
+},
+{
+	"pokemonName":"Ralts"
+},
+{
+	"pokemonName":"Kirlia"
+},
+{
+	"pokemonName":"Gardevoir"
+},
+{
+	"pokemonName":"Meditite"
+},
+{
+	"pokemonName":"Medicham"
+},
+{
+	"pokemonName":"Lunatone"
+},
+{
+	"pokemonName":"Solrock"
+},
+{
+	"pokemonName":"Baltoy"
+},
+{
+	"pokemonName":"Claydol"
+},
+{
+	"pokemonName":"Chimecho"
+},
+{
+	"pokemonName":"Gorebyss"
+},
+{
+	"pokemonName":"Metang"
+},
+{
+	"pokemonName":"Metagross"
+},
+{
+	"pokemonName":"Jirachi"
+},
+{
+	"pokemonName":"Wormadam-Plant"
+},
+{
+	"pokemonName":"Wormadam-Sandy"
+},
+{
+	"pokemonName":"Wormadam-Trash"
+},
+{
+	"pokemonName":"Mothim"
+},
+{
+	"pokemonName":"Chingling"
+},
+{
+	"pokemonName":"Bronzor"
+},
+{
+	"pokemonName":"Bronzong"
+},
+{
+	"pokemonName":"Mime Jr."
+},
+{
+	"pokemonName":"Gallade"
+},
+{
+	"pokemonName":"Uxie"
+},
+{
+	"pokemonName":"Mesprit"
+},
+{
+	"pokemonName":"Azelf"
+},
+{
+	"pokemonName":"Cresselia"
+},
+{
+	"pokemonName":"Victini"
+},
+{
+	"pokemonName":"Woobat"
+},
+{
+	"pokemonName":"Swoobat"
+},
+{
+	"pokemonName":"Gothita"
+},
+{
+	"pokemonName":"Gothorita"
+},
+{
+	"pokemonName":"Gothitelle"
+},
+{
+	"pokemonName":"Elgyem"
+},
+{
+	"pokemonName":"Beheeyem"
+},
+{
+			"pokemonName": "Meloetta-Aria"
+		},
+		{
+			"pokemonName": "Meloetta-Pirouette"
+		},
+{
+	"pokemonName":"Espurr"
+},
+{
+	"pokemonName":"Meowstic"
+}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Squirtle"
+		},
+		{
+			"pokemonName": "Nidoran♂"
+		},
+		{
+			"pokemonName": "Tangela"
+		},
+		{
+			"pokemonName": "Hoppip"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

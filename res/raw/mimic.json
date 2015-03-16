@@ -1,0 +1,32 @@
+{
+	"name": "Mimic",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Copies the target's last move, which will have the max PP.",
+	"viability": "Besides evolving Bonsly and Mime Jr., don't ever use Mimic. It's better to have an actual fourth move than to copy your opponent's last used one.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jigglypuff" },
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Sudowoodo" },
+		{ "pokemonName": "Bonsly" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Chatot" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Mr. Mime" },
+		{ "pokemonName": "Cleffa" },
+		{ "pokemonName": "Snubbull" },
+		{ "pokemonName": "Mime Jr." },
+		{ "pokemonName": "Furfrou" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

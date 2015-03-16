@@ -1,0 +1,333 @@
+{ 
+	 "name": "Yveltal",
+	"types": [
+		" Dark ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"stats": [
+		126,
+		131,
+		95,
+		131,
+		98,
+		99
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Hurricane",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Razor Wind",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"level": 5,
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 18,
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"level": 26,
+			"move": "Oblivion Wing",
+			"type": " Flying "
+		},
+		{
+			"level": 35,
+			"move": "Disable",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"level": 51,
+			"move": "Foul Play",
+			"type": " Dark "
+		},
+		{
+			"level": 55,
+			"move": "Phantom Force",
+			"type": " Ghost "
+		},
+		{
+			"level": 59,
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"level": 63,
+			"move": "Dragon Rush",
+			"type": " Dragon "
+		},
+		{
+			"level": 72,
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"level": 80,
+			"move": "Sucker Punch",
+			"type": " Dark "
+		},
+		{
+			"level": 88,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 93,
+			"move": "Sky Attack",
+			"type": " Flying "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM29",
+			"move": "Psychic",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM63",
+			"move": "Embargo",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM85",
+			"move": "Dream Eater",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM95",
+			"move": "Snarl",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Team Flare Secret HQ (Only one)"}
+	],
+	"abilities": [
+		"Dark Aura"
+	],
+	"sets": [
+	]
+}

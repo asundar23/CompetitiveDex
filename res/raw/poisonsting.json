@@ -1,0 +1,52 @@
+{
+	"name": "Poison Sting",
+	"note": "",
+	"type":" Poison ",
+	"category": "Physical",
+	"pp": "35",
+	"power": "15",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 30% chance of poisoning the target.",
+	"viability": "Don't use Poison Sting, ever.",
+	"pokemonByLevel": [
+	{"pokemonName": "Weedle" },
+{"pokemonName": "Ekans" },
+{"pokemonName": "Arbok" },
+{"pokemonName": "Sandshrew" },
+{"pokemonName": "Sandslash" },
+{"pokemonName": "Nidoran♀" },
+{"pokemonName": "Nidorina" },
+{"pokemonName": "Nidoqueen" },
+{"pokemonName": "Nidoran♂" },
+{"pokemonName": "Nidorino" },
+{"pokemonName": "Nidoking" },
+{"pokemonName": "Tentacool" },
+{"pokemonName": "Tentacruel" },
+{"pokemonName": "Spinarak" },
+{"pokemonName": "Ariados" },
+{"pokemonName": "Gligar" },
+{"pokemonName": "Qwilfish" },
+{"pokemonName": "Wurmple" },
+{"pokemonName": "Roselia" },
+{"pokemonName": "Cacnea" },
+{"pokemonName": "Cacturne" },
+{"pokemonName": "Roserade" },
+{"pokemonName": "Vespiquen" },
+{"pokemonName": "Skorupi" },
+{"pokemonName": "Drapion" },
+{"pokemonName": "Croagunk" },
+{"pokemonName": "Toxicroak" },
+{"pokemonName": "Venipede" },
+{"pokemonName": "Whirlipede" },
+{"pokemonName": "Scolipede" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Joltik" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

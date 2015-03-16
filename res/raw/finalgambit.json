@@ -1,0 +1,42 @@
+{
+	"name": "Final Gambit",
+	"note": "",
+	"type":" Fighting ",
+	"category": "Special",
+	"pp": "5",
+	"power":"--",
+	"accuracy": "100",
+	"summary": "The user faints, and does the amount to the target the same that it lost. For example, if a Pokemon uses this move at 200 HP left, the target will lose the same amount.",
+	"viability": "Final Gambit is a very interesting move, but should be used with faster Pokemon like Accelgor. In addition, having a decent HP stat (Victini, Accelgor, and Staraptor) is a must. Overall, though, it can be used quite well and stop a potential wall or sweeper. It's not too common, but a good move to risk.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Mankey" },
+		{ "pokemonName": "Primeape" },
+		{ "pokemonName": "Starly" },
+		{ "pokemonName": "Staravia" },
+		{ "pokemonName": "Staraptor" },
+		{ "pokemonName": "Riolu" },
+		{ "pokemonName": "Victini" },
+		{ "pokemonName": "Red-Striped Basculin" },
+		{ "pokemonName": "Blue-Striped Basculin" },
+		{ "pokemonName": "Shelmet" },
+		{ "pokemonName": "Accelgor" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rattata" },
+		{ "pokemonName": "Raticate" },
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Nincada" },
+		{ "pokemonName": "Ninjask" },
+		{ "pokemonName": "Shedinja" },
+		{ "pokemonName": "Zangoose" },
+		{ "pokemonName": "Seviper" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Rapid Spin",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "40",
+	"power": "20",
+	"accuracy": "100",
+	"summary": "The following moves are removed from the user's side of the field: Bind, Clamp, Fire Spin, Infestation, Leech Seed, Magma Storm, Sand Tomb, Spikes, Stealth Rock, Sticky Wen, Toxic Spikes, Whirlpool, Wrap",
+	"viability": "Rapid Spin, while being an attacking move, is not used for its attacking prowess. Trapping moves and entry hazards are very common, so having something to get rid of them is incredibly valuable. It's always recommended that each team have at least one Pokemon that can remove entry hazards, and this is one of two (the other being Defog) ways to do it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Wartortle" },
+		{ "pokemonName": "Blastoise" },
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Sandslash" },
+		{ "pokemonName": "Staryu" },
+		{ "pokemonName": "Starmie" },
+		{ "pokemonName": "Pineco" },
+		{ "pokemonName": "Forretress" },
+		{ "pokemonName": "Donphan" },
+		{ "pokemonName": "Hitmontop" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Drilbur" },
+		{ "pokemonName": "Excadrill" },
+		{ "pokemonName": "Cryogonal" },
+		{ "pokemonName": "Bergmite" },
+		{ "pokemonName": "Avalugg" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Sandshrew" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Shellder" },
+		{ "pokemonName": "Kabuto" },
+		{ "pokemonName": "Delibird" },
+		{ "pokemonName": "Tyrogue" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Anorith" },
+		{ "pokemonName": "Drilbur" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

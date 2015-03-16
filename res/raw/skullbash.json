@@ -1,0 +1,38 @@
+{
+	"name": "Skull Bash",
+	"note": "",
+	"type":" Normal ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "130",
+	"accuracy": "100",
+	"summary": "Increases the user's Defense, then deals damage the next turn.",
+	"viability": "Skull Bash has its strengths and weaknesses. On one hand, the raised Defense is nice, and it IS quite powerful. On the other hand, Normal is a pretty bad coverage type. It's up to you what you decide to do with this move. There are definitely better moves out there with more consistent damage like Return, but Skull Bash has its own niche.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Wartortle" },
+		{ "pokemonName": "Blastoise" },
+		{ "pokemonName": "Sharpedo" },
+		{ "pokemonName": "Barbaracle" },
+		{ "pokemonName": "Avalugg" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Bulbasaur" },
+		{ "pokemonName": "Nidoran♀" },
+		{ "pokemonName": "Cubone" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Goldeen" },
+		{ "pokemonName": "Torkoal" },
+		{ "pokemonName": "Relicanth" },
+		{ "pokemonName": "Bidoof" },
+		{ "pokemonName": "Snover" },
+		{ "pokemonName": "Drilbur" },
+		{ "pokemonName": "Bouffalant" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

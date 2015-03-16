@@ -1,0 +1,541 @@
+{
+	"name":"Probopass",
+	"types": [
+		"Rock",
+		"Steel"
+	],
+	"eggGroup": [
+		"Mineral"
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Gravity",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Wide Guard",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Block",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Magnet Bomb",
+			"type": " Steel "
+		},
+		{
+			"level": 4,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 7,
+			"move": "Block",
+			"type": " Normal "
+		},
+		{
+			"level": 10,
+			"move": "Magnet Bomb",
+			"type": " Steel "
+		},
+		{
+			"level": 13,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 16,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 19,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 22,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 25,
+			"move": "Power Gem",
+			"type": " Rock "
+		},
+		{
+			"level": 28,
+			"move": "Rock Blast",
+			"type": " Rock "
+		},
+		{
+			"level": 31,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 34,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 37,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 40,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 43,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 43,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		}
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Nosepass" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Probopass" }
+   	],
+   "evolutionType":[
+   		"D/P/Pt: Level up in Mt. Coronet
+   		
+   		B/W/B2/W2: Level up in Chargestone Cave
+   		
+   		X/Y: Level up on Kalos Route 13"
+   ],
+	"abilities": [
+		"Sturdy",
+		"Magnet Pull",
+		"Sand Force"
+	],
+	"locations": [
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Evolve Nosepass"},
+		{"Location": "Evolve Nosepass"}
+	],
+	"stats": [
+		60,
+		55,
+		145,
+		75,
+		150,
+		40
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Magnet Rise",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Gravity",
+			"type": " Psychic "
+		},
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Block",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Magnet Bomb",
+			"type": " Steel "
+		},
+		{
+			"level": 4,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 8,
+			"move": "Block",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Magnet Bomb",
+			"type": " Steel "
+		},
+		{
+			"level": 15,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 18,
+			"move": "Rock Blast",
+			"type": " Rock "
+		},
+		{
+			"level": 22,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 25,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 29,
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"level": 32,
+			"move": "Power Gem",
+			"type": " Rock "
+		},
+		{
+			"level": 36,
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"level": 39,
+			"move": "Discharge",
+			"type": " Electric "
+		},
+		{
+			"level": 43,
+			"move": "Earth Power",
+			"type": " Ground "
+		},
+		{
+			"level": 46,
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Lock-On",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Zap Cannon",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM23",
+			"move": "Smack Down",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM64",
+			"move": "Explosion",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM72",
+			"move": "Volt Switch",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM99",
+			"move": "Dazzling Gleam",
+			"type": " Fairy "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		},
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Block",
+			"pokemon": [
+				{"pokemonName": "Sudowoodo"},
+				{"pokemonName": "Nosepass"},
+				{"pokemonName": "Probopass"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Yamask"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Magnitude",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"}
+			],
+			"type": " Ground "
+		},
+		{
+			"move": "Rollout",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Ferroseed"},
+				{"pokemonName": "Ferrothorn"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Geodude"},
+				{"pokemonName": "Graveler"},
+				{"pokemonName": "Golem"},
+				{"pokemonName": "Onix"},
+				{"pokemonName": "Steelix"},
+				{"pokemonName": "Roggenrola"},
+				{"pokemonName": "Boldore"},
+				{"pokemonName": "Gigalith"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Rock "
+		},
+		{
+			"move": "Wide Guard",
+			"pokemon": [
+				{"pokemonName": "Dwebble"}
+			],
+			"type": " Rock "
+		}
+	],
+	"tutorMoveList": [
+		"Block",
+		"Earth Power",
+		"Fire Punch",
+		"Gravity",
+		"Ice Punch",
+		"Iron Defense",
+		"Iron Head",
+		"Magic Coat",
+		"Magnet Rise",
+		"Pain Split",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Thunder Punch"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "Odor Sleuth",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Removes a Ghost-type Pokemon's immunity to Fighting-type and Normal-type attacks. Restores the target's evasion stats to normal.",
+	"viability": "You're better off using a Dark-type or Ghost-type coverage move than changing the type of the Pokemon.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Growlithe" },
+		{ "pokemonName": "Arcanine" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Piloswine" },
+		{ "pokemonName": "Houndour" },
+		{ "pokemonName": "Houndoom" },
+		{ "pokemonName": "Phanpy" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Mightyena" },
+		{ "pokemonName": "Zigzagoon" },
+		{ "pokemonName": "Linoone" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Manectric" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Grumpig" },
+		{ "pokemonName": "Munchlax" },
+		{ "pokemonName": "Mamoswine" },
+		{ "pokemonName": "Tepig" },
+		{ "pokemonName": "Pignite" },
+		{ "pokemonName": "Emboar" },
+		{ "pokemonName": "Lillipup" },
+		{ "pokemonName": "Herdier" },
+		{ "pokemonName": "Stoutland" },
+		{ "pokemonName": "Woobat" },
+		{ "pokemonName": "Swoobat" },
+		{ "pokemonName": "Heatmor" },
+		{ "pokemonName": "Bunnelby" },
+		{ "pokemonName": "Diggersby" },
+		{ "pokemonName": "Furfrou" },
+		{ "pokemonName": "Spritzee" },
+		{ "pokemonName": "Aromatisse" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Meowth" },
+		{ "pokemonName": "Mareep" },
+		{ "pokemonName": "Bidoof" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Deerling" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Sketch",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "1",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Copies the opponent's last move permanently.",
+	"viability": "You can actually get almost any move on Smeargle this way. In actual competitive battle, this has no use. Use Sketch to the get the moves you want outside of battle, though.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Smeargle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

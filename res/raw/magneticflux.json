@@ -1,0 +1,25 @@
+{
+	"name": "Magnetic Flux",
+	"note": "",
+	"type":" Electric ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Raises the Defense and Special Defense stats of ally Pokemon with the Plus or Minus Ability by one stage each.",
+	"viability": "In Doubles and Triples, this can really benefit Klinklang with the Minus ability. Having that added bulk can allow it to sweep better.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Electrode" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Klinklang" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

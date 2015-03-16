@@ -1,0 +1,13 @@
+{
+	"name":"Teravolt",
+	"summary": "Negates abilities that weaken or negate moves or their side effects.",
+	"viability": "Similar to Mold Breaker, negating another Pokémon's ability is very valuable, especially those that have Sturdy, Contrary, Levitate, or Volt Absorb.",
+	"pokemon":[
+		{
+			"pokemonName": "Zekrom"
+		},
+		{
+			"pokemonName": "Black Kyurem"
+		}
+	]
+}

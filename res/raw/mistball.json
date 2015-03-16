@@ -1,0 +1,22 @@
+{
+	"name": "Mist Ball",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "5",
+	"power": "70",
+	"accuracy": "100",
+	"summary": "Deals damage and has a 50% chance of lowering the target's Special Attack.",
+	"viability": "Similar to Luster Purge, you're banking on that drop. It's simply not powerful enough to use.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Latias" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

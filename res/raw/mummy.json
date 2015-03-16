@@ -1,0 +1,13 @@
+{
+	"name":"Mummy",
+	"summary": "If the user is hit by a contact move, the opponent's ability will be changed to Mummy. The ability is returned to normal when the opponent switches out.",
+	"viability": "This is a bit situational, but highly effective for Cofagrigus and Yamask. Dark and Ghost-type moves have a lot of contact moves, and to be able to supress another Pokémon's Ability can prove to be very valuable. For example, if Azumarill uses Huge Power on a Cofagrigus, it loses its Huge Power ability, rendering it useless until it switches out.",
+	"pokemon":[
+		{
+			"pokemonName": "Yamask"
+		},
+		{
+			"pokemonName": "Cofagrigus"
+		}
+	]
+}

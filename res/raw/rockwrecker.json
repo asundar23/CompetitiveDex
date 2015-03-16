@@ -1,0 +1,24 @@
+{
+	"name": "Rock Wrecker",
+	"note": "",
+	"type":" Rock ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "150",
+	"accuracy": "90",
+	"summary": "Deals damage, and the user has to charge on the next turn, making it not attack. This charge turn can be bypassed with Power Herb.",
+	"viability": "These charging moves, like Hyper Beam, are generally terrible because of the charge turn. Even with Power Herb, you can really only use it once. In reality, with the two turns, you're only having a 75 BP move on average.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Rhyperior" },
+		{ "pokemonName": "Dwebble" },
+		{ "pokemonName": "Crustle" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

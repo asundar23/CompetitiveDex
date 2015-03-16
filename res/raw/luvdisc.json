@@ -1,0 +1,429 @@
+{ 
+	 "name": "Luvdisc",
+	"types": [
+		" Water "
+	],
+	"eggGroup": [
+		" Water 2 "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 4,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 7,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 9,
+			"move": "Draining Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 14,
+			"move": "Lucky Chant",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 22,
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"level": 27,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Sweet Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 37,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 40,
+			"move": "Aqua Ring",
+			"type": " Water "
+		},
+		{
+			"level": 46,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 55,
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"stats": [
+		43,
+		30,
+		55,
+		40,
+		65,
+		97
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 4,
+			"move": "Charm",
+			"type": " Fairy "
+		},
+		{
+			"level": 7,
+			"move": "Water Gun",
+			"type": " Water "
+		},
+		{
+			"level": 9,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 14,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Lucky Chant",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Water Pulse",
+			"type": " Water "
+		},
+		{
+			"level": 27,
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"level": 31,
+			"move": "Fail",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Sweet Kiss",
+			"type": " Fairy "
+		},
+		{
+			"level": 40,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 46,
+			"move": "Aqua Ring",
+			"type": " Water "
+		},
+		{
+			"level": 51,
+			"move": "Captivate",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Safeguard",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM20",
+			"move": "Safeguard",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Aqua Jet",
+			"pokemon": [
+				{"pokemonName": "Carvanha"},
+				{"pokemonName": "Sharpedo"},
+				{"pokemonName": "Red-Striped Basculin"},
+				{"pokemonName": "Blue-Striped Basculin"},
+				{"pokemonName": "Luvdisc"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Aqua Ring",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"},
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Finneon"},
+				{"pokemonName": "Lumineon"},
+				{"pokemonName": "ALomomola"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Brine",
+			"pokemon": [
+				{"pokemonName": "Qwilfish"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"}
+			],
+			"type": " Water "
+		},
+
+		{
+			"move": "Captivate",
+			"pokemon": [
+				{"pokemonName": "Luvdisc"},
+				{"pokemonName": "Finneon"},
+				{"pokemonName": "Lumineon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Entrainment",
+			"pokemon": [
+				{"pokemonName": "Remoraid"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Heal Pulse",
+			"pokemon": [
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Relicanth"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Splash",
+			"pokemon": [
+				{"pokemonName": "Magikarp"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Supersonic",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Chinchou"},
+				{"pokemonName": "Lanturn"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Water Sport",
+			"pokemon": [
+				{"pokemonName": "Goldeen"},
+				{"pokemonName": "Seaking"},
+				{"pokemonName": "Barboach"},
+				{"pokemonName": "Whiscash"},
+				{"pokemonName": "Alomomola"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Icy Wind",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Route 224, Pokémon League (Super Rod)"},
+		{"Location": "Route 224, Pokémon League (Super Rod)"},
+		{"Location": "Route 224, Pokémon League (Super Rod)"},
+		{"Location": "Route 27 (Surfing during a Swarm)"},
+		{"Location": "Route 27 (Surfing during a Swarm)"},
+		{"Location": "Sea"},
+		{"Location": "Routes 4 and 13, Driftveil City, Undella Town, Undella Bay (Fishing)"},
+		{"Location": "Routes 4 and 13, Driftveil City, Undella Town, Undella Bay (Fishing)"},
+		{"Location": "Routes 13 and 21, Seaside Cave, Undella Town, Humilau City (Fishing)"},
+		{"Location": "Routes 13 and 21, Seaside Cave, Undella Town, Humilau City (Fishing)"},
+		{"Location": "Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Old Rod)"},
+		{"Location": "Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Old Rod)"}
+	],
+	"abilities": [
+		"Swift Swim",
+		"Hydration"
+	],
+	"sets": [
+	]
+}

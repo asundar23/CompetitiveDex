@@ -1,0 +1,50 @@
+{
+	"name": "Mirror Coat",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Special",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Deals back double the damage if the last move used by the target was a Special damaging move.",
+	"viability": "Mirror Coat is very good for bulky Pokemon like Wobbuffet. WIth a high HP, it can tank a hit and dish back a great amount for a possible KO.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Voltorb" },
+		{ "pokemonName": "Electrode" },
+		{ "pokemonName": "Wobbuffet" },
+		{ "pokemonName": "Corsola" },
+		{ "pokemonName": "Suivune" },
+		{ "pokemonName": "Wynaut" },
+		{ "pokemonName": "Deoxys-Defense" },
+		{ "pokemonName": "Lopunny" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Glaceon" },
+		{ "pokemonName": "Vanillite" },
+		{ "pokemonName": "Vanillish" },
+		{ "pokemonName": "Vanilluxe" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Squirtle" },
+		{ "pokemonName": "Tentacool" },
+		{ "pokemonName": "Girafarig" },
+		{ "pokemonName": "Mantine" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Spoink" },
+		{ "pokemonName": "Lileep" },
+		{ "pokemonName": "Feebas" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "Mantyke" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Gothita" },
+		{ "pokemonName": "Alomomola" },
+		{ "pokemonName": "Amaura" },
+		{ "pokemonName": "Bergmite" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

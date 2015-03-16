@@ -1,0 +1,55 @@
+{
+	"name":"Weak Armor",
+	"summary": "Causes the user's Defense to decrease by one stage and Speed to increase by one stage when struck by a physical Moves. Activates for each hit in multi-hitting moves.",
+	"viability": "For Kabutops and Omastar, which have average to below-average Speed, getting an increase in Speed can be the difference between a sweep and fainting. Especially with Kabutops, who doesn't have any Speed boosting moves, it can set up Swords Dance, and then have its Speed increased. This can lead to it becoming an instant threat.",
+	"pokemon":[
+		{
+			"pokemonName": "Onix"
+		},
+		{
+			"pokemonName": "Omanyte"
+		},
+		{
+			"pokemonName": "Omastar"
+		},
+		{
+			"pokemonName": "Kabuto"
+		},
+		{
+			"pokemonName": "Kabutops"
+		},
+		{
+			"pokemonName": "Slugma"
+		},
+		{
+			"pokemonName": "Magcargo"
+		},
+		{
+			"pokemonName": "Skarmory"
+		},
+		{
+			"pokemonName": "Dwebble"
+		},
+		{
+			"pokemonName": "Crustle"
+		},
+		{
+			"pokemonName": "Garbodor"
+		},
+		{
+			"pokemonName": "Vanillite"
+		},
+		{
+			"pokemonName": "Vanillish"
+		},
+		{
+			"pokemonName": "Vanilluxe"
+		},
+		{
+			"pokemonName": "Vullaby"
+		},
+		{
+			"pokemonName": "Mandibuzz"
+		}
+	]
+}

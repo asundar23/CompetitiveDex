@@ -1,0 +1,445 @@
+{
+   "name":"Carvanha",
+   "types":[
+      " Water ",
+      " Dark "
+   ],
+   "ORASMoveList": [
+		
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 4,
+			"move": "Rage",
+			"type": " Normal "
+		},
+		{
+			"level": 8,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Aqua Jet",
+			"type": " Water "
+		},
+		{
+			"level": 15,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 18,
+			"move": "Screech",
+			"type": " Normal "
+		},
+		{
+			"level": 22,
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Ice Fang",
+			"type": " Ice "
+		},
+		{
+			"level": 29,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Poison Fang",
+			"type": " Poison "
+		},
+		{
+			"level": 36,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 39,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 43,
+			"move": "Take Down",
+			"type": " Normal "
+		}
+	],
+   "setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Carvanha" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Sharpedo" }
+   	],
+   "evolutionType":[
+   		"Level 30"
+   ],
+   "eggGroup":[
+      " Water 2 "
+   ],
+   "stats":[
+      45,
+      90,
+      20,
+      65,
+      20,
+      65
+   ],
+   "moveList":[
+      {
+         "level":1,
+         "move":"Leer",
+         "type":" Normal "
+      },
+      {
+         "level":1,
+         "move":"Bite",
+         "type":" Dark "
+      },
+      {
+         "level":6,
+         "move":"Rage",
+         "type":" Normal "
+      },
+      {
+         "level":8,
+         "move":"Focus Energy",
+         "type":" Normal "
+      },
+      {
+         "level":11,
+         "move":"Scary Face",
+         "type":" Normal "
+      },
+      {
+         "level":16,
+         "move":"Ice Fang",
+         "type":" Ice "
+      },
+      {
+         "level":18,
+         "move":"Screech",
+         "type":" Normal "
+      },
+      {
+         "level":21,
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "level":26,
+         "move":"Assurance",
+         "type":" Dark "
+      },
+      {
+         "level":28,
+         "move":"Crunch",
+         "type":" Dark "
+      },
+      {
+         "level":31,
+         "move":"Aqua Jet",
+         "type":" Water "
+      },
+      {
+         "level":36,
+         "move":"Agility",
+         "type":" Psychic "
+      },
+      {
+         "level":38,
+         "move":"Take Down",
+         "type":" Normal "
+      }
+   ],
+   "tmMoveList":[
+      {
+         "tm":"TM05",
+         "move":"Roar",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM06",
+         "move":"Toxic",
+         "type":" Poison "
+      },
+      {
+         "tm":"TM07",
+         "move":"Hail",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM10",
+         "move":"Hidden Power",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM12",
+         "move":"Taunt",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM13",
+         "move":"Ice Beam",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM14",
+         "move":"Blizzard",
+         "type":" Ice "
+      },
+      {
+         "tm":"TM17",
+         "move":"Protect",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM18",
+         "move":"Rain Dance",
+         "type":" Water "
+      },
+      {
+         "tm":"TM21",
+         "move":"Frustration",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM27",
+         "move":"Return",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM32",
+         "move":"Double Team",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM41",
+         "move":"Torment",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM42",
+         "move":"Facade",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM44",
+         "move":"Rest",
+         "type":" Psychic "
+      },
+      {
+         "tm":"TM45",
+         "move":"Attract",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM46",
+         "move":"Thief",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM48",
+         "move":"Round",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM55",
+         "move":"Scald",
+         "type":" Water "
+      },
+      {
+         "tm":"TM66",
+         "move":"Payback",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM87",
+         "move":"Swagger",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM88",
+         "move":"Sleep Talk",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM90",
+         "move":"Substitute",
+         "type":" Normal "
+      },
+      {
+         "tm":"TM95",
+         "move":"Snarl",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM97",
+         "move":"Dark Pulse",
+         "type":" Dark "
+      },
+      {
+         "tm":"TM100",
+         "move":"Confide",
+         "type":" Normal "
+      }
+   ],
+   "hmMoveList":[
+      {
+         "hm":"HM03",
+         "move":"Surf",
+         "type":" Water "
+      },
+      {
+         "hm":"HM05",
+         "move":"Waterfall",
+         "type":" Water "
+      }
+   ],
+   "breedMoveList":[
+      {
+         "move":"Ancient Power",
+         "pokemon":[
+            {
+               "pokemonName":"Relicanth"
+            }
+         ],
+         "type":" Rock "
+      },
+      {
+         "move":"Brine",
+         "pokemon":[
+            {
+               "pokemonName":"Qwilfish"
+            },
+            {
+               "pokemonName":"Wailmer"
+            },
+            {
+               "pokemonName":"Wailord"
+            },
+            {
+               "pokemonName":"Alomomola"
+            }
+         ],
+         "type":" Water "
+      },
+      {
+         "move":"Destiny Bond",
+         "pokemon":[
+            {
+               "pokemonName":"QwilFish"
+            }
+         ],
+         "type":" Ghost "
+      },
+      {
+         "move":"Hydro Pump",
+         "pokemon":[
+            {
+               "pokemonName":"Qwilfish"
+            },
+            {
+               "pokemonName":"Remoraid"
+            },
+            {
+               "pokemonName":"Octillery"
+            },
+            {
+               "pokemonName":"Wailmer"
+            },
+            {
+               "pokemonName":"Wailord"
+            },
+            {
+               "pokemonName":"Relicanth"
+            },
+            {
+               "pokemonName":"Luvdisc"
+            },
+            {
+               "pokemonName":"Alomomola"
+            },
+            {
+               "pokemonName":"Gyarados"
+            },
+            {
+               "pokemonName":"Chinchou"
+            },
+            {
+               "pokemonName":"Lanturn"
+            }
+         ],
+         "type":" Water "
+      },
+      {
+         "move":"Swift",
+         "pokemon":[
+            {
+               "pokemonName":"Remoraid"
+            }
+         ],
+         "type":" Normal "
+      },
+      {
+         "move":"Thrash",
+         "pokemon":[
+            {
+               "pokemonName":"Gyarados"
+            },
+            {
+               "pokemonName":"Red-Striped Basculin"
+            },
+            {
+               "pokemonName":"Blue-Striped Basculin"
+            }
+         ],
+         "type":" Normal "
+      }
+   ],
+   "tutorMoveList":[
+      "Bounce",
+      "Dark Pulse",
+      "Icy Wind",
+      "Sleep Talk",
+      "Snore",
+      "Spite",
+      "Super Fang",
+      "Uproar",
+      "Zen Headbutt"
+   ],
+   "locations":[
+      {"Location": "Great Marsh (Super Rod)"},
+      {"Location": "Great Marsh (Super Rod)"},
+      {"Location": "Great Marsh (Super Rod)"},
+      {"Location": "Transfer from Pokéwalker"},
+      {"Location": "Transfer from Pokéwalker"},
+      {"Location": "Sea"},
+      {"Location": "Village Bridge (Fishing)"},
+      {"Location": "Village Bridge (Fishing)"},
+      {"Location": "Village Bridge (Fishing)"},
+      {"Location": "Village Bridge (Fishing)"},
+      {"Location": "Route 22 (Good Rod)"},
+      {"Location": "Route 22 (Good Rod)"}
+   ],
+   "abilities":[
+      "Rough Skin",
+      "Speed Boost"
+   ],
+   "sets":[
+
+   ]
+}

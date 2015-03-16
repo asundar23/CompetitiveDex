@@ -1,0 +1,474 @@
+{ 
+	 "name": "Rayquaza",
+	"types": [
+		" Dragon ",
+		" Flying "
+	],
+	"eggGroup": [
+		" Undiscovered "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+   "ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 5,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 20,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 30,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 35,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Extreme Speed",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 60,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 65,
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"level": 75,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 80,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 90,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		}
+	],
+	"stats": [
+		105,
+		150,
+		90,
+		150,
+		90,
+		95
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Twister",
+			"type": " Dragon "
+		},
+		{
+			"level": 5,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 15,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 20,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 35,
+			"move": "Air Slash",
+			"type": " Flying "
+		},
+		{
+			"level": 45,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 50,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 60,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 65,
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"level": 75,
+			"move": "Extreme Speed",
+			"type": " Normal "
+		},
+		{
+			"level": 80,
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"level": 90,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM08",
+			"move": "Bulk Up",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM22",
+			"move": "Solar Beam",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM50",
+			"move": "Overheat",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM58",
+			"move": "Sky Drop",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM74",
+			"move": "Gyro Ball",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM05",
+			"move": "Waterfall",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Bind",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Hyper Voice",
+		"Icy Wind",
+		"Iron Head",
+		"Iron Tail",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Tailwind",
+		"Uproar"
+
+	],
+	"locations": [
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Trade"},
+		{"Location": "Embedded Tower (requires Jade Orb)"},
+		{"Location": "Embedded Tower (requires Jade Orb)"},
+		{"Location": "Field"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"abilities": [
+		"Air Lock"
+	],
+	"sets": [
+	]
+}

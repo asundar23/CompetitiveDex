@@ -1,0 +1,75 @@
+{
+	"name": "Entrainment",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Changes the target's ability to the user's. Fails if the target has the ability Trace, Truant, Multitype, Flower Gift, Illusion, Imposter, Zen Mode, or Stance Change.",
+	"viability": "Entrainment is good in Doubles if you want to mess with your opponent. A good troll strategy is to use Entrainment with Truant Durant. While it's not the best strategy out there, it is pretty fun to set up.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Plusle"
+		},
+		{
+			"pokemonName": "Minun"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Chingling"
+		},
+		{
+			"pokemonName": "Audino"
+		},
+		{
+			"pokemonName": "Leavanny"
+		},
+		{
+			"pokemonName": "Petilil"
+		},
+		{
+			"pokemonName": "Durant"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		},
+		{
+			"pokemonName": "Dedenne"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Seel"
+		},
+		{
+			"pokemonName": "Remoraid"
+		},
+		{
+			"pokemonName": "Luvdisc"
+		},
+		{
+			"pokemonName": "Litleo"
+		},
+		{
+			"pokemonName": "Clauncher"
+		},
+		{
+			"pokemonName": "Hawlucha"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

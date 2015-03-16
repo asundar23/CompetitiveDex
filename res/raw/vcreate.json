@@ -1,0 +1,21 @@
+{
+	"name": "V-Create",
+	"note": "",
+	"type":" Fire ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "180",
+	"accuracy": "95",
+	"summary": "Deals damage, and lowers the user's Defense, Special Defense, and Speed.",
+	"viability": "V-Create is a ridiculously powerful move, justifying all the drops in stats. Victini and Rayquaza can only get this move through events though, so don't try to get them in the actual game.",
+	"pokemonByLevel": [
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

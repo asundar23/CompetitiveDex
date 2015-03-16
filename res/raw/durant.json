@@ -1,0 +1,381 @@
+{
+	"name":"Durant",
+	"types": [
+		"Bug",
+		"Steel"
+	],
+	"eggGroup": [
+		"Bug"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   ],
+   "evolutionPokémon":[
+   	],
+   "evolutionType":[
+   ],
+	"abilities": [
+		"Swarm",
+		"Hustle",
+		"Truant"
+	],
+	"locations": [
+		{"Location": "Victory Road"},
+		{"Location": "Victory Road"},
+		{"Location": "Twist Mountain, Clay Tunnel"},
+		{"Location": "Twist Mountain, Clay Tunnel"},
+		{"Location": "Route 18, Terminus Cave"},
+		{"Location": "Route 18, Terminus Cave"}
+	],
+	"stats": [
+		58,
+		109,
+		112,
+		48,
+		48,
+		109
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Guillotine",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Metal Sound",
+			"type": " Steel "
+		},
+		{
+			"level": 1,
+			"move": "Vice Grip",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 6,
+			"move": "Fury Cutter",
+			"type": " Bug "
+		},
+		{
+			"level": 11,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 16,
+			"move": "Agility",
+			"type": " Psychic "
+		},
+		{
+			"level": 21,
+			"move": "Metal Claw",
+			"type": " Steel "
+		},
+		{
+			"level": 26,
+			"move": "Bug Bite",
+			"type": " Bug "
+		},
+		{
+			"level": 31,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 36,
+			"move": "Iron Head",
+			"type": " Steel "
+		},
+		{
+			"level": 41,
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"level": 46,
+			"move": "Entrainment",
+			"type": " Normal "
+		},
+		{
+			"level": 51,
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"level": 56,
+			"move": "Iron Defense",
+			"type": " Steel "
+		},
+		{
+			"level": 61,
+			"move": "Guillotine",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Metal Sound",
+			"type": " Steel "
+		}
+	],
+	"tmMoveList": [
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM69",
+			"move": "Rock Polish",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Feint Attack",
+			"pokemon": [
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Dwebble"},
+				{"pokemonName": "Crustle"}
+			],
+			"type": " Dark "
+		},
+		{
+			"move": "Rock Climb",
+			"pokemon": [
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanmega"},
+				{"pokemonName": "Gligar"},
+				{"pokemonName": "Gliscor"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"},
+				{"pokemonName": "Kricketune"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Joltik"},
+				{"pokemonName": "Galvantula"}
+			],
+			"type": " Normal "
+		},
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Drapion"},
+				{"pokemonName": "Gliscor"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Endeavor",
+		"Iron Defense",
+		"Iron Head",
+		"Sleep Talk",
+		"Snore",
+		"Superpower"
+	],
+	"sets": [
+	]
+}

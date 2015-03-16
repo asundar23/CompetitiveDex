@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	
+    <string-array name="bug_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="dark_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="dragon_status_power">
+        <item>--</item>
+    </string-array>
+    
+    <string-array name="electric_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="fairy_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="fighting_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="fire_status_power">
+        <item>--</item>
+		<item>--</item>  
+    </string-array>
+    
+    <string-array name="flying_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="ghost_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="grass_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="ground_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="ice_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="normal_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="poison_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="psychic_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="rock_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="steel_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+    <string-array name="water_status_power">
+        <item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+		<item>--</item>
+    </string-array>
+    
+   
+</resources>

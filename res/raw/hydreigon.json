@@ -1,0 +1,530 @@
+{ 
+	 "name": "Hydreigon",
+	"types": [
+		" Dark ",
+		" Dragon "
+	],
+	"eggGroup": [
+		" Dragon "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Deino" },
+   		{ "pokemonName":"Zweilous" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Zweilous" },
+   		{ "pokemonName":"Hydreigon" }
+   ],
+   "evolutionType":[
+   		"Level 50",
+   		"Level 64"
+   ],
+	"stats": [
+		92,
+		105,
+		90,
+		125,
+		90,
+		88
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Tri Attack",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 4,
+			"move": "Focus Energy",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Bite",
+			"type": " Dark "
+		},
+		{
+			"level": 12,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Dragon Breath",
+			"type": " Dragon "
+		},
+		{
+			"level": 20,
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Crunch",
+			"type": " Dark "
+		},
+		{
+			"level": 28,
+			"move": "Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 38,
+			"move": "Work Up",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Dragon Rush",
+			"type": " Dragon "
+		},
+		{
+			"level": 48,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 55,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 68,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		},
+		{
+			"level": 79,
+			"move": "Outrage",
+			"type": " Dragon "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM19",
+			"move": "Roost",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM35",
+			"move": "Flamethrower",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM38",
+			"move": "Fire Blast",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM41",
+			"move": "Torment",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM51",
+			"move": "Steel Wing",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM62",
+			"move": "Acrobatics",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM77",
+			"move": "Psych Up",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM89",
+			"move": "U-turn",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM91",
+			"move": "Flash Cannon",
+			"type": " Steel "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM97",
+			"move": "Dark Pulse",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM02",
+			"move": "Fly",
+			"type": " Flying "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Assurance",
+			"pokemon": [
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Astonish",
+			"pokemon": [
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Dark Pulse",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Gyarados"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Druddigon"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweiloud"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Helioptile"},
+				{"pokemonName": "Heliolisk"},
+				{"pokemonName": "Tyrunt"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Double Hit",
+			"pokemon": [
+				{"pokemonName": "Zweilous"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Gible"},
+				{"pokemonName": "Gabite"},
+				{"pokemonName": "Garchomp"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Fire Fang",
+			"pokemon": [
+				{"pokemonName": "Charmander"},
+				{"pokemonName": "Charmeleon"},
+				{"pokemonName": "Charizard"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Garchomp"}
+			],
+			"type": " Fire "
+		},
+
+		{
+			"move": "Head Smash",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"},
+				{"pokemonName": "Tyrantrum"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Ice Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Gyarados"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Screech",
+			"pokemon": [
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Treecko"},
+				{"pokemonName": "Grovyle"},
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Seviper"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Thunder Fang",
+			"pokemon": [
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Salamence"}
+			],
+			"type": " Electric "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Dark Pulse",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Earth Power",
+		"Heat Wave",
+		"Hyper Voice",
+		"Iron Tail",
+		"Outrage",
+		"Roost",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore",
+		"Spite",
+		"Superpower",
+		"Tailwind",
+		"Uproad",
+		"Zen Headbutt"
+
+	],
+	"locations": [
+		{"Location": "Evolve Zweilous"},
+		{"Location": "Evolve Zweilous"},
+		{"Location": "Evolve Zweilous"},
+		{"Location": "Evolve Zweilous"},
+		{"Location": "Victory Road (flying shadow)"},
+		{"Location": "Victory Road (flying shadow)"}
+	],
+	"abilities": [
+		"Levitate"
+	],
+	"sets": [
+	]
+}

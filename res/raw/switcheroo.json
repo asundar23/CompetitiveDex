@@ -1,0 +1,42 @@
+{
+	"name": "Switcheroo",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "Switches the user's held item with the target's. Fails if neither has a held item and if they're holding a Griseous Orb, Mail, Plate (with Multiscald ability), Drive (with Genesect), or a Mega Stone. Fails if the target is in a Substitute.",
+	"viability": "Switcheroo is the same as Trick, and both are extremely useful in battle. You can place a Choice Item on an unsuspecting target, locking them into one move. This allows for safer switches and possibly crippling your opponent's Pokemon.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Persian" },
+		{ "pokemonName": "Hypno" },
+		{ "pokemonName": "Linoone" },
+		{ "pokemonName": "Minun" },
+		{ "pokemonName": "Delphox" },
+		{ "pokemonName": "Inkay" },
+		{ "pokemonName": "Malamar" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Aipom" },
+		{ "pokemonName": "Electrike" },
+		{ "pokemonName": "Cacnea" },
+		{ "pokemonName": "eviper" },
+		{ "pokemonName": "Corphish" },
+		{ "pokemonName": "Snorunt" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Buneary" },
+		{ "pokemonName": "Cottonee" },
+		{ "pokemonName": "Archen" },
+		{ "pokemonName": "Binacle" },
+		{ "pokemonName": "Klefki" },
+		{ "pokemonName": "Noibat" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

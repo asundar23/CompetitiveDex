@@ -1,0 +1,79 @@
+{
+	"name":"Sheer Force",
+	"summary": "Raises the base power of all attacking moves with a secondary effect by 30%, at the cost of losing the secondary effect. Negates Life Orb damage.",
+	"viability": "Sheer Force is amazing, purely for the combination of Life Orb. This makes Nidoking, who has a mediocre Special Attack, into a very frightening Special Attacking threat. Any Pokémon with access with Sheer Force should run it, so long as they have appropriate moves. For example, Darmanitan has Rock Slide and Flare Blitz, but Braviary doesn't have the right moves to make Sheer Force work.",
+	"pokemon":[
+		{
+			"pokemonName": "Nidoqueen"
+		},
+		{
+			"pokemonName": "Nidoking"
+		},
+		{
+			"pokemonName": "Krabby"
+		},
+		{
+			"pokemonName": "Kingler"
+		},
+		{
+			"pokemonName": "Tauros"
+		},
+		{
+			"pokemonName": "Totodile"
+		},
+		{
+			"pokemonName": "Croconaw"
+		},
+		{
+			"pokemonName": "Feraligatr"
+		},
+		{
+			"pokemonName": "Steelix"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Mawile"
+		},
+		{
+			"pokemonName": "Trapinch"
+		},
+		{
+			"pokemonName": "Bagon"
+		},
+		{
+			"pokemonName": "Cranidos"
+		},
+		{
+			"pokemonName": "Rampardos"
+		},
+		{
+			"pokemonName": "Timburr"
+		},
+		{
+			"pokemonName": "Gurdurr"
+		},
+		{
+			"pokemonName": "Conkeldurr"
+		},
+		{
+			"pokemonName": "Darmanitan"
+		},
+		{
+			"pokemonName": "Druddigon"
+		},
+		{
+			"pokemonName": "Rufflet"
+		},
+		{
+			"pokemonName": "Braviary"
+		},
+		{
+			"pokemonName": "Landorus-Incarnate"
+		}
+	]
+}

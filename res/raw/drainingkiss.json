@@ -1,0 +1,48 @@
+{
+	"name": "Draining Kiss",
+	"note": "",
+	"type":" Fairy ",
+	"category": "Special",
+	"pp": "20",
+	"power": "50",
+	"accuracy": "100",
+	"summary": "Deals damage, and restores the user's HP by up to 75%.",
+	"viability": "Draining Kiss seems bad on paper due to its terrible power, but it's really good for bulky walls such as Slurpuff or Aromatisse. This can actually be usable on a Calm Mind user, where Draining Kiss would be a great form of recovery as well as damage.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Jynx"
+		},
+		{
+			"pokemonName": "Vivillon"
+		},
+		{
+			"pokemonName": "Spritzee"
+		},
+		{
+			"pokemonName": "Aromatisse"
+		},
+		{
+			"pokemonName": "Swirlix"
+		},
+		{
+			"pokemonName": "Slurpuff"
+		},
+		{
+			"pokemonName": "Sylveon"
+		},
+		{
+			"pokemonName": "Klefki"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Audino"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

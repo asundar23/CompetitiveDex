@@ -1,0 +1,348 @@
+{ 
+	 "name": "Shelmet",
+	"types": [
+		" Bug "
+	],
+	"eggGroup": [
+		" Bug "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Shelmet" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Accelgor" }
+   	],
+   "evolutionType":[
+   		"Trade for Karrablast"
+   ],
+	"stats": [
+		50,
+		40,
+		65,
+		40,
+		65,
+		25
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Leech Life",
+			"type": " Bug "
+		},
+		{
+			"level": 4,
+			"move": "Acid",
+			"type": " Poison "
+		},
+		{
+			"level": 8,
+			"move": "Bide",
+			"type": " Normal "
+		},
+		{
+			"level": 13,
+			"move": "Curse",
+			"type": " Ghost "
+		},
+		{
+			"level": 16,
+			"move": "Struggle Bug",
+			"type": " Bug "
+		},
+		{
+			"level": 20,
+			"move": "Mega Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 25,
+			"move": "Yawn",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Struggle Bug",
+			"type": " Normal "
+		},
+		{
+			"level": 32,
+			"move": "Acid Armor",
+			"type": " Poison "
+		},
+		{
+			"level": 37,
+			"move": "Giga Drain",
+			"type": " Grass "
+		},
+		{
+			"level": 40,
+			"move": "Body Slam",
+			"type": " Normal "
+		},
+		{
+			"level": 44,
+			"move": "Bug Buzz",
+			"type": " Bug "
+		},
+		{
+			"level": 49,
+			"move": "Recover",
+			"type": " Normal "
+		},
+		{
+			"level": 50,
+			"move": "Guard Swap",
+			"type": " Psychic "
+		},
+		{
+			"level": 56,
+			"move": "Final Gambit",
+			"type": " Fighting "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM09",
+			"move": "Venoshock",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM53",
+			"move": "Energy Ball",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM76",
+			"move": "Struggle Bug",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+		{
+			"move": "Baton Pass",
+			"pokemon": [
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Ninjask"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Ledyba"},
+				{"pokemonName": "Ledian"},
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"},
+				{"pokemonName": "Volbeat"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"},
+				{"pokemonName": "Karrablast"},
+				{"pokemonName": "Escavalier"},
+				{"pokemonName": "Larvesta"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Encore",
+			"pokemon": [
+				{"pokemonName": "Shuckle"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Sewaddle"},
+				{"pokemonName": "Karrablast"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Feint",
+			"pokemon": [
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Heracross"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Yanmega"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Guard Split",
+			"pokemon": [
+				{"pokemonName": "Shuckle"}
+			],
+			"type": " Psychic "
+		},
+
+		{
+			"move": "Mind Reader",
+			"pokemon": [
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Ninjask"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Nincada"},
+				{"pokemonName": "Trapinch"},
+				{"pokemonName": "Vibrava"},
+				{"pokemonName": "Flygon"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Beedrill"},
+				{"pokemonName": "Scyther"},
+				{"pokemonName": "Scizor"},
+				{"pokemonName": "Yanma"},
+				{"pokemonName": "Yanega"},
+				{"pokemonName": "Venipede"},
+				{"pokemonName": "Whirlipede"},
+				{"pokemonName": "Scolipede"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Spikes",
+			"pokemon": [
+				{"pokemonName": "Pineco"},
+				{"pokemonName": "Forretress"}
+			],
+			"type": " Ground "
+		}
+	],
+	"tutorMoveList": [
+		"Bug Bite",
+		"Gastro Acid",
+		"Giga Drain",
+		"Signal Beam",
+		"Sleep Talk",
+		"Snore"
+
+	],
+	"locations": [
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{"Location": "Route 8, Icirrus City, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{"Location": "Routes (6, 8, 11), Icirrus City, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{"Location": "Routes (6, 8, 11), Icirrus City, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{"Location": "Routes 14 and 19"},
+		{"Location": "Routes 14 and 19"}
+	],
+	"abilities": [
+		"Hydration",
+		"Shell Armor",
+		"Overcoat"
+	],
+	"sets": [
+	]
+}

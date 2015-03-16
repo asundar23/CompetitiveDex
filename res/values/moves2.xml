@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="statusmoves">
+        <item>Acid Armor</item>
+		<item>Acupressure</item>
+		<item>After You</item>
+		<item>Agility</item>
+		<item>Ally Switch</item>
+		<item>Amnesia</item>
+		<item>Aqua Ring</item>
+		<item>Aromatherapy</item>
+		<item>Aromatic Mist</item>
+		<item>Assist</item>
+		<item>Attract</item>
+		<item>Autotomize</item>
+		<item>Baby-Doll Eyes</item>
+		<item>Barrier</item>
+		<item>Baton Pass</item>
+		<item>Belly Drum</item>
+		<item>Bestow</item>
+		<item>Block</item>
+		<item>Bulk Up</item>
+		<item>Calm Mind</item>
+		<item>Camouflage</item>
+		<item>Captivate</item>
+		<item>Celebrate</item>
+		<item>Charge</item>
+		<item>Charm</item>
+		<item>Coil</item>
+		<item>Confide</item>
+		<item>Confuse Ray</item>
+		<item>Conversion</item>
+		<item>Conversion 2</item>
+		<item>Copycat</item>
+		<item>Cosmic Power</item>
+		<item>Cotton Guard</item>
+		<item>Cotton Spore</item>
+		<item>Crafty Shield</item>
+		<item>Curse</item>
+		<item>Dark Void</item>
+		<item>Defend Order</item>
+		<item>Defense Curl</item>
+		<item>Defog</item>
+		<item>Destiny Bond</item>
+		<item>Detect</item>
+		<item>Disable</item>
+		<item>Double Team</item>
+		<item>Dragon Dance</item>
+		<item>Eerie Impulse</item>
+		<item>Electric Terrain</item>
+		<item>Electrify</item>
+		<item>Embargo</item>
+		<item>Encore</item>
+		<item>Endure</item>
+		<item>Entrainment</item>
+		<item>Fairy Lock</item>
+		<item>Fake Tears</item>
+		<item>Feather Dance</item>
+		<item>Flash</item>
+		<item>Flatter</item>
+		<item>Flower Shield</item>
+		<item>Focus Energy</item>
+		<item>Follow Me</item>
+		<item>Foresight</item>
+		<item>Forest\'s Curse</item>
+		<item>Gastro Acid</item>
+		<item>Geomancy</item>
+		<item>Glare</item>
+		<item>Grass Whistle</item>
+		<item>Grassy Terrain</item>
+		<item>Gravity</item>
+		<item>Growl</item>
+		<item>Growth</item>
+		<item>Grudge</item>
+		<item>Guard Split</item>
+		<item>Guard Swap</item>
+		<item>Hail</item>
+		<item>Happy Hour</item>
+		<item>Harden</item>
+		<item>Haze</item>
+		<item>Heal Bell</item>
+		<item>Heal Block</item>
+		<item>Heal Order</item>
+		<item>Heal Pulse</item>
+		<item>Healing Wish</item>
+		<item>Heart Swap</item>
+		<item>Helping Hand</item>
+		<item>Hone Claws</item>
+		<item>Howl</item>
+		<item>Hypnosis</item>
+		<item>Imprison</item>
+		<item>Ingrain</item>
+		<item>Ion Deluge</item>
+		<item>Iron Defense</item>
+		<item>Kinesis</item>
+		<item>King\'s Shield</item>
+		<item>Leech Seed</item>
+		<item>Leer</item>
+		<item>Light Screen</item>
+		<item>Lock-On</item>
+		<item>Lovely Kiss</item>
+		<item>Lucky Chant</item>
+		<item>Lunar Dance</item>
+		<item>Magic Coat</item>
+		<item>Magic Room</item>
+		<item>Magnet Rise</item>
+		<item>Magnetic Flux</item>
+		<item>Mat Block</item>
+		<item>Me First</item>
+		<item>Mean Look</item>
+		<item>Meditate</item>
+		<item>Memento</item>
+		<item>Metal Sound</item>
+		<item>Metronome</item>
+		<item>Milk Drink</item>
+		<item>Mimic</item>
+		<item>Mind Reader</item>
+		<item>Minimize</item>
+		<item>Miracle Eye</item>
+		<item>Mirror Move</item>
+		<item>Mist</item>
+		<item>Misty Terrain</item>
+		<item>Moonlight</item>
+		<item>Morning Sun</item>
+		<item>Mud Sport</item>
+		<item>Nasty Plot</item>
+		<item>Nature Power</item>
+		<item>Nightmare</item>
+		<item>Noble Roar</item>
+		<item>Odor Sleuth</item>
+		<item>Pain Split</item>
+		<item>Parting Shot</item>
+		<item>Perish Song</item>
+		<item>Play Nice</item>
+		<item>Poison Gas</item>
+		<item>Poison Powder</item>
+		<item>Powder</item>
+		<item>Power Split</item>
+		<item>Power Swap</item>
+		<item>Power Trick</item>
+		<item>Protect</item>
+		<item>Psych Up</item>
+		<item>Psycho Shift</item>
+		<item>Quash</item>
+		<item>Quick Guard</item>
+		<item>Quiver Dance</item>
+		<item>Rage Powder</item>
+		<item>Rain Dance</item>
+		<item>Recover</item>
+		<item>Recycle</item>
+		<item>Reflect</item>
+		<item>Reflect Type</item>
+		<item>Refresh</item>
+		<item>Rest</item>
+		<item>Roar</item>
+		<item>Rock Polish</item>
+		<item>Role Play</item>
+		<item>Roost</item>
+		<item>Rototiller</item>
+		<item>Safeguard</item>
+		<item>Sand Attack</item>
+		<item>Sandstorm</item>
+		<item>Scary Face</item>
+		<item>Screech</item>
+		<item>Sharpen</item>
+		<item>Shell Smash</item>
+		<item>Shift Gear</item>
+		<item>Simple Beam</item>
+		<item>Sing</item>
+		<item>Sketch</item>
+		<item>Skill Swap</item>
+		<item>Slack Off</item>
+		<item>Sleep Powder</item>
+		<item>Sleep Talk</item>
+		<item>Smokescreen</item>
+		<item>Snatch</item>
+		<item>Soak</item>
+		<item>Soft-Boiled</item>
+		<item>Spider Web</item>
+		<item>Spikes</item>
+		<item>Spiky Shield</item>
+		<item>Spite</item>
+		<item>Splash</item>
+		<item>Spore</item>
+		<item>Stealth Rock</item>
+		<item>Sticky Web</item>
+		<item>Stockpile</item>
+		<item>String Shot</item>
+		<item>Stun Spore</item>
+		<item>Substitute</item>
+		<item>Sunny Day</item>
+		<item>Supersonic</item>
+		<item>Swagger</item>
+		<item>Swallow</item>
+		<item>Sweet Kiss</item>
+		<item>Sweet Scent</item>
+		<item>Switcheroo</item>
+		<item>Swords Dance</item>
+		<item>Synthesis</item>
+		<item>Tail Glow</item>
+		<item>Tail Whip</item>
+		<item>Tailwind</item>
+		<item>Taunt</item>
+		<item>Teeter Dance</item>
+		<item>Telekinesis</item>
+		<item>Teleport</item>
+		<item>Thunder Wave</item>
+		<item>Tickle</item>
+		<item>Topsy-Turvy</item>
+		<item>Torment</item>
+		<item>Toxic</item>
+		<item>Toxic Spikes</item>
+		<item>Transform</item>
+		<item>Trick</item>
+		<item>Trick Room</item>
+		<item>Trick-or-Treat</item>
+		<item>Venom Drench</item>
+		<item>Water Sport</item>
+		<item>Whirlwind</item>
+		<item>Wide Guard</item>
+		<item>Will-O-Wisp</item>
+		<item>Wish</item>
+		<item>Withdraw</item>
+		<item>Wonder Room</item>
+		<item>Work Up</item>
+		<item>Worry Seed</item>
+		<item>Yawn</item>
+    </string-array>
+    
+    <string-array name="status_power">
+        <item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+
+<item>--</item>
+    </string-array>
+    
+    <string-array name="status_accuracy">
+        <item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>80%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>90%</item>
+
+<item>55%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>60%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>80%</item>
+
+<item>--%</item>
+
+<item>90%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>75%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>85%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>80%</item>
+
+<item>75%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>90%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>85%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>55%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>75%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>95%</item>
+
+<item>75%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>55%</item>
+
+<item>90%</item>
+
+<item>--%</item>
+
+<item>75%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>90%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+
+<item>75%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>--%</item>
+
+<item>100%</item>
+
+<item>--%</item>
+    </string-array>
+    
+    <string-array name ="status_moves_types">
+        <item>Poison</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Water</item>
+		<item>Grass</item>
+		<item>Fairy</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Steel</item>
+		<item>Fairy</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Fighting</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Electric</item>
+		<item>Fairy</item>
+		<item>Poison</item>
+		<item>Normal</item>
+		<item>Ghost</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Grass</item>
+		<item>Grass</item>
+		<item>Fairy</item>
+		<item>Ghost</item>
+		<item>Dark</item>
+		<item>Bug</item>
+		<item>Normal</item>
+		<item>Flying</item>
+		<item>Ghost</item>
+		<item>Fighting</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Dragon</item>
+		<item>Electric</item>
+		<item>Electric</item>
+		<item>Electric</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Fairy</item>
+		<item>Dark</item>
+		<item>Flying</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Fairy</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Poison</item>
+		<item>Fairy</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Grass</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Ghost</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Ice</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Ice</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Bug</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Grass</item>
+		<item>Electric</item>
+		<item>Steel</item>
+		<item>Psychic</item>
+		<item>Steel</item>
+		<item>Grass</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Electric</item>
+		<item>Electric</item>
+		<item>Fighting</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Dark</item>
+		<item>Steel</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Flying</item>
+		<item>Ice</item>
+		<item>Fairy</item>
+		<item>Fairy</item>
+		<item>Normal</item>
+		<item>Ground</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Ghost</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Poison</item>
+		<item>Poison</item>
+		<item>Bug</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Dark</item>
+		<item>Fighting</item>
+		<item>Bug</item>
+		<item>Bug</item>
+		<item>Water</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Rock</item>
+		<item>Psychic</item>
+		<item>Flying</item>
+		<item>Ground</item>
+		<item>Normal</item>
+		<item>Ground</item>
+		<item>Rock</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Steel</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Water</item>
+		<item>Normal</item>
+		<item>Bug</item>
+		<item>Ground</item>
+		<item>Grass</item>
+		<item>Ghost</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Rock</item>
+		<item>Bug</item>
+		<item>Normal</item>
+		<item>Bug</item>
+		<item>Grass</item>
+		<item>Normal</item>
+		<item>Fire</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Normal</item>
+		<item>Fairy</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Bug</item>
+		<item>Normal</item>
+		<item>Flying</item>
+		<item>Dark</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Electric</item>
+		<item>Normal</item>
+		<item>Dark</item>
+		<item>Dark</item>
+		<item>Poison</item>
+		<item>Poison</item>
+		<item>Normal</item>
+		<item>Psychic</item>
+		<item>Psychic</item>
+		<item>Ghost</item>
+		<item>Poison</item>
+		<item>Water</item>
+		<item>Normal</item>
+		<item>Rock</item>
+		<item>Fire</item>
+		<item>Normal</item>
+		<item>Water</item>
+		<item>Psychic</item>
+		<item>Normal</item>
+		<item>Grass</item>
+		<item>Normal</item>
+    </string-array>
+    
+    
+</resources>

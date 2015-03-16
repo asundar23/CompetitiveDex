@@ -1,0 +1,22 @@
+{
+	"name": "Techno Blast",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and its type depends on the drive Genesect is holding. It can be either Electric, Fire, Ice, or Water.",
+	"viability": "Because of its great base power, Genesect can actually use this move now. Douse Drive is pretty good because it serves as coverage for Genesect's only weakness: Fire. Putting a Choice Scarf is usually better on Genesect, though, and to use this move effectively you need a drive.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Genesect" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

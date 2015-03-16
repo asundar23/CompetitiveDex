@@ -1,0 +1,527 @@
+{ 
+	 "name": "Zigzagoon",
+	"types": [
+		" Normal "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"setCheck": "0",
+   "preEvolution":[
+   		{ "pokemonName":"Zigzagoon" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Linoone" }
+   	],
+   "evolutionType":[
+   		"Level 20"
+   ],
+	"stats": [
+		38,
+		30,
+		41,
+		30,
+		41,
+		60
+	],
+	"ORASMoveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 11,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Baby-Doll Eyes",
+			"type": " Fairy "
+		},
+		{
+			"level": 13,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 17,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 19,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 23,
+			"move": "Covet",
+			"type": " Normal "
+		},
+		{
+			"level": 25,
+			"move": "Bestow",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 35,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 37,
+			"move": "Belly Drum",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Fling",
+			"type": " Dark "
+		}
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Tail Whip",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Headbutt",
+			"type": " Normal "
+		},
+		{
+			"level": 11,
+			"move": "Baby-Doll Eyes",
+			"type": " Fairy "
+		},
+		{
+			"level": 13,
+			"move": "Sand Attack",
+			"type": " Ground "
+		},
+		{
+			"level": 17,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 21,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 25,
+			"move": "Fury Swipes",
+			"type": " Normal "
+		},
+		{
+			"level": 29,
+			"move": "Covet",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Bestow",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 41,
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"level": 45,
+			"move": "Belly Drum",
+			"type": " Normal "
+		},
+		{
+			"level": 49,
+			"move": "Fling",
+			"type": " Dark "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM24",
+			"move": "Thunderbolt",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM25",
+			"move": "Thunder",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM30",
+			"move": "Shadow Ball",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM46",
+			"move": "Thief",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM67",
+			"move": "Retaliate",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Charm",
+			"pokemon": [
+				{"pokemonName": "Pikachu"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Teddiursa"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Pachirisu"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Lopunny"},
+				{"pokemonName": "Glameow"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Cubchoo"},
+				{"pokemonName": "Furfrou"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"},
+				{"pokemonName": "Dedenne"}
+			],
+			"type": " Fairy "
+		},
+
+		{
+			"move": "Helping Hand",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Vaporeon"},
+				{"pokemonName": "Jolteon"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Espeon"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Leafeon"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sylveon"},
+				{"pokemonName": "Sentret"},
+				{"pokemonName": "Furret"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"},
+				{"pokemonName": "Female Meowstic"},
+{"pokemonName": "Male Meowstic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Mud-Slap",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"},
+				{"pokemonName": "Buneary"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Pursuit",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Umbreon"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Buizel"},
+				{"pokemonName": "Floatzel"},
+				{"pokemonName": "Purrloin"},
+				{"pokemonName": "Liepard"},
+				{"pokemonName": "Blitzle"},
+				{"pokemonName": "Zebstrika"},
+				{"pokemonName": "Zorua"},
+				{"pokemonName": "Zoroark"},
+				{"pokemonName": "Emolga"},
+				{"pokemonName": "Bouffalant"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Rock Climb",
+			"pokemon": [
+				{"pokemonName": "Scraggy"},
+				{"pokemonName": "Scrafty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Simple Beam",
+			"pokemon": [
+				{"pokemonName": "Skitty"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Tickle",
+			"pokemon": [
+				{"pokemonName": "Aipom"},
+				{"pokemonName": "Ambipom"},
+				{"pokemonName": "Minccino"},
+				{"pokemonName": "Cinccino"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Trick",
+			"pokemon": [
+				{"pokemonName": "Spinda"}
+			],
+			"type": " Psychic "
+		}
+	],
+	"tutorMoveList": [
+		"Covet",
+		"Gunk Shot",
+		"Helping Hand",
+		"Hyper Voice",
+		"Icy Wind",
+		"Iron Tail",
+		"Last Resort",
+		"Seed Bomb",
+		"Sleep Talk",
+		"Snore",
+		"Super Fang",
+		"Trick"
+
+	],
+	"locations": [
+		{"Location": "Route 202 (Swarm)"},
+		{"Location": "Route 202 (Swarm)"},
+		{"Location": "Route 202 (Swarm)"},
+		{"Location": "Safari Zone, Sprout Tower, Bell Tower, Burned Tower (Hoenn Sound)"},
+		{"Location": "Safari Zone, Sprout Tower, Bell Tower, Burned Tower (Hoenn Sound)"},
+		{"Location": "Field"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Poké Transfer"},
+		{"Location": "Route 2"},
+		{"Location": "Route 2"}
+	],
+	"abilities": [
+		"Pickup",
+		"Gluttony",
+		"Quick Feet"
+	],
+	"sets": [
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Leaf Tornado",
+	"note": "",
+	"type":" Grass ",
+	"category": "Sepcial",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "90",
+	"summary": "Deals damage, and has a 50% chance to lower the target's accuracy.",
+	"viability": "Leaf Tornado is not a bad move, but lacks the power. You're essentially banking everything on the target's accuracy dropping, which while a high chance, simply isn't enough. It's up to you if you want to use this move, but overall it's not too good of a risk.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Victreebel" },
+		{ "pokemonName": "Shiftry" },
+		{ "pokemonName": "Tropius" },
+		{ "pokemonName": "Carnivine" },
+		{ "pokemonName": "Snivy" },
+		{ "pokemonName": "Servine" },
+		{ "pokemonName": "Serperior" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

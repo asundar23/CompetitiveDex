@@ -1,0 +1,23 @@
+{
+	"name": "Jynx",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "75",
+	"summary": "Causes the target to fall aleep.",
+	"viability": "Jynx's signature move is average. It's not a bad move to run, but it's like using Sleep Powder. If you are okay with the lower accuracy, by all means use it. It's just a better idea to be attacking with a frail Pokemon like Jynx.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Jynx" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Smoochum" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

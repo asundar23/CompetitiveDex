@@ -1,0 +1,16 @@
+{
+	"name":"Marvel Scale",
+	"summary": "Raises the Defense stat by 50% if the Pokémon is suffering from a status condition.",
+	"viability": "This alone is the reason Milotic is such a problem, especially the Rest variant. The best way to take down a wall like Milotic is through status conditions like Toxic, but it comes at the cost of raising a decent Defense to a very good Defense. In addition, due to Milotic's special bulk, it becomes a mixed wall of sorts, making it tough to take down.",
+	"pokemon":[
+		{
+			"pokemonName": "Dratini"
+		},
+		{
+			"pokemonName": "Dragonair"
+		},
+		{
+			"pokemonName": "Milotic"
+		}
+	]
+}

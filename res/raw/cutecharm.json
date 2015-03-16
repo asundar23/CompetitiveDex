@@ -1,0 +1,46 @@
+{
+	"name":"Cute Charm",
+	"summary": "When hit by a contact move, the opponent has a 30% chance of becoming infatuated with the user, given that they are both opposite genders.",
+	"viability": "This is not a very good ability. First of all, all the Pokémon that get Cute Charm have access to far better abilities. Second, even though 30% is pretty good, infatuation isn't a very reliable status condition. Third, you're also banking on the fact that the opponent will be a different gender, when that necessarily won't be the case. Don't run Cute Charm under any circumstance.",
+	"pokemon":[
+		{
+			"pokemonName": "Clefairy"
+		},
+		{
+			"pokemonName": "Clefable"
+		},
+		{
+			"pokemonName": "Jigglypuff"
+		},
+		{
+			"pokemonName": "Wigglytuff"
+		},
+		{
+			"pokemonName": "Cleffa"
+		},
+		{
+			"pokemonName": "Igglybuff"
+		},
+		{
+			"pokemonName": "Skitty"
+		},
+		{
+			"pokemonName": "Delcatty"
+		},
+		{
+			"pokemonName": "Milotic"
+		},
+		{
+			"pokemonName": "Lopunny"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Cinccino"
+		},
+		{
+			"pokemonName": "Sylveon"
+		}
+	]
+}

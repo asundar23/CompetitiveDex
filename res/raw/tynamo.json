@@ -1,0 +1,86 @@
+{
+	"name":"Tynamo",
+	"types": [
+		"Electric"
+	],
+	"eggGroup": [
+		"Amorphous"
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Tynamo" },
+   		{ "pokemonName":"Eelektrik" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Eelektrik" },
+   		{ "pokemonName":"Eelektross" }
+   ],
+   "evolutionType":[
+   		"Level 39",
+   		"Thunder Stone"
+   ],
+	"abilities": [
+		"Levitate"
+	],
+	"locations": [
+		{"Location": "Chargestone Cave"},
+		{"Location": "Chargestone Cave"},
+		{"Location": "Chargestone Cave, Seaside Cave"},
+		{"Location": "Chargestone Cave, Seaside Cave"},
+		{"Location": "Poké Transporter"},
+		{"Location": "Poké Transporter"}
+	],
+	"stats": [
+		35,
+		55,
+		40,
+		45,
+		40,
+		60
+	],
+	"moveList": [
+		{
+			"level": 1,
+			"move": "Tackle",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Thunder Wave",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Spark",
+			"type": " Electric "
+		},
+		{
+			"level": 1,
+			"move": "Charge Beam",
+			"type": " Electric "
+		}
+	],
+	"tmMoveList": [
+		
+		{
+			"tm": "TM57",
+			"move": "Charge Beam",
+			"type": " Electric "
+		},
+		{
+			"tm": "TM73",
+			"move": "Thunder Wave",
+			"type": " Electric "
+		}
+	],
+	"hmMoveList": [
+
+	],
+	"breedMoveList": [
+	],
+	"tutorMoveList": [
+		"Magnet Rise"
+	],
+	"sets": [
+	]
+}

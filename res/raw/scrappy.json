@@ -1,0 +1,37 @@
+{
+	"name":"Scrappy",
+	"summary": "Causes Ghost-type Pokémon to be hit by Normal and Fighting type moves.",
+	"viability": "Scrappy eliminates the need to overpredict for Ghost types; you can simply hit the opponent. It's a very good ability for the powerful Pokémon that have access to it, like Stoutland, Pangoro, and Kangaskhan.",
+	"pokemon":[
+		{
+			"pokemonName": "Kangaskhan"
+		},
+		{
+			"pokemonName": "Miltank"
+		},
+		{
+			"pokemonName": "Taillow"
+		},
+		{
+			"pokemonName": "Swellow"
+		},
+		{
+			"pokemonName": "Loudred"
+		},
+		{
+			"pokemonName": "Exploud"
+		},
+		{
+			"pokemonName": "Herdier"
+		},
+		{
+			"pokemonName": "Stoutland"
+		},
+		{
+			"pokemonName": "Pancham"
+		},
+		{
+			"pokemonName": "Pangoro"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "Baby-Doll Eyes",
+	"note": "",
+	"type": " Fairy ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "This move has a priority of +1 and lowers the target's Attack.",
+	"viability": "Stat-lowering moves aren't really recommended due to the fact that the target can just switch out. That said, it can be useful against a Swords Dance, Hone Claws, Coil, or Dragon Dance user. The increased priority should help a lot with controlling a sweeper. It's not going to be anyone's first choIce for a move slot, but it has a certain purpose.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Vulpix"
+		},
+		{
+			"pokemonName": "Eevee"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		},
+		{
+			"pokemonName": "Zigzagoon"
+		},
+		{
+			"pokemonName": "Shinx"
+		},
+		{
+			"pokemonName": "Buneary"
+		},
+		{
+			"pokemonName": "Lillipup"
+		},
+		{
+			"pokemonName": "Minccino"
+		},
+		{
+			"pokemonName": "Furfrou"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name":"Stall",
+	"summary": "Causes the Pokémon to move last within its priority bracket. This means that if two Pokémon are using moves of the same priority, the one with Stall will go second.",
+	"viability": "Sableye has Prankster. Use that instead.",
+	"pokemon":[
+		{
+			"pokemonName": "Sableye"
+		}
+	]
+}

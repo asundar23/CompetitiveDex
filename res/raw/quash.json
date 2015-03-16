@@ -1,0 +1,46 @@
+{
+	"name": "Quash",
+	"note": "",
+	"type":" Dark ",
+	"category": "Status",
+	"pp": "15",
+	"power": "--",
+	"accuracy": "100",
+	"summary": "The target of Quash will go last that turn, provided it hasn't gone yet.",
+	"viability": "Quash is a terrible move to use, even in Doubles and Triples. You are far better off using Thunder Wave, Icy Wind/Electroweb, or even Trick Room. Quash is just a waste of a moveslot.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Murkrow" },
+		{ "pokemonName": "Sableye" },
+		{ "pokemonName": "Honchkrow" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pancham" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	{"pokemonName": "Nidoqueen" },
+{"pokemonName": "Nidoking" },
+{"pokemonName": "Kingler" },
+{"pokemonName": "Mew" },
+{"pokemonName": "Murkrow" },
+{"pokemonName": "Slowking" },
+{"pokemonName": "Kingdra" },
+{"pokemonName": "Raikou" },
+{"pokemonName": "Entei" },
+{"pokemonName": "Suicune" },
+{"pokemonName": "Slaking" },
+{"pokemonName": "Piplup" },
+{"pokemonName": "Prinplup" },
+{"pokemonName": "Empoleon" },
+{"pokemonName": "Vespiquen" },
+{"pokemonName": "Honchkrow" },
+{"pokemonName": "Spiritomb" },
+{"pokemonName": "Arceus" },
+{"pokemonName": "Pangoro" },
+{"pokemonName": "Hoopa" },
+{"pokemonName": "Hoopa-Unbound" }
+	]
+}

@@ -1,0 +1,518 @@
+{ 
+	 "name": "Haxorus",
+	"types": [
+		" Dragon "
+	],
+	"eggGroup": [
+		" Monster ",
+		" Dragon "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Axew" },
+   		{ "pokemonName":"Fraxure" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Fraxure" },
+   		{ "pokemonName":"Haxorus" }
+   ],
+   "evolutionType":[
+   		"Level 38",
+   		"Level 48"
+   ],
+	"stats": [
+		76,
+		147,
+		90,
+		60,
+		70,
+		97
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 1,
+			"move": "Scratch",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 1,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 4,
+			"move": "Leer",
+			"type": " Normal "
+		},
+		{
+			"level": 7,
+			"move": "Assurance",
+			"type": " Dark "
+		},
+		{
+			"level": 10,
+			"move": "Dragon Rage",
+			"type": " Dragon "
+		},
+		{
+			"level": 13,
+			"move": "Dual Chop",
+			"type": " Dragon "
+		},
+		{
+			"level": 16,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 20,
+			"move": "Slash",
+			"type": " Normal "
+		},
+		{
+			"level": 24,
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"level": 32,
+			"move": "Dragon Dance",
+			"type": " Dragon "
+		},
+		{
+			"level": 36,
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"level": 42,
+			"move": "Dragon Pulse",
+			"type": " Dragon "
+		},
+		{
+			"level": 50,
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"level": 58,
+			"move": "Guillotine",
+			"type": " Normal "
+		},
+		{
+			"level": 66,
+			"move": "Outrage",
+			"type": " Dragon "
+		},
+		{
+			"level": 74,
+			"move": "Giga Impact",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM01",
+			"move": "Hone Claws",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM02",
+			"move": "Dragon Claw",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM11",
+			"move": "Sunny Day",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM12",
+			"move": "Taunt",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM31",
+			"move": "Brick Break",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM40",
+			"move": "Aerial Ace",
+			"type": " Flying "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM52",
+			"move": "Focus Blast",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM54",
+			"move": "False Swipe",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM56",
+			"move": "Fling",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM59",
+			"move": "Incinerate",
+			"type": " Fire "
+		},
+		{
+			"tm": "TM65",
+			"move": "Shadow Claw",
+			"type": " Ghost "
+		},
+		{
+			"tm": "TM66",
+			"move": "Payback",
+			"type": " Dark "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM75",
+			"move": "Swords Dance",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM70",
+			"move": "Flash",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM81",
+			"move": "X-Scissor",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM82",
+			"move": "Dragon Tail",
+			"type": " Dragon "
+		},
+		{
+			"tm": "TM84",
+			"move": "Poison Jab",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM86",
+			"move": "Grass Knot",
+			"type": " Grass "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM01",
+			"move": "Cut",
+			"type": " Normal "
+		},
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		},
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Counter",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Chikorita"},
+				{"pokemonName": "Scraggy"}
+			],
+			"type": " Fighting "
+		},
+
+		{
+			"move": "Dragon Pulse",
+			"pokemon": [
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Swablu"},
+				{"pokemonName": "Altaria"},
+				{"pokemonName": "Axew"},
+				{"pokemonName": "Fraxure"},
+				{"pokemonName": "Haxorus"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweiloud"},
+				{"pokemonName": "Hydreigon"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Goomy"},
+				{"pokemonName": "Sliggoo"},
+				{"pokemonName": "Goodra"}
+			],
+			"type": " Dragon "
+		},
+
+		{
+			"move": "Endeavor",
+			"pokemon": [
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "Rampardos"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Endure",
+			"pokemon": [
+				{"pokemonName": "Shieldon"},
+				{"pokemonName": "Bastiodon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Focus Energy",
+			"pokemon": [
+				{"pokemonName": "Nidoran♂"},
+				{"pokemonName": "Nidorino"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Cubone"},
+				{"pokemonName": "Marowak"},
+				{"pokemonName": "Horsea"},
+				{"pokemonName": "Seadra"},
+				{"pokemonName": "Kingdra"},
+				{"pokemonName": "Bagon"},
+				{"pokemonName": "Shelgon"},
+				{"pokemonName": "Salamence"},
+				{"pokemonName": "Cranidos"},
+				{"pokemonName": "Rampardos"},
+				{"pokemonName": "Deino"},
+				{"pokemonName": "Zweilous"},
+				{"pokemonName": "Hydreigon"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Harden",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"},
+				{"pokemonName": "Bergmite"},
+				{"pokemonName": "Avalugg"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Iron Tail",
+			"pokemon": [
+				{"pokemonName": "Aron"},
+				{"pokemonName": "Lairon"},
+				{"pokemonName": "Aggron"}
+			],
+			"type": " Steel "
+		},
+
+		{
+			"move": "Night Slash",
+			"pokemon": [
+				{"pokemonName": "Sceptile"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Druddigon"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Razor Wind",
+			"pokemon": [
+				{"pokemonName": "Helioptile"},
+				{"pokemonName": "Heliolisk"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Reversal",
+			"pokemon": [
+				{"pokemonName": "Rhydon"}
+			],
+			"type": " Fighting "
+		}
+	],
+	"tutorMoveList": [
+		"Aqua Tail",
+		"Draco Meteor",
+		"Dragon Pulse",
+		"Dual Chop",
+		"Endeavor",
+		"Iron Tail",
+		"Low Kick",
+		"Outrage",
+		"Sleep Talk",
+		"Snore",
+		"Superpower"
+
+	],
+	"locations": [
+		{"Location": "Evolve Fraxure"},
+		{"Location": "Evolve Fraxure"},
+		{"Location": "Nature Preserve (One which is Shiny)"},
+		{"Location": "Nature Preserve (One which is Shiny)"},
+		{"Location": "Evolve Fraxure"},
+		{"Location": "Evolve Fraxure"}
+	],
+	"abilities": [
+		"Rivalry",
+		"Mold Breaker",
+		"Unnerve"
+	],
+	"sets": [
+	]
+}

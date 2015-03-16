@@ -1,0 +1,29 @@
+{
+	"name": "Ion Deluge",
+	"note": "",
+	"type":" Electric ",
+	"category": "Status",
+	"pp": "25",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "For the remainder of the turn, all Normal-type moves used by any Pokemon in the field become Electric-type, including status moves.",
+	"viability": "Ion Deluge can make for some interesting effects in Doubles and Triples. For example, having a Pokemon like Manectric with Lightning Rod can force a move like Return or Hyper Voice to become Electric type, activating Lightning Rod. A lot of work, yes, but that's just an example of how it can work. You can also prevent normal moves on Ground types with this move.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Chinchou" },
+		{ "pokemonName": "Lanturn" },
+		{ "pokemonName": "Ampharos" },
+		{ "pokemonName": "Electivire" },
+		{ "pokemonName": "Zebstrika" },
+		{ "pokemonName": "Eelektross" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Pachirisu" },
+		{ "pokemonName": "Emolga" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

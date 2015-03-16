@@ -1,0 +1,38 @@
+{
+	"name": "Guard Split",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Averages the user's Defense and Special Defense stats with those of the target. Ignores all stat changes.",
+	"viability": "Guard Split is very gimmicky, but can be helpful. In Doubles and Triples, Shuckle can actually help out a more frail teammate.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Shuckle" },
+		{ "pokemonName": "Baltoy" },
+		{ "pokemonName": "Claydol" },
+		{ "pokemonName": "Latias" },
+		{ "pokemonName": "Yamask" },
+		{ "pokemonName": "Cofagrigus" },
+		{ "pokemonName": "Elgyem" },
+		{ "pokemonName": "Beheeyem" },
+		{ "pokemonName": "Carbink" },
+		{ "pokemonName": "Diancie" },
+		{ "pokemonName": "Hoopa" },
+		{ "pokemonName": "Hoopa-Unbound" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Abra" },
+		{ "pokemonName": "Rhyhorn" },
+		{ "pokemonName": "Spinda" },
+		{ "pokemonName": "Shieldon" },
+		{ "pokemonName": "Shelmet" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

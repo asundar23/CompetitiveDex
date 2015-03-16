@@ -1,0 +1,664 @@
+{ 
+	 "name": "Mamoswine",
+	"types": [
+		" Ice ",
+		" Ground "
+	],
+	"eggGroup": [
+		" Field "
+	],
+	"stats": [
+		116,
+		130,
+		80,
+		70,
+		60,
+		80
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Scary Face",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Ancient Power",
+			"type": " Rock "
+		},
+		{
+			"level": 1,
+			"move": "Peck",
+			"type": " Flying "
+		},
+		{
+			"level": 1,
+			"move": "Odor Sleuth",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 1,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 5,
+			"move": "Mud Sport",
+			"type": " Ground "
+		},
+		{
+			"level": 8,
+			"move": "Powder Snow",
+			"type": " Ice "
+		},
+		{
+			"level": 11,
+			"move": "Mud-Slap",
+			"type": " Ground "
+		},
+		{
+			"level": 14,
+			"move": "Endure",
+			"type": " Normal "
+		},
+		{
+			"level": 18,
+			"move": "Mud Bomb",
+			"type": " Ground "
+		},
+		{
+			"level": 21,
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"level": 24,
+			"move": "Ice Fang",
+			"type": " Ice "
+		},
+		{
+			"level": 28,
+			"move": "Take Down",
+			"type": " Normal "
+		},
+		{
+			"level": 33,
+			"move": "Double Hit",
+			"type": " Normal "
+		},
+		{
+			"level": 37,
+			"move": "Mist",
+			"type": " Ice "
+		},
+		{
+			"level": 41,
+			"move": "Thrash",
+			"type": " Normal "
+		},
+		{
+			"level": 46,
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"level": 52,
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"level": 58,
+			"move": "Scary Face",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM05",
+			"move": "Roar",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM13",
+			"move": "Ice Beam",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM14",
+			"move": "Blizzard",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM15",
+			"move": "Hyper Beam",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM16",
+			"move": "Light Screen",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM26",
+			"move": "Earthquake",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM28",
+			"move": "Dig",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM33",
+			"move": "Reflect",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM37",
+			"move": "Sandstorm",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM39",
+			"move": "Rock Tomb",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM68",
+			"move": "Giga Impact",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM71",
+			"move": "Stone Edge",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM80",
+			"move": "Rock Slide",
+			"type": " Rock "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM04",
+			"move": "Strength",
+			"type": " Normal "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "Ancient Power",
+			"pokemon": [
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Kacleon"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Avalanche",
+			"pokemon": [
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Glaceon"},
+				{"pokemonName": "Sneasel"},
+				{"pokemonName": "Weavile"},
+				{"pokemonName": "Ursaring"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Delibird"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Wailmer"},
+				{"pokemonName": "Wailord"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Bite",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Ekans"},
+				{"pokemonName": "Arbok"},
+				{"pokemonName": "Meowth"},
+				{"pokemonName": "Persian"},
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Arcanine"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Flareon"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Houndour"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Electrike"},
+				{"pokemonName": "Manectric"},
+				{"pokemonName": "Loudred"},
+				{"pokemonName": "Exploud"},
+				{"pokemonName": "Seviper"},
+				{"pokemonName": "Absol"},
+				{"pokemonName": "Shinx"},
+				{"pokemonName": "Luxio"},
+				{"pokemonName": "Luxray"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Patrat"},
+				{"pokemonName": "Watchog"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Pansage"},
+				{"pokemonName": "Pansear"},
+				{"pokemonName": "Panpour"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Dark "
+		},
+
+		{
+			"move": "Body Slam",
+			"pokemon": [
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Walrein"},
+				{"pokemonName": "Purugly"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Pancham"},
+				{"pokemonName": "Pangoro"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Curse",
+			"pokemon": [
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"}
+			],
+			"type": " Ghost "
+		},
+
+		{
+			"move": "Double-Edge",
+			"pokemon": [
+				{"pokemonName": "Rattata"},
+				{"pokemonName": "Raticate"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Cyndaquil"},
+				{"pokemonName": "Quilava"},
+				{"pokemonName": "Typhlosion"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Skitty"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Spinda"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Fissure",
+			"pokemon": [
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Freeze-Dry",
+			"pokemon": [
+				{"pokemonName": "Delibird"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Icicle Crash",
+			"pokemon": [
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Icicle Spear",
+			"pokemon": [
+				{"pokemonName": "Beartic"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Mud Shot",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quillading"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Stealth Rock",
+			"pokemon": [
+				{"pokemonName": "Sandshrew"},
+				{"pokemonName": "Sandslash"},
+				{"pokemonName": "Nidoking"},
+				{"pokemonName": "Diglett"},
+				{"pokemonName": "Dugtrio"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Donphan"},
+				{"pokemonName": "Mawile"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Torkoal"},
+				{"pokemonName": "Kecleon"},
+				{"pokemonName": "Chimchar"},
+				{"pokemonName": "Monferno"},
+				{"pokemonName": "Infernape"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "BIbarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Drilbur"},
+				{"pokemonName": "Excadrill"},
+				{"pokemonName": "Sandile"},
+				{"pokemonName": "Krokorok"},
+				{"pokemonName": "Krookodile"}
+			],
+			"type": " Rock "
+		},
+
+		{
+			"move": "Take Down",
+			"pokemon": [
+				{"pokemonName": "Growlithe"},
+				{"pokemonName": "Ponyta"},
+				{"pokemonName": "Rapidash"},
+				{"pokemonName": "Seel"},
+				{"pokemonName": "Dewgong"},
+				{"pokemonName": "Rhyhorn"},
+				{"pokemonName": "Rhydon"},
+				{"pokemonName": "Rhyperior"},
+				{"pokemonName": "Tauros"},
+				{"pokemonName": "Eevee"},
+				{"pokemonName": "Mareep"},
+				{"pokemonName": "Flaaffy"},
+				{"pokemonName": "Ampharos"},
+				{"pokemonName": "Dunsparce"},
+				{"pokemonName": "Snubbull"},
+				{"pokemonName": "Granbull"},
+				{"pokemonName": "Swinub"},
+				{"pokemonName": "Piloswine"},
+				{"pokemonName": "Mamoswine"},
+				{"pokemonName": "Phanpy"},
+				{"pokemonName": "Stantler"},
+				{"pokemonName": "Poochyena"},
+				{"pokemonName": "Mightyena"},
+				{"pokemonName": "Numel"},
+				{"pokemonName": "Camerupt"},
+				{"pokemonName": "Bidoof"},
+				{"pokemonName": "Bibarel"},
+				{"pokemonName": "Hippopotas"},
+				{"pokemonName": "Hippowdon"},
+				{"pokemonName": "Tepig"},
+				{"pokemonName": "Pignite"},
+				{"pokemonName": "Emboar"},
+				{"pokemonName": "Lillipup"},
+				{"pokemonName": "Herdier"},
+				{"pokemonName": "Stoutland"},
+				{"pokemonName": "Deerling"},
+				{"pokemonName": "Sawsbuck"},
+				{"pokemonName": "Chespin"},
+				{"pokemonName": "Quilladin"},
+				{"pokemonName": "Chesnaught"},
+				{"pokemonName": "Bunnelby"},
+				{"pokemonName": "Diggersby"},
+				{"pokemonName": "Litleo"},
+				{"pokemonName": "Male Pyroar"},
+				{"pokemonName": "Female Pyroar"},
+				{"pokemonName": "Skiddo"},
+				{"pokemonName": "Gogoat"},
+				{"pokemonName": "Furfrou"}
+			],
+			"type": " Normal "
+		}
+	],
+	"tutorMoveList": [
+		"Block",
+		"Earth Power",
+		"Endeavor",
+		"Icy Wind",
+		"Iron Head",
+		"Knock Off",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Superpower"
+
+	],
+	"locations": [
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Giant Chasm (Rustling Grass)"},
+		{ "Location": "Giant Chasm (Rustling Grass)"},
+		{ "Location": "Giant Chasm (Rustling Grass)"},
+		{ "Location": "Giant Chasm (Rustling Grass)"},
+		{ "Location": "Evolve Piloswine"},
+		{ "Location": "Evolve Piloswine"}
+
+	],
+	"abilities": [
+		"Oblivious",
+		"Snow Cloak",
+		"Thick Fat"
+	],
+	"sets": [
+	
+		{
+		"name": "Stealth Rock Lead",
+		"item": [
+			"Focus Sash"
+		],
+		"ability": "Oblivious",
+		"nature": [
+			"Jolly",
+			"Adamant"
+		],
+		"evs": [
+			"252 Attack",
+			"252 Speed",
+			"4 Defense"
+		],
+		"moves": [
+			"Stealth Rock",
+			"Endeavor",
+			"Ice Shard",
+			"Earthquake"
+		],
+		"alternativemoves": [
+			"Icicle Crash",
+			"Superpower"
+		],
+		"setexplanation": "Mamoswine is one of the best font color='#FFB2B2'><strong>Stealth Rock</</font> users, period. Not only can it not be susceptible to <font color='#FFB2B2'><strong>Taunt</</font> because of Oblivious, it can also hit extremely hard. With a massive Attack and passable Speed, <font color='#FFB2B2'><strong>Earthquake</</font> and <font color='#FFB2B2'><strong>Ice Shard</</font> will do much damage.<br /><br /> <font color='#FFB2B2'><strong>Ice Shard</</font> is used mainly for revenge killing <font color='#9999E6'><strong>Latios</</font>, <font color='#9999E6'><strong>Latias</</font>, or really any other Dragon-type. It's a great priority move and does a lot of damage due to Mamoswine's power. <font color='#FFB2B2'><strong>Earthquake</</font> might be the best attack in the entire game, so it's an obvious choIce to go with that.<br /><br /> <font color='#FFB2B2'><strong>Stealth Rock</</font> is the bread and butter of this set, though. As mentioned before, Mamoswine is immune to <font color='#FFB2B2'><strong>Taunt</</font> due to Oblivious, so it will most likely be able to set up rocks easily. <font color='#FFB2B2'><strong>Endeavor</</font> rounds out this set, taking advantage of Mamoswine's decent Speed.<br /><br /> <font color='#FFB2B2'><strong>Endeavor</</font> brings the target down to the user's HP level. As a Focus Sash lead, Mamoswine will likely be at 1 HP. Bringing a lead defensive Pokémon like <font color='#9999E6'><strong>Ferrothorn</</font> down to that range is an incredible accomplishment. <font color='#FFB2B2'><strong>Icicle Crash</</font> and <font color='#FFB2B2'><strong>Superpower</</font> are also options due to their power, but <font color='#FFB2B2'><strong>Earthquake</</font> and <font color='#FFB2B2'><strong>Ice Shard</</font> are almost always better options",
+		"checksandcounters": "font color='#9999E6'><strong>Skarmory</</font> is the easiest counter to Mamoswine, no matter what the set. He is immune to <font color='#FFB2B2'><strong>Earthquake</</font>, will take negligible damage from <font color='#FFB2B2'><strong>Ice Shard</</font>, and can use <font color='#FFB2B2'><strong>Defog</</font> to get rid of Mamoswine's <font color='#FFB2B2'><strong>Stealth Rock</</font>.<br /><br /> Since this set works with Focus Sash, <font color='#9999E6'><strong><font color='#9999E6'><strong>Mega Heracross</</font></</font> with Bullet Seed will prevent Mamoswine from staying in long. <font color='#9999E6'>Mega Heracross</font> also resists <font color='#FFB2B2'><strong>Earthquake</</font> and doesn't take too much from Ice Shard.<br /><br /> Because of Mamoswine's weaknesses to Water, Fire, Fighting, Steel, and Grass, he is unfortunately quite easy to take down without the sash intact. <font color='#9999E6'><strong>Ferrothorn</</font> perfectly exemplifies this; since its physical Defense is sky-high, it won't be taking too much from <font color='#FFB2B2'><strong>Earthquake</</font> or <font color='#FFB2B2'><strong>Ice Shard</</font>, and can knock it out with <font color='#FFB2B2'><strong>Gyro Ball</</font> / <font color='#FFB2B2'><strong>Power Whip</</font>.",
+
+		"damagecalc": "strong> 252 HP, 0 Defense <font color='#9999E6'>Espeon</</font> <br /><br /> <font color='#FFB2B2'><strong>Earthquake</</font> does 73.9 - 87.4%, which is a guaranteed 2HKO. "
+	},
+	
+	{
+		"name": "All-Out Attacker",
+		"item": [
+			"Life Orb"
+		],
+		"ability": "Thick Fat",
+		"nature": [
+			"Naive",
+			"Jolly"
+		],
+		"evs": [
+			"240 Attack",
+			"252 Speed",
+			"16 Special Attack"
+		],
+		"moves": [
+			"Earthquake",
+			"Ice Shard",
+			"Icicle Crash",
+			"Freeze-Dry"
+		],
+		"alternativemoves": [
+			"Icicle Spear",
+			"Superpower"
+		],
+		"setexplanation": "It'd be foolish not to acknowledge Mamoswine's great attacking prowess. While it doesn't have the widest range of moves, what it has works well for it. font color='#FFB2B2'><strong>Earthquake</</font>, <font color='#FFB2B2'><strong>Ice Shard</</font>, and <font color='#FFB2B2'><strong>Icicle Crash</</font> are all great STAB Physical moves that can deal with many different types. Between the Ground and Ice type moves, they deal super-effective damage on Steel, Fire, Rock, Electric, Poison, Ground, Dragon, Flying, and Grass Pokémon!<br /><br /> <font color='#FFB2B2'><strong>Freeze-Dry</</font> is a good move to have, simply because <font color='#9999E6'><strong>Rotom-Wash</</font> would completely wall this set otherwise. Mamoswine doesn't have the best Special Attack, but with Life Orb Freeze-Dry's power becomes relatively decent.<br /><br /> Life Orb is preferrable over ChoIce Band here due to the fact that Flying-types can easily switch in on <font color='#FFB2B2'><strong>Earthquake</</font>. This is important due to the fact that there are three other Ice-moves in this set that can deal with Flying.",
+		"checksandcounters": "font color='#9999E6'><strong>Skarmory</</font> is a great counter to this set. It can easily deal with the three Ice moves, and is completely immune to <font color='#FFB2B2'><strong>Earthquake</</font>. <font color='#9999E6'><strong>Excadrill</</font>, while not a counter, can be a good check if an Ice move is predicted. You can then fire back with an <font color='#FFB2B2'><strong>Iron Head</</font> (provided <font color='#9999E6'><strong>Excadrill</</font> is either Scarfed or has a positively natured Speed) and knock it out with <font color='#FFB2B2'><strong>Iron Head</</font>.<br /><br /> <font color='#9999E6'><strong><font color='#9999E6'><strong>Rotom-Wash</</font></</font> is a good check, because <font color='#FFB2B2'><strong>Freeze-Dry</</font> is only a 2HKO. <font color='#9999E6'><strong>Rotom-Wash</</font> can then fire a <font color='#FFB2B2'><strong>Hydro Pump</</font>, knocking out Mamoswine. It's also important to note that <font color='#9999E6'><strong>Ferrothorn</</font> is an easy counter to all non <font color='#FFB2B2'><strong>Superpower</</font> sets. It's important to scout for that before switching in, however.",
+
+		"damagecalc": "strong> 252 HP, 4 Special Defense, Bold <font color='#9999E6'>Rotom-Wash</</font> <br /><br /> <font color='#FFB2B2'><strong>Freeze-Dry</</font> does 43.7 - 51.3%, which is a 21.1% chance to 2HKO after <font color='#FFB2B2'><strong>Stealth Rock</</font> and Leftovers recovery. Without Leftovers, that chance increases to 84.8%. <br /><br /><strong> 4 HP, 0 Defense <font color='#9999E6'>Latias</</font> <br /><br /> * Ice Shard does 61.9 - 73.1%, which is a guaranteed 2HKO.<br /><br /> * <font color='#FFB2B2'><strong>Icicle Crash</</font> does 131.7 - 154.9%, which is a guaranteed OHKO. <br /><br /><strong> 252 HP, 252 Defense Impish <font color='#9999E6'>Hippowdon</</font> <br /><br /> <font color='#FFB2B2'><strong>Icicle Crash</</font> does 55.7 - 65.7%, which is a guaranteed 2HKO. "
+		}
+
+	]
+}

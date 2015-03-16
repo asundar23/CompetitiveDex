@@ -1,0 +1,34 @@
+{
+	"name": "Sonic Boom",
+	"note": "",
+	"type":" Normal ",
+	"category": "Special",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "90",
+	"summary": "Always deals exactly 20 damage if it hits.",
+	"viability": "20 damage is nothing in competitive play.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Magnemite" },
+		{ "pokemonName": "Magneton" },
+		{ "pokemonName": "Voltorb" },
+		{ "pokemonName": "Electrode" },
+		{ "pokemonName": "Yanma" },
+		{ "pokemonName": "Vibrava" },
+		{ "pokemonName": "Flygon" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Floatzel" },
+		{ "pokemonName": "Magnezone" },
+		{ "pokemonName": "Yanmega" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Munna" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

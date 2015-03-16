@@ -1,0 +1,102 @@
+{
+	"name": "Close Combat",
+	"note": "",
+	"type": " Fighting ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "120",
+	"accuracy": "100",
+	"summary": "Deals damage, and decreases the user's Defense and Special Defense by one stage each.",
+	"viability": "This is one of the best moves in the game, period. The Defense drops are well worth it, because the power is simply fantastic. You're likely to get at least a significant amount of damage done, given that the users of this move already have a great attack stat. It's one of the most common moves in battle already, and it's easy to see why.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Primeape"
+		},
+		{
+			"pokemonName": "Hitmonlee"
+		},
+		{
+			"pokemonName": "Hitmonchan"
+		},
+		{
+			"pokemonName": "Heracross"
+		},
+		{
+			"pokemonName": "Hitmontop"
+		},
+		{
+			"pokemonName": "Makuhita"
+		},
+		{
+			"pokemonName": "Hariyama"
+		},
+		{
+			"pokemonName": "Zangoose"
+		},
+		{
+			"pokemonName": "Monferno"
+		},
+		{
+			"pokemonName": "Infernape"
+		},
+		{
+			"pokemonName": "Staraptor"
+		},
+		{
+			"pokemonName": "Lucario"
+		},
+		{
+			"pokemonName": "Gallade"
+		},
+		{
+			"pokemonName": "Sawk"
+		},
+		{
+			"pokemonName": "Cobalion"
+		},
+		{
+			"pokemonName": "Terrakion"
+		},
+		{
+			"pokemonName": "Virizion"
+		},
+		{
+			"pokemonName": "Keldeo"
+		},
+		{
+			"pokemonName": "Meloetta"
+		},
+		{
+			"pokemonName": "Xerneas"
+		}
+	],
+	"pokemonByBreeding": [
+		{
+			"pokemonName": "Mankey"
+		},
+		{
+			"pokemonName": "Growlithe"
+		},
+		{
+			"pokemonName": "Machop"
+		},
+		{
+			"pokemonName": "Pinsir"
+		},
+		{
+			"pokemonName": "Snubbull"
+		},
+		{
+			"pokemonName": "Teddiursa"
+		}
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

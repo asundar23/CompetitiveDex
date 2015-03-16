@@ -1,0 +1,52 @@
+{
+	"name": "Me First",
+	"note": "",
+	"type":" Normal ",
+	"category": "Status",
+	"pp": "20",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "If the for has not made the first move, Me First copies and damage-dealing move and increases it by 50%.",
+	"viability": "Me First can be useful against a Ghost or Dragon-type using their STAB of choice. It takes some predicting, but can ultimately throw your opponent off guard.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Lickitung" },
+		{ "pokemonName": "Mewtwo" },
+		{ "pokemonName": "Mew" },
+		{ "pokemonName": "Sentret" },
+		{ "pokemonName": "Furret" },
+		{ "pokemonName": "Natu" },
+		{ "pokemonName": "Xatu" },
+		{ "pokemonName": "Stantler" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Lucario" },
+		{ "pokemonName": "Lickilicky" },
+		{ "pokemonName": "Accelgor" },
+		{ "pokemonName": "Fletchling" },
+		{ "pokemonName": "Fletchinder" },
+		{ "pokemonName": "Talonflame" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Rattata" },
+		{ "pokemonName": "Slowpoke" },
+		{ "pokemonName": "Pinsir" },
+		{ "pokemonName": "Misdreavus" },
+		{ "pokemonName": "Stantler" },
+		{ "pokemonName": "Poochyena" },
+		{ "pokemonName": "Absol" },
+		{ "pokemonName": "Buizel" },
+		{ "pokemonName": "Croagunk" },
+		{ "pokemonName": "Blitzle" },
+		{ "pokemonName": "Sewaddle" },
+		{ "pokemonName": "Ducklett" },
+		{ "pokemonName": "Stunfisk" },
+		{ "pokemonName": "Mienfoo" },
+		{ "pokemonName": "Pancham" },
+		{ "pokemonName": "Hawlucha" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

@@ -1,0 +1,393 @@
+{ 
+	 "name": "Palpitoad",
+	"types": [
+		" Water ",
+		" Ground "
+	],
+	"eggGroup": [
+		" Water 1 "
+	],
+	"setCheck": "0",
+	"preEvolution":[
+   		{ "pokemonName":"Tympole" },
+   		{ "pokemonName":"Palpitoad" }
+   ],
+   "evolutionPokémon":[
+   		{ "pokemonName":"Palpitoad" },
+   		{ "pokemonName":"Seismitoad" }
+   ],
+   "evolutionType":[
+   		"Level 25",
+   		"Level 36"
+   ],
+	"stats": [
+		75,
+		65,
+		55,
+		65,
+		55,
+		69
+	],
+	"moveList": [
+
+		{
+			"level": 1,
+			"move": "Bubble",
+			"type": " Water "
+		},
+		{
+			"level": 1,
+			"move": "Growl",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 1,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 5,
+			"move": "Supersonic",
+			"type": " Normal "
+		},
+		{
+			"level": 9,
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"level": 12,
+			"move": "Bubble Beam",
+			"type": " Water "
+		},
+		{
+			"level": 16,
+			"move": "Mud Shot",
+			"type": " Ground "
+		},
+		{
+			"level": 20,
+			"move": "Aqua Ring",
+			"type": " Water "
+		},
+		{
+			"level": 23,
+			"move": "Uproar",
+			"type": " Normal "
+		},
+		{
+			"level": 28,
+			"move": "Muddy Water",
+			"type": " Water "
+		},
+		{
+			"level": 33,
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"level": 37,
+			"move": "Flail",
+			"type": " Normal "
+		},
+		{
+			"level": 42,
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"level": 47,
+			"move": "Hydro Pump",
+			"type": " Water "
+		},
+		{
+			"level": 51,
+			"move": "Hyper Voice",
+			"type": " Normal "
+		}
+	],
+	"tmMoveList": [
+
+		{
+			"tm": "TM06",
+			"move": "Toxic",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM07",
+			"move": "Hail",
+			"type": " Ice "
+		},
+		{
+			"tm": "TM10",
+			"move": "Hidden Power",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM17",
+			"move": "Protect",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM18",
+			"move": "Rain Dance",
+			"type": " Water "
+		},
+		{
+			"tm": "TM21",
+			"move": "Frustration",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM27",
+			"move": "Return",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM32",
+			"move": "Double Team",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM34",
+			"move": "Sludge Wave",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM36",
+			"move": "Sludge Bomb",
+			"type": " Poison "
+		},
+		{
+			"tm": "TM42",
+			"move": "Facade",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM44",
+			"move": "Rest",
+			"type": " Psychic "
+		},
+		{
+			"tm": "TM45",
+			"move": "Attract",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM48",
+			"move": "Round",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM49",
+			"move": "Echoed VoIce",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM55",
+			"move": "Scald",
+			"type": " Water "
+		},
+		{
+			"tm": "TM78",
+			"move": "Bulldoze",
+			"type": " Ground "
+		},
+		{
+			"tm": "TM83",
+			"move": "Infestation",
+			"type": " Bug "
+		},
+		{
+			"tm": "TM87",
+			"move": "Swagger",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM88",
+			"move": "Sleep Talk",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM90",
+			"move": "Substitute",
+			"type": " Normal "
+		},
+		{
+			"tm": "TM94",
+			"move": "Rock Smash",
+			"type": " Fighting "
+		},
+		{
+			"tm": "TM100",
+			"move": "Confide",
+			"type": " Normal "
+		}
+	],
+	"hmMoveList": [
+
+		{
+			"hm": "HM03",
+			"move": "Surf",
+			"type": " Water "
+		}
+	],
+	"breedMoveList": [
+		{
+			"move": "After You",
+			"pokemon": [
+				{"pokemonName": "Wooper"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Earth Power",
+			"pokemon": [
+				{"pokemonName": "Corsola"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Mist",
+			"pokemon": [
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Lotad"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Surskit"},
+				{"pokemonName": "Piplup"},
+				{"pokemonName": "Prinplup"},
+				{"pokemonName": "Empoleon"}
+			],
+			"type": " Ice "
+		},
+
+		{
+			"move": "Mud Bomb",
+			"pokemon": [
+				{"pokemonName": "Poliwag"},
+				{"pokemonName": "Poliwhirl"},
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Marshtomp"},
+				{"pokemonName": "Swampert"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Mud Sport",
+			"pokemon": [
+				{"pokemonName": "Wooper"},
+				{"pokemonName": "Quagsire"},
+				{"pokemonName": "Mudkip"},
+				{"pokemonName": "Relicanth"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Stunfisk"}
+			],
+			"type": " Ground "
+		},
+
+		{
+			"move": "Refresh",
+			"pokemon": [
+				{"pokemonName": "Corsola"},
+				{"pokemonName": "Milotic"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Snore",
+			"pokemon": [
+				{"pokemonName": "Sealeo"},
+				{"pokemonName": "Spheal"},
+				{"pokemonName": "Walrein"}
+			],
+			"type": " Normal "
+		},
+
+		{
+			"move": "Water Pulse",
+			"pokemon": [
+				{"pokemonName": "Squirtle"},
+				{"pokemonName": "Wartortle"},
+				{"pokemonName": "Blastoise"},
+				{"pokemonName": "Psyduck"},
+				{"pokemonName": "Golduck"},
+				{"pokemonName": "Slowpoke"},
+				{"pokemonName": "Slowbro"},
+				{"pokemonName": "Slowking"},
+				{"pokemonName": "Lapras"},
+				{"pokemonName": "Remoraid"},
+				{"pokemonName": "Mantine"},
+				{"pokemonName": "Wingull"},
+				{"pokemonName": "Pelipper"},
+				{"pokemonName": "Milotic"},
+				{"pokemonName": "Huntail"},
+				{"pokemonName": "Gorebyss"},
+				{"pokemonName": "East-Sea Shellos"},
+				{"pokemonName": "West-Sea Shellos"},
+				{"pokemonName": "East-Sea Gastrodon"},
+				{"pokemonName": "West-Sea Gastrodon"},
+				{"pokemonName": "Ducklett"},
+				{"pokemonName": "Swanna"},
+				{"pokemonName": "Alomomola"},
+				{"pokemonName": "Froakie"},
+				{"pokemonName": "Frogadier"},
+				{"pokemonName": "Greninja"},
+				{"pokemonName": "Skrelp"},
+				{"pokemonName": "Dragalge"},
+				{"pokemonName": "Clauncher"},
+				{"pokemonName": "Clawitzer"}
+			],
+			"type": " Water "
+		}
+	],
+	"tutorMoveList": [
+		"Bounce",
+		"Earth Power",
+		"Endeavor",
+		"Gastro Acid",
+		"Hyper Voice",
+		"Icy Wind",
+		"Sleep Talk",
+		"Snore",
+		"Stealth Rock",
+		"Uproar"
+
+	],
+	"locations": [
+		{ "Location": "Icirrus City, Route 8, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{ "Location": "Icirrus City, Route 8, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{ "Location": "Pinwheel Forest, Icirrus City, Route 8, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{ "Location": "Pinwheel Forest, Icirrus City, Route 8, Moor of Icirrus (Spring, Summer, Autumn)"},
+		{ "Location": "Friend Safari (Ground)"},
+		{ "Location": "Friend Safari (Ground)"}
+
+	],
+	"abilities": [
+		"Swift Swim",
+		"Poison Touch",
+		"Water Absorb"
+	],
+	"sets": [
+	]
+}

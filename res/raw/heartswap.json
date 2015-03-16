@@ -1,0 +1,22 @@
+{
+	"name": "Heart Swap",
+	"note": "",
+	"type":" Psychic ",
+	"category": "Status",
+	"pp": "10",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Switches any increase and/or decrease in stat changes with the target.",
+	"viability": "Heart Swap seems like a bit much work. On the plus side, you can take away any boosting from the opponents' side, but there are much better alternatives. You can use Roar, Haze, Dragon Tail, anything that eliminates stat changes more efficiently.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Manaphy" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

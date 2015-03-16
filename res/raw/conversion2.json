@@ -1,0 +1,30 @@
+{
+	"name": "Conversion 2",
+	"note": "",
+	"type": " Normal ",
+	"category": "Status",
+	"pp": "30",
+	"power": "--",
+	"accuracy": "--",
+	"summary": "Changes the user's type to resist the last move the opponent used.",
+	"viability": "The opponent can easily work their away around this. Coverage moves can easily stop this from happening, and then you're not in a good position.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Porygon"
+		},
+		{
+			"pokemonName": "Porygon2"
+		},
+		{
+			"pokemonName": "Porygon-Z"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

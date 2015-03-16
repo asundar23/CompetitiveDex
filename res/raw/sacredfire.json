@@ -1,0 +1,23 @@
+{
+	"name": "Sacred Fire",
+	"note": "",
+	"type":" Fire ",
+	"category": "Physical",
+	"pp": "5",
+	"power": "100",
+	"accuracy": "95",
+	"summary": "Deals damage and has a 50% chance of burning the target. If the user is frozen, Sacred Fire will thaw out the user and deal damage.",
+	"viability": "Sacred Fire is possibly the best Fire-type move in the game. Not only is it powerful, not only does it have good accuracy, but it also has a great secondary effect. Entei and Ho-Oh really have a great move to take advantage of.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Entei" },
+		{ "pokemonName": "Ho-Oh" }
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

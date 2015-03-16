@@ -1,0 +1,36 @@
+{
+	"name": "Clamp",
+	"note": "",
+	"type": " Water ",
+	"category": "Physical",
+	"pp": "10",
+	"power": "35",
+	"accuracy": "85",
+	"summary": "Deals damage, and deals 1/8 of the target's damage for 2-5 turns. If the user is holding Binding Band, the residual damage is increased to 1/6.",
+	"viability": "So while trapping moves aren't discouraged, this particular one isn't too good. This is mostly because Cloyster and Shellder have better things to do, mostly setting up Shell Smash or setting up Spikes. The same goes with Barbaracle.",
+	"pokemonByLevel": [
+		{
+			"pokemonName": "Shellder"
+		},
+		{
+			"pokemonName": "Cloyster"
+		},
+		{
+			"pokemonName": "Clamperl"
+		},
+		{
+			"pokemonName": "Binacle"
+		},
+		{
+			"pokemonName": "Barbaracle"
+		}
+	],
+	"pokemonByBreeding": [
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

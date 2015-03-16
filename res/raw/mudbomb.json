@@ -1,0 +1,53 @@
+{
+	"name": "Mud Bomb",
+	"note": "",
+	"type":" Ground ",
+	"category": "Special",
+	"pp": "10",
+	"power": "65",
+	"accuracy": "85",
+	"summary": "Deals damage, and there is a 30% chance of lowering the target's accuracy by one stage.",
+	"viability": "Mud Shot isn't a good move at all. With a low base power and mediocre accuracy, you are much better off running Earth Power.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Ekans" },
+		{ "pokemonName": "Arbok" },
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Dugtrio" },
+		{ "pokemonName": "Poliwag" },
+		{ "pokemonName": "Poliwhirl" },
+		{ "pokemonName": "Grimer" },
+		{ "pokemonName": "Muk" },
+		{ "pokemonName": "Wooper" },
+		{ "pokemonName": "Quagsire" },
+		{ "pokemonName": "Swinub" },
+		{ "pokemonName": "Piloswine" },
+		{ "pokemonName": "Marshtomp" },
+		{ "pokemonName": "Swampert" },
+		{ "pokemonName": "Barboach" },
+		{ "pokemonName": "Whiscash" },
+		{ "pokemonName": "East-Sea Shellos" },
+		{ "pokemonName": "West-Sea Shellos" },
+		{ "pokemonName": "East-Sea Gastrodon" },
+		{ "pokemonName": "West-Sea Gastrodon" },
+		{ "pokemonName": "Croagunk" },
+		{ "pokemonName": "Toxicroak" },
+		{ "pokemonName": "Mamoswine" },
+		{ "pokemonName": "Stunfisk" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Diglett" },
+		{ "pokemonName": "Psyduck" },
+		{ "pokemonName": "Chansey" },
+		{ "pokemonName": "Mudkip" },
+		{ "pokemonName": "Skitty" },
+		{ "pokemonName": "Numel" },
+		{ "pokemonName": "Happiny" },
+		{ "pokemonName": "Tympole" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}

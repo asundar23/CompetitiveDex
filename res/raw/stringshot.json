@@ -1,0 +1,35 @@
+{
+	"name": "String Shot",
+	"note": "",
+	"type":" Bug ",
+	"category": "Status",
+	"pp": "40",
+	"power": "--",
+	"accuracy": "95",
+	"summary": "Decreases the target's Speed stat by one stage. In Doubles/Triples targets all adjacent foes.",
+	"viability": "String Shot is amazing in Doubles/Triples because it targets every opponent. It is widely suggested you use it.",
+	"pokemonByLevel": [
+		{ "pokemonName": "Caterpie" },
+		{ "pokemonName": "Weedle" },
+		{ "pokemonName": "Spinarak" },
+		{ "pokemonName": "Ariados" },
+		{ "pokemonName": "Wurmple" },
+		{ "pokemonName": "Sewaddle" },
+		{ "pokemonName": "Swadloon" },
+		{ "pokemonName": "Leavanny" },
+		{ "pokemonName": "Joltik" },
+		{ "pokemonName": "Galvantula" },
+		{ "pokemonName": "Larvesta" },
+		{ "pokemonName": "Volcarona" },
+		{ "pokemonName": "Scatterbug" }
+	],
+	"pokemonByBreeding": [
+		{ "pokemonName": "Larvesta" }
+	],
+	"pokemonByTM": [
+	],
+	"pokemonByHM": [
+	],
+	"pokemonByTutor": [
+	]
+}
